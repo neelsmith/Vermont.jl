@@ -1,5 +1,9 @@
 module Vermont
+using Documenter, DocStringExtensions
 
-greet() = print("Hello World!")
+include("io.jl")
+
+
+export readgisdata
 
 end # module Vermont

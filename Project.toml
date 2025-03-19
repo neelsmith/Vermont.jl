@@ -2,3 +2,11 @@ name = "Vermont"
 uuid = "45f41e2c-7c4d-471e-b092-67276ca19ff8"
 authors = ["Neel Smith <dnsmith.neel@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
+[compat]
+DocStringExtensions = "0.9.3"
+Documenter = "1.9.0"
