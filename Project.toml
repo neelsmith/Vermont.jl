@@ -1,0 +1,4 @@
+name = "Vermont"
+uuid = "45f41e2c-7c4d-471e-b092-67276ca19ff8"
+authors = ["Neel Smith <dnsmith.neel@gmail.com>"]
+version = "0.1.0"
