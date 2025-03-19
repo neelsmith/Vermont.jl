@@ -1,10 +1,10 @@
 Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|Birthplace|
 |1850-10-15|1|1|John G. Smith|34|M||Farmer|5000|Vermont
 |1850-10-15|2|2|Joseph Haywood|54|M||Farmer|5000|Massachusetts
-|1850-10-15|3|3|?|27|M||Farmer||New York
-|1850-10-15|4|4|Joseph ?|65|M||Laborer||Canada
+|1850-10-15|3|3|James Capren|27|M||Farmer||New York
+|1850-10-15|4|4|Joseph Janning|65|M||Laborer||Canada
 |1850-10-15|5|5|Peter Alden Jr|27|M||Laborer||Vermont
-|1850-10-15|6|6|Seymour ?|33|m||Laborer||Canada
+|1850-10-15|6|6|Seymour Depuy|33|m||Laborer||Canada
 |1850-10-15|7|7|Joseph Boyers|49|M||Farmer||New York
 |1850-10-15|8|8|Francis Pearce|56|M||Laborer||Canada
 true|1850-10-15|9|9|Abner Holcomb|75|M||Farmer||Connecticut
@@ -63,9 +63,9 @@ true|1850-10-16|54|55|John Davis|30|M||Laborer|250|Vermont
 |1850-10-16|61|62|Ester Tull|51|F|||2000|New York
 |1850-10-16|62|63|William Foster|29|M||Meth. Minister||Canada
 |1850-10-16|63|64|Stephen Roscoe|21|M||Farmer||Vermont
-|1850-10-16|64|65|Hiram W. Pond|52|M||Farmer||Vermont
+true|1850-10-16|64|65|Hiram W. Pond|52|M||Farmer||Vermont
 |1850-10-16|65|66|Betsy Roscoe|59|F|||500|Vermont
-|1850-10-16|66|67|Royal Kent|32|M||Famer|1000|Vermont
+true|1850-10-16|66|67|Royal Kent|32|M||Famer|1000|Vermont
 true|1850-10-16|67|68|Loyal Kent|32|M||Farmer|1500|Vermont
 |1850-10-16|68|69|Charles Weisley|32|M||Farmer||Massachusetts
 true|1850-10-16|69|70|Silas Pond|52|M||Farmer|15000|Vermont
