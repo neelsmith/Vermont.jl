@@ -1,3 +1,9 @@
+pointsurl = "https://raw.githubusercontent.com/neelsmith/Vermont.jl/refs/heads/main/data/qgspoints.cex"
+
+censusurls = Dict(
+    :panton1850 =>  "https://raw.githubusercontent.com/neelsmith/Vermont.jl/refs/heads/main/data/Panton1850census.cex",
+    :panton1860 => "https://raw.githubusercontent.com/neelsmith/Vermont.jl/refs/heads/main/data/Panton1860census.cex"
+)
 
 """Read delimited-text dump of QGIS locations data.
 $(SIGNATURES)
@@ -54,9 +60,24 @@ function buildvaultnotes(gisdata, destdir)
 end
 
 
+"""Download and read data for a specific census.
+$(SIGNATURES)
+"""
+function readcensusdata(census::Symbol)
+    if census == :panton1850 || census == :panton1860
+        url = censusurls[census]
+        f = Downloads.download(url)
+        data = readcensusdata(f)
+        rm(f)
+        data
 
+    else
+        @warn("No records for $(census)")
+        nothing
+    end
+end
 
-"""Read 1850 or 1860 census data.
+"""Read 1850 or 1860 census data from a file.
 $(SIGNATURES)
 """
 function readcensusdata(f)

@@ -1,5 +1,5 @@
 module Vermont
-using Dates
+using Dates, Downloads
 
 using Documenter, DocStringExtensions
 
