@@ -1,28 +1,22 @@
-using Dates
-using StatsBase, OrderedCollections
-
+using Vermont
 repo = pwd()
-
-
 f1850 = joinpath(repo, "data", "Panton1850census.cex")
+f1860 = joinpath(repo, "data", "Panton1860census.cex")
 
-function readcensusdata(f)
-    datalines = readlines(f)[2:end]
-    data = map(datalines) do ln
-        cols = split(ln, "|")
-        if length(cols) < 11
-            @info("ERROR on $(ln)")
-            
-        else 
-        (mappedraw, cdate, houseraw, familyraw, name, ageraw, sex, color, occupation, realestate, birthplace)  = cols
-        house = parse(Int, houseraw)
-        family = parse(Int, familyraw)
-        age = parse(Int, ageraw)
-        mapped = isempty(mappedraw) ? nothing : mappedraw
-            (mapped = mapped, censusdate = Date(cdate), house = house, family = family, name = name, age = age, sex = sex, color = color, occupation = occupation, realestate = realestate, birthplace = birthplace)
-        end
-    end
+data1850 = readcensusdata(f1850)
+data1860 = readcensusdata(f1860)
+
+names1850 = map(t -> t.name, data1850)
+names1860 = map(t -> t.name, data1860)
+
+
+
+lastnames = map(vcat(names1850)) do name
+    split(name, " ")[end]
 end
 
+outdir = joinpath(repo, "data", "vault", "people")
 
-data = readcensusdata(f)
+for n in lastnames
+    mkpath(joinpath(outdir, n))
+end
