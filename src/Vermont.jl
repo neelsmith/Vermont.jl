@@ -10,6 +10,7 @@ using Documenter, DocStringExtensions
 include("io.jl")
 include("plots.jl")
 include("census.jl")
+include("vault.jl")
 
 export readcensusdata
 export readgisdata

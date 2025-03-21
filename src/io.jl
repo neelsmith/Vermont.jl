@@ -13,16 +13,18 @@ function readgisdata(f)
     #X|Y|id|house1850|label1850|house1860|label1860 
     data = map(datalines) do ln
         cols = split(ln, "|")
-        if length(cols) < 7
+        if length(cols) < 10
             @info("ERROR on $(ln)")
         else
-            (lonraw, latraw, id, house1850raw, label1850, house1860raw, label1860) = cols
+            (lonraw, latraw, id, house1850raw, label1850, house1860raw, label1860, struct1850raw,struct1860raw,walling) = cols
             lon = parse(Float32, lonraw)
             lat = parse(Float32, latraw)
             id = parse(Int, id)
             house1850 = isempty(house1850raw) ? nothing  : parse(Int, house1850raw)
             house1860 = isempty(house1860raw) ? nothing  : parse(Int, house1860raw)
-            (lon = lon, lat = lat, id = id, house1850 = house1850, label1850 = label1850, house1860 = house1860, label1860 = label1860)
+            struct1850 = isempty(struct1850raw) ? nothing  : parse(Int, struct1850raw)
+            struct1860 = isempty(struct1860raw) ? nothing  : parse(Int, struct1860raw)
+            (lon = lon, lat = lat, id = id, house1850 = house1850, label1850 = label1850, house1860 = house1860, label1860 = label1860, struct1850 = struct1850, struct1860 = struct1860, walling = walling)
         end
     end
 end
