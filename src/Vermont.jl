@@ -9,10 +9,13 @@ using Documenter, DocStringExtensions
 
 include("io.jl")
 include("plots.jl")
+include("census.jl")
 
 export readcensusdata
 export readgisdata
 
 export realestatebarchart
+
+export familyids, hohlist
 
 end # module Vermont
