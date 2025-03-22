@@ -44,15 +44,15 @@ function buildvaultnotes(gisdata, destdir)
         "location: $(tpl.lat),$(tpl.lon)",
         "---", "",
         "# $(topicname)", "",
-        "#panton","",
+        "#panton","#walling1857",
         ]
 
-        if ! isnothing(tpl.house1850)
-            push!(pagelines, "#in1850census")
-        end
-        if ! isnothing(tpl.house1860)
-            push!(pagelines, "#in1860census")
-        end
+       # if ! isnothing(tpl.house1850)
+       #     push!(pagelines, "#in1850census")
+       # end
+       # if ! isnothing(tpl.house1860)
+       #     push!(pagelines, "#in1860census")
+       # end
 
         
         open(fname,"w") do io
