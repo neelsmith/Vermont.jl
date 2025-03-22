@@ -124,26 +124,35 @@ end
 
 =#
 function vaultcensusnotes(data, destdir; enumeration = "Panton, Addison, Vermont")
+    if ! isdir(destdir)
+        mkpath(destdir)
+    end
     for tpl in data
         yr = tpl.censusdate |> year
-        topicname = string(tpl.name, " in ", yr, " census") 
+
+        topicname = "$(tpl.name) in $(yr)  census"
         fname = joinpath(destdir,  topicname * ".md")
+        @info("Compose $(fname)")
 
         pagelines = [
         "# $(topicname)", "",
         "#census$(yr)","",
         "## Transcription", "",
         "Enumeration::[[" * enumeration * "]]", "",
-        "Date::" * tpl.censusdate, "",
-        "House::" * tpl.house, "",
-        "Family::" * tpl.family, "",
+
+        "Date::$(tpl.censusdate)", "",
+                  
+        "House::$(tpl.house)", "",
+        "Family::$(tpl.family)", "",
+       
         "Name::" * tpl.name, "",
-        "Age::" * tpl.age, "",
+        "Age::$(tpl.age)", "",
         "Sex::" * tpl.sex, "",
         "Race::" * tpl.color, "",
         "Occupation::" * tpl.occupation, "",
-        "Real estate value::" * tpl.realestate, "",
+        "Real estate value::$(tpl.realestate)", "",
         "Birthplace::" * tpl.birthplace,""
+  
         ]
 
         
@@ -151,6 +160,7 @@ function vaultcensusnotes(data, destdir; enumeration = "Panton, Addison, Vermont
             write(io, join(pagelines, "\n"))
         end
         @info("Wrote file $(fname)")
+ 
     end
 
 end
