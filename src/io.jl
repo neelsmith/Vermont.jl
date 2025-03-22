@@ -5,6 +5,7 @@ censusurls = Dict(
     :panton1860 => "https://raw.githubusercontent.com/neelsmith/Vermont.jl/refs/heads/main/data/Panton1860census.cex"
 )
 
+
 """Read delimited-text dump of QGIS locations data.
 $(SIGNATURES)
 """
@@ -35,8 +36,9 @@ $(SIGNATURES)
 """
 function buildvaultnotes(gisdata, destdir)
     for tpl in gisdata
-        topicname = isempty(tpl.label1850) ? string("Panton, ", tpl.label1860) :  string("Panton, ", tpl.label1850)
-        fname = joinpath(destdir, topicname * ".md")
+        topicname = string(tpl.walling, " in Walling (1857)") 
+
+        fname = joinpath(destdir, replace(" " => "_", topicname) * ".md")
 
         pagelines = ["---",
         "location: $(tpl.lat),$(tpl.lon)",
@@ -61,6 +63,17 @@ function buildvaultnotes(gisdata, destdir)
 
 end
 
+
+
+"""Download and read GIS data for Walling map of 1857.
+$(SIGNATURES)
+"""
+function readgisdata()
+    f = Downloads.download(pointsurl)
+    data = readgisdata(f)
+    rm(f)
+    data
+end
 
 """Download and read data for a specific census.
 $(SIGNATURES)
