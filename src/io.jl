@@ -1,5 +1,8 @@
 pointsurl = "https://raw.githubusercontent.com/neelsmith/Vermont.jl/refs/heads/main/data/qgspoints.cex"
 
+walling = "https://dl.dropbox.com/scl/fi/4uhisdr9iwp1bg9aywfk9/commonwealth_wd376466z_image_primary_wgs84ll.tif?rlkey=iy7erqstmygtnm52kn39zr8ik&st=l169peps&dl=1"
+
+
 censusurls = Dict(
     :panton1850 =>  "https://raw.githubusercontent.com/neelsmith/Vermont.jl/refs/heads/main/data/Panton1850census.cex",
     :panton1860 => "https://raw.githubusercontent.com/neelsmith/Vermont.jl/refs/heads/main/data/Panton1860census.cex"
@@ -34,11 +37,12 @@ end
 """Write Obsidian vault notes for each location in the GIS data.
 $(SIGNATURES)
 """
-function buildvaultnotes(gisdata, destdir)
+function vaultlocationnotes(gisdata, destdir)
     for tpl in gisdata
         topicname = string(tpl.walling, " in Walling (1857)") 
 
-        fname = joinpath(destdir, replace(" " => "_", topicname) * ".md")
+        #nowhitespace = replace(topicname, " " => "_")
+        fname = joinpath(destdir,  topicname * ".md")
 
         pagelines = ["---",
         "location: $(tpl.lat),$(tpl.lon)",
@@ -111,4 +115,42 @@ function readcensusdata(f)
             (mapped = mapped, censusdate = Date(cdate), house = house, family = family, name = name, age = age, sex = sex, color = color, occupation = occupation, realestate = realestate, birthplace = birthplace)
         end
     end
+end
+
+
+
+#=
+
+
+=#
+function vaultcensusnotes(data, destdir; enumeration = "Panton, Addison, Vermont")
+    for tpl in data
+        yr = tpl.censusdate |> year
+        topicname = string(tpl.name, " in ", yr, " census") 
+        fname = joinpath(destdir,  topicname * ".md")
+
+        pagelines = [
+        "# $(topicname)", "",
+        "#census$(yr)","",
+        "## Transcription", "",
+        "Enumeration::[[" * enumeration * "]]", "",
+        "Date::" * tpl.censusdate, "",
+        "House::" * tpl.house, "",
+        "Family::" * tpl.family, "",
+        "Name::" * tpl.name, "",
+        "Age::" * tpl.age, "",
+        "Sex::" * tpl.sex, "",
+        "Race::" * tpl.color, "",
+        "Occupation::" * tpl.occupation, "",
+        "Real estate value::" * tpl.realestate, "",
+        "Birthplace::" * tpl.birthplace,""
+        ]
+
+        
+        open(fname,"w") do io
+            write(io, join(pagelines, "\n"))
+        end
+        @info("Wrote file $(fname)")
+    end
+
 end
