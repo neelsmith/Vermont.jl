@@ -1,7 +1,14 @@
 using CairoMakie, GeoMakie
 using Rasters, ArchGDAL, NaturalEarth, FileIO
 
-blue_marble_image = FileIO.load(FileIO.query(download("https://eoimages.gsfc.nasa.gov/images/imagerecords/76000/76487/world.200406.3x5400x2700.jpg"))) |> rotr90 .|> RGBA{Makie.Colors.N0f8}
+
+#Full size:
+#blue_marble_image = FileIO.load(FileIO.query(download("https://eoimages.gsfc.nasa.gov/images/imagerecords/76000/76487/world.200406.3x5400x2700.jpg"))) |> rotr90 .|> RGBA{Makie.Colors.N0f8}
+
+
+# Tiny:
+blue_marble_image = GeoMakie.earth() |> rotr90 .|> RGBA{Makie.Colors.N0f8}
+
 
 blue_marble_raster = Raster(
     blue_marble_image, # the contents
