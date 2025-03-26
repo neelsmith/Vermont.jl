@@ -17,6 +17,8 @@ export readgisdata
 
 export realestatebarchart
 
-export familyids, hohlist
+export familyids, hohlist, housemembers
+export households
+
 
 end # module Vermont
