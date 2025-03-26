@@ -6,12 +6,12 @@ gisdata = readgisdata(f)
 
 
 destdir = joinpath(repo, "data", "vault", "Panton")
-if ! isdir(destdir)
-    mkpath(destdir)
+wallingdir = joinpath(destdir, "walling1857")
+if ! isdir(wallingdir)
+    mkpath(wallingdir)
 end
 
-
-Vermont.vaultlocationnotes(gisdata, destdir)
+Vermont.vaultlocationnotes(gisdata, wallingdir)
 
 dir1850 = joinpath(repo, "data", "vault", "Panton", "1850 census")
 data1850 = readcensusdata(:panton1850)

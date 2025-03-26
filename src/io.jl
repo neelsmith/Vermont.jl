@@ -129,7 +129,7 @@ function vaultcensusnotes(data, destdir; enumeration = "Panton, Addison, Vermont
     end
     for tpl in data
         yr = tpl.censusdate |> year
-
+        householdname = string("[[", enumeration, ", ", yr, ", household ", tpl.house, "]]")
         topicname = "$(tpl.name) in $(yr)  census"
         fname = joinpath(destdir,  topicname * ".md")
         @info("Compose $(fname)")
@@ -137,6 +137,7 @@ function vaultcensusnotes(data, destdir; enumeration = "Panton, Addison, Vermont
         pagelines = [
         "# $(topicname)", "",
         "#census$(yr)","",
+        "household::$(householdname)", "",
         "## Transcription", "",
         "Enumeration::[[" * enumeration * "]]", "",
 
