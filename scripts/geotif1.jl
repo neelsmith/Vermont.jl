@@ -8,6 +8,6 @@ fname = "commonwealth_wd376466z_image_primary_modified.tif"
 f = joinpath(srcdir, fname)
 isfile(f)
 
-rast = Raster(f)
+#rast = Raster(f)
 
 fig = Figure()
