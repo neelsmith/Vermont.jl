@@ -17,13 +17,59 @@ Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|Birthplace|
 |1850-10-15|2|2|Mariam E. Wilder|11|F||||Vermont
 |1850-10-15|2|2|Henry H. Wilder|9|M||||Vermont
 
+
 |1850-10-15|3|3|James Capren|27|M||Farmer||New York
+|1850-10-15|3|3|Harret Capren|22|F||||Vermont
+
+
 |1850-10-15|4|4|Joseph Janning|65|M||Laborer||Canada
+|1850-10-15|4|4|Hannah Janning|64|F||||Canada
+
 |1850-10-15|5|5|Peter Alden Jr|27|M||Laborer||Vermont
-|1850-10-15|6|6|Seymour Depuy|33|m||Laborer||Canada
+|1850-10-15|5|5|Jane Alden|26|F||||Vermont
+|1850-10-15|5|5|Joseph Carter|16|M||Laborer||Vermont
+
+
+|1850-10-15|6|6|Seymour Depuy|33|M||Laborer||Canada
+|1850-10-15|6|6|Elizabeth Depuy|24|F||||Vermont
+|1850-10-15|6|6|Anthony Depuy|9|M||||Vermont
+|1850-10-15|6|6|Joseph Depuy|6|M||||Vermont
+|1850-10-15|6|6|Seymour Depuy  Jr.|1|F||||Vermont
+
+
 |1850-10-15|7|7|Joseph Boyers|49|M||Farmer||New York
-|1850-10-15|8|8|Francis Pearce|56|M||Laborer||Canada
+|1850-10-15|7|7|Sophia Boyers|46|F||||New York
+|1850-10-15|7|7|George Boyers|25|M||Laborer||Vermont
+|1850-10-15|7|7|Samuel Boyers|22|M||Laborer||Vermont
+|1850-10-15|7|7|Chancy Boyers|18|M||Laborer||Vermont
+|1850-10-15|7|7|Amos Boyers|16|M||Laborer||Vermont
+|1850-10-15|7|7|William Boyers|9|M||||Vermont
+|1850-10-15|7|7|Eliza Boyers|20|F||||Vermont
+|1850-10-15|7|7|Mary Boyers|5|F||||Vermont
+|1850-10-15|7|7|Henry Boyers|1|M||||Vermont
+|1850-10-15|7|7|Amos Stimson|72|M||None|Massachusetts
+
+
+
+|1850-10-15|8|8|Francis Prince|56|M||Laborer||Canada
+|1850-10-15|8|8|Julia Prince|50|F||||Canada
+|1850-10-15|8|8|Mariah Prince|20|F||||Vermont
+|1850-10-15|8|8|Henry Prince|19|M||Laborer||Vermont
+|1850-10-15|8|8|Fransis Prince|17|M||Laborer||Vermont
+|1850-10-15|8|8|John Prince|14|M||||Vermont
+|1850-10-15|8|8|Almeda Prince|13|M||||Vermont
+|1850-10-15|8|8|William Prince|11|M||||Vermont
+|1850-10-15|8|8|Edward Prince|8|M||||Vermont
+|1850-10-15|8|8|Roselia Prince|5|M||||Vermont
+
+
 true|1850-10-15|9|9|Abner Holcomb|75|M||Farmer||Connecticut
+true|1850-10-15|9|9|Orpha Holcomb|69|F||||New Hampshire
+true|1850-10-15|9|9|Charity Holcomb|42|F||||Vermont
+true|1850-10-15|9|9|Pered Holcomb|18|M||Laborer||Vermont
+
+
+
 |1850-10-15|10|10|Mathuell F. Ganis|40|M||Farmer|10000|Vermont
 |1850-10-15|11|11|Calvin Frank|69|M||Iron Smith||Vermont
 |1850-10-15|12|12|Frederick ?|27|M||Farmer|6000|Vermont

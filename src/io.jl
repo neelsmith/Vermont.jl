@@ -100,7 +100,9 @@ end
 $(SIGNATURES)
 """
 function readcensusdata(f)
-    datalines = readlines(f)[2:end]
+    datalines = filter(readlines(f)[2:end]) do ln
+        ! isempty(ln)
+    end
     data = map(datalines) do ln
         cols = split(ln, "|")
         if length(cols) < 11
@@ -110,7 +112,14 @@ function readcensusdata(f)
         (mappedraw, cdate, houseraw, familyraw, name, ageraw, sex, color, occupation, realestate, birthplace)  = cols
         house = isempty(houseraw) ? nothing : parse(Int, houseraw)
         family = isempty(familyraw) ? nothing :  parse(Int, familyraw)
-        age = isempty(ageraw) ? nothing : parse(Int, ageraw)
+        age = nothing
+        if ! isempty(ageraw)
+            try 
+                age = parse(Int, ageraw)
+            catch e
+                @warn("Error parsing age $(ageraw) in $(ln)")
+            end
+        end
         mapped = isempty(mappedraw) ? nothing : mappedraw
             (mapped = mapped, censusdate = Date(cdate), house = house, family = family, name = name, age = age, sex = sex, color = color, occupation = occupation, realestate = realestate, birthplace = birthplace)
         end
