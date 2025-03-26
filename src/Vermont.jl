@@ -17,7 +17,8 @@ export readgisdata
 
 export realestatebarchart
 
-export familyids, hohlist, housemembers
+export familyids, householdids
+export hohlist, housemembers
 export households
 
 

@@ -3,6 +3,14 @@ function familyids(data)
     familyids = map(t -> t.family, data) |> unique
 end
 
+
+
+function householdids(data)
+    familyids = map(t -> t.house, data) |> unique
+end
+
+
+
 """Extract records for heads of household from a vector of tuples with census data.
 $(SIGNATURES)
 """
