@@ -17,10 +17,8 @@ Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|Birthplace|
 |1850-10-15|2|2|Mariam E. Wilder|11|F||||Vermont
 |1850-10-15|2|2|Henry H. Wilder|9|M||||Vermont
 
-
 |1850-10-15|3|3|James Capren|27|M||Farmer||New York
 |1850-10-15|3|3|Harret Capren|22|F||||Vermont
-
 
 |1850-10-15|4|4|Joseph Janning|65|M||Laborer||Canada
 |1850-10-15|4|4|Hannah Janning|64|F||||Canada
@@ -29,13 +27,11 @@ Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|Birthplace|
 |1850-10-15|5|5|Jane Alden|26|F||||Vermont
 |1850-10-15|5|5|Joseph Carter|16|M||Laborer||Vermont
 
-
 |1850-10-15|6|6|Seymour Depuy|33|M||Laborer||Canada
 |1850-10-15|6|6|Elizabeth Depuy|24|F||||Vermont
 |1850-10-15|6|6|Anthony Depuy|9|M||||Vermont
 |1850-10-15|6|6|Joseph Depuy|6|M||||Vermont
 |1850-10-15|6|6|Seymour Depuy  Jr.|1|F||||Vermont
-
 
 |1850-10-15|7|7|Joseph Boyers|49|M||Farmer||New York
 |1850-10-15|7|7|Sophia Boyers|46|F||||New York
@@ -49,8 +45,6 @@ Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|Birthplace|
 |1850-10-15|7|7|Henry Boyers|1|M||||Vermont
 |1850-10-15|7|7|Amos Stimson|72|M||None|Massachusetts
 
-
-
 |1850-10-15|8|8|Francis Prince|56|M||Laborer||Canada
 |1850-10-15|8|8|Julia Prince|50|F||||Canada
 |1850-10-15|8|8|Mariah Prince|20|F||||Vermont
@@ -62,13 +56,10 @@ Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|Birthplace|
 |1850-10-15|8|8|Edward Prince|8|M||||Vermont
 |1850-10-15|8|8|Roselia Prince|5|M||||Vermont
 
-
 true|1850-10-15|9|9|Abner Holcomb|75|M||Farmer||Connecticut
 true|1850-10-15|9|9|Orpha Holcomb|69|F||||New Hampshire
 true|1850-10-15|9|9|Charity Holcomb|42|F||||Vermont
 true|1850-10-15|9|9|Pered Holcomb|18|M||Laborer||Vermont
-
-
 
 |1850-10-15|10|10|Mathuell F. Ganis|40|M||Farmer|10000|Vermont
 |1850-10-15|10|10|Mary A. Ganis|30|F||||Vermont
@@ -77,22 +68,16 @@ true|1850-10-15|9|9|Pered Holcomb|18|M||Laborer||Vermont
 |1850-10-15|10|10|Agens Ganis|2|F||||Vermont
 |1850-10-15|10|10|Mariah Conant|16|F||||Vermont
 
-
-
 |1850-10-15|11|11|Calvin Frank|69|M||Iron Smith||Vermont
 |1850-10-15|11|11|Caroline Frank|61|F||||Vermont
 |1850-10-15|11|11|Fransis Frank|27|M||Iron Smith||Vermont
 |1850-10-15|11|11|John McDaniels|18|M||Iron Smith||Canada
-
-
-
 
 |1850-10-15|12|12|Frederick Curten|27|M||Farmer|6000|Vermont
 |1850-10-15|12|12|Faces Curten|27|F||||Vermont
 |1850-10-15|12|12|Charles Curten|2|M||||Vermont
 |1850-10-15|12|12|Rowland Curten|20|M||Laborer||Vermont
 |1850-10-15|12|12|Lovinna Stowell|16|F||||Vermont
-
 
 true|1850-10-15|13|13|Henry Allen|35|M||Farmer|5000|Vermont
 true|1850-10-15|13|13|Matilda Allen|34|F||||Vermont
@@ -105,12 +90,10 @@ true|1850-10-15|13|13|Matilda Welles|25|F||||Canada
 true|1850-10-15|13|13|Ruth Carter|62|F|||1250|Vermont
 true|1850-10-15|13|13|Charles Hatch|26|M||Laborer||Vermont
 
-
 true|1850-10-15|14|14|Phineas Holcomb|61|M||Farmer|150|Vermont
 true|1850-10-15|14|14|Anna Holcomb|52|F||||Vermont
 true|1850-10-15|14|14|Joseph Holcomb|42|M||Laborer||Vermont
 true|1850-10-15|14|14|Christopher Holcomb|18|M||Laborer||Vermont
-
 
 |1850-10-15|15|15|Akins Collum|25|M||Tailor||Canada
 |1850-10-15|15|15|Julia Ann Collum|25|F||||Canada
@@ -119,15 +102,12 @@ true|1850-10-15|14|14|Christopher Holcomb|18|M||Laborer||Vermont
 |1850-10-15|15|15|Joseph Collum|26|M||Laborer||Canada
 |1850-10-15|15|15|Joseph Collum Jr.|3|M||||Vermont
 
-
 true|1850-10-15|16|16|Norman Lansley|35|M||Docter|800|Vermont
 true|1850-10-15|16|16|Betsy Lansley|27|F||||Vermont
 true|1850-10-15|16|16|Josephine Lansley|4|F||||Vermont
 
-
 |1850-10-15|17|17|Henry L.P. Warner|38|M||Bapt. Minister||Vermont
 |1850-10-15|17|17|Lucinda Warner|34|F||||Vermont
-
 
 true|1850-10-15|18|18|Thomas Gardner|47|M||Carpenter & Joiner|300|New Jersey
 true|1850-10-15|18|18|Abigail Gardner|42|F||||Vermont
@@ -138,11 +118,8 @@ true|1850-10-15|18|18|Hellen Gardner|7|F||||Vermont
 true|1850-10-15|18|18|James E. Gardner|5|M||||Vermont
 true|1850-10-15|18|18|Loisa Gardner|3|F||||Vermont
 
-
 |1850-10-15|19|19|Charles Adams|27|M||Farmer||Vermont
 |1850-10-15|19|19|Eliza Willard|63|F||||New York
-
-
 
 true|1850-10-15|20|20|Henry Storms|52|M|B|Laborer|300|Vermont
 true|1850-10-15|20|20|Sarah Storms|34|F||||Vermont
@@ -151,11 +128,9 @@ true|1850-10-15|20|20|Charlott Storms|10|F|M|||Vermont
 true|1850-10-15|20|20|Sarah Ann Milina|30|F|M|||New York
 true|1850-10-15|20|20|Jamiah Milina|11|F|M|||New York
 
-
 true|1850-10-15|21|21|Sally Chapin|49|F|||500|Vermont
 true|1850-10-15|21|21|Delia Chapin|25|F||||Vermont
 true|1850-10-15|21|21|Viola Chapin|18|F||||Vermont
-
 
 true|1850-10-15|22|22|Hiram Kent|38|M||Farmer|1500|Vermont
 true|1850-10-15|22|22|Delia Kent|31|F||||Vermont
@@ -172,8 +147,6 @@ true|1850-10-15|22|22|Enoch Kent|8|M||||Vermont
 |1850-10-15|23|23|Philena Sheldwin|2|F||||Vermont
 |1850-10-15|23|23|Seloma Valerin|75|F||||Vermont
 
-
-
 true|1850-10-15|24|24|David Adams|38|M||Farmer||Vermont
 true|1850-10-15|24|24|Abram C. Harris|42|M||Farmer||New York
 true|1850-10-15|24|24|Isaac L. Harris|22|M||Farmer||New York
@@ -182,13 +155,9 @@ true|1850-10-15|24|24|Mary Ann Heath|30|F||||Vermont
 true|1850-10-15|24|24|Alice Stone|18|F||||Vermont
 true|1850-10-15|24|24|Syntha Adams|10|F||||Vermont
 
-
-
 true|1850-10-15|25|25|Roswell D. Hopkins|69|M||Farmer||Vermont
 true|1850-10-15|25|25|Sarah F. Hopkins|45|F||||Vermont
 true|1850-10-15|25|25|Eliza Lion|14|F||||New York
-
-
 
 true|1850-10-15|25|26|Roswell J. Hopkins|41|M||Farmer|8600|Vermont
 true|1850-10-15|25|26|Loiza Dudley|40|F||||Vermont
@@ -196,12 +165,10 @@ true|1850-10-15|25|26|Phebe Ann Tilley|23|F||||Vermont
 true|1850-10-15|25|26|Milo S. Parmee|27|M||Laborer||New York
 true|1850-10-15|25|26|Mary Raymo|14|F||Laborer||Canada
 
-
 |1850-10-15|26|27|Silas Tupper|71|M||Farmer|4000|New Jersey
 |1850-10-15|26|27|Mercia Tupper|68|F||||Connecticut
 |1850-10-15|26|27|Aegalus Gaige|50|M||Laborer||New York
 |1850-10-15|26|27|Sally Beevan|15|F||||New York
-
 
 true|1850-10-15|27|28|James Tenbrooks|48|M||Farmer|5000|England
 true|1850-10-15|27|28|Mary Tenbrooks|46|F||||Vermont
@@ -214,17 +181,31 @@ true|1850-10-15|27|28|Mary Ann Tenbrooks|35|F||||England
 true|1850-10-15|27|28|Mary Buvan|14|F||||Vermont
 true|1850-10-15|27|28|Thomas Buvan|25|M||Laborer||Scotland
 
-
-
 |1850-10-15|28|29|Walter Tilley|65|M||Laborer||New York
-|1850-10-15|29|30|Samuel Mitchell|75||M|Laborer||Vermont
+|1850-10-15|28|29|Jane Tilley|63|F||||New York
+|1850-10-15|28|29|George W. Tilley|21|M||Laborer||Vermont
+
+|1850-10-15|29|30|Samuel Mitchiel|75|M||Laborer||Vermont
+|1850-10-15|29|30|Hannah Mitchiel|74|F||||Vermont
+|1850-10-15|29|30|Miner Mitchiel|23|M||Laborer||Vermont
+
 true|1850-10-15|30|31|Horatio N. White|47|M||Farmer|7000|Vermont
-true|1850-10-15|30|31|Syrena White|51|F||||Vermont
-true|1850-10-15|30|31|Frances White|26|F||||Vermont
-true|1850-10-15|30|31|George White|22|M||||Vermont
-true|1850-10-15|30|31|Candace White|17|||||Vermont
+true|1850-10-15|30|31|Syrena White|41|F||||Vermont
+true|1850-10-15|30|31|Friend A. White|17|M||Farmer||Vermont
+true|1850-10-15|30|31|Francis E. White|16|F||||Vermont
+true|1850-10-15|30|31|William E. White|14|M||||Vermont
+true|1850-10-15|30|31|George A. White|12|M||||Vermont
+true|1850-10-15|30|31|Canada White|8|F||||Vermont
+
 |1850-10-15|31|32|Joseph Little|27|M||Laborer||Vermont
-|1850-10-15|32|33|Thomas Spaulding|46|M||Farmer|4000|Vermont
+|1850-10-15|31|32|Mary Little|26|F||||Canada
+|1850-10-15|31|32|Joseph Little Jr|4|M||||Canada
+|1850-10-15|31|32|Charles Little|2|M||||Vermont
+
+
+
+
+|1850-10-15|32|33|Hiram Spaulding|46|M||Farmer|4000|Vermont
 |1850-10-15|33|34|James Shepard|34|M||Carpenter & Joiner|250|Vermont
 |1850-10-15|34|35|Symon Shepard|57|M||Carpenter|300|Vermont
 |1850-10-15|35|36|Lewis Daniels|40|M||Laborer||Canada
