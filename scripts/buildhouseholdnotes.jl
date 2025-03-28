@@ -24,13 +24,10 @@ for i in householdids(c1850)
         "year::1850",""
     ]
     for tpl in filter(t -> t.house == i, c1850)
-        push!(pagelines, tpl.name * "\n")
+        push!(pagelines, "[[" * tpl.name * " in 1850 census]]\n")
     end
 
     # Add lists of names!
-
-
-
 
     open(f, "w") do io
         write(f, join(pagelines, "\n"))
