@@ -45,3 +45,13 @@ function households(data)
     end
     housedict
 end
+
+function males(data)
+    matches = filter(tpl -> tpl.sex == "M", data)
+    map(t -> t.name, matches)  
+end
+
+function females(data)
+    matches = filter(tpl -> tpl.sex == "F", data)
+    map(t -> t.name, matches)  
+end

@@ -51,13 +51,6 @@ function vaultlocationnotes(gisdata, destdir)
         "#panton","#walling1857",
         ]
 
-       # if ! isnothing(tpl.house1850)
-       #     push!(pagelines, "#in1850census")
-       # end
-       # if ! isnothing(tpl.house1860)
-       #     push!(pagelines, "#in1860census")
-       # end
-
         
         open(fname,"w") do io
             write(io, join(pagelines, "\n"))
@@ -124,6 +117,7 @@ function readcensusdata(f)
             (mapped = mapped, censusdate = Date(cdate), house = house, family = family, name = name, age = age, sex = sex, color = color, occupation = occupation, realestate = realestate, birthplace = birthplace)
         end
     end
+    filter(t -> ! isnothing(t), data)
 end
 
 

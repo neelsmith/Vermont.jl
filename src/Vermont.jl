@@ -20,6 +20,7 @@ export realestatebarchart
 export familyids, householdids
 export hohlist, housemembers
 export households
+export males, females
 
 
 end # module Vermont
