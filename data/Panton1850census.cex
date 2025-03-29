@@ -8,8 +8,8 @@ Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|Birthplace|
 |1850-10-15|1|1|Emila Smith|1/12|F||||Vermont
 |1850-10-15|1|1|Patrick Ryan|20|M||Laborer||Ireland
 |1850-10-15|1|1|Elizabeth Grandy|25|F||||Vermont
-|1850-10-15|2|2|Joseph Haywood|54|M||Farmer|5000|Massachusetts
 
+|1850-10-15|2|2|Joseph Haywood|54|M||Farmer|5000|Massachusetts
 |1850-10-15|2|2|Amanda Haywood|40|F||||Vermont
 |1850-10-15|2|2|Josephine Haywood|24|F||||Vermont
 |1850-10-15|2|2|Ashua E. Haywood|18|F||||Vermont
@@ -25,6 +25,7 @@ Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|Birthplace|
 
 |1850-10-15|5|5|Peter Alden Jr|27|M||Laborer||Vermont
 |1850-10-15|5|5|Jane Alden|26|F||||Vermont
+|1850-10-15|5|5|Sarah Alden|3|F||||Vermont
 |1850-10-15|5|5|Joseph Carter|16|M||Laborer||Vermont
 
 |1850-10-15|6|6|Seymour Depuy|33|M||Laborer||Canada
@@ -33,16 +34,16 @@ Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|Birthplace|
 |1850-10-15|6|6|Joseph Depuy|6|M||||Vermont
 |1850-10-15|6|6|Seymour Depuy  Jr.|1|F||||Vermont
 
-|1850-10-15|7|7|Joseph Boyers|49|M||Farmer||New York
-|1850-10-15|7|7|Sophia Boyers|46|F||||New York
-|1850-10-15|7|7|George Boyers|25|M||Laborer||Vermont
-|1850-10-15|7|7|Samuel Boyers|22|M||Laborer||Vermont
-|1850-10-15|7|7|Chancy Boyers|18|M||Laborer||Vermont
-|1850-10-15|7|7|Amos Boyers|16|M||Laborer||Vermont
-|1850-10-15|7|7|William Boyers|9|M||||Vermont
-|1850-10-15|7|7|Eliza Boyers|20|F||||Vermont
-|1850-10-15|7|7|Mary Boyers|5|F||||Vermont
-|1850-10-15|7|7|Henry Boyers|1|M||||Vermont
+|1850-10-15|7|7|Joseph Rogers|49|M||Farmer||New York
+|1850-10-15|7|7|Sophia Rogers|46|F||||New York
+|1850-10-15|7|7|George Rogers|25|M||Laborer||Vermont
+|1850-10-15|7|7|Samuel Rogers|22|M||Laborer||Vermont
+|1850-10-15|7|7|Chancy Rogers|18|M||Laborer||Vermont
+|1850-10-15|7|7|Amos Rogers|16|M||Laborer||Vermont
+|1850-10-15|7|7|William Rogers|9|M||||Vermont
+|1850-10-15|7|7|Eliza Rogers|20|F||||Vermont
+|1850-10-15|7|7|Mary Rogers|5|F||||Vermont
+|1850-10-15|7|7|Henry Rogers|1|M||||Vermont
 |1850-10-15|7|7|Amos Stimson|72|M||None|Massachusetts
 
 |1850-10-15|8|8|Francis Prince|56|M||Laborer||Canada
@@ -143,6 +144,7 @@ true|1850-10-15|22|22|Enoch Kent|8|M||||Vermont
 |1850-10-15|23|23|Mary Sheldwin|10|F||||Vermont
 |1850-10-15|23|23|Benjamin Sheldwin|9|M||||Vermont
 |1850-10-15|23|23|Nancy Sheldwin|6|F||||Vermont
+|1850-10-15|23|23|Sarah Sheldwin|5|F||||Vermont
 |1850-10-15|23|23|Moses Sheldwin|4|M||||Vermont
 |1850-10-15|23|23|Philena Sheldwin|2|F||||Vermont
 |1850-10-15|23|23|Seloma Valerin|75|F||||Vermont
