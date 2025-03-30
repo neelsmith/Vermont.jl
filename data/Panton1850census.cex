@@ -52,7 +52,7 @@ Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|Birthplace|
 |1850-10-15|8|8|Henry Prince|19|M||Laborer||Vermont
 |1850-10-15|8|8|Fransis Prince|17|M||Laborer||Vermont
 |1850-10-15|8|8|John Prince|14|M||||Vermont
-|1850-10-15|8|8|Almeda Prince|13|M||||Vermont
+|1850-10-15|8|8|Almeda Prince|13|F||||Vermont
 |1850-10-15|8|8|William Prince|11|M||||Vermont
 |1850-10-15|8|8|Edward Prince|8|M||||Vermont
 |1850-10-15|8|8|Roselia Prince|5|M||||Vermont
@@ -351,7 +351,7 @@ true|1850-10-16|48|49|Mary H. McOrman|5|F||||France
 |1850-10-16|51|52|Emma Conant|72|F||||Vermont
 
 |1850-10-16|52|53|James Hall|50|M||Laborer||Vermont
-|1850-10-16|52|53|Almira Hall|42|M||||New York
+|1850-10-16|52|53|Almira Hall|42|F||||New York
 |1850-10-16|52|53|Lewis Raymond|9|M||||Canada
 
 |1850-10-16|53|54|Anthony Burwell|44|M||Farmer|3000|Vermont
