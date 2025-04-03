@@ -1,0 +1,43 @@
+PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|Industry|Value|BirthPlace|MarriedThisYear|AttendedSchool|Illiterate|Condition
+1|1|1|David|Mriye|37|1813|Female|White|Farmer|Agriculture|1200|Vermont||||
+2|1|1|Mary Ann|Mriye|38|1812|Female|White||||Vermont||||
+3|1|1|Eliza S|Mriye|10|1840|Female|White||||Vermont||Yes||
+4|1|1|George W|Mriye|6|1844|Male|White||||Vermont||Yes||
+5|1|1|Charles G|Mriye|3|1847|Male|White||||Vermont||||
+6|1|1|David G|Mriye|1|1849|Male|White||||Vermont||||
+7|1|1|Daniel|Sappien|16|1834|Male|White|Farmer|Agriculture||Vermont||Yes||
+8|1|1|Mary E|Sappien|14|1836|Female|White||||Vermont||Yes||
+9|1|1|Whiting|Mriys|75|1775|Male|White|None|Non-Industrial Response||Vermont||||
+10|1|1|Lydia A|Morrell|23|1827|Female|White||||Vermont||||
+11|1|1|Jacob|Wheeler|17|1833|Male|White|Laborer|Industry Not Reported||Vermont||||
+12|1|1|James|Todd|25|1825|Male|White|Laborer|Industry Not Reported||Scotland||||
+13|2|2|Daniel P|Hopkins|34|1816|Male|White|Farmer|Agriculture|1500|Vermont||||
+14|2|2|Laura|Gilivan|50|1800|Female|White||||Vermont||||
+15|2|2|Mitchel|Gonaray|16|1834|Male|White|Laborer|Industry Not Reported||Vermont||||
+16|2|2|Abigail|Harrington|20|1830|Female|White||||Vermont||||
+17|3|3|Joseph|Alden|24|1826|Male|White|Laborer|Industry Not Reported||Vermont|Yes|||
+18|3|3|Sarah Jane|Alden|18|1832|Female|White||||Vermont|Yes|||
+19|3|3|Acan|Donald|50|1800|Male|White|Laborer|Industry Not Reported||Canada||||
+20|3|3|Julia|Donald|60|1790|Female|White||||Canada||||
+21|3|3|Adell|Janoway|15|1835|Female|White||||Vermont||||
+22|4|4|Joseph|Dralette|40|1810|Male|White|Laborer|Industry Not Reported||Canada||||
+23|4|4|Philinda|Dralette|35|1815|Female|White||||Canada||||
+24|4|4|Elizabeth|Dralette|11|1839|Female|White||||Vermont||||
+25|4|4|David|Dralette|0|1850|Male|White||||Vermont||||
+26|4|5|Joseph|Welette|25|1825|Male|White|Laborer|Industry Not Reported||Canada||||
+27|4|5|Julia|Welette|23|1827|Female|White||||Canada||||
+28|4|5|Edward|Welette|3|1847|Male|White||||Vermont||||
+29|4|5|Sophia|Wire|14|1836|Female|White||||Canada||||
+30|4|5|Martha|Wire|10|1840|Female|White||||Canada||||
+31|5|6|Peter|Alden|56|1794|Male|White|Laborer|Industry Not Reported||Canada||||
+32|5|6|Sally|Alden|57|1793|Female|White||||Vermont||||
+33|5|6|Betsy|Alden|39|1811|Female|White||||Vermont||||
+34|5|6|Eliza|Alden|21|1829|Female|White||||Vermont||||
+35|5|6|Henry|Alden|18|1832|Male|White|Laborer|Industry Not Reported||Vermont||||
+36|5|6|Harriett|Alden|11|1839|Female|White||||Vermont||||
+37|5|6|Joseph|Ross|23|1827|Male|White|Laborer|Industry Not Reported||Canada||||
+38|5|6|Mary|Ross|4|1846|Female|White||||Vermont||||
+39|5|6|George|Ross|3|1847|Male|White||||Vermont||||
+40|6|7|Charles|Bodell|40|1810|Male|White|Laborer|Industry Not Reported||Canada||||
+41|6|7|Ester|Bodell|40|1810|Female|White||||Canada||||
+42|6|7|Josephine|Bodell|12|1838|Female|White||||Canada||||
