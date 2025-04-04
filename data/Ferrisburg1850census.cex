@@ -209,3 +209,87 @@ PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|Ind
 40|39|39|Cyrus W|Wicker|36|1814|Male|White|Merchant|Not Specified Retail Trade|800|Massachusetts||||
 41|39|39|Mariah D|Wicker|33|1817|Female|White||||Vermont||||
 42|39|39|Henry C|Wicker|11|1839|Male|White||||Vermont||Yes||
+1|39|39|Cassius M|Wicker|6|1844|Male|White||||Vermont||Yes||
+2|39|39|Lemuel H|Wicker|0|1850|Male|White||||Vermont||||
+3|40|40|Joseph M|Dean|27|1823|Male|White|Clerk|Not Specified Retail Trade|2000|Vermont||||
+4|40|40|Lucy|Dean|31|1819|Female|White||||England||||
+5|40|40|William H|Dean|0|1850|Male|White||||Vermont||||
+6|40|40|Mary|Webb|14|1836|Female|White||||Vermont||Yes||
+7|40|40|George|Hayen|63|1787|Male|White|Miller|Grain-Mill Products|2000|England||||
+8|41|41|Sarah|White|52|1798|Female|White||||Vermont||||
+9|41|41|Cyrus C|White|25|1825|Male|White|Carpenter & Joiner|Construction|400|Vermont||||
+10|41|41|Franklin|White|20|1830|Male|White|None|Non-Industrial Response||Vermont||||
+11|41|41|Rebecca|Dow|30|1820|Female|White||||Vermont||||
+12|42|42|James|Dalzell|29|1821|Male|White|Cabinet Maker|Furniture and Fixtures||Scotland||||
+13|42|42|Amelia|Dalzell|27|1823|Female|White||||England||||
+14|42|42|William J|Dalzell|4|1846|Male|White||||Canada||||
+15|42|42|Andrew J|Dalzell|2|1848|Male|White||||Vermont||||
+16|43|43|Orin|Sholes|44|1806|Male|White|Tinman|Fabricated Steel Products|1200|Vermont||||
+17|43|43|Caroline W|Sholes|35|1815|Female|White||||Vermont||||
+18|43|43|Sury P|Sholes|18|1832|Female|White||||Vermont||||
+19|43|43|Soisa Ann|Sholes|17|1833|Female|White||||Vermont||Yes||
+20|43|43|Chipman W|Sholes|15|1835|Male|White||||Vermont||Yes||
+21|43|43|Watson W|Sholes|13|1837|Male|White||||Vermont||Yes||
+22|43|43|Rollin C|Sholes|11|1839|Male|White||||Vermont||Yes||
+23|43|43|Joseph G|Sholes|9|1841|Male|White||||Vermont||Yes||
+24|43|43|Rove W|Sholes|6|1844|Male|White||||Vermont||Yes||
+25|43|43|Claran A D|Sholes|2|1848|Male|White||||Vermont||||
+26|44|44|Mae W|Carpenter|41|1809|Male|White|Farmer|Agriculture|1000|Vermont||||
+27|44|44|Julia E|Carpenter|39|1811|Female|White||||Vermont||||
+28|44|44|Julie E|Carpenter|18|1832|Female|White||||Vermont||Yes||
+29|44|44|Adalaide E|Carpenter|8|1842|Female|White||||Vermont||Yes||
+30|44|44|Otis|Carpenter|2|1848|Male|White||||Vermont||||
+31|44|44|Cyrus H|Carpenter|0|1850|Male|White||||Vermont||||
+32|44|44|Francis|Shorts|21|1829|Female|White||||Vermont||||
+33|45|45|Benjaman|Champlin|47|1803|Male|White|Farmer|Agriculture|1000|Vermont||||
+34|45|45|Semantha|Champlin|32|1818|Female|White||||Vermont||||
+35|45|45|George|Champlin|21|1829|Male|White|Farmer|Agriculture||Vermont||||
+36|45|45|Roxey|Champlin|18|1832|Female|White||||Vermont||||
+37|45|45|Lydia Ann|Champlin|16|1834|Female|White||||Vermont||Yes||
+38|45|45|Suson|Champlin|14|1836|Female|White||||Vermont||Yes||
+39|45|45|Ezra|Champlin|11|1839|Male|White||||Vermont||Yes||
+40|45|45|Byron|Champlin|5|1845|Male|White||||Vermont||Yes||
+41|45|45|Niles|Champlin|0|1850|Male|White||||Vermont||||
+42|45|45|Rhuby|Eastman|30|1820|Female|White||||Vermont|||
+1|46|46|John|Slocomb|32|1818|Male|White|Laborer|Industry Not Reported||Vermont||||
+2|46|46|Janett|Slocomb|21|1829|Female|White||||Vermont||||
+3|46|46|Mary|Slocomb|1|1849|Female|White||||Vermont||||
+4|47|47|George|Mills|29|1821|Male|White|Wheelwright|Miscellaneous Repair Services|800|England||||
+5|47|47|Caroline|Mills|25|1825|Female|White||||Vermont||||
+6|47|47|Florance|Mills|2|1848|Female|White||||Vermont||||
+7|47|47|Henry|Worth|15|1835|Male|White||||Vermont||||
+8|47|47|Syrtha|Worth|13|1837|Female|White||||Vermont||||
+9|47|47|Alma|Worth|23|1827|Female|White||||Vermont||||
+10|48|48|Lewis|Gangraw|31|1819|Male|White|Laborer|Industry Not Reported||Canada|||Yes|
+11|48|48|Rosannah|Gangraw|29|1821|Female|White||||Vermont|||Yes|
+12|48|48|Charles|Gangraw|10|1840|Male|White||||Vermont||Yes||
+13|48|48|Lewis|Gangraw|4|1846|Male|White||||Vermont||Yes||
+14|48|48|Rosannah|Gangraw|1|1849|Female|White||||Vermont||||
+15|49|49|James|Staples|36|1814|Male|White|Doctor|Medical and Other Health Services, Except Hospitals|300|Vermont||||
+16|49|49|Eliza H|Staples|30|1820|Female|White||||Vermont||||
+17|49|49|Lydia|Staples|7|1843|Female|White||||Vermont||Yes||
+18|49|49|Sarah|Staples|2|1848|Female|White||||Vermont||||
+19|50|50|Theadore D|Symon|50|1800|Male|White|Manufacturer of Wool|Yarn, Thread, and Fabric Mills|4000|Vermont||||
+20|50|50|Betsey|Symon|45|1805|Female|White||||Vermont||||
+21|50|50|Charles H|Symon|20|1830|Male|White|Manufacturer of Wool|Yarn, Thread, and Fabric Mills||Vermont||||
+22|50|50|Elias|Symon|18|1832|Male|White|Manufacturer of Wool|Yarn, Thread, and Fabric Mills||Vermont||||
+23|50|50|Fredrick|Symon|14|1836|Male|White||||Vermont||Yes||
+24|50|50|Ann|Symon|12|1838|Female|White||||Vermont||Yes||
+25|50|50|Marye H|Symon|9|1841|Female|White||||Vermont||Yes||
+26|50|50|Theadore D|Symon|5|1845|Male|White||||Vermont||Yes||
+27|50|50|Jonathan C|Symon|2|1848|Male|White||||Vermont||||
+28|50|50|Moses|Richardson|33|1817|Male|White|Manufacturer of Wool|Yarn, Thread, and Fabric Mills||Vermont||||
+29|50|50|James|Ryne|21|1829|Male|White|Manufacturer of Wool|Yarn, Thread, and Fabric Mills||Ireland||||
+30|50|50|Mary|Hartwell|45|1805|Female|White||||Vermont||||
+31|50|50|Hannah|McGill|18|1832|Female|White||||Ireland||||
+32|51|51|Jonathan|Lymon|72|1778|Male|White|None|Non-Industrial Response||Massachusetts||||
+33|51|51|Clarasa|Lymon|71|1779|Female|White||||Massachusetts||||
+34|52|52|Charles|Devagd|33|1817|Male|White|Laborer|Industry Not Reported||Canada|||Yes|
+35|52|52|Elizabeth|Devagd|28|1822|Female|White||||Canada|||Yes|
+36|52|52|Charles|Devagd|11|1839|Male|White||||Vermont||||
+37|52|52|Elizabeth|Devagd|8|1842|Female|White||||Vermont||||
+38|52|52|Nancy|Devagd|2|1848|Female|White||||Vermont||||
+39|52|52|Fransis|Devagd|0|1850|Male|White||||Vermont||||
+40|53|53|William M|Snow|24|1826|Male|White|Manufacturer of Wool|Yarn, Thread, and Fabric Mills|1500|Vermont||||
+41|53|53|Jane L|Snow|20|1830|Female|White||||Vermont||||
+42|53|53|Delia A|Crane|25|1825|Female|White||||Vermont||||
