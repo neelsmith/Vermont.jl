@@ -293,3 +293,299 @@ PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|Ind
 40|53|53|William M|Snow|24|1826|Male|White|Manufacturer of Wool|Yarn, Thread, and Fabric Mills|1500|Vermont||||
 41|53|53|Jane L|Snow|20|1830|Female|White||||Vermont||||
 42|53|53|Delia A|Crane|25|1825|Female|White||||Vermont||||
+1|54|54|Cyrus|Prindle|50|1800|Male|White|Wst Meth Minister|Welfare and Religious Services|1700|Connecticut||||
+2|54|54|Mary J|Prindle|40|1810|Female|White||||Vermont||||
+3|54|54|Hellen M|Prindle|19|1831|Female|White||||Massachusetts||||
+4|54|54|Homer E|Prindle|11|1839|Male|White||||Vermont||Yes||
+5|54|54|Jonathan C|Prindle|8|1842|Male|White||||Vermont||Yes||
+6|54|54|Martha F|Prindle|6|1844|Female|White||||Vermont||Yes||
+7|55|55|Ashbell|Parlner|30|1820|Male|White|Cabinet Maker|Furniture and Fixtures|300|Vermont||||
+8|55|55|Harriet|Parlner|28|1822|Female|White||||Vermont||||
+9|55|55|George W|Parlner|1|1849|Male|White||||Vermont||||
+10|55|55|Eliza D|Parlner|62|1788|Female|White||||New York||||
+11|56|56|Edward|Kerlee|34|1816|Male|White|Carpenter & Joiner|Construction|400|Vermont||||
+12|56|56|Lucy Ann|Kerlee|28|1822|Female|White||||Vermont||||
+13|56|56|Elen|Kerlee|9|1841|Female|White||||Vermont||Yes||
+14|56|56|Sarah|Cremer|56|1794|Female|White||||Vermont||||
+15|57|57|Thomas|Fallin|32|1818|Male|White|Manufacturer of Wool|Yarn, Thread, and Fabric Mills||Ireland||||
+16|57|57|Cathrine|Fallin|30|1820|Female|White||||Ireland||||
+17|57|57|James|Fallin|0|1850|Male|White||||Vermont||||
+18|57|57|Michael|Linch|9|1841|Male|White||||Vermont||Yes||
+19|58|58|Thomas|Nooning|24|1826|Male|White|Farmer|Agriculture|6150|Vermont||||
+20|58|58|Lydia|Dakin|85|1765|Female|White||||New York||||
+21|58|58|Anna|Dakin|45|1805|Female|White||||Vermont||||
+22|58|58|Judath|Dakin|42|1808|Female|White||||Vermont||||
+23|58|58|Abram|Lorvell|17|1833|Male|White|Laborer|Industry Not Reported||Canada||||
+24|59|59|Stoddard|Martin|69|1781|Male|White|Farmer|Agriculture|1250|Massachusetts||||
+25|59|59|Abigail|Martin|67|1783|Female|White||||Vermont||||
+26|60|60|John|Cole|57|1793|Male|White|Laborer|Industry Not Reported||New Hampshire||||
+27|60|60|Elizabath|Cole|49|1801|Female|White||||New York||||
+28|60|60|Alpm H|Cole|17|1833|Male|White|Laborer|Industry Not Reported||Vermont||Yes||
+29|60|60|Isaac G|Cole|10|1840|Male|White||||Vermont||Yes||
+30|60|60|Sharlott E|Cole|6|1844|Female|White||||Vermont||Yes||
+31|61|61|Lucius|Martin|21|1829|Male|White|Farmer|Agriculture||Vermont||||
+32|61|61|Mariah|Martin|16|1834|Female|White||||Vermont||||
+33|62|62|Moses|Colt|30|1820|Male|White|Laborer|Industry Not Reported||Canada||||
+34|62|62|Betsey|Colt|27|1823|Female|White||||Canada||||
+35|62|62|Aaron|Colt|7|1843|Male|White||||Vermont||Yes||
+36|62|62|Betsey|Colt|5|1845|Female|White||||Vermont||Yes||
+37|62|62|Suson|Colt|3|1847|Female|White||||Vermont||||
+38|63|63|Chapman|Ward|26|1824|Male|White|Tailor|Apparel and Accessories Stores, Except Shoe||Vermont||||
+39|63|63|Joseph|Ward|28|1822|Male|White|Carpenter & Joiner|Construction||Vermont||||
+40|63|63|Sarah|Ward|68|1782|Female|White||||New York||||
+41|64|64|John D|White|40|1810|Male|White|Methodist Minister|Welfare and Religious Services||New York||||
+42|64|64|Sister|White|37|1813|Female|White||||New York||||
+1|64|64|Mary|White|12|1838|Female|White||||Vermont||Yes||
+2|64|64|Caroline|White|3|1847|Female|White||||Vermont||||
+3|65|65|John|Martin|34|1816|Male|White|Farmer|Agriculture|12000|Vermont||||
+4|65|65|Sarah|Martin|32|1818|Female|White||||Vermont||||
+5|65|65|Abigail|Martin|9|1841|Female|White||||Vermont||Yes||
+6|65|65|Walter|Martin|6|1844|Male|White||||Vermont||Yes||
+7|65|65|Stoddard|Martin|1|1849|Male|White||||Vermont||||
+8|65|65|Carless|Martin|30|1820|Male|White|Hotel Keeper|Hotels and Lodging Places||Vermont||||
+9|65|65|Russell|Miller|28|1822|Male|White|Carpenter & Joiner|Construction||Vermont||||
+10|65|65|Jane|Hollis|23|1827|Female|White||||Vermont||||
+11|66|66|William M|Scott|37|1813|Male|White|Iron Smith|Other Primary Iron and Steel Industries||Vermont||||
+12|66|66|Ester H|Scott|29|1821|Female|White||||New Hampshire||||
+13|66|66|Mary C|Scott|0|1850|Female|White||||New Hampshire||||
+14|66|67|Phebe|Allen|74|1776|Female|White||||Connecticut||||Insane
+15|66|67|Mariah|Allen|42|1808|Female|White|||1000|Vermont||||
+16|67|68|Amasa|Phelps|58|1792|Male|White|Farmer|Agriculture|200|Vermont||||
+17|67|68|Ida|Phelps|47|1803|Female|White||||Vermont||||
+18|67|68|Lydia|Phelps|15|1835|Female|White||||Vermont||Yes||
+19|67|68|Henry|Phelps|9|1841|Male|White||||Vermont||Yes||
+20|68|69|Joseph|Allen|36|1814|Male|White|Iron Smith|Other Primary Iron and Steel Industries||Vermont||||
+21|68|69|Harrett|Allen|35|1815|Female|White||||Vermont||||
+22|68|69|Joseph L|Allen|10|1840|Male|White||||Vermont||Yes||
+23|68|69|Sarah E|Allen|8|1842|Female|White||||Vermont||Yes||
+24|68|69|Phebe E|Allen|6|1844|Female|White||||Vermont||Yes||
+25|68|69|Harret M|Allen|5|1845|Female|White||||Vermont||Yes||
+26|68|69|Charles C|Allen|2|1848|Male|White||||Vermont||||
+27|68|69|Joseph|Parker|22|1828|Male|White|Laborer|Industry Not Reported||Vermont||||
+28|69|70|Jane|Hollis|60|1790|Female|White|||100|Ireland||||
+29|70|71|Orin|Hall|35|1815|Male|White|Carpenter & Joiner|Construction|1000|Vermont||||
+30|70|71|Mary|Hall|36|1814|Female|White||||Vermont||||
+31|70|71|Novace D|Hall|7|1843|Male|White||||Vermont||Yes||
+32|70|71|Ann E|Hall|6|1844|Female|White||||Vermont||Yes||
+33|70|71|Harvey|Hall|3|1847|Male|White||||Vermont||||
+34|71|72|Martin M|Fuller|29|1821|Male|White|Carpenter & Joiner|Construction|600|Vermont||||
+35|71|72|Mary|Fuller|30|1820|Female|White||||Vermont||||
+36|71|72|Cashus|Fuller|1|1849|Male|White||||Vermont||||
+37|72|73|Abram|Demarsh|48|1802|Male|White|Laborer|Industry Not Reported||Canada||||
+38|72|73|Josepham|Demarsh|52|1798|Female|White||||Canada||||
+39|72|73|Daniel|Demarsh|18|1832|Male|White|Laborer|Industry Not Reported||Vermont||||
+40|72|73|Amanda|Demarsh|15|1835|Female|White||||Vermont||||
+41|72|73|Lucinda|Demarsh|6|1844|Female|White||||Vermont||||
+42|72|73|Margrett|Drinkwine|14|1836|Female|White||||Canada||||
+1|73|74|Anson|Tift|40|1810|Male|White|Wheelwright|Miscellaneous Repair Services|300|Vermont||||
+2|73|74|Ann|Tift|33|1817|Female|White||||Vermont||||
+3|74|75|Philow|Johnsey|30|1820|Male|White|Shoemaker|Footwear, Except Rubber||Canada||||
+4|74|75|Mary|Johnsey|28|1822|Female|White||||Canada||||
+5|74|75|Dolphus|Johnsey|7|1843|Male|White||||Vermont||Yes||
+6|74|75|Mariah|Johnsey|4|1846|Female|White||||Vermont||Yes||
+7|74|75|Sarah Ann|Johnsey|12|1838|Female|White||||Vermont||Yes||
+8|74|75|Joseph|Pero|23|1827|Male|White|Shoemaker|Footwear, Except Rubber||Canada||||
+9|74|75|Enos|Laplace|66|1784|Male|White|Laborer|Industry Not Reported||Canada||||
+10|74|75|Delphus|Laplace|20|1830|Male|White|Laborer|Industry Not Reported||Canada||||
+11|75|76|Juluis|Seguin|30|1820|Male|White|Iron Smith|Other Primary Iron and Steel Industries|300|Canada||||
+12|75|76|Francis|Seguin|27|1823|Female|White||||Canada||||
+13|75|76|Mary|Seguin|7|1843|Female|White||||Vermont||Yes||
+14|75|76|George|Seguin|6|1844|Male|White||||Vermont||Yes||
+15|75|76|Enos|Seguin|3|1847|Male|White||||Vermont||||
+16|75|76|Joseph|Seguin|1|1849|Male|White||||Vermont||||
+17|76|77|George|Yott|27|1823|Male|White|Laborer|Industry Not Reported||Canada||||
+18|76|77|Carolene|Yott|19|1831|Female|White||||Vermont||||
+19|77|78|John|Mordard|30|1820|Male|White|Laborer|Industry Not Reported||Canada||||
+20|77|78|Ropelia|Mordard|20|1830|Female|White||||Canada||||
+21|78|79|William|Labore|48|1802|Male|White|Peddler|Not Specified Retail Trade||England||||
+22|78|79|Abigail|Labore|46|1804|Female|White||||New Hampshire||||
+23|78|79|Mary|Labore|19|1831|Female|White||||Canada||||
+24|78|79|Caroline|Labore|16|1834|Female|White||||Canada||||
+25|78|79|Willian|Labore|13|1837|Male|White||||Canada||||
+26|78|79|Carlos|Labore|9|1841|Male|White||||Vermont||||
+27|79|80|Nicholas|Guindon|55|1795|Male|White|Farmer|Agriculture|8000|Canada||||
+28|79|80|Rachael|Guindon|62|1788|Female|White||||Vermont||||
+29|79|80|Mariah|Vancor|35|1815|Female|White||||Vermont||||
+30|80|81|John|Labore|49|1801|Male|White|Cabinet Maker|Furniture and Fixtures||England||||
+31|80|81|Pluma|Labore|49|1801|Female|White||||Vermont||||
+32|80|81|Edwin|Labore|14|1836|Male|White||||Vermont||Yes||
+33|80|81|Westley|Labore|10|1840|Male|White||||Vermont||Yes||
+34|80|81|Elen|Labore|7|1843|Female|White||||Vermont||Yes||
+35|80|81|Robert|Labore|79|1771|Male|White|None|Non-Industrial Response|500|England||||
+36|80|81|Caroline|Labore|46|1804|Female|White||||England||||
+37|81|82|Matins|Lavoice|40|1810|Male|White|Laborer|Industry Not Reported||Canada||||
+38|81|82|Mary|Lavoice|35|1815|Female|White||||Canada||||
+39|81|82|Matins|Lavoice|10|1840|Male|White||||Vermont||Yes||
+40|81|82|Alford|Lavoice|8|1842|Male|White||||Vermont||Yes||
+41|81|82|Mary|Lavoice|7|1843|Female|White||||Vermont||Yes||
+42|81|82|Henry|Lavoice|6|1844|Male|White||||Vermont||Yes||
+
+1|81|82|Peter|Lavoice|5|1845|Male|White||||Vermont||||
+2|81|82|Metta|Lavoice|2|1848|Female|White||||Vermont||||
+3|82|83|David|Miller|51|1799|Male|White|Carpenter & Joiner|Construction||New Hampshire||||
+4|82|83|Hannah|Miller|52|1798|Female|White||||Maine||||
+5|82|83|Elmira|Miller|27|1823|Female|White|||500|Vermont||||
+6|82|83|James S|Miller|12|1838|Male|White||||Vermont||||
+7|82|83|Lydia|Cole|84|1766|Female|White||||New Hampshire||||
+8|83|84|Nathaniel|Martin|71|1779|Male|White|Laborer|Industry Not Reported|500|Massachusetts||||
+9|83|84|Jarush|Martin|70|1780|Female|White||||Connecticut||||
+10|83|84|Jane|Martin|41|1809|Female|White||||New York||||
+11|83|84|John A|Martin|17|1833|Male|White|Waiter on Steamboat|Water Transportation||Vermont||||
+12|83|84|Harvey C|Martin|15|1835|Male|White||||Vermont||||
+13|83|84|Suson|Holbort|12|1838|Female|White||||Vermont||||
+14|84|85|Moses|Sargent|59|1791|Male|White|Lawyer|Legal Services||Vermont||||
+15|84|85|Lydia|Sargent|52|1798|Female|White||||New Hampshire||||
+16|84|85|Lydia L|Sargent|18|1832|Female|White||||Vermont||Yes||
+17|84|85|Elias M|Sargent|15|1835|Male|White||||Vermont||Yes||
+18|84|85|Almira|Sargent|13|1837|Female|White||||Vermont||Yes||
+19|85|86|Charles H|Walker|34|1816|Male|White|Stone & Brick Mason|Construction|700|Vermont||||
+20|85|86|Mary|Walker|26|1824|Female|White||||Vermont||||
+21|85|86|Amralod|Walker|5|1845|Female|White||||Vermont||Yes||
+22|85|86|George C|Walker|3|1847|Male|White||||Vermont||||
+23|85|86|Sarah E|Walker|1|1849|Female|White||||Vermont||||
+24|86|87|Ira|Supper|56|1794|Male|White|Farmer|Agriculture|1050|Vermont||||
+25|86|87|Mary|Supper|53|1797|Female|White||||Connecticut||||
+26|86|87|Abishuer|Supper|29|1821|Male|White|Farmer|Agriculture||Vermont|Yes|||
+27|86|87|Mariah L|Supper|21|1829|Female|White||||Connecticut|Yes|||
+28|86|87|Clarassa|Shebrow|30|1820|Female|White||||Canada||||
+29|86|87|Hary|Linck|14|1836|Female|White||||Vermont||||
+30|86|87|Polly|Supper|86|1764|Female|White||||Massachusetts||||
+31|87|88|Philemon|Graves|25|1825|Male|White|Carpenter & Joiner|Construction||Vermont||||
+32|87|88|Catherine|Graves|21|1829|Female|White||||Vermont||||
+33|87|88|Balinda|Graves|0|1850|Female|White||||Vermont||||
+34|88|89|Isaac|Perrey|30|1820|Male|White|Laborer|Industry Not Reported||Vermont||||
+35|88|89|Lucy|Perrey|24|1826|Female|White||||Vermont||||
+36|88|89|Mariah|Perrey|8|1842|Female|White||||Vermont||Yes||
+37|88|89|Hiram|Perrey|7|1843|Male|White||||Vermont||Yes||
+38|88|89|Sarah|Perrey|4|1846|Female|White||||Vermont||||
+39|88|89|William|Gall|36|1814|Male|White|Laborer|Industry Not Reported||Massachusetts||||
+40|89|90|Hermon|Boman|65|1785|Male|White|Farmer|Agriculture|24000|Connecticut||||
+41|89|90|Lydia|Boman|55|1795|Female|White||||Vermont||||
+42|89|90|David|Smith|36|1814|Male|White|Farmer|Agriculture||Vermont|Yes|||
+
+1|89|90|Sarah|Smith|23|1827|Female|White||||Vermont|Yes|||
+2|90|91|Hartwell|Powers|57|1793|Male|White|Farmer|Agriculture|4600|Vermont||||
+3|90|91|Philina|Powers|55|1795|Female|White||||Massachusetts||||
+4|90|91|Rebecca|Powers|82|1768|Female|White||||New Hampshire||||
+5|90|91|Minos|Rising|82|1768|Male|White|None|Non-Industrial Response||Massachusetts||||
+6|90|91|Jane Ann|Wibels|22|1828|Female|White||||Vermont||||
+7|90|91|Joseph|Laberta|19|1831|Male|White|Laborer|Industry Not Reported||Canada||||
+8|91|92|William|Carpentie|39|1811|Male|White|Laborer|Industry Not Reported||Vermont||||
+9|91|92|Rhoda|Carpentie|43|1807|Female|White||||Vermont||||
+10|91|92|Lovison|Williams|15|1835|Male|White||||Vermont||Yes||
+11|91|92|Juluis|Carpenter|10|1840|Male|White||||Vermont||Yes||
+12|91|92|Joseph|Carpenter|8|1842|Male|White||||Vermont||Yes||
+13|92|93|Elina|Graves|49|1801|Male|White|Carpenter & Joiner|Construction|400|Vermont||||
+14|92|93|Polly|Graves|47|1803|Female|White||||Vermont||||
+15|92|93|Sarah|Graves|21|1829|Female|White||||Vermont||||
+16|92|93|Betsey|Graves|18|1832|Female|White||||Vermont||Yes||
+17|92|93|Isaac|Graves|15|1835|Male|White||||Vermont||Yes||
+18|93|94|Joseph|Barman|32|1818|Male|White|Farmer|Agriculture||Vermont||||
+19|93|94|Phebe H|Barman|27|1823|Female|White||||New York||||
+20|94|95|Hiram|Perry|43|1807|Male|White|Farmer|Agriculture|8000|Vermont||||
+21|94|95|Phebe N|Hurlbert|55|1795|Female|White||||Vermont||||
+22|94|95|George|Stone|25|1825|Male|White|Doctor|Medical and Other Health Services, Except Hospitals||Vermont|Yes|||
+23|94|95|Hellen|Stone|19|1831|Female|White||||Vermont|Yes|||
+24|94|95|Ercela|Callins|19|1831|Female|White||||Vermont||||
+25|94|95|Harrett|Butler|14|1836|Female|Black||||Vermont||||
+26|95|96|Asher|Booth|36|1814|Male|White|Farmer|Agriculture|10000|Connecticut||||
+27|95|96|Sophia|Booth|33|1817|Female|White||||England||||
+28|95|96|William W|Booth|9|1841|Male|White||||Vermont||Yes||
+29|95|96|Lucy Ann|Booth|7|1843|Female|White||||Vermont||Yes||
+30|95|96|Elen R|Booth|3|1847|Female|White||||Vermont||||
+31|95|96|Austin F|Booth|1|1849|Male|White||||Vermont||||
+32|95|96|Phy Delia|Goodrich|21|1829|Female|White||||Vermont||||
+33|95|96|Bridget|Carnie|12|1838|Female|White||||Vermont||Yes||
+34|96|97|Peter|Sunrow|35|1815|Male|White|Laborer|Industry Not Reported||Canada|||Yes|
+35|96|97|Cathrine|Sunrow|32|1818|Female|White||||Canada|||Yes|
+36|96|97|Anthony|Sunrow|10|1840|Male|White||||Vermont||Yes||
+37|96|97|Fransis|Sunrow|8|1842|Male|White||||Vermont||Yes||
+38|96|97|Helen|Sunrow|5|1845|Female|White||||Vermont||||
+39|97|98|Joseph|Roundbuck|24|1826|Male|White|Laborer|Industry Not Reported||Canada||||
+40|97|98|Eliza|Roundbuck|19|1831|Female|White||||Vermont||||
+41|97|98|Julia Ann|Roundbuck|2|1848|Female|White||||Vermont||||
+42|97|98|Sury|Critenedon|50|1800|Female|White||||Vermont||||
+1|98|99|Charles|Footervill|22|1828|Male|White|Laborer|Industry Not Reported||Canada||||
+2|98|99|Julia|Footervill|18|1832|Female|White||||Canada||||
+3|98|99|Henry|Footervill|2|1848|Male|White||||Vermont||||
+4|98|99|Merenda|Footervill|8|1842|Female|White||||Vermont||||
+5|99|100|Jeired D|Booth|43|1807|Male|White|Farmer|Agriculture||Vermont||||
+6|99|100|Harnah|Booth|39|1811|Female|White||||Vermont||||
+7|99|100|Jeired|Booth|11|1839|Male|White||||Vermont||Yes||
+8|99|100|Samuel|Booth|8|1842|Male|White||||Vermont||Yes||
+9|99|100|Sarah|Booth|5|1845|Female|White||||Vermont||Yes||
+10|99|100|Hellen|Booth|2|1848|Female|White||||Vermont||||
+11|99|100|Sophia|Booth|0|1850|Female|White||||Vermont||||
+12|99|100|Callerin|Doley|50|1800|Male|White|Laborer|Industry Not Reported||Ireland||||
+13|99|100|Marinda|Lufted|12|1838|Female|White||||Canada||||
+14|99|100|Phillep|Calyah|20|1830|Male|White|Laborer|Industry Not Reported||Canada||||
+15|100|101|Natham S|Rees|47|1803|Male|White|Farmer|Agriculture|14000|New York||||
+16|100|101|Ruth|Rees|45|1805|Female|White||||Vermont||||
+17|100|101|Henry|Rees|21|1829|Male|White|Farmer|Agriculture||Vermont||||
+18|100|101|Anson|Rees|17|1833|Male|White|None|Non-Industrial Response||Vermont||Yes||
+19|100|101|Eunice|Chapman|32|1818|Female|White||||Vermont||||
+20|101|102|Zuril|Walker|49|1801|Male|White|Farmer|Agriculture|8000|Vermont||||
+21|101|102|Mary|Walker|44|1806|Female|White||||Connecticut||||
+22|101|102|Henry H|Walker|20|1830|Male|White|Clerk|Not Specified Retail Trade||Vermont||||
+23|101|102|William W|Walker|19|1831|Male|White|Student|School Response (Students, Etc.)||Vermont||||
+24|101|102|Hiram|Walker|17|1833|Male|White|Clerk|Not Specified Retail Trade||Vermont||||
+25|101|102|Edward|Walker|15|1835|Male|White||||Vermont||Yes||
+26|101|102|Solomon|Walker|12|1838|Male|White||||Vermont||Yes||
+27|101|102|James O|Walker|10|1840|Male|White||||Vermont||Yes||
+28|101|102|Mary|Walker|8|1842|Female|White||||Vermont||Yes||
+29|101|102|Martha|Walker|6|1844|Female|White||||Vermont||Yes||
+30|101|102|Mariah|Walker|4|1846|Female|White||||Vermont||||
+31|101|102|Nancy|Novace|28|1822|Female|White||||Vermont||||
+32|102|103|Aaron|Fields|31|1819|Male|White|Farmer|Agriculture||Vermont||||
+33|102|103|Salley|Fields|31|1819|Female|White||||Vermont||||
+34|102|103|Orvil|Fields|6|1844|Male|White||||Vermont||Yes||
+35|102|103|Thirza|Fields|4|1846|Female|White||||Vermont||Yes||
+36|102|103|Harrett|Fields|2|1848|Female|White||||Vermont||||
+37|102|103|Alvin|Roscoe|21|1829|Male|White|Laborer|Industry Not Reported||Canada||||
+38|102|103|Hudab|Goodrich|22|1828|Female|White||||Vermont||||
+39|103|104|Stephan|Fields|34|1816|Male|White|Farmer|Agriculture||Vermont||||
+40|103|104|Eliza|Fields|30|1820|Female|White||||New York||||
+41|103|104|Dorte|Fields|10|1840|Male|White||||Vermont||||
+42|103|104|Edgar|Fields|3|1847|Male|White||||Vermont||||
+1|104|105|Chandler|Peck|28|1822|Male|White|Farmer|Agriculture||Vermont||||
+2|104|105|Cathrine|Peck|24|1826|Female|White||||Vermont||||
+3|105|106|Edward|Linch|36|1814|Male|White|Laborer|Industry Not Reported||Ireland||||
+4|105|106|Cathrine|Linch|26|1824|Female|White||||Ireland||||
+5|105|106|Mary|Linch|6|1844|Female|White||||Vermont||Yes||
+6|105|106|Harrett|Linch|4|1846|Female|White||||Vermont||Yes||
+7|105|106|Hannah|Linch|2|1848|Female|White||||Vermont||||
+8|106|107|Thankpul|Nuton|24|1826|Female|White||||Vermont||||
+9|106|107|Russell|Nuton|4|1846|Male|White||||Vermont||||
+10|106|107|Henry|Nuton|2|1848|Male|White||||Vermont||||
+11|106|107|Suson|Gaige|20|1830|Female|White||||Vermont||||
+12|107|108|Joseph|Nuton|35|1815|Male|White|Laborer|Industry Not Reported||Vermont||||
+13|107|108|Eliza|Nuton|25|1825|Female|White||||Vermont||||
+14|107|108|George|Nuton|7|1843|Male|White||||Vermont||Yes||
+15|107|108|James|Nuton|5|1845|Male|White||||Vermont||Yes||
+16|107|108|Sury|Nuton|4|1846|Female|White||||Vermont||||
+17|107|108|Julia|Nuton|2|1848|Female|White||||Vermont||||
+18|108|109|John|Roundbuck|38|1812|Male|White||||Canada|||Yes|
+19|108|109|Seiya|Roundbuck|32|1818|Female|White||||Canada|||Yes|
+20|108|109|Mary|Roundbuck|6|1844|Female|White||||Vermont||||
+21|108|109|Leanora|Roundbuck|4|1846|Female|White||||Vermont||||
+22|108|109|Sarah|Roundbuck|0|1850|Female|White||||Vermont||||
+23|109|110|Ezra B|Church|49|1801|Male|White|Farmer|Agriculture|1250|Vermont||||
+24|109|110|Harrett|Church|44|1806|Female|White||||Vermont||||
+25|109|110|Abram|Church|16|1834|Male|White|Laborer|Industry Not Reported||Vermont||Yes||
+26|109|110|Roxey B|Church|11|1839|Female|White||||Vermont||Yes||
+27|109|110|Mary S|Church|7|1843|Female|White||||Vermont||Yes||
+28|109|110|Eliza|Church|4|1846|Female|White||||Vermont||||
+29|109|110|Ezra|Church|2|1848|Male|White||||Vermont||||
+30|110|111|Peter|Johnes|57|1793|Male|White|Laborer|Industry Not Reported||Canada|||Yes|
+31|110|111|Mary|Johnes|38|1812|Female|White||||Canada|||Yes|
+32|110|111|Mary|Johnes|16|1834|Female|White||||Canada||||
+33|110|111|Ursula|Johnes|15|1835|Female|White||||Canada||||
+34|110|111|Sophia|Johnes|13|1837|Female|White||||Canada||||
+35|110|111|Loiza|Johnes|11|1839|Female|White||||Canada||||
+36|110|111|Joseph|Johnes|8|1842|Male|White||||Canada||||
+37|110|111|Sophronia|Johnes|7|1843|Female|White||||Canada||||
+38|110|111|Alaxander|Johnes|5|1845|Male|White||||Canada||||
+39|110|111|Philanda|Johnes|3|1847|Female|White||||Canada||||
+40|110|111|Lorea|Johnes|2|1848|Female|White||||Canada||||
+41|111|112|Abram|Satterly|48|1802|Male|White|Farmer|Agriculture|14100|Vermont||||
+42|111|112|Eliza|Satterly|41|1809|Female|White||||Vermont||||
