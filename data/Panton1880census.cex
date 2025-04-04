@@ -1,0 +1,442 @@
+PageLine|Street|Dwelling|Surname|GivenName|Race|Gender|Age|BirthMonth|BirthYear|Relation|Marital|MarriedThisYear|Occupation|MonthsUnemployed|Sick|Blind|DeafDumb|Idiotic|Insane|Maimed|AttendedSchool|CannotRead|CannotWrite|Birthplace|FatherBirthPlace|MotherBirthPlace
+1||1|Kingsland|Richard|White|Male|28||Abt 1852|Self (Head)|Married||Farmer|||||||||||Vermont|New Jersey|Vermont
+2||1|Kingsland|Ida|White|Female|25||Abt 1855|Wife|Married||Housekeeper|||||||||||New York|Vermont|New York
+3||1|Kingsland|Gracie|White|Female|3||Abt 1877|Daughter|Single|||||||||||||Vermont|Vermont|New York
+4||1|Kingsland|Harriet|White|Female|58||Abt 1822|Mother|Widowed||Housekeeper|||||||||||Vermont|Vermont|Vermont
+5||1|Kingsland|Carrie|White|Female|22||Abt 1858|Sister|Single||Dressmaker|||||||||||Vermont|New Jersey|Vermont
+6||2|Bristol|Norman|White|Male|61||Abt 1819|Self (Head)|Married||Farmer|||||||Y||||Vermont|Vermont|New York
+7||2|Bristol|Amelia|White|Female|50||Abt 1830|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+8||2|Bristol|Jasper|White|Male|19||Abt 1861|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+9||3|Tuttle|Satterly|White|Male|36||Abt 1844|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+10||3|Tuttle|Sarah|White|Female|33||Abt 1847|Wife|Married||Housekeeper|||||||||||Vermont|Scotland|Scotland
+11||4|Richards|Nelson|White|Male|70||Abt 1810|Self (Head)|Married||Farmer|||||||||||Massachusetts|England|Massachusetts
+12||4|Richards|Caroline|White|Female|58||Abt 1822|Wife|Married||Housekeeper|||||||||||Vermont|New Hampshire|New Hampshire
+13||4|Richards|Frank|White|Male|37||Abt 1843|Son|Single||Farmer|||||Y|||||Y|Vermont|Massachusetts|Vermont
+14||4|Richards|William|White|Male|33||Abt 1847|Son|Single||Farmer|||||||||||Vermont|Massachusetts|Vermont
+15||4|Richards|Nell|White|Female|25||Abt 1855|Daughter|Single||Student|||||||||||Vermont|Massachusetts|Vermont
+16||5|Hawley|Henry|White|Male|59||Abt 1821|Self (Head)|Married||Farmer|||||||||||Vermont|Connecticut|Connecticut
+17||5|Hawley|Seviah|White|Female|43||Abt 1837|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+18||5|Hawley|George|White|Male|14||Abt 1866|Son|Single||Student|||||||||||Vermont|Vermont|Vermont
+19||5|Hawley|Delia|White|Female|67||Abt 1813|Sister|Single||Boarder-Farming||||Y|||||||Vermont|Connecticut|Connecticut
+20||5|Spencer|Matilda|White|Female|69||Abt 1811|Self (Head)|Widowed||Farmer|||||||||||Vermont|Massachusetts|Vermont
+21||5|Spencer|Harritt|White|Female|50||Abt 1830|Daughter|Single||Homeworker|||||||||||Vermont|Vermont|Vermont
+22||5|Spencer|Luna|White|Female|30||Abt 1850|Daughter|Single||Homeworker|||||||||||Vermont|Vermont|Vermont
+23||6|Warner|Cassius|White|Male|27||Abt 1853|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+24||6|Warner|Gertrude|White|Female|25||Abt 1855|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+25||6|Warner|Clara|White|Female|2||Abt 1878|Daughter|Single|||||||||||||Vermont|Vermont|Vermont
+26||6|Warner|Frank|White|Male|1||Abt 1879|Son|Single|||||||||||||Vermont|Vermont|Vermont
+27||6|Walker|Samantha|White|Female|67||Abt 1813|Aunt|Single||Boarder-Farming|||||||||||Vermont|Massachusetts|Vermont
+28||6|Walker|Seviah|White|Female|65||Abt 1815|Aunt|Single||Farmer|||||||||||Vermont|Massachusetts|Vermont
+29||7|Sears|Fred|White|Male|29||Abt 1851|Self (Head)|Married||Farmer|||||||||||Vermont||
+30||7|Sears|Augusta|White|Female|26||Abt 1854|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+31||8|Eseltine|Horace|White|Male|34||Abt 1846|Self (Head)|Married||Farmer|||||||||||New York|Vermont|Vermont
+32||8|Eseltine|Harriet|White|Female|34||Abt 1846|Wife|Married||Housekeeper|||||||||||Vermont|New York|Vermont
+33||8|Eseltine|Lulu|White|Female|7||Abt 1873|Daughter|Single||Student|||||||||||Vermont|New York|Vermont
+34||8|Eseltine|Weston|White|Male|2||Abt 1878|Son|Single|||||||||||||Vermont|New York|Vermont
+35||8|Stedmon|Oliver|White|Male|50||Abt 1830||Married||Laborer|||||||||||Vermont|Vermont|Vermont
+36||8|Stedmon|Christiona|White|Female|24||Abt 1856||Married||Housekeeper|||||||||||Vermont|New York|Vermont
+37||8|Stedmon|Luella|White|Female|9||Abt 1871||Single||||||||||Y|||Vermont|New York|Vermont
+38||8|Whittemore|Willie|White|Male|15||Abt 1865||Single||Laborer|4|||||||Y|||Vermont|Vermont|New York
+39||9|Tredo|William|White|Male|35||Abt 1845|Self (Head)|Married||Farmer|2||||||||Y|Y|Vermont|Canada|Canada
+40||9|Tredo|Celia|White|Female|30||Abt 1850|Wife|Married||Housekeeper|||||||||Y|Y|Vermont|Canada|Canada
+41||9|Tredo|Zoah|White|Female|10||Abt 1870|Daughter|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+42||9|Tredo|Emeline|White|Female|8||Abt 1872|Daughter|Single||||||||||Y|||Vermont|Vermont|Vermont
+43||9|Tredo|Catharine|White|Female|6||Abt 1874|Daughter|Single||||||||||Y|||Vermont|Vermont|Vermont
+44||9|Tredo|Emily|White|Female|8/12|Oct|Abt 1879|Daughter|Single|||||||||||||Vermont|Vermont|Vermont
+45||9|Tredo|Mary|White|Female|39||Abt 1841|Sister|Single||House servant|12|Rheumatism|||||Y||||Canada|Canada|Canada
+46||10|Sinan|Patrick|White|Male|80||Abt 1800|Self (Head)|Married||Farm laborer||Fever & Ague|||||||Y|Y|Ireland|Ireland|Ireland
+47||10|Sinan|Margeret|White|Female|75||Abt 1805|Wife|Married||Housekeeper|||||||||Y|Y|Ireland|Ireland|Ireland
+48||11|Bristol|Russell|White|Male|58||Abt 1822|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|New York
+49||11|Bristol|Martha|White|Female|52||Abt 1828|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+50||11|Bristol|Edwin|White|Male|31||Abt 1849|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+
+1||12|Bristol|Alice|White|Female|24||Abt 1856|Daughter|Single||Homeworker|||||||||||Vermont|Vermont|Vermont
+2||12|Bristol|Arthur|White|Male|22||Abt 1858|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+3||12|Bristol|Wallas|White|Male|20||Abt 1860|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+4||13|Holland|Emerson|White|Male|50||Abt 1830|Self (Head)|Single||Farmer|||||||||||Massachusetts|Massachusetts|Massachusetts
+5||13|Holland|Jessie|White|Female|30||Abt 1850|Sister|Single||Housekeeper|||||||||||Vermont|Massachusetts|Massachusetts
+6||13|Holland|Achsa|White|Female|75||Abt 1805|Mother|Widowed||Boarder||Dyspepsia|||||Y||||Massachusetts|Massachusetts|Massachusetts
+7||14|Sinan|Patric|White|Male|28||Abt 1852|Self (Head)|Married||Farmer|||||||||||Ireland|Ireland|Ireland
+8||14|Sinan|Mary|White|Female|30||Abt 1850|Wife|Married||Housekeeper|||||||||||Massachusetts|Ireland|Ireland
+9||15|Hallack|Heman|White|Male|54||Abt 1826|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+10||15|Hallack|Emily|White|Female|61||Abt 1819|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Connecticut
+11||15|Hallack|Eugene|White|Male|22||Abt 1858|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+12||15|Hallack|Ettie|White|Female|15||Abt 1865|Daughter|Single||Student|||||||||||Vermont|Vermont|Vermont
+13||15|Duprey|Edwin|White|Male|22||Abt 1858||Single||Laborer|||||||||||Vermont|Canada|Canada
+14||15|Jackson|Eugene|White|Male|16||Abt 1864||Single||Housekeeper||||||||Y|||New York|Ireland|Ireland
+15||16|Fields|Edward|White|Male|37||Abt 1843|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|New York
+16||16|Fields|Ellen|White|Female|42||Abt 1838|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Massachusetts
+17||16|Fields|Adelbert|White|Male|12||Abt 1868|Son|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+18||16|Fields|Eugene|White|Male|8||Abt 1872|Son|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+19||16|Fields|Jessie|White|Female|7/12|Nov|Abt 1879|Daughter|Single|||||||||||||Vermont|Vermont|Vermont
+20||16|Vrodenburg|Lottie|White|Female|18||Abt 1862||Single||House servant|||||||||||Vermont|Vermont|Vermont
+21||17|Grondey|Jesse|White|Male|49||Abt 1831|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+22||17|Grondey|Betsey|White|Female|36||Abt 1844|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+23||17|Grondey|Flora|White|Female|15||Abt 1865|Daughter|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+24||17|Grondey|Charles|White|Male|12||Abt 1868|Son|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+25||18|Jackson|Andrew|White|Male|58||Abt 1822|Self (Head)|Widower||Farmer|||||||||||Vermont|New York|New York
+26||18|Jackson|Sally|White|Female|89||Abt 1791|Mother|Widowed||Housekeeper|||||||||||New York|New York|New York
+27||18|Gossett|Edward|White|Male|23||Abt 1857||Single||Laborer|||||||||||Vermont|Canada|Canada
+28||19|Gee|Antoine|White|Male|84||Abt 1796|Self (Head)|Married||Farmer|||||||||Y|Y|Canada|Canada|Canada
+29||19|Gee|Arcosh|White|Female|65||Abt 1815|Wife|Married||Housekeeper|||||||Y||Y|Y|Canada|Canada|Canada
+30||19|Gee|Matilda|White|Female|22||Abt 1858|Daughter|Single||House servant|||||||||Y|Y|Canada|Canada|Canada
+31||19|Gee|Adolph|White|Male|27||Abt 1853|Son|Single||Laborer on farm|||||||||Y|Y|Canada|Canada|Canada
+32||20|Jackson|Charles|White|Male|30||Abt 1850|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+33||20|Jackson|Calista|White|Female|28||Abt 1852|Wife|Married||Housekeeper|||||||||||New York|Scotland|England
+34||20|Jackson|George|White|Male|2||Abt 1878|Son|Single|||||||||||||Vermont|Vermont|New York
+35||21|Bristol|Ernest|White|Male|27||Abt 1853|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+36||21|Bristol|Emogene|White|Female|23||Abt 1857|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+37||21|Bristol|Elsie|White|Female|1||Abt 1879|Daughter|Single|||||||||||||Vermont|Vermont|Vermont
+38||22|Harris|Corydon|White|Male|67||Abt 1813|Self (Head)|Married||Farmer|||||||||||Vermont|New York|Vermont
+39||22|Harris|Achsa|White|Female|50||Abt 1830|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+40||22|Harris|Mina|White|Female|20||Abt 1860|Daughter|Single||Student|||||||||||Vermont|Vermont|Vermont
+41||22|Harris|Milo|White|Male|15||Abt 1865|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+42||22|Harris|Sydney|White|Male|26||Abt 1854|Son|Single||Methodist minister|||||||||||Vermont|Vermont|Vermont
+43||23|Carter|Joseph|White|Male|51||Abt 1829|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+44||23|Carter|Mary|White|Female|40||Abt 1840|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+45||23|Carter|Louise|White|Female|16||Abt 1864|Daughter|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+46||23|Carter|George|White|Male|13||Abt 1867|Son|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+47||23|Riley|Hugh|White|Male|80||Abt 1800||Married||Laborer|3||||||||||Ireland|Ireland|Ireland
+48||23|Riley|Margaret|White|Female|75||Abt 1805||Married||House servant|3||||||||Y|Y|Ireland|Ireland|Ireland
+49||24|Laroe|Joseph|White|Male|28||Abt 1852|Self (Head)|Married||Farmer hand|||||||||Y|Y|Canada|Canada|Canada
+50||24|Laroe|Mary|White|Female|23||Abt 1857|Wife|Married||Housekeeper|||||||||||Vermont|Canada|Vermont
+
+
+1||25|Smith|Charles|White|Male|58||Abt 1822|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|New Jersey
+2||25|Smith|Abigal|White|Female|50||Abt 1830|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+3||25|Smith|Fannie|White|Female|16||Abt 1864|Daughter|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+4||25|Smith|Charles|White|Male|11||Abt 1869|Son|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+5||25|Smith|Cyrus|White|Male|83||Abt 1797|Father|Married||Farmer|||||||||||Vermont|Massachusetts|Vermont
+6||25|Smith|Elizabeth|White|Female|80||Abt 1800|Mother|Married||Housekeeper|||||||||||New Jersey|New Jersey|New Jersey
+7||26|Butler|Thomas|White|Male|50||Abt 1830|Self (Head)|Married||Farmer|||||||||Y|Y|Ireland|Ireland|Ireland
+8||26|Butler|Catherine|White|Female|50||Abt 1830|Wife|Married||Housekeeper|||||||||||Ireland|Ireland|Ireland
+9||26|Butler|Edward|White|Male|16||Abt 1864|Son|||Farmer||||||||Y|||Vermont|Ireland|Ireland
+10||26|Grimes|Nancy|White|Female|57||Abt 1823||Single||House servant|||||||||Y|Y|Ireland|Ireland|Ireland
+11||27|Holcomb|George|White|Male|37||Abt 1843|Self (Head)|Married||Works on farm|3||||||Y||||Vermont|Vermont|New York
+12||27|Holcomb|Louise|White|Female|34||Abt 1846|Wife|Married||Housekeeper|||||||||||New York|Canada|Canada
+13||27|Holcomb|John|White|Male|11||Abt 1869|Son|Single||Student||||||||Y||Y|Vermont|Vermont|New York
+14||27|Holcomb|David|White|Male|9||Abt 1871|Son|Single||||||||||Y|||Vermont|Vermont|New York
+15||27|Holcomb|George|White|Male|7||Abt 1873|Son|Single||||||||||Y|||Vermont|Vermont|New York
+16||27|Holcomb|Robert|White|Male|4||Abt 1876|Son|Single|||||||||||||New York|Vermont|New York
+17||27|Holcomb|Rosa|White|Female|1||Abt 1879|Daughter|Single|||||||||||||Vermont|Vermont|New York
+18||28|Lynch|Edward|White|Male|66||Abt 1814|Self (Head)|Married||Farmer|||||||||||Ireland|Ireland|Ireland
+19||28|Lynch|Catherine|White|Female|54||Abt 1826|Wife|Married||Housekeeper||||||||||Y|Ireland|Ireland|Ireland
+20||28|Lynch|Harriett|White|Female|33||Abt 1847|Daughter|Single||Dressmaker|||||||||||Vermont|Ireland|Ireland
+21||28|Lynch|Edward|White|Male|19||Abt 1861|Son|Single||Farmer||Sore-Feet|||||||||Vermont|Ireland|Ireland
+22||29|Miller|Joseph|White|Male|42||Abt 1838|Self (Head)|Married||Stonemason|||||||||Y|Y|Vermont|Canada|Canada
+23||29|Miller|Emily|White|Female|34||Abt 1846|Wife|Married||Housekeeper|||||||||||New York|Vermont|Canada
+24||29|Miller|George|White|Male|11||Abt 1869|Son|Single||Student||||||||Y|Y|Y|Vermont|Vermont|New York
+25||29|Miller|Francis|White|Female|9||Abt 1871|Daughter|Single|||||||||||||Vermont|Vermont|New York
+26||29|Miller|Mary|White|Female|7||Abt 1873|Daughter|Single|||||||||||||Vermont|Vermont|New York
+27||29|Miller|Lucy|White|Female|5||Abt 1875|Daughter|Single|||||||||||||Vermont|Vermont|New York
+28||29|Miller|Anna|White|Female|4||Abt 1876|Daughter|Single|||||||||||||Vermont|Vermont|New York
+29||29|Miller|Joseph|White|Male|2||Abt 1878|Son|Single|||||||||||||Vermont|Vermont|New York
+30||29|Miller||White|Female|9/12|Sep|Abt 1879|Daughter|Single|||||||||||||Vermont|Vermont|New York
+31||30|Como|William|White|Male|45||Abt 1835|Self (Head)|Married||Farmer||Kidney Complaint|||||||Y|Y|Vermont|Canada|Vermont
+32||30|Como|Almeda|White|Female|33||Abt 1847|Wife|Married||Housekeeper||Female Weakness|||||||||Ohio|Vermont|Canada
+33||30|Como|William|White|Male|17||Abt 1863|Son|Single||Works on farm|3||||||||||Vermont|Vermont|Ohio
+34||30|Como|George|White|Male|12||Abt 1868|Son|Single||Farmer hand|4|||||||Y||Y|Vermont|Vermont|Ohio
+35||30|Como|Carrie|White|Female|9||Abt 1871|Daughter|Single||||||||||Y|||Vermont|Vermont|Ohio
+36||30|Como|Mary|White|Female|6||Abt 1874|Daughter|Single||||Dyptheria||||||Y|||Vermont|Vermont|Ohio
+37||31|Yattaw|Antoine|White|Male|72||Abt 1808|Self (Head)|Married||Farm laborer|8||||||||Y|Y|Canada|Canada|Canada
+38||31|Yattaw|Agnes|White|Female|37||Abt 1843|Wife|Married||Housekeeper|||||||||Y|Y|Vermont|Canada|Canada
+39||31|Yattaw|Freddie|White|Male|14||Abt 1866|Son|Single||Works on farm|9|||||||Y|Y|Y|New York|Canada|Vermont
+40||31|Yattaw|Rosa|White|Female|10||Abt 1870|Daughter|Single||Homeworker||Fever Ague||||||Y|Y|Y|New York|Canada|Vermont
+41||31|Yattaw|Frankie|White|Male|4||Abt 1876|Son|Single|||||||||||||Vermont|Canada|Vermont
+42||32|Broderick|John|White|Male|60||Abt 1820|Self (Head)|Married||Farmer||||||||||Y|Ireland|Ireland|Ireland
+43||32|Broderick|Mary|White|Female|59||Abt 1821|Wife|Married||Housekeeper|||||||||Y|Y|Ireland|Ireland|Ireland
+44||32|Broderick|Edward|White|Male|21||Abt 1859|Son|Single||Works on farm|6||||||||||Vermont|Ireland|Ireland
+45||32|Mc Dowell|George|White|Male|21||Abt 1859||Single||Farm laborer|3|Cholie|||||||||Vermont|Scotland|Vermont
+46||33|Ryan|Richard|White|Male|39||Abt 1841|Self (Head)|Single||Farmer|||||||||||Ireland|Ireland|Ireland
+47||34|Storms|Primus|Black|Male|88||Abt 1792|Self (Head)|Married||Farm laborer|||||||Y||Y|Y|Vermont|New York|New York
+48||34|Storms|Anna|White|Female|54||Abt 1826|Wife|Married||Housekeeper|||||||||Y|Y|Vermont|New York|Vermont
+49||34|Storms|Jane|Mulatto|Female|32||Abt 1848|Daughter|Single||Pauper|||||||Y||Y|Y|Vermont|Vermont|Vermont
+50||34|Storms|Norman|Mulatto|Male|9||Abt 1871|Son|Single||||||||||Y|Y|Y|Vermont|Vermont|Vermont
+
+1||35|Perkins|Thomas|White|Male|71||Abt 1809|Self (Head)|Married||Farm laborer|9|Rheumatism|||||Y|||Y|Vermont|New York|New York
+2||35|Perkins|Hannah|White|Female|59||Abt 1821|Wife|Married||Housekeeper|||||||||||Vermont|New Hampshire|Connecticut
+3||35|Perkins|Charles|White|Male|32||Abt 1848|Son|Single||Works on farm|5||||Y||||Y|Y|Vermont|Vermont|Vermont
+4||35|Perkins|George|White|Male|26||Abt 1854|Son|Single||Works on farm|4||||||||||Vermont|Vermont|Vermont
+5||36|Rogers|George|White|Male|57||Abt 1823|Self (Head)|Married||Farmer|||||||||||Vermont|New York|Massachusetts
+6||36|Rogers|Louisa|White|Female|40||Abt 1840|Wife|Married||Housekeeper|||||||||||Vermont|England|Vermont
+7||37|Sinan|John|White|Male|40||Abt 1840|Self (Head)|Married||Farmer||Hyased on Hand By Rick of Horse|||||||||Ireland|Ireland|Ireland
+8||37|Sinan|Mary|White|Female|50||Abt 1830|Wife|Married||Housekeeper||Falling Womb|||||Y||Y|Y|Ireland|Ireland|Ireland
+9||38|Como|Joseph|White|Male|48||Abt 1832|Self (Head)|Married||Farm laborer|3||||||Y||Y|Y|Vermont|Canada|Canada
+10||38|Como|Mary|White|Female|38||Abt 1842|Wife|Married||Housekeeper|||||||||Y|Y|New York|Canada|Canada
+11||38|Como|Joseph|White|Male|12||Abt 1868|Son|Single||Farm laborer|5|||||||Y||Y|Vermont|Vermont|New York
+12||39|Sullivan|Michael|White|Male|47||Abt 1833|Self (Head)|Married||Farmer|||||||||||Ireland|Ireland|Ireland
+13||39|Sullivan|Bridget|White|Female|38||Abt 1842|Wife|Married||Housekeeper|||||||||||Ireland|Ireland|Ireland
+14||39|Sullivan|Mattie|White|Female|17||Abt 1863|Daughter|Single||Student||||||||Y|||Vermont|Ireland|Ireland
+15||39|Sullivan|Nellie|White|Female|14||Abt 1866|Daughter|Single||Student||||||||Y|||Vermont|Ireland|Ireland
+16||39|Sullivan|Patrick|White|Male|10||Abt 1870|Son|Single||Student||||||||Y||Y|Vermont|Ireland|Ireland
+17||39|Sullivan|Johanna|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont|Ireland|Ireland
+18||39|Sullivan|John|White|Male|5||Abt 1875|Son|Single|||||||||||||Vermont|Ireland|Ireland
+19||39|Sullivan|Bridget|White|Female|24||Abt 1856|Niece|Single||House servant|||||||||||Vermont|Vermont|Ireland
+20||39|Sullivan|Lucy|White|Female|3||Abt 1877||Single|||||||||||||Vermont|Vermont|Ireland
+21||40|Dupray|Seymour|White|Male|32||Abt 1848|Self (Head)|Married||Works on farm|||||||||Y|Y|Vermont|Vermont|Vermont
+22||40|Dupray|Cora|White|Female|31||Abt 1849|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+23||40|Dupray|Fannie|White|Female|6||Abt 1874|Daughter|Single|||||||||||||Vermont|Vermont|Vermont
+24||40|Dupray|Julia|White|Female|3||Abt 1877|Daughter|Single|||||||||||||Vermont|Vermont|Vermont
+25||40|Mc Laughlin|John|White|Male|58||Abt 1822|Self (Head)|Widower||Teamster & Truckman|6|||||Y|||||New Hampshire|New Hampshire|New Hampshire
+26||41|Coursey|Garrett|White|Male|58||Abt 1822|Self (Head)|Married||Farmer|||||||||||Ireland|Ireland|Ireland
+27||41|Coursey|Catherine|White|Female|50||Abt 1830|Wife|Married||Housekeeper|||||||||Y|Y|Ireland|Ireland|Ireland
+28||41|Coursey|Margaret|White|Female|22||Abt 1858|Daughter|Single||House servant|6|||||||Y|||Vermont|Ireland|Ireland
+29||41|Coursey|Edward|White|Male|13||Abt 1867|Son|Single||Works on farm||||||||Y||Y|Vermont|Ireland|Ireland
+30||42|Gregory|Lyman|White|Male|28||Abt 1852|Self (Head)|Married||Marble dealer|||||||||||Vermont|Vermont|Vermont
+31||42|Gregory|Elizabeth|White|Female|29||Abt 1851|Wife|Married||Housekeeper|||||||||||New York|Canada|New York
+32||42|Gregory|Claude|White|Male|4||Abt 1876|Son|Single||||||||||Y|||Vermont|Vermont|New York
+33||42|Gregory|Dawn|White|Male|3||Abt 1877|Son|Single|||||||||||||Vermont|Vermont|New York
+34||43|Harris|Abraham|White|Male|72||Abt 1808|Self (Head)|Married||Post Master & Makes Boots & Shoes|||||||||||New York|Connecticut|New Hampshire
+35||43|Harris|Hannah|White|Female|67||Abt 1813|Wife|Married||Housekeeper|||||||Y||||New Hampshire|New Hampshire|New Hampshire
+36||44|Towsley|Norman|White|Male|64||Abt 1816|Self (Head)|Married||Physician|||||||||||Vermont|Vermont|Massachusetts
+37||44|Towsley|Betsy|White|Female|56||Abt 1824|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+38||44|Towsley|Harry|White|Male|21||Abt 1859|Son|Single||Medical student||Rheumatism|||||Y||||Vermont|Vermont|Vermont
+39||44|Murphy|Maggie|White|Female|21||Abt 1859||Single|Y|House servant|||||||||||Canada|Canada|Canada
+40||45|Trask|Delia|White|Female|55||Abt 1825|Self (Head)|Widowed||Houseworker|||||||||||Vermont|Vermont|Vermont
+41||45|Trask|Eric|White|Male|18||Abt 1862|Son|Single||Farmer hand|6||||||||||Vermont|Vermont|Vermont
+42||45|Trask|Clara|White|Female|16||Abt 1864|Daughter|Single||Homeworker||||||||Y|||Vermont|Vermont|Vermont
+43||46|Kent|Hiram|White|Male|69||Abt 1811|Self (Head)|Married||Farmer|||||||||||Vermont|Connecticut|Vermont
+44||46|Kent|Delia|White|Female|61||Abt 1819|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|
+45||46|Merill|Edward|White|Male|20||Abt 1860||Single||Blacksmith|||||||||||Vermont|Canada|Vermont
+46||47|Gaines|Bethnel|White|Male|70||Abt 1810|Self (Head)|Widower||Farmer|||||||||||Vermont|Connecticut|New Jersey
+47||47|Gaines|Hopkins|White|Male|37||Abt 1843|Son|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+48||47|Gaines|Emerette|White|Female|27||Abt 1853|Daughter-in-law|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+49||47|Gaines|Mary|White|Female|2||Abt 1878|Granddaughter|Single|||||||||||||Vermont|Vermont|Vermont
+50||47|Noonan|Annie|White|Female|9||Abt 1871||Single||||||||||Y|||New York|Ireland|New York
+
+1||35|Perkins|Thomas|White|Male|71||Abt 1809|Self (Head)|Married||Farm laborer|9|Rheumatism|||||Y|||Y|Vermont|New York|New York
+2||35|Perkins|Hannah|White|Female|59||Abt 1821|Wife|Married||Housekeeper|||||||||||Vermont|New Hampshire|Connecticut
+3||35|Perkins|Charles|White|Male|32||Abt 1848|Son|Single||Works on farm|5||||Y||||Y|Y|Vermont|Vermont|Vermont
+4||35|Perkins|George|White|Male|26||Abt 1854|Son|Single||Works on farm|4||||||||||Vermont|Vermont|Vermont
+5||36|Rogers|George|White|Male|57||Abt 1823|Self (Head)|Married||Farmer|||||||||||Vermont|New York|Massachusetts
+6||36|Rogers|Louisa|White|Female|40||Abt 1840|Wife|Married||Housekeeper|||||||||||Vermont|England|Vermont
+7||37|Sinan|John|White|Male|40||Abt 1840|Self (Head)|Married||Farmer||Hyased on Hand By Rick of Horse|||||||||Ireland|Ireland|Ireland
+8||37|Sinan|Mary|White|Female|50||Abt 1830|Wife|Married||Housekeeper||Falling Womb|||||Y||Y|Y|Ireland|Ireland|Ireland
+9||38|Como|Joseph|White|Male|48||Abt 1832|Self (Head)|Married||Farm laborer|3||||||Y||Y|Y|Vermont|Canada|Canada
+10||38|Como|Mary|White|Female|38||Abt 1842|Wife|Married||Housekeeper|||||||||Y|Y|New York|Canada|Canada
+11||38|Como|Joseph|White|Male|12||Abt 1868|Son|Single||Farm laborer|5|||||||Y||Y|Vermont|Vermont|New York
+12||39|Sullivan|Michael|White|Male|47||Abt 1833|Self (Head)|Married||Farmer|||||||||||Ireland|Ireland|Ireland
+13||39|Sullivan|Bridget|White|Female|38||Abt 1842|Wife|Married||Housekeeper|||||||||||Ireland|Ireland|Ireland
+14||39|Sullivan|Mattie|White|Female|17||Abt 1863|Daughter|Single||Student||||||||Y|||Vermont|Ireland|Ireland
+15||39|Sullivan|Nellie|White|Female|14||Abt 1866|Daughter|Single||Student||||||||Y|||Vermont|Ireland|Ireland
+16||39|Sullivan|Patrick|White|Male|10||Abt 1870|Son|Single||Student||||||||Y||Y|Vermont|Ireland|Ireland
+17||39|Sullivan|Johanna|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont|Ireland|Ireland
+18||39|Sullivan|John|White|Male|5||Abt 1875|Son|Single|||||||||||||Vermont|Ireland|Ireland
+19||39|Sullivan|Bridget|White|Female|24||Abt 1856|Niece|Single||House servant|||||||||||Vermont|Vermont|Ireland
+20||39|Sullivan|Lucy|White|Female|3||Abt 1877||Single|||||||||||||Vermont|Vermont|Ireland
+21||40|Dupray|Seymour|White|Male|32||Abt 1848|Self (Head)|Married||Works on farm|||||||||Y|Y|Vermont|Vermont|Vermont
+22||40|Dupray|Cora|White|Female|31||Abt 1849|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+23||40|Dupray|Fannie|White|Female|6||Abt 1874|Daughter|Single|||||||||||||Vermont|Vermont|Vermont
+24||40|Dupray|Julia|White|Female|3||Abt 1877|Daughter|Single|||||||||||||Vermont|Vermont|Vermont
+25||40|Mc Laughlin|John|White|Male|58||Abt 1822|Self (Head)|Widower||Teamster & Truckman|6|||||Y|||||New Hampshire|New Hampshire|New Hampshire
+26||41|Coursey|Garrett|White|Male|58||Abt 1822|Self (Head)|Married||Farmer|||||||||||Ireland|Ireland|Ireland
+27||41|Coursey|Catherine|White|Female|50||Abt 1830|Wife|Married||Housekeeper|||||||||Y|Y|Ireland|Ireland|Ireland
+28||41|Coursey|Margaret|White|Female|22||Abt 1858|Daughter|Single||House servant|6|||||||Y|||Vermont|Ireland|Ireland
+29||41|Coursey|Edward|White|Male|13||Abt 1867|Son|Single||Works on farm||||||||Y||Y|Vermont|Ireland|Ireland
+30||42|Gregory|Lyman|White|Male|28||Abt 1852|Self (Head)|Married||Marble dealer|||||||||||Vermont|Vermont|Vermont
+31||42|Gregory|Elizabeth|White|Female|29||Abt 1851|Wife|Married||Housekeeper|||||||||||New York|Canada|New York
+32||42|Gregory|Claude|White|Male|4||Abt 1876|Son|Single||||||||||Y|||Vermont|Vermont|New York
+33||42|Gregory|Dawn|White|Male|3||Abt 1877|Son|Single|||||||||||||Vermont|Vermont|New York
+34||43|Harris|Abraham|White|Male|72||Abt 1808|Self (Head)|Married||Post Master & Makes Boots & Shoes|||||||||||New York|Connecticut|New Hampshire
+35||43|Harris|Hannah|White|Female|67||Abt 1813|Wife|Married||Housekeeper|||||||Y||||New Hampshire|New Hampshire|New Hampshire
+36||44|Towsley|Norman|White|Male|64||Abt 1816|Self (Head)|Married||Physician|||||||||||Vermont|Vermont|Massachusetts
+37||44|Towsley|Betsy|White|Female|56||Abt 1824|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+38||44|Towsley|Harry|White|Male|21||Abt 1859|Son|Single||Medical student||Rheumatism|||||Y||||Vermont|Vermont|Vermont
+39||44|Murphy|Maggie|White|Female|21||Abt 1859||Single|Y|House servant|||||||||||Canada|Canada|Canada
+40||45|Trask|Delia|White|Female|55||Abt 1825|Self (Head)|Widowed||Houseworker|||||||||||Vermont|Vermont|Vermont
+41||45|Trask|Eric|White|Male|18||Abt 1862|Son|Single||Farmer hand|6||||||||||Vermont|Vermont|Vermont
+42||45|Trask|Clara|White|Female|16||Abt 1864|Daughter|Single||Homeworker||||||||Y|||Vermont|Vermont|Vermont
+43||46|Kent|Hiram|White|Male|69||Abt 1811|Self (Head)|Married||Farmer|||||||||||Vermont|Connecticut|Vermont
+44||46|Kent|Delia|White|Female|61||Abt 1819|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|
+45||46|Merill|Edward|White|Male|20||Abt 1860||Single||Blacksmith|||||||||||Vermont|Canada|Vermont
+46||47|Gaines|Bethnel|White|Male|70||Abt 1810|Self (Head)|Widower||Farmer|||||||||||Vermont|Connecticut|New Jersey
+47||47|Gaines|Hopkins|White|Male|37||Abt 1843|Son|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+48||47|Gaines|Emerette|White|Female|27||Abt 1853|Daughter-in-law|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+49||47|Gaines|Mary|White|Female|2||Abt 1878|Granddaughter|Single|||||||||||||Vermont|Vermont|Vermont
+50||47|Noonan|Annie|White|Female|9||Abt 1871||Single||||||||||Y|||New York|Ireland|New York
+
+
+1||57|Mitchel|Minor|White|Male|51||Abt 1829|Self (Head)|Married||Farmer|||||||||||Vermont|England|Vermont
+2||57|Mitchel|Francis|White|Female|46||Abt 1834|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+3||58|White|William|White|Male|43||Abt 1837|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+4||58|White|Ellen|White|Female|38||Abt 1842|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|
+5||58|White|Elsie|White|Female|17||Abt 1863|Daughter|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+6||58|White|George|White|Male|15||Abt 1865|Son|Single||Farmer||||||||Y|||Vermont|Vermont|Vermont
+7||58|White|Walter|White|Male|12||Abt 1868|Son|Single||Farmer||||||||Y|||Vermont|Vermont|Vermont
+8||58|White|Anna|White|Female|10||Abt 1870|Daughter|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+9||58|Allen|Polly|White|Female|75||Abt 1805|Mother-in-law|Widowed||Boarder|||||||||||Vermont|Connecticut|Connecticut
+10||59|Osborn|Amos|White|Male|65||Abt 1815|Self (Head)|Married||Methodist minister|||||||||||New York|Massachusetts|New York
+11||59|Osborn|Susan|White|Female|63||Abt 1817|Wife|Married||Housekeeper|||||||||||New York|Massachusetts|Massachusetts
+12||60|Storms|Eugene|Mulatto|Male|38||Abt 1842|Self (Head)|Married||Farmer hand|2||||||||||Vermont|New York|New York
+13||60|Storms|Thirsie|Mulatto|Female|27||Abt 1853|Wife|Married||Housekeeper|||||||||||New York|New York|New York
+14||60|Storms|Julia|Mulatto|Female|10||Abt 1870|Daughter|Single||Homeworker||||||||Y|||Vermont|Vermont|New York
+15||60|Storms|Lafayette|Mulatto|Male|7||Abt 1873|Son|Single||||||||||Y|||New York|Vermont|New York
+16||60|Storms|Fordace|Mulatto|Male|4||Abt 1876|Son|Single||||||||||Y|||Vermont|Vermont|New York
+17||60|Storms|Eugene|Mulatto|Male|1||Abt 1879|Son|Single|||||||||||||Vermont|Vermont|New York
+18||61|Harriss|Henry|White|Male|26||Abt 1854|Self (Head)|Married||Farmer hand|||||||||||New York|New York|Vermont
+19||61|Harriss|Florence|White|Female|28||Abt 1852|Wife|Married||Housekeeper||||||||Y|||Vermont|Vermont|New York
+20||61|Harriss|Freddie|White|Male|9||Abt 1871|Son|Single||||||||||Y|||Vermont|New York|Vermont
+21||61|Harriss|Addie|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||New York|New York|Vermont
+22||61|Harriss|Gertie|White|Female|3||Abt 1877|Daughter|Single|||||||||||||Vermont|New York|Vermont
+23||61|Harriss||White|Male|5/12|Jan|Abt 1880|Son|Single|||||||||||||Vermont|New York|Vermont
+24||62|Hoyt|Silas|White|Male|30||Abt 1850|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+25||62|Hoyt|Natio|White|Female|31||Abt 1849|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+26||62|Hoyt|Wealthy|White|Female|55||Abt 1825|Stepmother (Step Mother)|Widowed||Housekeeper|||||||||||Vermont|Vermont|Vermont
+27||62|Hoyt|Loyal|White|Male|14||Abt 1866|Half Brother|Single||Farmer||||||||Y|||Vermont|Vermont|Vermont
+28||62|Hoyt|Eliza|White|Female|31||Abt 1849|Sister|Single||Schoolteacher|||||||||||Vermont|Vermont|Vermont
+29||62|Hoyt|Electa|White|Female|27||Abt 1853|Sister|Single||Schoolteacher|||||||||||Vermont|Vermont|Vermont
+30||62|Hoyt|Louisa|White|Female|25||Abt 1855|Sister|Single||Pastry Cook At Hotel|||||||||||Vermont|Vermont|Vermont
+31||62|Hoyt|Cylinda|White|Female|23||Abt 1857|Sister|Single||Housekeeper||Sprocund Ancle|||||Y||||Vermont|Vermont|Vermont
+32||62|Hoyt|Harriett|White|Female|22||Abt 1858|Sister|Single||Schoolteacher|||||||||||Vermont|Vermont|Vermont
+33||62|Curtis|Hila|White|Female|27||Abt 1853|Sister-in-law|Single||Housekeeper|||||||||||Vermont|Vermont|Vermont
+34||63|Kent|Loyal|White|Male|62||Abt 1818|Self (Head)|Married||Farmer|||||||||||Vermont|Connecticut|Vermont
+35||63|Kent|Loisa|White|Female|53||Abt 1827|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+36||63|Kent|Truman|White|Male|27||Abt 1853|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+37||63|Kent|Burton|White|Male|21||Abt 1859|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+38||63|Kent|Rollin|White|Male|13||Abt 1867|Son|Single||Farmer||||||||Y|||Vermont|Vermont|Vermont
+39||64|Kent|Enoch|White|Male|52||Abt 1828|Self (Head)|Married||Farmer|||||||||||Vermont|Connecticut|Vermont
+40||64|Kent|Cornelia|White|Female|51||Abt 1829|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+41||64|Kent|Cynthia|White|Female|26||Abt 1854|Daughter|Single||Schoolteacher|||||||||||Vermont|Vermont|Vermont
+42||64|Kent|Lyman|White|Male|26||Abt 1854|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+43||64|Kent|Emily|White|Female|22||Abt 1858|Daughter|Single||Student|||||||||||Vermont|Vermont|Vermont
+44||64|Kent|Elwyn|White|Male|19||Abt 1861|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+45||64|Kent|Prudie|White|Female|11||Abt 1869|Daughter|Single||Homeworker||||||||Y|||Vermont|Vermont|Vermont
+46||64|Kent|Bertha|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont|Vermont|Vermont
+47||65|Roscoe|Andrew|White|Male|28||Abt 1852|Self (Head)|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+48||65|Roscoe|Betsey|White|Female|48||Abt 1832|Mother|Widowed||Housekeeper|||||||||||Vermont|Vermont|New Jersey
+49||66|Fall|Charles|White|Male|43||Abt 1837|Self (Head)|Married||Farmer|||||||||||Vermont|New York|New York
+50||66|Fall|Nancy|White|Female|41||Abt 1839|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+
+
+
+1||66|Gully|Esther|White|Female|80||Abt 1800|Mother|Widowed||Farmer's wife||Creken Wrist & Pneumonia|||||Y||||New York|New York|New York
+2||67|Allen|Norman|White|Male|61||Abt 1819|Self (Head)|Married||Farmer||Rheumatism|||||Y||||Vermont|Vermont|Vermont
+3||67|Allen|Melvina|White|Female|67||Abt 1813|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+4||67|Allen|Lilly|White|Female|23||Abt 1857|Daughter|Single||Schoolteacher|||||||||||Vermont|Vermont|Vermont
+5||67|Holcomb|Ada|White|Female|28||Abt 1852|Daughter|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+6||67|Palmer|Eliza|White|Female|16||Abt 1864||Single||House servant|||||||||||New York|New York|New York
+7||67|Holcomb|Susan|White|Female|2||Abt 1878|Granddaughter|Single|||||||||||||Vermont|Vermont|Vermont
+8||68|Yoppon|Silas|White|Male|36||Abt 1844|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+9||68|Yoppon|Emily|White|Female|33||Abt 1847|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+10||68|Yoppon|Arthur|White|Male|14||Abt 1866|Son|Single||Farmer||||||||Y|||Vermont|Vermont|Vermont
+11||68|Yoppon|Samantha|White|Female|63||Abt 1817|Mother|Married||Housekeeper|||||||||||Vermont|Connecticut|Vermont
+12||68|Yoppan|Josiah|White|Male|69||Abt 1811|Father|Married||Farmer||Typhoid Pneumonia|||||||||Vermont|New Jersey|New Jersey
+13||68|Cobb|Nathan|White|Male|22||Abt 1858||Single||Farmer hand|||||||||||New York|New York|New York
+14||68|Forkey|Mary|White|Female|19||Abt 1861||Single||House servant|||||||||||New York|Canada|Vermont
+15||69|Merrills|George|White|Male|31||Abt 1849|Self (Head)|Married||Farmer hand|||||||||||Vermont|Vermont|Vermont
+16||69|Merrills|Almina|White|Female|21||Abt 1859|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Canada
+17||69|Merrills|Herman|White|Male|3||Abt 1877|Son|Single|||||||||||||Vermont|Vermont|Vermont
+18||70|Doten|Elisha|White|Male|43||Abt 1837|Self (Head)|Married||Carpenter and joiner|6||||||||||Vermont|New Hampshire|Vermont
+19||70|Doten|Ida|White|Female|39||Abt 1841|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+20||70|Doten|Henry|White|Male|15||Abt 1865|Son|Single||Student at school||||||||Y|||Vermont|Vermont|Vermont
+21||70|Doten|Caroll|White|Male|9||Abt 1871|Son|Single||||||||||Y|||Vermont|Vermont|Vermont
+22||70|Doten|Lenord|White|Male|7||Abt 1873|Son|Single||||||||||Y|||Vermont|Vermont|Vermont
+23||71|Spalding|Jacob|White|Male|61||Abt 1819|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|New Jersey
+24||71|Spalding|Rachel|White|Female|55||Abt 1825|Wife|Married||Housekeeper||Neuntty Cancer Removed|||||Y||||Vermont|North Carolina|Vermont
+25||71|Spalding|Charles|White|Male|20||Abt 1860|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+26||71|Wearner|Jennie|White|Female|25||Abt 1855||Single||Housekeeper|||||||||||Vermont|Vermont|New York
+27||72|Davis|John|White|Male|58||Abt 1822|Self (Head)|Married||Farmer hand|4||||||||||Vermont|England|Connecticut
+28||72|Davis|Rachel|White|Female|60||Abt 1820|Wife|Married||Housekeeper||Insanity||||Y|Y||||New York|Massachusetts|Massachusetts
+29||72|Perkins|Marie|White|Female|42||Abt 1838||Single||Housekeeper|||||||||||Vermont|Vermont|New York
+30||72|Perkins|John|White|Male|1||Abt 1879||Single|||||||||||||Vermont|Vermont|Vermont
+31||73|Adams|Edrick|White|Male|35||Abt 1845|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+32||73|Adams|Annette|White|Female|34||Abt 1846|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+33||73|Adams|Friend|White|Male|13||Abt 1867|Son|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+34||73|Adams|Perley|White|Male|11||Abt 1869|Son|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+35||73|Adams|Katie|White|Female|9||Abt 1871|Daughter|Single||||||||||Y|||Vermont|Vermont|Vermont
+36||73|Adams|Helen|White|Female|3||Abt 1877|Daughter|Single|||||||||||||Vermont|Vermont|Vermont
+37||73|Adams|Benjamin|White|Male|1||Abt 1879|Son|Single|||||||||||||Vermont|Vermont|Vermont
+38||74|Wisell|Timothy|White|Male|44||Abt 1836|Self (Head)|Married||Blacksmith|||||||||||Canada|Canada|Canada
+39||74|Wisell|Caroline|White|Female|43||Abt 1837|Wife|Married||Housekeeper|||||||||||Vermont|Canada|Canada
+40||74|Wisell|Hattie|White|Female|14||Abt 1866|Daughter|Single||Houseworker||||||||Y|||Vermont|Canada|Vermont
+41||74|Wisell|Adaline|White|Female|12||Abt 1868|Daughter|Single||Student||||||||Y|||Vermont|Canada|Vermont
+42||74|Wisell|Pliny|White|Male|9||Abt 1871|Son|Single||||||||||Y|||Vermont|Canada|Vermont
+43||74|Wisell|Effie|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont|Canada|Vermont
+44||74|Wisell|Harry|White|Male|5||Abt 1875|Son|Single||||||||||Y|||Vermont|Canada|Vermont
+45||75|Gardner|Thomas|White|Male|77||Abt 1803|Self (Head)|Married||Carpenter and joiner|7|Sore Knee|||||Y||||New Jersey|New Jersey|New Jersey
+46||75|Gardner|Abbie|White|Female|71||Abt 1809|Wife|Married||Housekeeper|||||||||||Vermont|Connecticut|Connecticut
+47||76|Curler|Aaron|White|Male|78||Abt 1802|Self (Head)|Widower||Farmer|||||||Y||||Vermont|New York|New York
+48||76|Gardner|Jacob|White|Male|57||Abt 1823||Single||Farmer hand|||||||Y||||Vermont|New Jersey|New Jersey
+49||76|Stimpson|Ann|White|Female|52||Abt 1828||Widowed||Housekeeper|||||||||||Halifax Nova Scotia|Ireland|Ireland
+50||77|Curler|Jesse|White|Male|28||Abt 1852|Self (Head)|Married||Farmer hand|6||||||Y||||Vermont|Vermont|Vermont
+
+1||77|Curler|Zimma|White|Female|39||Abt 1841|Wife|Married||Housekeeper|||||||||||New York|Canada|Canada
+2||77|Curler|Eddie|White|Male|12||Abt 1868|Son|Single||Student||||||||Y|||Vermont|Vermont|New York
+3||77|Curler|Celestine|White|Female|9||Abt 1871|Daughter|Single||||||||||Y|||Vermont|Vermont|New York
+4||77|Curler|Isadore|White|Female|8||Abt 1872|Daughter|Single||||||||||Y|||Vermont|Vermont|New York
+5||77|Curler|Gertrude|White|Female|6||Abt 1874|Daughter|Single||||||||||Y|||Vermont|Vermont|New York
+6||77|Curler|Nellie|White|Female|5||Abt 1875|Daughter|Single||||||||||Y|||Vermont|Vermont|New York
+7||78|Grandey|Louisa|White|Female|53||Abt 1827|Self (Head)|Widowed||Farmer|||||||||||Vermont|Canada|New Hampshire
+8||78|Grandey|Fred|White|Male|18||Abt 1862|Son|Single||Farmer||||||||Y|||Vermont|Vermont|Vermont
+9||78|Grandey|Laura|White|Female|12||Abt 1868|Daughter|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+10||79|Stagg|Elijah|White|Male|68||Abt 1812|Self (Head)|Married||Farmer|||||||||||Vermont|New Jersey|Vermont
+11||79|Stagg|Julia|White|Female|70||Abt 1810|Wife|Married||Housekeeper|||||||||||Vermont|Connecticut|New Jersey
+12||79|Stagg|Josiah|White|Male|46||Abt 1834|Son|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+13||79|Stagg|Harriett|White|Female|42||Abt 1838|Daughter-in-law|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+14||79|Stagg|Elbert|White|Male|18||Abt 1862|Grandson|Single||Farmer||||||||Y|||Vermont|Vermont|Vermont
+15||79|Stagg|Charles|White|Male|8||Abt 1872|Grandson|Single||||||||||Y|||Vermont|Vermont|Vermont
+16||79|Stagg|Cora|White|Female|1||Abt 1879|Granddaughter|Single|||||||||||||Vermont|Vermont|Vermont
+17||80|Converse|Madison|White|Male|65||Abt 1815|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+18||80|Converse|Loisa|White|Female|49||Abt 1831|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+19||80|Converse|Fletcher|White|Male|21||Abt 1859|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+20||81|Sprague|Hiram|White|Male|28||Abt 1852|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+21||81|Sprague|Mary|White|Female|26||Abt 1854|Wife|Married||Housekeeper|||||||||||New York|London England|Halifax Nova Scotia
+22||81|Sprague|Anna|White|Female|5||Abt 1875|Daughter|Single|||||||||||||Vermont|Vermont|New York
+23||81|Sprague|George|White|Male|3||Abt 1877|Son|Single|||||||||||||Vermont|Vermont|New York
+24||81|Sprague|John|White|Male|5/12|Jan|Abt 1880|Son|Single|||||||||||||Vermont|Vermont|New York
+25||81|Lyman|Sally|White|Female|58||Abt 1822||Widowed||Farmer|||||||||||Vermont|Vermont|Vermont
+26||81|Carr|Nettie|White|Female|18||Abt 1862||Single||Student|||||||||||Wisconsin|Vermont|Vermont
+27||82|Converse|Jefferson|White|Male|62||Abt 1818|Self (Head)|Married||Farmer||Paralyzed||Y|||Y||||Vermont|Connecticut|Connecticut
+28||82|Converse|Sarah|White|Female|62||Abt 1818|Wife|Married||Housekeeper|||||||||||Vermont|Massachusetts|Rhode Island
+29||82|Converse|Juba|White|Male|27||Abt 1853|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+30||82|Mathews|Mary|White|Female|41||Abt 1839|Niece|Widowed||Housekeeper|||||||||||New York|Vermont|Vermont
+31||82|Mathews|Levi|White|Male|17||Abt 1863||Single||Farmer hand|5||||||||||Vermont|Vermont|New York
+32||83|Curler|William|White|Male|40||Abt 1840|Self (Head)|Married||Farmer|||||||Y||||Vermont|Vermont|Vermont
+33||83|Curler|Mary|White|Female|33||Abt 1847|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+34||83|Curler|Clayton|White|Male|13||Abt 1867|Son|Single||Farmer||||||||Y|||Vermont|Vermont|Vermont
+35||84|Mathews|Sally|White|Female|69||Abt 1811|Self (Head)|Widowed||Farmer|||||||||||Vermont|New Jersey|Connecticut
+36||85|Harris|Augustus|White|Male|71||Abt 1809|Self (Head)|Married||Farmer||Provel|||||||||Vermont|New York|Pennsylvania
+37||85|Harris|Elizabeth|White|Female|56||Abt 1824|Wife|Married||Housekeeper|||||||||||Vermont|Connecticut|New Hampshire
+38||85|Holcomb|Harry|White|Male|70||Abt 1810||Married||Farmer hand|11||Y||Y||Y||||Vermont|Connecticut|New Hampshire
+39||86|Hatch|Warren|White|Male|68||Abt 1812|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+40||86|Hatch|Phoeba|White|Female|63||Abt 1817|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+41||86|Hatch|George|White|Male|20||Abt 1860|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+42||86|Wright|Fred|White|Male|22||Abt 1858||Single||Farmer hand|||||||||||Illinois|Vermont|Vermont
+43||87|Spalding|Somers|White|Male|57||Abt 1823|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+44||87|Spalding|Juniette|White|Female|44||Abt 1836|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+45||87|Spalding|Loyal|White|Male|19||Abt 1861|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+46||87|Spalding|Lucy|White|Female|17||Abt 1863|Daughter|Single||Schoolteacher|2||||||||||Vermont|Vermont|Vermont
+47||87|Spalding|Julia|White|Female|15||Abt 1865|Daughter|Single||Student||||||||Y|||Vermont|Vermont|Vermont
+48||87|Spalding|John|White|Male|12||Abt 1868|Son|Single||Farmer||||||||Y|||Vermont|Vermont|Vermont
+49||87|Spalding|Wealthy|White|Female|9||Abt 1871|Daughter|Single||||||||||Y|||Vermont|Vermont|Vermont
+50||87|Spalding|Henry|White|Male|8||Abt 1872|Son|Single||||||||||Y|||Vermont|Vermont|Vermont
+
+1||87|Spalding|Susan|White|Female|6||Abt 1874|Daughter|Single||||||||||Y|||Vermont|Vermont|Vermont
+2||87|Spalding|Mary|White|Female|3||Abt 1877|Daughter|Single|||||||||||||Vermont|Vermont|Vermont
+3||87|Spalding|Phoeba|White|Female|85||Abt 1795|Mother|Widowed||Farmer's wife|||Y||||Y||||Vermont|Massachusetts|Vermont
+4||88|Rogers|Samuel|White|Male|52||Abt 1828|Self (Head)|Married||Engineer on Vessells|||||||Y||||Vermont|New York|Vermont
+5||88|Rogers|Mary|White|Female|46||Abt 1834|Wife|Married||Housekeeper|||||||||||Vermont|New York|Vermont
+6||88|Rogers|Daniel|White|Male|18||Abt 1862|Son|Single||Farmer|||||||||||Vermont|Vermont|Vermont
+7||88|Rogers|Samuel|White|Male|11||Abt 1869|Son|Single||Farmer||||||||Y|||Vermont|Vermont|Vermont
+8||88|Rogers|Frank|White|Male|4||Abt 1876|Son|Single|||||||||||||Vermont|Vermont|Vermont
+9||88|Johnson|Luna|White|Female|13||Abt 1867||Single||House servant||||||||Y|||Vermont|New York|Vermont
+10||89|White|Horatio|White|Male|77||Abt 1803|Self (Head)|Married||Farmer|||||||||||Vermont|Massachusetts|Massachusetts
+11||89|White|Susan|White|Female|62||Abt 1818|Wife|Married||Housekeeper|||||||||||Vermont|Connecticut|New Hampshire
+12||89|Abare|Ellen|White|Female|20||Abt 1860||Married||House servant|||||||||||Vermont|Vermont|Ireland
+13||90|Dayfoot|Peter|White|Male|65||Abt 1815|Self (Head)|Widower||Baptist minister|||||||Y||||Vermont|Vermont|Canada
+14||91|Allen|Obadiah Z.|White|Male|34||Abt 1846|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+15||91|Allen|Anna|White|Female|27||Abt 1853|Wife|Married||Housekeeper|||||||||||Vermont|Ireland|Ireland
+16||91|Allen|Lawrence|White|Male|3||Abt 1877|Son|Single|||||||||||||Vermont|Vermont|Vermont
+17||92|Torrey|Charles|White|Male|30||Abt 1850|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+18||48|Torrey|Louisa|White|Female|33||Abt 1847|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+19||140|Torrey|Eunice|White|Female|62||Abt 1818|Mother|Widowed||Farmer||Septicemia|||||||||Vermont|Vermont|Vermont
+
+
+
+
+
+
+
+
+
+
