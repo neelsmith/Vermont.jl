@@ -1212,29 +1212,602 @@ PageLine|Street|Dwelling|Surname|GivenName|Race|Gender|Age|BirthMonth|BirthYear|
 10||213|Kidder|Mary A.|White|Female|50||Abt 1830|Wife|Married||Housekeeper|||||||||||Vermont|Connecticut|Connecticut
 11||213|Kidder|Charles E.|White|Male|24||Abt 1856|Son|Single||Merchant|||||||||||New York||
 
+1||213|Estes|David F.|White|Male|28|May|Abt 1852|Self (Head)|Married||Baptist Clergy|||||||||||Maine|Maine|Maine
+2||213|Estes|Effie L.|White|Female|21||Abt 1859|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+3||214|Willson|Sarah|White|Female|66||Abt 1814|Self (Head)|Married||Housekeeper|||||||||||Vermont|Rhode Island|Vermont
+4||214|Willson|Sylvester J.|White|Male|20||Abt 1860|Grandson|||Laborer|||||||||||Vermont|Vermont|Vermont
+5||214|Willson|Rachael|White|Female|75||Abt 1805||Na||||Parallaris|||||||||Vermont|Vermont|Vermont
+6||214|Vaughen|Maria|White|Female|87||Abt 1793||Widowed||Boarder||Fubler|||||||||New Hampshire|New Hampshire|New Hampshire
+7||214|Vaughen|Mary|White|Female|55||Abt 1825||||Servant|||||||||||Vermont||
+8||214|Nailor|William|White|Male|17||Abt 1863||Na||Clerk|||||||||||Vermont|Vermont|Vermont
+9||214|Blanchard|Alex|White|Male|30||Abt 1850|Self (Head)|Married||Nail Factory|||||||||Y|Y|Vermont|Canada|Canada
+10||214|Blanchard|Mary|White|Female|30||Abt 1850|Wife|Married||Housekeeper|||||||||||Vermont|Canada|Canada
+11||214|Smith|Theodore B.|White|Male|54||Abt 1826|Self (Head)|Married||Keeping Franklin Hotel|||||||||||Vermont|Vermont|Vermont
+12||214|Smith|Levona E.|White|Female|47||Abt 1833|Wife|Married||Housekeeper|||||||||||New York|New York|New York
+13||214|Smith|Herbert|White|Male|24||Abt 1856|Son|||Living At Home|||||||||||New York||
+14||214|Smith|Birty|White|Male|10||Abt 1870|Son|Single||||||||||Y|||New York||
+15||214|Ketcham|Harvey|White|Male|22||Abt 1858||Single||Furniture maker|||||||||||Vermont|Vermont|Vermont
+16||214|Benedict|Mary E.|White|Female|48||Abt 1832||Married||Dressmaker|||||||||||Vermont|England|Scotland
+17||214|Gliven|Rose|White|Female|23||Abt 1857||Na||Servant|||||||||||Vermont|Ireland|Ireland
+18||214|Ellsworth|Anna|White|Female|39||Abt 1841||Widowed||Servant|||||||||||Vermont|Vermont|Vermont
+19||214|Ellsworth|Susan|White|Female|73||Abt 1807||Widowed||Boarder|||||||||||Vermont|Vermont|Vermont
+20||214|Carow|Saml. J.|White|Male|27||Abt 1853||Single||Servant|||||||||||Vermont|Vermont|Vermont
+21||214|Foster|Carrie|White|Female|19||Abt 1861||||Apprent Dressmaker|||||||||||New York||
+22||215|Gaines|Saml. S.|White|Male|36||Abt 1844|Self (Head)|Married||Stevens Hotel|||||||||||Vermont|Vermont|Vermont
+23||215|Gaines|Josephine|White|Female|34||Abt 1846|Wife|Married|||||||||||||Vermont|Vermont|Vermont
+24||215|Talbot|Henry J.|White|Male|46||Abt 1834||Married||Merchant|||||||||||Michigan|Ireland|Connecticut
+25||215|Talbot|Jennie G.|White|Female|38||Abt 1842||Married|||||||||||||Vermont|Vermont|Vermont
+26||215|Talbot|Harry|White|Male|15||Abt 1865||||||||||||Y|||Michigan||
+27||215|Talbot|Fanny L.|White|Female|11||Abt 1869||Single||||||||||Y|||Vermont||
+28||215|Lewis|D. Henry|White|Male|37||Abt 1843|Self (Head)|Married||Cashier Bk.|||||||||||Canada|Massachusetts|Massachusetts
+29||215|Lewis|Fanie E.|White|Female|38||Abt 1842|Wife|Married|||||||||||||Vermont|Vermont|Massachusetts
+30||215|Lewis|Fanny E.|White|Female|18||Abt 1862|Daughter|Na|||||||||||||Vermont||
+31||215|Lewis|John H.|White|Male|4||Abt 1876|Son|Single||||||||||Y|||Vermont||
+32||215|Birrell|Ellen|White|Female|52||Abt 1828||Widowed|||||||||||||Vermont|Massachusetts|Massachusetts
+33||215|Ross|Henry H.|White|Male|29||Abt 1851||Married||Prof. High School|||||||||||Vermont|Vermont|Vermont
+34||215|Ross|Lauretta|White|Female|34||Abt 1846||Married||Teacher|||||||||||Vermont|Vermont|New York
+35||215|Parker|Henretta M.|White|Female|74||Abt 1806||Widowed|||||||||||||Vermont|Connecticut|Connecticut
+36||215|Horton|Elizabeth H.|White|Female|23||Abt 1857||||Teacher|||||||||||Vermont|Vermont|Vermont
+37||215|Parker|Charles E.|White|Male|40||Abt 1840||Married||Clerk|||||||||||Vermont|Vermont|Vermont
+38||215|Parker|Agnes R.|White|Female|38||Abt 1842||Na|||||||||||||Vermont|Vermont|Vermont
+39||215|Barnes|Millard F.|White|Male|23||Abt 1857||||Drug clerk|||||||||||Vermont|Vermont|Vermont
+40||215|Bennett|E. R.|White|Male|23||Abt 1857||||Jewelry clerk|||||||||||Vermont|Massachusetts|Massachusetts
+41||215|Kent|Emma|White|Female|22||Abt 1858||Single||Servant|||||||||||Vermont|Vermont|Vermont
+42||215|Hoyt|Louisa|White|Female|25||Abt 1855||Single||Servant|||||||||||Vermont|Vermont|Vermont
+43||215|B.|Olive|White|Female|20||Abt 1860||Single||Servant|||||||||||New York|Canada|Canada
+44||215|Truman|Nellie|White|Female|21||Abt 1859||Single||Servant|||||||||||Vermont|Ireland|Ireland
+45||215|Storms|Mary|White|Female|70||Abt 1810||Widowed||Servant|||||||||||Ireland|Ireland|Ireland
+46||215|Cowrey|Joanna|White|Female|35||Abt 1845||Single||Servant|||||||||||Ireland|Ireland|Ireland
 
 
 
 
+1||215|Seymour|Edwd.|White|Male|70||Abt 1810||Single||Gentleman|||||||||||Vermont|Connecticut|Connecticut
+2||215|Perkins|Cynthia|White|Female|28||Abt 1852||Single||Dressmaker|||||||||||Vermont|Vermont|Vermont
+3||215|Ross|Andrew|White|Male|44||Abt 1836||||Cashier|||||||||||Scotland|Scotland|Scotland
+4||215|Ross|Carrie E.|White|Female|31||Abt 1849|||||||||||||||New York|New York|New York
+5||215|Murphy|Philps J.|White|Male|38||Abt 1842||Married||Merch. Clerk|||||||||||Vermont|Ireland|Ireland
+6||215|Suttervan|Catheren|White|Female|66||Abt 1814||Widowed||Servant|||||||||||Ireland|Ireland|Ireland
+7||215|Corner|Edwd. A.|White|Male|21||Abt 1859||Single||Bus driver|||||||||||Vermont|Canada|Vermont
+8||215|Gravel|John|White|Male|32||Abt 1848||Single||Clerk|||||||||||Vermont|Canada|Canada
+9||215|Ferris|Charles|White|Male|54||Abt 1826||||Servant|||||||||||Vermont|Vermont|Vermont
+10||215|Dempu|Susan|White|Female|16||Abt 1864||||Servant|||||||||||Vermont|Canada|Canada
+11||216|Stevens|Carlton F.|White|Male|63||Abt 1817|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|New Jersey
+12||216|Stevens|Mary A.|White|Female|64||Abt 1816|Wife|Married||Housekeeper|||||||||||Vermont|Massachusetts|Vermont
+13||216|Stevens|Eliza S.|White|Female|29||Abt 1851|Daughter|Single||Homeworker|||||||||||Vermont||
+14||216|Stevens|Charles O.|White|Male|62||Abt 1818|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|New Jersey
+15||216|Stevens|Mary E.|White|Female|50||Abt 1830|Wife|Married||Homeworker|||||||||||Vermont|Vermont|Connecticut
+16||216|Jackman|Martha F.|White|Female|27||Abt 1853|Daughter|Widowed||Homeworker|||||||||||Vermont||
+17||216|Jackman|Sally T.|White|Female|82||Abt 1798|Mother|Widowed|||||||||||||New Jersey|New Jersey|New Jersey
+18||216|Matt|Anna|White|Female|15||Abt 1865||||Servant|||||||||||New York|Canada|Canada
+19||216|Myers|Celestia|White|Female|20||Abt 1860||Single||Servant|||||||||||Vermont|Vermont|Vermont
+20||217|Strong|Foster C.|White|Male|70||Abt 1810|Self (Head)|Married||Merchant|12||||||||||Vermont|Connecticut|Connecticut
+21||217|Strong|Mariette|White|Female|56||Abt 1824|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|New Jersey
+22||217|Strong|Mary C.|White|Female|24||Abt 1856|Daughter|Single||Homeworker|||||||||||Vermont||
+23||217|Strong|Charles A.|White|Male|21||Abt 1859|Son|||Bank teller|||||||||||Vermont||
+24||217|Strong|William J.|White|Male|18||Abt 1862|Son|||Telegrapher|||||||||||Vermont||
+25||217|Strong|John C.|White|Male|17||Abt 1863|Son|||Clerk|||||||||||Vermont||
+26||218|Pierpoint|John|White|Male|73||Abt 1807|Self (Head)|Married||Chief Justice of Vt|||||||||||Connecticut|Connecticut|Connecticut
+27||218|Pierpoint|Sarah|White|Female|62||Abt 1818|Wife|Married||Housekeeper|||||||||||Vermont|Connecticut|Vermont
+28||218|Pierpoint|Nellie|White|Female|34||Abt 1846|Daughter|||Homeworker|||||||Y||||Vermont||
+29||218|Sutton|Caroline|White|Female|71||Abt 1809||Na|||||||||||||Vermont|Connecticut|Connecticut
+30||218|Price|Louise|White|Female|45||Abt 1835||||Servant|||||||||||Vermont|Canada|Canada
+31||218|Willson|Mary G.|White|Female|46||Abt 1834||Na||Seamstress|||||||||||Vermont|Ireland|Ireland
+32||219|Fostin|Rance|White|Male|31||Abt 1849|Self (Head)|Married||Meat Market|||||||||||Vermont|Canada|Canada
+33||219|Fostin|Alzine|White|Female|29||Abt 1851|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+34||219|Fostin|Benjamin F.|White|Male|9||Abt 1871|Son|Single||||||||||Y|||Vermont||
+35||219|Fostin|George H.|White|Male|4||Abt 1876|Son|Single|||||||||||||Vermont||
+36||219|Fostin|William R.|White|Male|9/12|Sep|Abt 1879|Son|Single|||||||||||||Vermont||
+37||219|Fostin|William|White|Male|26||Abt 1854|Self (Head)|Married||Meat Market|||||||||||Vermont|Canada|Canada
+38||219|Fostin|Mary|White|Female|29||Abt 1851|Wife|Married||Housekeeper|||||||||||Ireland|Ireland|Ireland
+39||219|Fostin|Anna|White|Female|2||Abt 1878|Daughter|Single||Vt|||||||||||||
+40||219|Lucia|Mary|White|Female|21||Abt 1859||||Servant|||||||||||Vermont|Canada|Canada
+41||219|Bora|George|White|Male|25||Abt 1855|Self (Head)|Married||Painter|||||||||||Vermont|Canada|Canada
+42||219|Bora|Frances|White|Female|25||Abt 1855|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+
+1||220|Mc Carter|Samantha|White|Female|74||Abt 1806|Self (Head)|Widowed||Housekeeper|||||||||||Vermont|Connecticut|Vermont
+2||220|Mc Carter|William|White|Male|41||Abt 1839|Son|Single||Printer|||||||||||Vermont|Vermont|Vermont
+3||220|Mc Carter|Henry|White|Male|35||Abt 1845|Son|Single||Printer|||||||||||Vermont||
+4||221|Lashua|Frank|White|Male|67||Abt 1813|Self (Head)|Married||Shoemaker|||||||||Y|Y|New York|France|Canada
+5||221|Lashua|Elizabeth|White|Female|64||Abt 1816|Wife|Married||Housekeeper|||||||||||New York|France|France
+6||221|Lashua|Mary|White|Female|23||Abt 1857|Daughter|Single||Servant|||||||||||Vermont|New York|New York
+7||221|Lashua|George M.|White|Male|18||Abt 1862|Grandson|||Blacksmith Appren.|||||||||||Vermont|Vermont|Vermont
+
+1||277|Fairbank|William G.|White|Male|40||Abt 1840|Self (Head)|Married||Supt. State Reform S.|||||||||||Massachusetts|Massachusetts|Massachusetts
+2||277|Fairbank|Maggie E.|White|Female|39||Abt 1841|Wife|Married||Matron|||||||||||Massachusetts|Massachusetts|Massachusetts
+3||277|Fairbank|William E.|White|Male|13||Abt 1867|Son|Single||||||||||Y|||Massachusetts|Massachusetts|Massachusetts
+4||277|Healy|Martin E.|White|Male|32||Abt 1848||Married||Assistant superintendent|||||||||||Massachusetts|Massachusetts|Massachusetts
+5||277|Abbot|Solon|White|Male|23||Abt 1857||Single||Teacher|||||||||||Vermont|Vermont|Vermont
+6||277|Wheatley|Hannibal|White|Male|22||Abt 1858||Single||Watchman|||||||||||Vermont|Vermont|Vermont
+7||277|Iodoin|Wilfred|White|Male|29||Abt 1851||Single||Shoemaker|||||||||||Canada|Canada|Canada
+8||277|Itham|Calvin G.|White|Male|29||Abt 1851|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+9||277|Itham|Jennie L.|White|Female|26||Abt 1854|Wife|Married||Assistant matron|||||||||||Vermont|Canada|Vermont
+10||277|Gordon|Ellen|White|Female|31||Abt 1849||Single||Cook|||||||||||Vermont|Ireland|Ireland
+11||277|Prince|Carrie B.|White|Female|40||Abt 1840||Divorced||Teacher|||||||||||Vermont|New Hampshire|New Hampshire
+12||277|Le May|Ancin|White|Female|28||Abt 1852||Single||Housekeeper|||||||||||Canada|Canada|Canada
+13||277|Brown|Laura E.|White|Female|35||Abt 1845||Married||Teacher|||||||||||Massachusetts|Massachusetts|Vermont
+14||277|Killiam|Susan|White|Female|50||Abt 1830||Single||Seamstress|||||||||||Vermont|Vermont|Vermont
+15||277|Arnold|George|White|Male|17||Abt 1863||Single||||||||||Y|||Vermont|New Hampshire|New York
+16||277|Branoc|Frederick|White|Male|14||Abt 1866||Single||||||||||Y|||Vermont|Canada|Canada
+17||277|Bongea|George|White|Male|18||Abt 1862||Single||||||||||Y|||Canada|Canada|Canada
+18||277|Butterfly|George|White|Male|17||Abt 1863||Single||||||||||Y|||New York|Canada|Canada
+19||277|Blancher|Edgar|White|Male|17||Abt 1863||Single||||||||||Y|||Vermont|Vermont|Vermont
+20||277|Belleville|George|White|Male|19||Abt 1861||Single||||||||||Y|||Vermont|Vermont|Vermont
+21||277|Biddle|Ira|White|Male|18||Abt 1862||||||||||||Y|||Vermont|England|England
+22||277|Bremale|William|White|Male|13||Abt 1867||Single||||||||||Y|||Vermont|Canada|Canada
+23||277|Blanchard|Russell|White|Male|17||Abt 1863||||||||||||Y|||Vermont||
+24||277|Brown|George|White|Male|17||Abt 1863||||||||||||Y|||Vermont|Vermont|Vermont
+25||277|Bradshaw|William|Black|Male|15||Abt 1865||Na||||||||||Y|||Vermont|Vermont|Vermont
+26||277|Blake|George|White|Male|16||Abt 1864||||||||||||Y|||Vermont|England|Ireland
+27||277|Brand|Curtis|White|Male|16||Abt 1864||||||||||||Y|||Vermont|Vermont|Vermont
+28||277|Carter|Joseph|White|Male|14||Abt 1866||||||||||||Y|||Vermont|Canada|Canada
+29||277|Cather|James|White|Male|16||Abt 1864||||||||||||Y|||Vermont|Canada|Ireland
+30||277|Cushman|Charles|White|Male|17||Abt 1863||Na||||||||||Y|||Vermont|New Hampshire|Vermont
+31||277|Chamberlain|Charles|White|Male|19||Abt 1861||||||||||||Y|||Vermont||
+32||277|Coalie|William|White|Male|17||Abt 1863||||||||||||Y|||England|England|England
+33||277|Cooke|George||Male|14||Abt 1866||||||||||||Y|||England|England|England
+34||277|Chase|William||Male|16||Abt 1864||||||||||||Y|||Canada|Vermont|Vermont
+35||277|Clapper|William||Male|11||Abt 1869||Single||||||||||Y|||Vermont|Canada|Canada
+36||277|Chaffee|Walter||Male|16||Abt 1864||Na||||||||||Y|||Vermont|Vermont|Vermont
+37||277|Center|Adam||Male|15||Abt 1865||||||||||||Y|||Vermont|Vermont|Vermont
+38||277|Delome|Henry||Male|18||Abt 1862||||||||||||Y|||Vermont|Canada|Canada
+39||277|Drowns|Burt||Male|16||Abt 1864||||||||||||Y|||Vermont|Vermont|Vermont
+40||277|Dowd|Charles||Male|19||Abt 1861||||||||||||Y|||Vermont|Vermont|Vermont
+41||277|Flowers|Benjamin||Male|17||Abt 1863||||||||||||Y|||Vermont|Canada|Canada
+42||277|Fetton|Charles||Male|14||Abt 1866||Na||||||||||Y|||Vermont|New Hampshire|New Hampshire
+43||277|Germain|Lewis||Male|18||Abt 1862||Na||||||||||Y|||Vermont|Canada|Canada
+44||277|Gredor|Henry||Male|12||Abt 1868||Single||||||||||Y|||Vermont|Canada|Canada
+45||277|Gielhon|George||Male|16||Abt 1864||Na||||||||||Y|||Vermont|Canada|Canada
+46||277|Howitt|Sony||Male|17||Abt 1863||||||||||||Y|||Ohio|Ohio|Ohio
+47||277|Hanks|Peter||Male|15||Abt 1865||Na||||||||||Y|||Vermont|Canada|Canada
+48||277|Harris|Herbert||Male|15||Abt 1865||||||||||||Y|||Massachusetts|Massachusetts|Vermont
+49||277|||Samuel||Male|16||Abt 1864||||||||||||Y|||Vermont|Canada|Canada
+
+1||277|Howard|Hatland|White|Male|16||Abt 1864||||||||||||Y|||Vermont|Vermont|
+2||277|Hanlon|Michael|White|Male|11||Abt 1869||Single||||||||||Y|||Ireland|Ireland|Ireland
+3||277|Johnson|Warner|White|Male|15||Abt 1865||||||||||||Y|||Vermont|Vermont|Vermont
+4||277|Johnson|William|White|Male|12||Abt 1868||Single||||||||||Y|||Vermont|Vermont|Vermont
+5||277|Jones|Benjamin|White|Male|19||Abt 1861||||||||||||Y|||Vermont|Canada|Canada
+6||277|Jones|Henry|White|Male|17||Abt 1863||Na||||||||||Y|||Vermont|Canada|Canada
+7||277|Knapp|George|White|Male|17||Abt 1863||||||||||||Y|||Vermont|Vermont|Vermont
+8||277|Kefer|Timothy|White|Male|14||Abt 1866||||||||||||Y|||Vermont|Ireland|Ireland
+9||277|Landon|Frank|White|Male|16||Abt 1864||Na||||||||||Y|||Vermont|Canada|Canada
+10||277|La Bromly|George|White|Male|16||Abt 1864||||||||||||Y|||Canada|Canada|
+11||277|La Plant|Nuclor|White|Male|18||Abt 1862||Na||||||||||Y|||Vermont|Canada|Canada
+12||277|Lombra|Albert|White|Male|18||Abt 1862||||||||||||Y|||Vermont|Vermont|Vermont
+13||277|Lennan|Peter|White|Male|14||Abt 1866||||||||||||Y|||Vermont|Massachusetts|Massachusetts
+14||277|Ladd|Willard|White|Male|16||Abt 1864||||||||||||Y|||Vermont|Vermont|Vermont
+15||277|Laro|Frederick|White|Male|18||Abt 1862||||||||||||Y|||Vermont|Canada|Canada
+16||277|Burgess|Joseph|White|Male|18||Abt 1862||||||||||||Y|||Canada|Canada|Canada
+17||277|Blossom|George|White|Male|11||Abt 1869||Single||||||||||Y|||Vermont|Vermont|Vermont
+18||277|Broderick|Edward|White|Male|21||Abt 1859||||||||||||Y|||Vermont|Ireland|Ireland
+19||277|Caravant|John|White|Male|19||Abt 1861||Na||||||||||Y|||Vermont|Vermont|Vermont
+20||277|Cowen|Bertie|White|Male|16||Abt 1864||||||||||||Y|||Vermont|Vermont|Vermont
+21||277|Connor|John|White|Male|15||Abt 1865||||||||||||Y|||Vermont|Ireland|Ireland
+22||277|Chaffee|William|White|Male|18||Abt 1862||||||||||||Y|||Vermont|Vermont|Vermont
+23||277|Davis|Frederick|White|Male|17||Abt 1863||||||||||||Y|||Vermont|Vermont|Vermont
+24||277|Dumas|Joseph|White|Male|16||Abt 1864||||||||||||Y|||Canada|Canada|Canada
+25||277|Flowers|Frank|White|Male|17||Abt 1863||||||||||||Y|||Vermont|Canada|Canada
+26||277|Garvey|Mathew|White|Male|17||Abt 1863||Na||||||||||Y|||Vermont|Canada|Canada
+27||277|Hawkins|Isaac|Black|Male|18||Abt 1862||||||||||||Y|||Vermont||
+28||277|La Sure|Edward|White|Male|17||Abt 1863||||||||||||Y|||Canada|Canada|Canada
+29||277|Lapowray|John|White|Male|17||Abt 1863||Na||||||||||Y|||Vermont|Canada|Canada
+30||277|Lamphine|Clarence|White|Male|15||Abt 1865||||||||||||Y|||Vermont|Canada|Canada
+31||277|La Barrow|Edward|White|Male|21||Abt 1859||||||||||||Y|||Vermont|Vermont|Vermont
+32||277|Lochlin|Arthur|White|Male|16||Abt 1864||||||||||||Y|||Vermont|Vermont|Vermont
+33||277|Le Forge|Felix|White|Male|15||Abt 1865||||||||||||Y|||Canada|Canada|Canada
+34||277|Mc Murray|Saml.|White|Male|17||Abt 1863||Na||||||||||Y|||New York|Scotland|Scotland
+35||277|Mc Murphy|Frank|White|Male|15||Abt 1865||||||||||||Y|||Vermont|Vermont|Vermont
+36||277|Michell|Charles|White|Male|17||Abt 1863||||||||||||Y|||Vermont|Vermont|Vermont
+37||277|Marts|George|White|Male|19||Abt 1861||Na||||||||||Y|||Vermont|Canada|Canada
+38||277|Mc Gure|Arthur|White|Male|12||Abt 1868||Single||||||||||Y|||Vermont||
+39||277|Mc Gain|Lewis|White|Male|13||Abt 1867||Single||||||||||Y|||Vermont|Canada|Canada
+40||277|Merrill|George|White|Male|8||Abt 1872||Single||||||||||Y|||Vermont|Vermont|New York
+41||277|Merrill|Ransom|White|Male|9||Abt 1871||Single||||||||||Y|||Vermont|Vermont|New York
+42||277|Merrill|Anson|White|Male|10||Abt 1870||Single||||||||||Y|||Vermont|Vermont|New York
+43||277|Noyes|Marshall|White|Male|17||Abt 1863||||||||||||Y|||Vermont|Vermont|Vermont
+44||277|Nealing|Albert|White|Male|18||Abt 1862||||||||||||Y|||Vermont|Vermont|New York
+45||277|Newton|Charles|White|Male|15||Abt 1865||||||||||||Y|||New York|New York|
+46||277|Ocean|Ezra|White|Male|17||Abt 1863||||||||||||Y|||Vermont|Canada|Canada
+47||277|Peters|Ira|White|Male|12||Abt 1868||Single||||||||||Y|||Vermont|Canada|Canada
+48||277|Prindles|George|White|Male|14||Abt 1866||||||||||||Y|||Canada|Canada|Canada
+49||277|Pashaw|Charles|White|Male|17||Abt 1863||||||||||||Y|||Vermont|Vermont|Canada
+50||277|Poyes|Frank|White|Male|10||Abt 1870||Single||||||||||Y|||Vermont|Vermont|Vermont
+
+1||277|Phillips|Elmer|White|Male|10||Abt 1870||Single||||||||||Y|||Vermont|Vermont|Vermont
+2||277|Roberts|Charles|White|Male|19||Abt 1861||Na||||||||||Y|||Vermont|Vermont|Connecticut
+3||277|Ransom|Frank|White|Male|16||Abt 1864||||||||||||Y|||Vermont|Vermont|Vermont
+4||277|Rummill|Arabram|White|Male|18||Abt 1862||Na||||||||||Y|||Vermont|Vermont|Vermont
+5||277|Robbins|Butler|White|Male|16||Abt 1864||||||||||||Y|||Vermont|Vermont|Vermont
+6||277|Rowell|Frank|White|Male|14||Abt 1866||||||||||||Y|||Vermont|Vermont|Vermont
+7||277|Reynolds|Henry|White|Male|13||Abt 1867||Single||||||||||Y|||Vermont|Vermont|
+8||277|Reynolds|Samuel|White|Male|15||Abt 1865||||||||||||Y|||Vermont|Vermont|
+9||277|Reed|Hashamel|White|Male|11||Abt 1869||Single||||||||||Y|||Vermont|Massachusetts|Massachusetts
+10||277|Rogers|Edward|White|Male|15||Abt 1865||||||||||||Y|||Vermont|Canada|Canada
+11||277|Rice|Cornellius|White|Male|10||Abt 1870||Single||||||||||Y|||Vermont|Wales|Vermont
+12||277|Sherman|Arthur|White|Male|20||Abt 1860||Na||||||||||Y|||Vermont|Vermont|Vermont
+13||277|Savoy|Joseph|White|Male|15||Abt 1865||||||||||||Y|||New York|Canada|Canada
+14||277|Savoy|Frank|White|Male|16||Abt 1864||||||||||||Y|||Vermont|Canada|Vermont
+15||277|Sullivan|Patrick|White|Male|18||Abt 1862||||||||||||Y|||Vermont|Ireland|Ireland
+16||277|Sherry|Samuel|White|Male|18||Abt 1862||Na||||||||||Y|||Canada|Canada|Vermont
+17||277|Sharkey|Moses|White|Male|11||Abt 1869||Single||||||||||Y|||Canada|Canada|Canada
+18||277|Sharkey|Joseph|White|Male|17||Abt 1863||||||||||||Y|||Canada|Canada|Canada
+19||277|Stowe|Bryant|White|Male|15||Abt 1865||Na||||||||||Y|||Pennsylvania||
+20||277|St Clair|Napoleon|White|Male|14||Abt 1866||||||||||||Y|||Massachusetts||
+21||277|Shufelt|James|White|Male|13||Abt 1867||Single||||||||||Y|||Vermont|Canada|Canada
+22||277|Storms|Charles|White|Male|14||Abt 1866||||||||||||Y|||Vermont|Vermont|Vermont
+23||277|Smith|Curtis|White|Male|14||Abt 1866||Na||||||||||Y|||Massachusetts|Massachusetts|Vermont
+24||277|Thompson|Frederick|White|Male|20||Abt 1860||||||||||||Y|||Vermont|Vermont|New Hampshire
+25||277|Tobin|George|White|Male|15||Abt 1865||Na||||||||||Y|||Vermont|Vermont|Vermont
+26||277|Tedford|Henry|White|Male|18||Abt 1862||||||||||||Y|||Vermont|Ireland|Ireland
+27||277|Thornton|Francis|White|Male|14||Abt 1866||||||||||||Y|||Vermont|Vermont|Vermont
+28||277|Taylor|Edson|White|Male|19||Abt 1861||||||||||||Y|||Vermont|Vermont|Vermont
+29||277|Teller|Peter|White|Male|15||Abt 1865||||||||||||Y|||Vermont|Canada|Canada
+30||277|Vanderberg|Peter|White|Male|19||Abt 1861||||||||||||Y|||Vermont|Vermont|Vermont
+31||277|Varney|Henry|White|Male|16||Abt 1864||Na||||||||||Y|||Vermont|Vermont|Vermont
+32||277|Worthen|Walter|White|Male|21||Abt 1859||||||||||||Y|||Vermont|Vermont|Vermont
+33||277|Williams|Oren|White|Male|11||Abt 1869||Single||||||||||Y|||Vermont|Vermont|Vermont
+34||277|Williams|Romie|White|Male|12||Abt 1868||Single||||||||||Y|||Vermont|Vermont|Vermont
+35||277|Wallace|William|White|Male|18||Abt 1862||Na||||||||||Y|||New York|New York|New York
+36||277|Washburn|Frederick|White|Male|14||Abt 1866||||||||||||Y|||New York|New York|New York
+37||277|Waite|Franklin|White|Male|16||Abt 1864||Na||||||||||Y|||Vermont|Canada|Canada
+38||277|Wright|Lewis|White|Male|16||Abt 1864||||||||||||Y|||Vermont|Canada|Canada
+39||277|Webster|Benjamin|White|Male|13||Abt 1867||Single||||||||||Y|||New York|New York|New York
+40||277|Yates|Samuel|White|Male|17||Abt 1863||||||||||||Y|||Vermont|Vermont|Vermont
+41||277|Burnan|Eliza|White|Female|18||Abt 1862||||||||||||Y|||Vermont|Vermont|Vermont
+42||277|Barnard|Hattie|White|Female|18||Abt 1862||||||||||||Y|||Vermont|Vermont|Vermont
+43||277|Blanchard|Georgenia|White|Female|17||Abt 1863||||||||||||Y|||Canada|Canada|Canada
+44||277|Bolio|Etta|White|Female|12||Abt 1868||Single||||||||||Y|||Vermont|Vermont|Vermont
+45||277|Bingham|Ida|White|Female|14||Abt 1866||Na||||||||||Y|||Vermont|Vermont|Vermont
+46||277|Brooks|Carrie|White|Female|11||Abt 1869||Single||||||||||Y|||Vermont|Canada|Vermont
+47||277|Barber|Mary|White|Female|15||Abt 1865||||||||||||Y|||Vermont|New York|
+48||277|Cron|Alice|White|Female|16||Abt 1864||||||||||||Y|||New Hampshire|New Hampshire|New Hampshire
+49||277|Caswell|Lillian|White|Female|11||Abt 1869||Single||||||||||Y|||Vermont|Vermont|Vermont
+
+
+1||277|Hurbut|Laura|White|Female|17||Abt 1863||||||||||||Y|||Vermont|Vermont|New Hampshire
+2||277|King|Josephine|White|Female|11||Abt 1869||Single||||||||||Y|||New York|Canada|New York
+3||277|Lee|Ellen|White|Female|14||Abt 1866||||||||||||Y|||Vermont||
+4||277|Moulton|Ida|White|Female|16||Abt 1864||||||||||||Y|||Vermont||Vermont
+5||277|Mc Guire|Rosa|White|Female|17||Abt 1863||Na||||||||||Y|||Pennsylvania|Ireland|Ireland
+6||277|Meritt|Emma|White|Female|17||Abt 1863||||||||||||Y|||Vermont|Vermont|Vermont
+7||277|Morrill|Hettie|White|Female|16||Abt 1864||||||||||||Y|||Vermont|Canada|Canada
+8||277|Poole|Minnie|White|Female|19||Abt 1861||Na||||||||||Y|||Rhode Island|Vermont|Vermont
+9||277|Peters|Jane|White|Female|16||Abt 1864||||||||||||Y|||Vermont|Canada|Canada
+10||277|Purcell|Maggie|White|Female|14||Abt 1866||||||||||||Y|||Vermont|Ireland|New York
+11||277|Rockwell|May|White|Female|19||Abt 1861||||||||||||Y|||Vermont|Vermont|Vermont
+12||277|Raymond|Maud|White|Female|11||Abt 1869||Single||||||||||Y|||Vermont||
+13||277|Shepherd|Emma|White|Female|17||Abt 1863||Na||||||||||Y|||Vermont||
+14||277|Washburne|Alice|White|Female|17||Abt 1863||||||||||||Y|||New York|New York|New York
+15||277|Wilson|Lillian|White|Female|15||Abt 1865|||
+
+1||222|Precor|Charles|White|Male|83||Abt 1797|Self (Head)|Married||Carpenter and joiner|8||||||||Y|Y|Canada|Canada|Canada
+2||222|Precor|Margaret|White|Female|69||Abt 1811|Wife|Married||Housekeeper|||||||||Y|Y|Canada|Canada|Canada
+3||222|Precor|Lydia K.|White|Female|33||Abt 1847|Daughter|Single||Homeworker|||||||||||Vermont||
+4||222|Precor|William|White|Male|29||Abt 1851|Son|Single||Laborer|4||||||||||Vermont||
+5||222|Precor|Edward|White|Male|14||Abt 1866|Grandson|Na||||||||||Y|||Vermont||
+6||222|Precor|Henry|White|Male|12||Abt 1868|Grandson|Single||||||||||Y|||Vermont||
+7||223|Gravline|Adolphus|White|Male|33||Abt 1847|Self (Head)|Married||Blacksmith|||||||||||Canada|Canada|Canada
+8||223|Gravline|Mary|White|Female|26||Abt 1854|Wife|Married||Housekeeper|||||||||||New York|New York|New York
+9||223|Gravline|Elizabeth|White|Female|5||Abt 1875|Daughter|Single|||||||||||||Vermont||
+10||223|Gravline|Eugene C.|White|Male|4||Abt 1876|Son|Single|||||||||||||Vermont||
+11||223|Gravline|Matilda|White|Female|2||Abt 1878|Daughter|Single|||||||||||||Vermont||
+12||223|Gravline|Mabel|White|Female|1/12|Jan|Abt 1880||Single|||||||||||||Vermont||
+13||223|Dashaw|Nelson|White|Male|21||Abt 1859||||Wheelwright|||||||||||Canada|Canada|Canada
+14||224|Cummings|Isaac|White|Male|35||Abt 1845|Self (Head)|Widower||Carriage painter|||||||||||Canada|Canada|Canada
+15||224|Cummings|Homer|White|Male|12||Abt 1868|Son|Single||||||||||Y|||Canada||
+16||224|Cummings|Edward|White|Male|10||Abt 1870|Son|Single||||||||||Y|||Vermont||
+17||224|Cummings|Mary L.|White|Female|8||Abt 1872|Daughter|Single||Vt||||||||Y|||||
+18||224|Cummings|Lena|White|Female|4||Abt 1876|Daughter|Single||||Sickson Eyes|||||||||Vermont||
+19||224|Cummings|Wilfred|White|Male|2||Abt 1878|Son|Single|||||||||||||Vermont||
+20||224|Bennett|Alexr.|White|Male|21||Abt 1859||Na||Apr. to Painting|||||||||||Vermont|Vermont|Vermont
+21||225|Damper|Amos|White|Male|52||Abt 1828|Self (Head)|Married||Farmer & Currier|||||||||Y|Y|Canada|Canada|Canada
+22||225|Damper|Adeline|White|Female|50||Abt 1830|Wife|Married||Housekeeper|||||||||Y|Y|Canada|Canada|Canada
+23||225|Damper|Adeline|White|Female|26||Abt 1854|Daughter|Single||Houseworker|||||||||||Vermont||
+24||225|Damper|Jennie|White|Female|10||Abt 1870|Daughter|Single||||||||||Y|||Vermont||
+25||225|Damper|Fannie|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont||
+26||226|Ryan|John W.|White|Male|33||Abt 1847|Self (Head)|Married||Saloonkeeper|||||||||||Canada|Ireland|Ireland
+27||226|Ryan|Ellen C.|White|Female|34||Abt 1846|Wife|Married||Housekeeper|||||||||||Ireland|Ireland|Ireland
+28||226|Ryan|Mary A.|White|Female|9||Abt 1871|Daughter|Single||||||||||Y|||Vermont||
+29||226|Ryan|Thomas C.|White|Male|8||Abt 1872|Son|Single||||||||||Y|||Vermont||
+30||226|Ryan|Ida E.|White|Female|5||Abt 1875|Daughter|Single||||||||||Y|||Vermont||
+31||226|Ryan|Rose|White|Female|3||Abt 1877|Daughter|Single|||||||||||||Vermont||
+32||226|Ryan|Grace T.|White|Female|2/12|Feb|Abt 1880|Daughter|Single|||||||||||||Vermont||
+33||226|La Bow|Alice|White|Female|17||Abt 1863||||Servant|||||||||||Vermont||
+34||227|Damper|John B.|White|Male|28||Abt 1852|Self (Head)|Married||Furniture maker|||||||||||Vermont|Canada|Canada
+35||227|Damper|Emma|White|Female|25||Abt 1855|Wife|Married||Housekeeper|||||||||||New York|Canada|Canada
+36||227|Damper|William|White|Male|4||Abt 1876|Son|Single|||||||||||||Vermont||
+37||227|Damper|Rose|White|Female|1||Abt 1879|Daughter|Single|||||||||||||Vermont||
+38||227|Crady|Andrew|White|Male|55||Abt 1825|Self (Head)|Married||Carpenter and joiner|||||||||Y|Y|New York|Canada|Canada
+39||227|Crady|Adeline|White|Female|44||Abt 1836|Wife|Married||Housekeeper|||||||||Y|Y|Canada|Canada|Canada
+40||227|Crady|Peter|White|Male|16||Abt 1864|Son|||||||||||Y|||Vermont||
+41||227|Crady|Mary|White|Female|13||Abt 1867|Daughter|Single||||||||||Y|||Vermont||
+42||227|Crady|Frederick|White|Male|6||Abt 1874|Son|Single||||||||||Y|||Vermont||
+
+
+1||228|Scovel|Ahira|White|Male|72||Abt 1808|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+2||228|Scovel|Amatha|White|Female|58||Abt 1822|Wife|Married||Housekeeper|||||||||||New York|New York|New York
+3||229|Rivers|Joseph|White|Male|72||Abt 1808|Self (Head)|Married||Laborer|||||||||Y|Y|Canada|Canada|Canada
+4||229|Rivers|Mary|White|Female|66||Abt 1814|Wife|Married||Housekeeper|||||||||Y|Y|Canada|Canada|Canada
+5||230|Fisher|Junius G.|White|Male|35||Abt 1845|Self (Head)|Married||Carpenter|||||||||||Vermont|Vermont|Vermont
+6||230|Fisher|Emma E.|White|Female|26||Abt 1854|Wife|Married||Housekeeper|||||||||||New York|New York|New York
+7||230|Fisher|Lena M.|White|Female|8||Abt 1872||Single||||||||||Y|||Vermont||
+8||231|Rock|James|White|Male|58||Abt 1822|Self (Head)|Married||Shoemaker|||||||||||Vermont|Canada|Canada
+9||231|Rock|Adeline|White|Female|50||Abt 1830|Wife|Married||Housekeeper|||||||||Y|Y|Canada|Canada|Canada
+10||231|Rock|Frederick|White|Male|15||Abt 1865|Son|Na||||||||||Y|||Vermont||
+11||231|Rock|Lewis|White|Male|12||Abt 1868|Son|Single||||||||||Y|||Vermont||
+12||231|Rock|Edward|White|Male|4||Abt 1876|Son|Single|||||||||||||Vermont||
+13||231|Ware|Eleazer|White|Male|22||Abt 1858|Self (Head)|Married||Curtain Roll Fact|||||||||||Maine|Maine|Maine
+14||231|Ware|Mary|White|Female|19||Abt 1861|Wife|Married|||||||||||||Vermont|New York|Canada
+15||232|Cheney|Charles|White|Male|25||Abt 1855|Self (Head)|Married||Furniture maker|||||||||||New York|New York|New York
+16||232|Cheney|Adeline|White|Female|25||Abt 1855|Wife|Married|||||||||||||New York|Canada|Canada
+17||232|Cheney|Nellie|White|Female|7||Abt 1873|Daughter|Divorced||||||||||Y|||Vermont||
+18||232|Cheney|Walter|White|Male|4||Abt 1876|Son|Single|||||||||||||Vermont||
+19||232|Cheney|P.|White|Male|1||Abt 1879|Son|Single|||||||||||||Vermont||
+20||233|Anstagney|Alexr.|White|Male|39||Abt 1841|Self (Head)|Married||Wheelwright|||||||||||Canada|Canada|Canada
+21||233|Anstagney|Ada|White|Female|38||Abt 1842|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+22||233|Anstagney|Alexr.|White|Male|12||Abt 1868|Son|Single||||||||||Y|||Vermont||
+23||233|Anstagney|Rose|White|Female|10||Abt 1870|Daughter|Single||||||||||Y|||Vermont||
+24||233|Anstagney|Eugenie|White|Female|8||Abt 1872|Daughter|Single||||||||||Y|||Vermont||
+25||233|Anstagney|Corinne|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont||
+26||233|Anstagney|Mary L.|White|Female|4||Abt 1876|Daughter|Single||||||||||Y|||Vermont||
+27||233|Anstagney|Napoleon|White|Male|2||Abt 1878|Son|Single|||||||||||||Vermont||
+28||234|Laduke|Joseph|White|Male|45||Abt 1835|Self (Head)|Married||Machinist|||||||||||Canada|Canada|Canada
+29||234|Laduke|Olive|White|Female|43||Abt 1837|Wife|Married||Housekeeper|||||||||||Vermont|Canada|Canada
+30||234|Laduke|Rose|White|Female|19||Abt 1861|Daughter|||Living At Home|||||||||||Vermont||
+31||234|Field|Benjamin|White|Male|24||Abt 1856|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+32||234|Field|Minnie|White|Female|21||Abt 1859|Wife|Married||Boarder|||||||||||Vermont|Vermont|Vermont
+33||234|Field|Maude E.|White|Female|2||Abt 1878|Daughter|Single|||||||||||||Vermont||
+34||235|Donnelly|Thomas|White|Male|48||Abt 1832|Self (Head)|Married||Nail Works|||||||||||Ireland|Ireland|Ireland
+35||235|Donnelly|Mary A.|White|Female|46||Abt 1834|Wife|Married||Housekeeper|||||||||||Ireland|Ireland|Ireland
+36||235|Donnelly|John H.|White|Male|25||Abt 1855|Son|||Merchant Trilor|||||||||||New York||
+37||235|Donnelly|Mary A.|White|Female|23||Abt 1857|Daughter|Single||Teacher|||||||||||New York||
+38||235|Donnelly|Catherine H.|White|Female|20||Abt 1860|Daughter|Single||Teacher|||||||||||New York||
+39||235|Donnelly|Elizabeth|White|Female|17||Abt 1863|Daughter|||Homeworker|||||||||||New York||
+40||235|Donnelly|Daniel T.|White|Male|14||Abt 1866|Son|||||||||||Y|||New York||
+41||235|Donnelly|William D.|White|Male|8||Abt 1872|Son|Single||||||||||Y|||Vermont||
+
+1||236|Roy|Napoleon|White|Male|37||Abt 1843|Self (Head)|Married||Wheelwright|||||||||||Canada|Canada|Canada
+2||236|Roy|Eliza|White|Female|29||Abt 1851|Wife|Married||Housekeeper||Fever||||||Y|||Vermont|Canada|Canada
+3||236|Roy|Eva|White|Female|11||Abt 1869|Daughter|Single||||||||||Y|||Vermont||
+4||236|Roy|Cora|White|Female|7||Abt 1873|Daughter|Single|||||||||||||Vermont||
+5||236|German|Mary|White|Female|19||Abt 1861||Single||Servant|||||||||||Vermont|Canada|Canada
+6||237|Garnia|Tanos|White|Male|33||Abt 1847|Self (Head)|Married||Teamster|||||||||||Canada|Canada|Canada
+7||237|Garnia|Mary|White|Female|32||Abt 1848|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+8||237|Garnia|Alinson|White|Male|6||Abt 1874|Son|Single||||||||||Y|||Canada||
+9||237|Garnia|Flora|White|Female|4||Abt 1876|Daughter|Single||||||||||Y|||Canada||
+10||237|Garnia|Joseph|White|Male|3||Abt 1877|Son|Single|||||||||||||Vermont||
+11||237|Garnia|Almeda|White|Female|2||Abt 1878|Daughter|Single|||||||||||||Vermont||
+12||237|Fredo|Charles|White|Male|56||Abt 1824|Self (Head)|Married|||4||||||||Y|Y|Canada|Canada|Canada
+13||237|Fredo|Roselle|White|Female|47||Abt 1833|Wife|Married||Housekeeper|||||||||Y|Y|Canada|Canada|Canada
+14||237|Fredo|Saml.|White|Male|20||Abt 1860|Son|Na||Nail Works|||||||||Y|Y|Vermont||
+15||237|Fredo|Esther|White|Female|23||Abt 1857|Daughter|Single||Servant|||||||||||Vermont||
+16||237|Fredo|William|White|Male|16||Abt 1864|Son|||Nail Works|||||||||||Vermont||
+17||237|Fredo|Charles|White|Male|13||Abt 1867|Son|Single||||||||||Y|||Vermont||
+18||237|Fredo|Jennie B.|White|Female|5||Abt 1875|Daughter|Single||||||||||Y|||Vermont||
+19||237|Vodrie|Margaret|White|Female|37||Abt 1843||Single||Washer|||||||||||Canada|Canada|Canada
+20||238|Smith|John D.|White|Male|63||Abt 1817|Self (Head)|Married||Judge of Probates|||||||||||Vermont|Vermont|Vermont
+21||238|Smith|Emily C.|White|Female|62||Abt 1818|Wife|Married||Housekeeper|||||||||||Rhode Island|Rhode Island|Rhode Island
+22||238|Smith|Electa S.|White|Female|25||Abt 1855|Daughter|Single||Living At Home|||||||||||Vermont||
+23||238|Smith|Annette|White|Female|21||Abt 1859|Daughter|Single||Living At Home|||||||||||Vermont||
+24||238|Smith|Lucy M.|White|Female|19||Abt 1861|Daughter|Single||Living At Home|||||||||||Vermont||
+25||239|Mc Govern|Edwd. E.|White|Male|31||Abt 1849|Self (Head)|Married||Dentist|||||||||||Canada|Canada|Canada
+26||239|Mc Govern|Lorraine B.|White|Female|31||Abt 1849|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+27||240|Phair|Mary J.|White|Female|70||Abt 1810|Self (Head)|Widowed||Housekeeper|||||||||||Ireland|Ireland|Ireland
+28||240|Preston|Sarah|White|Female|66||Abt 1814|Sister|Single||Boarder|||||||||||Ireland|Ireland|Ireland
+29||240|Seaver|Roena|White|Female|82||Abt 1798||Widowed|||||||||||||New Hampshire|New Hampshire|New Hampshire
+30||241|Zottman|John H.|White|Male|40||Abt 1840|Self (Head)|Married||Machinist|||||||||||Vermont|Pennsylvania|Vermont
+31||241|Zottman|Margaret|White|Female|36||Abt 1844|Wife|Married||Housekeeper|||||||||||Vermont|Ireland|Ireland
+32||241|Zottman|John C.|White|Male|6||Abt 1874|Son|Single||||||||||Y|||Vermont||
+33||241|Zottman|Walter W.|White|Male|5||Abt 1875|Son|Single||||||||||Y|||Vermont||
+34||241|Zottman|Aurthur|Mulatto|Male|2||Abt 1878|Son|Single|||||||||||||Vermont||
+35||241|Glennon|Anna|White|Female|26||Abt 1854|Sister|Single||Hair worker|||||||||||Vermont|Ireland|Ireland
+36||242|Fredo|Andrew|White|Male|30||Abt 1850|Self (Head)|Married||Cabinetmaker|||||||||||Vermont|Canada|Canada
+37||242|Fredo|Mary|White|Female|30||Abt 1850|Wife|Married||Housekeeper|||||||||||Vermont|Canada|Canada
+38||242|Fredo|Mary E.|White|Female|8||Abt 1872|Daughter|Single||||||||||Y|||Vermont||
+39||242|Fredo|Jennie B.|White|Female|5||Abt 1875|Daughter|Single||||||||||Y|||Vermont||
+40||242|Fredo|Rosenell|White|Female|2||Abt 1878|Daughter|Single||Vt|||||||||||||
+41||242|Shambo|Octave|White|Male|43||Abt 1837|Self (Head)|Married||Painter|4||||||||||Canada|Canada|Canada
+42||242|Shambo|Jephine|White|Female|33||Abt 1847|Wife|Married||Housekeeper|||||||||||New York|Canada|Canada
+
+1||243|Blakley|Fisher|White|Male|27||Abt 1853|Self (Head)|Married||Laborer|||||||||||New York|Canada|Canada
+2||243|Blakley|Ellen|White|Female|24||Abt 1856|Wife|Married||Housekeeper|||||||||||New York|New York|New York
+3||243|Blakley|Arthur|White|Male|5||Abt 1875|Son|Single||||||||||Y|||New York||
+4||243|Blakley|Myron|White|Male|3||Abt 1877|Son|Single|||||||||||||Vermont||
+5||244|Lawrence|Joseph N.|White|Male|27||Abt 1853|Self (Head)|Married||Nail maker|||||||||Y|Y|Canada|Canada|Canada
+6||244|Lawrence|Ester F.|White|Female|23||Abt 1857|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+7||244|Lawrence|Joseph|White|Male|6||Abt 1874|Son|Single||||||||||Y|||Vermont||
+8||244|Lawrence|Louis|White|Female|4||Abt 1876|Daughter|Single|||||||||||||Vermont||
+9||244|Lawrence|Mary|White|Female|2||Abt 1878|Daughter|Single|||||||||||||Vermont||
+10||244|Lawrence|Rosa|White|Female|7/12|Jul|Abt 1879|Daughter|Single|||||||||||||Vermont||
+11||244|Lawrence|Louis|White|Male|30||Abt 1850||Widower||Nail worker|||||||||Y|Y|Canada|Canada|Canada
+12||244|Lawrence|Bella|White|Female|5||Abt 1875||Single||Boarder|||||||||||Vermont||
+13||245|Hare|Robert|White|Male|32||Abt 1848|Self (Head)|Married||Laborer|||||||||||Holland|Holland|Holland
+14||245|Hare|Celia|White|Female|27||Abt 1853|Wife|Married||Housekeeper|||||||||Y|Y|New York|Canada|Canada
+15||245|Hare|Minnie|White|Female|5||Abt 1875|Daughter|Single|||||||||||||New York||
+16||245|Hare|Elizabeth|White|Female|4||Abt 1876|Daughter|Single|||||||||||||New York||
+17||245|Hare|Charles|White|Male|1||Abt 1879|Son|Single|||||||||||||New York||
+18||246|Bartley|Jaremiah|White|Male|40||Abt 1840|Self (Head)|Married||Door maker|||||||||||Vermont|Ireland|Ireland
+19||246|Bartley|Anne E.|White|Female|30||Abt 1850|Wife|Married||Housekeeper|||||||||||New York|New York|New York
+20||246|Bartley|John F.|White|Male|10||Abt 1870|Son|Single||||||||||Y|||Vermont||
+21||246|Bartley|William|White|Male|5||Abt 1875|Son|Single|||||||||||||Vermont||
+22||246|Bartley|Charles H.|White|Male|3||Abt 1877|Son|Single|||||||||||||Vermont||
+23||246|Bartley|Louise A.|White|Female|7/12|Jul|Abt 1879|Daughter|Single|||||||||||||Vermont||
+24||247|Moulton|Fordyce|White|Male|38||Abt 1842|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+25||247|Moulton|Lucy E.|White|Female|35||Abt 1845|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+26||247|Moulton|Ida M.|White|Female|13||Abt 1867|Daughter|Single||||||||||Y|||Vermont||
+27||247|Moulton|Lulu A.|White|Female|10||Abt 1870|Daughter|Single||||||||||Y|||Vermont||
+28||248|Ryan|Michael W.|White|Male|32||Abt 1848|Self (Head)|Married||Saloonkeeper|||||||||||Ireland|Ireland|Ireland
+29||248|Ryan|Bridget|White|Female|33||Abt 1847|Wife|Married||Housekeeper|||||||||||Ireland|Ireland|Ireland
+30||248|Ryan|Charles|White|Male|12||Abt 1868|Son|Single|||||||||||||Vermont||
+31||248|Ryan|Frank H.|White|Male|9||Abt 1871|Son|Single||||||||||Y|||Vermont||
+32||248|Ryan|Lucy A.|White|Female|6||Abt 1874|Daughter|Single||||||||||Y|||Vermont||
+33||248|Ryan|George W.|White|Male|3/12|Mar|Abt 1880|Son|Single||||||||||Y|||Vermont||
+34||249|Allen|Louise L.|White|Female|50||Abt 1830|Self (Head)|Widowed||Housekeeper|||||||||||Vermont|Vermont|Vermont
+35||249|Reynolds|Clarence|White|Male|22||Abt 1858||Single||Laborer|||||||||||Vermont|Vermont|Vermont
+
+1||250|Sherrill|William A.|White|Male|48||Abt 1832|Self (Head)|Married||Farmer|||||||||||Vermont|New York|Vermont
+2||250|Sherrill|Rhoda|White|Female|46||Abt 1834|Wife|Married||Housekeeper|||||||||||Canada|Vermont|Canada
+3||250|Sherrill|Elliot|White|Male|85||Abt 1795|Father|Widower||Retired farmer||Poor Matth Old Age|||||||||New York|New York|New York
+4||250|La Port|Emma|White|Female|17||Abt 1863||Na||Servant|||||||||||Vermont|Canada|Canada
+5||250|Daniels|Juba|White|Male|23||Abt 1857||Single||Laborer|||||||||||Vermont|Canada|Canada
+6||250|Rivers|Frank|White|Male|17||Abt 1863||||Laborer|||||||||||Vermont|Canada|Vermont
+7||251|Smith|Jacob|White|Male|76||Abt 1804|Self (Head)|Married||Farmer|12|Rheumatism|||||||||Vermont|Vermont|Vermont
+8||251|Smith|Mary|White|Female|74||Abt 1806|Wife|Married||Housekeeper||Poor Matth|||||||||Vermont|Vermont|Vermont
+9||251|Landon|Mary G.|White|Female|43||Abt 1837|Daughter|Widowed||Homeworker|||||||||||Vermont||
+10||251|Smith|George|White|Male|37||Abt 1843|Son|Single||Farmer|||||||||||Vermont||
+11||251|Smith|Hellen|White|Female|33||Abt 1847|Daughter|Single||Homeworker|||||||||||Vermont||
+12||251|Smith|Susan|White|Female|30||Abt 1850|Daughter|Single||Homeworker|||||||||||Vermont||
+13||251|Juno|Carrie|White|Female|17||Abt 1863||||Servant|||||||||||Vermont|Canada|Ireland
+14||252|Grandey|Stillman|White|Male|66||Abt 1814|Self (Head)|Married||Farmer|||||||||||Vermont|Vermont|Vermont
+15||252|Grandey|Lucretia|White|Female|63||Abt 1817|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+16||252|Grandey|Sarah L.|White|Female|25||Abt 1855|Daughter|Single||Assistant in H|||||||||||Vermont||
+17||252|Grandey|Willard A.|White|Male|23||Abt 1857|Son|Single||Assist. on Farm|||||||||||Vermont||
+18||252|Hoyt|Lindia|White|Female|23||Abt 1857||Single||Servant|||||||||||Vermont||
+19||252|Dushaw|George|White|Male|20||Abt 1860||Na||Laborer|||||||||||Vermont|Canada|Canada
+20||253|La Due|William|White|Male|27||Abt 1853|Self (Head)|Married||Farmer hand|4||||||||||Vermont|Canada|Canada
+21||253|La Due|Elizabeth|White|Female|27||Abt 1853|Wife|Married||Housekeeper|||||||||||New York|Canada|Vermont
+22||253|La Due|Rhoda|White|Female|5||Abt 1875|Daughter|Single||||||||||Y|||Vermont||
+23||253|La Due|Arminta|White|Female|4||Abt 1876|Daughter|Single|||||||||||||Vermont||
+24||253|La Due|William|White|Male|2||Abt 1878|Son|Single|||||||||||||Vermont||
+25||253|La Due|Herbert|White|Male|10/12|Oct|Abt 1879|Son|Single|||||||||||||Vermont||
+26||254|Holcomb|Edward|White|Male|40||Abt 1840|Self (Head)|Married||Laborer|6||||||||||Vermont|Vermont|Vermont
+27||254|Holcomb|Falinda|White|Female|47||Abt 1833|Wife|Married||Keeping|||||||||||Vermont|Vermont|Vermont
+28||254|Holcomb|Edward|White|Male|20||Abt 1860|Son|||Curtain Roller|||||||||||Vermont||
+29||254|Holcomb|William|White|Male|17||Abt 1863|Son|||Nail Comp|||||||||||Vermont||
+30||254|Holcomb|Emma|White|Female|12||Abt 1868|Daughter|Single||||||||||Y|||Vermont||
+31||255|Rivers|Bellamy|White|Male|40||Abt 1840|Self (Head)|Married||Farmer|||||||||||Vermont|Canada|Canada
+32||255|Rivers|Delia|White|Female|38||Abt 1842|Wife|Married||Housekeeper|||||||||||Vermont|Canada|Canada
+33||255|Rivers|Louis|White|Male|22||Abt 1858|Son|Single||Laborer|||||||||||Vermont||
+34||255|Rivers|Franklin|White|Male|19||Abt 1861|Son|||Laborer|||||||||||Vermont||
+35||255|Rivers|Margaret|White|Female|16||Abt 1864|Daughter|||Servant||||||||Y|||Vermont||
+36||255|Rivers|George|White|Male|13||Abt 1867|Son|Single||||||||||Y|||Vermont||
+37||255|Rivers|Julia|White|Female|11||Abt 1869|Daughter|Single||||||||||Y|||Vermont||
+38||255|Rivers|Esther|White|Female|3||Abt 1877|Daughter|Single|||||||||||||||
+39||255|Hewell|Albert|White|Male|31||Abt 1849|Self (Head)|Married||Laborer|6||||||||||Canada|Canada|Canada
+40||255|Hewell|Harriet|White|Female|30||Abt 1850|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+41||255|Hewell|Amanda|White|Female|3||Abt 1877|Daughter|Single|||||||||||||Canada||
+42||255|Hewell|Lydia|White|Female|8/12|Aug|Abt 1879|Daughter|Single|||||||||||||Canada||
+43||255|Bodra|Charles|White|Male|68||Abt 1812|Father|Widower||Laborer|||||||||Y|Y|Canada||
+
+
+1||256|Barror|Dustin C.|White|Male|34||Abt 1846|Self (Head)|Married||Farmer|||||||||||Vermont|Canada|Canada
+2||256|Barror|Alma|White|Female|29||Abt 1851|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+3||256|Barror|Charles E.|White|Male|9||Abt 1871|Son|Single||||||||||Y|||Vermont||
+4||256|Barror|Alice L.|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont||
+5||256|Barror|Francis A.|White|Male|2||Abt 1878|Son|Single|||||||||||||Vermont||
+6||256|Barror|Ernest T.|White|Male|4/12|Apr|Abt 1880|Son|Single|||||||||||||Vermont||
+7||257|Bopra|Leon|White|Male|40||Abt 1840|Self (Head)|Married||Curtain Roll Fact|||||||||||Canada|Canada|Canada
+8|Panton Road|257|Bopra|Mary|White|Female|37||Abt 1843|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+9|Panton Road|258|Lavella|Paul|White|Male|75||Abt 1805|Self (Head)|Married||Laborer||Poor Matth|||||||Y|Y|Canada|Canada|Canada
+10|Panton Road|258|Lavella|Ellen|White|Female|77||Abt 1803|Wife|Married||Housekeeper|||||||||Y|Y|Canada|Canada|Canada
+11|Panton Road|259|Jarvis|Cyrus|White|Male|36||Abt 1844|Self (Head)|Married||Painter|||||||||||Vermont|Canada|Canada
+12|Panton Road|259|Jarvis|Adeline|White|Female|30||Abt 1850|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+13|Panton Road|259|Jarvis|George|White|Male|10||Abt 1870|Son|Single||||||||||Y|||Connecticut||
+14|Panton Road|259|Jarvis|Agnes|White|Female|8||Abt 1872|Daughter|Single||||||||||Y|||Connecticut||
+15|Panton Road|259|Jarvis|Laura|White|Female|6||Abt 1874|Daughter|Single||||||||||Y|||Vermont||
+16|Panton Road|259|Jarvis|Cornellius|White|Male|3||Abt 1877|Son|Single|||||||||||||Vermont||
+17|Panton Road|259|Jarvis|Regina|White|Female|7/12|Jul|Abt 1879|Daughter|Single|||||||||||||Vermont||
+18|Panton Road|260|Brooks|Loren. S.|White|Male|42||Abt 1838|Self (Head)|Married||Farmer|||||||||||New York|New York|New York
+19|Panton Road|260|Brooks|Sarah P.|White|Female|39||Abt 1841|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+20|Panton Road|260|Brooks|Walter E.|White|Male|16||Abt 1864|Son|||||||||||Y|||Massachusetts||
+21|Panton Road|260|Brooks|Jennie J.|White|Female|13||Abt 1867|Daughter|Single||||||||||Y|||Massachusetts||
+22|Panton Road|260|Brooks|William H.|White|Male|10||Abt 1870|Son|Single||||||||||Y|||Vermont||
+23|Panton Road|260|Allen|Patence|White|Female|72||Abt 1808|Mother||||||||||||||Vermont|Connecticut|Connecticut
+24|Panton Road|260|Smith|Jane|White|Female|64||Abt 1816||Single||Nurse|||||||||||Vermont|Vermont|Vermont
+25|Panton Road|261|Pullman|Irving W.|White|Male|32||Abt 1848|Self (Head)|Married||Tinsmith|||||||||||Vermont|Vermont|New York
+26|Panton Road|261|Pullman|Susan|White|Female|29||Abt 1851|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+27|Panton Road|261|Pullman|Leslie|White|Male|5||Abt 1875|Son|Single||||||||||Y|||Vermont||
+28|Panton Road|261|Pullman|Jessie|White|Female|3||Abt 1877|Daughter|Single|||||||||||||Vermont||
+29|Panton Road|261|Pullman|Ralph|White|Male|10/12|Oct|Abt 1879|Son|Single|||||||||||||Vermont||
+30|Panton Road|262|Washburn|Seymour|White|Male|72||Abt 1808|Self (Head)|Married||Tanner and currier|||||||||||Vermont|Vermont|Vermont
+31|Panton Road|262|Washburn|Eliza|White|Female|60||Abt 1820|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+32|Panton Road|275|Austin|Lawrence|White|Male|49||Abt 1831|Self (Head)|Married||Teamster|6||||||||Y|Y|Canada|Canada|Canada
+33|Panton Road|275|Austin|Zotair|White|Female|45||Abt 1835|Wife|Married||Housekeeper|||||||||Y|Y|Canada|Canada|Canada
+34|Panton Road|275|Austin|Peter|White|Male|23||Abt 1857|Son|Single||Wheelwright|||||||||||Canada||
+35|Panton Road|275|Austin|Rosa|White|Female|17||Abt 1863|Daughter|||Servant|||||||||||Vermont||
+36|Panton Road|275|Austin|Lena|White|Female|15||Abt 1865|Daughter||||||||||||||Vermont||
+37|Panton Road|275|Austin|Lawrence|White|Male|7||Abt 1873|Son|Single||||||||||Y|||Vermont||
+
+
+1|Panton Road|263|Renaud|Desire|White|Female|34||Abt 1846|Self (Head)|Married||Baker|||||||||||Canada|Canada|Canada
+2|Panton Road|263|Renaud|Harriet|White|Female|31||Abt 1849|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+3|Panton Road|263|Renaud|Anna H.|White|Female|9||Abt 1871|Daughter|Single||||||||||Y|||Vermont||
+4|Panton Road|263|Renaud|Mary|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont||
+5|Panton Road|263|Renaud|Joseph|White|Male|4||Abt 1876|Son|Single|||||||||||||Vermont||
+6|Panton Road|263|Renaud|Jane|White|Female|1/12||Abt 1880|Daughter|Single|||||||||||||Vermont||
+7|Panton Road|263|Sloan|Josephine|White|Female|19||Abt 1861||Single||Servant|||||||||||Canada|Ireland|Ireland
+8|Panton Road|264|Sloan|George|White|Male|62||Abt 1818|Self (Head)|Married||Hostler S... House|||||||||||Ireland|Ireland|Ireland
+9|Panton Road|264|Sloan|Adeline|White|Female|57||Abt 1823|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+10|Panton Road|264|Sloan|Lucy|White|Female|17||Abt 1863|Daughter|||Homeworker|||||||||||Canada||
+11|Panton Road|264|Sloan|Eva|White|Female|15||Abt 1865|Daughter|||||||||||Y|||Canada||
+12|Panton Road|264|Sloan|Henry|White|Male|25|Sep|Abt 1855|Son|Married||Express driver|||||||||||Canada||
+13|Panton Road|264|Sloan|Mary|White|Female|22||Abt 1858|Daughter-in-law|Married||Boarder|||||||||||Vermont|Canada|New York
+14|Panton Road|265|Lahy|Thomas|White|Male|44||Abt 1836|Self (Head)|Married||Laborer|4||||||||||Ireland|Ireland|Ireland
+15|Panton Road|265|Lahy|Margaret|White|Female|42||Abt 1838|Wife|Married||Housekeeper|||||||||||Canada|Canada|Ireland
+16|Panton Road|265|Lahy|John E.|White|Male|13||Abt 1867|Son|Single||||||||||Y|||Vermont||
+17|Panton Road|265|Lahy|Thomas F.|White|Male|11||Abt 1869|Son|Single||||||||||Y|||Vermont||
+18|Panton Road|265|Lahy|Mary H.|White|Female|9||Abt 1871|Daughter|Single||||||||||Y|||Vermont||
+19|Panton Road|265|Lahy|Charles H.|White|Male|6||Abt 1874|Son|Single||||||||||Y|||Vermont||
+20|Panton Road|266|Gillett|Carlos F.|White|Male|53||Abt 1827|Self (Head)|Married||Miller|||||||||||Vermont|Vermont|Vermont
+21|Panton Road|266|Gillett|Charlotte|White|Female|55||Abt 1825|Wife|Married||Housekeeper|||||||||||Vermont|New Hampshire|Vermont
+22|Panton Road|266|Gillett|Carlos C.|White|Male|27||Abt 1853|Son|Single||Laborer|8||||||||||Vermont||
+23|Panton Road|266|Gillett|Frank C.|White|Male|20||Abt 1860|Son|Na||Hotel clerk|||||||||||Vermont||
+24|Panton Road|267|Lahy|John|White|Male|37||Abt 1843|Self (Head)|Married||Laborer|4||||||||Y|Y|Ireland|Ireland|Ireland
+25|Panton Road|267|Lahy|Johanna|White|Female|32||Abt 1848|Wife|Married||Housekeeper|||||||||Y|Y|Ireland|Ireland|Ireland
+26|Panton Road|267|Lahy|William E.|White|Male|8||Abt 1872|Son|Single||||||||||Y|||Vermont||
+27|Panton Road|267|Lahy|George|White|Male|6||Abt 1874|Son|Single||||||||||Y|||Vermont||
+28|Panton Road|267|Lahy|Anna A.|White|Female|2||Abt 1878|Daughter|Single|||||||||||||Vermont||
+29|Panton Road|267|Lahy|John J.|White|Male|4/12||Abt 1880|Son|Single|||||||||||||Vermont||
+30|Panton Road|268|Rafferty|John|White|Male|71||Abt 1809|Self (Head)|Married||Laborer|||||||||Y|Y|Ireland|Ireland|Ireland
+31|Panton Road|268|Rafferty|Catherine|White|Female|61||Abt 1819|Wife|Married|||||||||||Y|Y|Ireland|Ireland|Ireland
+32|Panton Road|268|Rafferty|Daniel|White|Male|20||Abt 1860|Son|||Painter|||||||||||Vermont||
+33|Panton Road|269|Reynaud|Nelson|White|Male|25||Abt 1855|Self (Head)|||Barber|||||||||||Canada|Canada|Canada
+34|Panton Road|269|Reynaud|Mary A.|White|Female|26||Abt 1854|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+35|Panton Road|269|Reynaud|Frederick|White|Male|1||Abt 1879|Son|Single|||||||||||||Vermont||
+36|Panton Road|270|Reynaud|Lewis|White|Male|63||Abt 1817|Self (Head)|Widower||Laborer|6||||||||||Canada|Canada|Canada
+37|Panton Road|270|Reynaud|Lewis|White|Male|23||Abt 1857|Son|Single||Cabinetmaker|||||||||||Canada||
+38|Panton Road|270|Reynaud|Delia|White|Female|29||Abt 1851|Daughter|Single||Housekeeper|||||||||||Canada||
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1|Panton Road|271|La Bombard|Peter|White|Male|43||Abt 1837|Self (Head)|Married||Farmer|||||||||||New York|Canada|Canada
+2|Panton Road|271|La Bombard|Adeline|White|Female|41||Abt 1839|Wife|Married||Housekeeper|||||||||Y|Y|Canada|Canada|Canada
+3|Panton Road|271|La Bombard|Frances|White|Female|17||Abt 1863|Daughter|||Homeworker|||||||||||Vermont||
+4|Panton Road|271|La Bombard|William|White|Male|15||Abt 1865|Son||||||||||||||Vermont||
+5|Panton Road|271|La Bombard|Marion|White|Female|12||Abt 1868|Daughter|Single||Vt||||||||Y|||||
+6|Panton Road|271|La Bombard|Fannie|White|Female|9||Abt 1871|Daughter|Single||||||||||Y|||Vermont||
+7|Panton Road|271|La Bombard|Frank|White|Male|8||Abt 1872|Son|Single||||||||||Y|||Vermont||
+8|Panton Road|271|La Bombard|Edward|White|Male|5||Abt 1875|Son|Single|||||||||||||Vermont||
+9|Panton Road|271|La Bombard|Frederick|White|Male|6/12|Dec|Abt 1880|Son|Single|||||||||||||Vermont||
+10|Panton Road|272|Brashau|Thomas|White|Male|42||Abt 1838|Self (Head)|Married|||8|One Leg|||||||Y|Y|Canada|Canada|Canada
+11|Panton Road|272|Brashau|Julia|White|Female|37||Abt 1843|Wife|Married|||||||||||||New York|Canada|New York
+12|Panton Road|272|Brashau|Thomas|White|Male|20||Abt 1860|Son|||Curtain Roll Facty|||||||||||New York||
+13|Panton Road|272|Brashau|Mary|White|Female|18||Abt 1862|Daughter|||Homeworker|||||||||||New York||
+14|Panton Road|272|Brashau|Julia|White|Female|11||Abt 1869|Daughter|Single||||||||||Y|||New York||
+15|Panton Road|272|Brashau|Rose|White|Female|4||Abt 1876|Daughter|Single|||||||||||||Vermont||
+16|Panton Road|273|Lashua|Frank|White|Male|43||Abt 1837|Self (Head)|Married||Carpenter and joiner|||||||||||New York|France|New York
+17|Panton Road|273|Lashua|Julia|White|Female|35||Abt 1845|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+18|Panton Road|273|Lashua|F. Elizabeth|White|Female|15||Abt 1865|Daughter|||||||||||Y|||Vermont||
+19|Panton Road|273|Lashua|Benjamin F.|White|Male|13||Abt 1867|Son|Single||||||||||Y|||Vermont||
+20|Panton Road|273|Lashua|Julia M.|White|Female|10||Abt 1870|Daughter|Single||||||||||Y|||Vermont||
+21|Panton Road|273|Lashua|Susan|White|Female|8||Abt 1872|Daughter|Single||||||||||Y|||Vermont||
+22|Panton Road|273|Lashua|James W.|White|Female|6||Abt 1874|Sister|Single||||||||||Y|||Vermont||
+23|Panton Road|273|Lashua|Mary E.|White|Female|3||Abt 1877|Daughter|Single|||||||||||||Vermont||
+24|Panton Road|273|Lashua|Ellen M.|White|Female|1||Abt 1879|Daughter|Single|||||||||||||Vermont||
+25|Panton Road|274|Gaunya|Austin|White|Male|41||Abt 1839|Self (Head)|Married||Teamster|||||||||||Vermont|Canada|Canada
+26|Panton Road|274|Gaunya|Mary L.|White|Female|40||Abt 1840|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+27|Panton Road|274|Gaunya|Theodore|White|Male|19||Abt 1861|Son|||Farmer hand|||||||||||Vermont||
+28|Panton Road|274|Gaunya|Emma B.|White|Female|17||Abt 1863|Daughter|||Homeworker|||||||||||Vermont||
+29|Panton Road|274|Gaunya|Lodwena|White|Female|15||Abt 1865|Daughter|||||||||||Y|||Vermont||
+30|Panton Road|274|Gaunya|Stephen|White|Male|10||Abt 1870|Son|Single||||||||||Y|||Vermont||
+31|Panton Road|274|Gaunya|Delena J.|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont||
+32|Panton Road|274|Gaunya|Cordelia|White|Female|5||Abt 1875|Daughter|Single||||||||||Y|||Vermont||
+33|Panton Road|274|Gaunya|Georgiana|White|Female|2||Abt 1878|Daughter|Single|||||||||||||Vermont||
+34|Panton Road|274|Gaunya|Nellie L.|White|Female|3/12|Feb|Abt 1880|Daughter|Single|||||||||||||Vermont||
+35|Panton Road|274|Lucia|Margaret|White|Female|80||Abt 1800|Mother||||||||||||Y|Y|Canada|Canada|Canada
+36|Panton Road|276|Mack|Thomas|White|Male|26||Abt 1854|Self (Head)|Married||Merchant ...|||||||||||Vermont|Ireland|Ireland
+37|Panton Road|276|Mack|Mary A.|White|Female|26||Abt 1854|Wife|Married||Housekeeper|||||||||||New York|Ireland|Ireland
+38|Panton Road|276|Mc Mahon|Elizabeth|White|Female|24||Abt 1856||Single||Dressmaker|||||||||||New York||
 
