@@ -1,0 +1,44 @@
+PageLine|Street|Dwelling|Surname|GivenName|Race|Gender|Age|BirthMonth|BirthYear|Relation|Marital|MarriedThisYear|Occupation|MonthsUnemployed|Sick|Blind|DeafDumb|Idiotic|Insane|Maimed|AttendedSchool|CannotRead|CannotWrite|Birthplace|FatherBirthPlace|MotherBirthPlace
+1||1|Stone|Charles|White|Male|35||Abt 1845|Self (Head)|Married||Brick and stone mason|6||||||||||Canada|Canada|Canada
+2||1|Stone|Laura|White|Female|26||Abt 1854|Wife|Married||Housekeeper|||||||||||Vermont|Canada|Canada
+3||1|Stone|Evalina|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont|Canada|Vermont
+4||1|Stone|Viola|White|Female|4||Abt 1876|Daughter|Single|||||||||||||Vermont|Canada|Vermont
+5||2|Miner|Joseph S.|White|Male|39||Abt 1841|Self (Head)|Married||Shoemaker|||||||||||Canada|Canada|Canada
+6||2|Miner|Frances|White|Female|32||Abt 1848|Wife|Married||Housekeeper|||||||||||Vermont|Canada|Vermont
+7||2|Miner|Fanny D.|White|Female|11||Abt 1869|Daughter|Single||||||||||Y|||Vermont||
+8||2|Miner|Mary B.|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont||
+9||2|Miner|Josephine|White|Female|2||Abt 1878||Single|||||||||||||Vermont||
+10||2|Daniels|Edgar P.|White|Male|59||Abt 1821|Self (Head)|Married||House carpenter|||||||||||Vermont|Vermont|Vermont
+11||2|Daniels|Lydia|White|Female|46||Abt 1834|Wife|Married||Housekeeper|||||||||||Vermont|Vermont|Vermont
+12||2|Daniels|Abby L.|White|Female|29||Abt 1851|Daughter|Single||General Sewing|||||||||||Vermont|Vermont|Vermont
+13||2|Daniels|Emily E.|White|Female|23||Abt 1857|Daughter|Single||General Sewing|||||||||||Vermont|Vermont|Vermont
+14||2|Daniels|George E.|White|Male|21||Abt 1859|Son|Single||Day laborer|5||||||||||Vermont|Vermont|Vermont
+15||2|Michell|George|White|Male|16||Abt 1864||||Assistant to Cabinet M|||||||||||||
+16||3|Myers|George|White|Male|24|Jan|Abt 1856|Self (Head)|Married||Stone and brick mason|6||||||||||Vermont|Canada|Canada
+17||3|Myers|Mary|White|Female|23|Jan|Abt 1857|Wife|Married||Housekeeper|||||||||||Vermont|Canada|Canada
+18||4|Myers|Isaac|White|Male|58||Abt 1822|Self (Head)|Widower||Stone and brick mason|6||||||||||Canada|Canada|Canada
+19||4|Myers|Henry|White|Male|30||Abt 1850|Son|||Chores At Home|||||Y||||Y|Y|Vermont|Canada|Canada
+20||4|Myers|Julia|White|Female|23||Abt 1857|Daughter|Single||Housekeeper|||||||||||Vermont||
+21||4|Myers|Annette|White|Female|79||Abt 1801|Grandmother||||||||||||||Canada|Canada|Canada
+22||5|Belter|Mary|White|Female|51||Abt 1829|Self (Head)|Widowed||Housekeeper|||||||||||New York|Canada|Canada
+23||5|Belter|Samuel|White|Male|30||Abt 1850|Son|Single||House carpenter|4||||||||||New York||
+24||5|Belter|Mary|White|Female|27||Abt 1853|Daughter|Single||Seamstress|||||||||||Vermont||
+25||5|Belter|Jenny|White|Female|22||Abt 1858|Daughter|Single||Seamstress|||||||||||Rhode Island||
+26||5|Belter|George|White|Male|16||Abt 1864|Son|Na||Carpenter|||||||||||Vermont||
+27||5|Belter|William|White|Male|13||Abt 1867|Son|Single||||||||||Y|||Vermont||
+28||6|Miller|Henry|White|Male|38||Abt 1842|Self (Head)|Married||Stone and brick mason|6||||||||||Vermont|Canada|Canada
+29||6|Miller|Mary|White|Female|36||Abt 1844|Wife|Married||Housekeeper|||||||||||Canada|Canada|Canada
+30||6|Miller|Mary P.|White|Female|15||Abt 1865|Sister|||||||||||Y|||Vermont||
+31||6|Miller|Eliza P.|White|Female|12||Abt 1868|Daughter|Single||||||||||Y|||Vermont||
+32||6|Miller|Henry L.|White|Male|10||Abt 1870|Son|Single||||||||||Y|||Vermont||
+33||6|Miller|Rose|White|Female|8||Abt 1872|Daughter|Single||||||||||Y|||Vermont||
+34||6|Miller|Lottie|White|Female|5||Abt 1875|Daughter|Single|||||||||||||Vermont||
+35||6|Miller|Arthur|White|Male|2||Abt 1878|Son|Single|||||||||||||Vermont||
+36||7|Garna|Joseph|White|Male|59||Abt 1821|Self (Head)|Married||Dressmaker|6|Kidney Com|||||||Y|Y|Canada|Canada|Canada
+37||7|Garna|Alzine|White|Female|55||Abt 1825|Wife|Married||Housekeeper|||||||||Y|Y|Canada|Canada|Canada
+38||7|Garna|Joseph|White|Male|30||Abt 1850|Self (Head)|Married||Sash maker||Sick|||||||||Vermont||
+39||7|Garna|Fanny|White|Female|27||Abt 1853|Wife|Married||Housekeeper||Sick|||||||||Vermont||
+40||7|Garna|John|White|Male|6||Abt 1874|Son|Single|||||||||||||Vermont||
+41||7|Garna|Mary|White|Female|5||Abt 1875|Daughter|Single|||||||||||||Vermont||
+42||7|Garna|Judy|White|Female|3||Abt 1877|Daughter|Single|||||||||||||||
+
