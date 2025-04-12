@@ -1271,7 +1271,7 @@ PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|Ind
 42|204|212|Louisa|Dexter|45|1805|Female|White||||New Hampshire||||
 
 
-1|204|212|Emily|Dexter|18|1832|Female|White||||Vermont||Yes||
+1|204|212|Emily|Dexter|18|1832|Female|White||||Vermont||Yes||||
 2|204|212|Charles|Dexter|16|1834|Male|White|Farmer|Agriculture||Vermont||Yes||
 3|204|212|Frances|Dexter|13|1837|Female|White||||Vermont||Yes||
 4|204|212|Oliver|Dexter|10|1840|Male|White||||Vermont||Yes||
@@ -1314,6 +1314,9 @@ PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|Ind
 41|211|220|Harriet|French|21|1829|Female|White||||Vermont||||
 42|211|220|Mary|French|16|1834|Female|White||||Vermont||Yes||
 
+
+
+
 12|213|220|Emily|French|11|1839|Female|White||||Vermont||||
 13|213|220|George|Champion|15|1835|Male|White||||Canada||||
 14|214|221|George|Everts|59|1791|Male|White|Farmer|Agriculture|5000|Vermont||||
@@ -1322,6 +1325,9 @@ PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|Ind
 17|214|222|David|Carpenter|32|1818|Male|White||||Canada||||
 18|214|222|Flavel|Carpenter|32|1818|Female|White||||Canada||||
 19|214|222|David|Carpenter|9|1841|Male|White||||Vermont||Yes||
+
+
+
 1|211|222|John|Carpenter|7|1843|Male|White||||Vermont||Yes||
 2|211|222|Josephine|Carpenter|5|1845|Female|White||||Vermont||||
 3|212|222|James|Carpenter|3|1847|Male|White|Farmer|Agriculture|600|Vermont||||
@@ -1449,6 +1455,9 @@ PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|Ind
 17|222|David|Carpenter|32|1818|Male|White||||Canada||||
 18|222|Flavel|Carpenter|32|1818|Female|White||||Canada||||
 19|222|David|Carpenter|9|1841|Male|White||||Vermont||||
+
+
+
 1|222|John|Carpenter|7|1843|Male|White||||Vermont||||
 2|222|Josephine|Carpenter|5|1845|Female|White||||Vermont||||
 3|222|James|Carpenter|3|1847|Male|White||||Vermont||||
