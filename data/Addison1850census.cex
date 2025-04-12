@@ -308,6 +308,8 @@ PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|Ind
 40|52|53|Henry|Brevort|61|1789|Male|White|Farmer|Agriculture|15000|Vermont||||
 41|52|53|Sarah|Brevort|61|1789|Female|White||||Vermont||||
 42|52|53|Henry F|Brevort|35|1815|Male|White|Farmer|Agriculture||Vermont||||
+
+
 1|52|53|Genara|Brevoort|26|1824|Male|White|Farmer|Agriculture||Vermont||||
 2|52|53|Sarah|Brevoort|22|1828|Female|White||||Vermont||||
 3|52|53|Martha|Brown|15|1835|Female|White||||Vermont||Yes||
@@ -1327,82 +1329,20 @@ PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|Ind
 19|214|222|David|Carpenter|9|1841|Male|White||||Vermont||Yes||
 
 
+20|211|222|John|Carpenter|7|1843|Male|White||||Vermont||Yes||
+21|211|222|Josephine|Carpenter|5|1845|Female|White||||Vermont||||
+22|212|222|James|Carpenter|3|1847|Male|White|Farmer|Agriculture|600|Vermont||||
+23|212|222|Oliver|Carpenter|1|1849|Male|White||||Vermont||||
+24|212|222|Mary|Gravelle|98|1752|Female|White|Carpenter|Construction||Canada||||
+25|213|223|Pheron G|Goff|35|1815|Male|White|Laborer|Industry Not Reported||New York||||
+26|213|223|Olive|Goff|35|1815|Female|White||||Vermont||||
+27|213|223|Mary|Goff|9|1841|Female|White||||New York||Yes||
+28|213|223|Hiram|Goff|4|1846|Male|White||||New York||Yes||
+29|213|223|Edward|Goff|1|1849|Male|White||||Vermont||Yes||
+30|213|223|Bridget|Malone|11|1839|Female|White||||Ireland||||
 
-1|211|222|John|Carpenter|7|1843|Male|White||||Vermont||Yes||
-2|211|222|Josephine|Carpenter|5|1845|Female|White||||Vermont||||
-3|212|222|James|Carpenter|3|1847|Male|White|Farmer|Agriculture|600|Vermont||||
-4|212|222|Oliver|Carpenter|1|1849|Male|White||||Vermont||||
-5|212|222|Mary|Gravelle|98|1752|Female|White|Carpenter|Construction||Canada||||
-6|213|223|Pheron G|Goff|35|1815|Male|White|Laborer|Industry Not Reported||New York||||
-7|213|223|Olive|Goff|35|1815|Female|White||||Vermont||||
-8|213|223|Mary|Goff|9|1841|Female|White||||New York||Yes||
-9|213|223|Hiram|Goff|4|1846|Male|White||||New York||Yes||
-10|213|223|Edward|Goff|1|1849|Male|White||||Vermont||Yes||
-11|213|223|Bridget|Malone|11|1839|Female|White||||Ireland||||
 
 
-1|212|Emily|Dexter|18|1832|Female|White||||Vermont||||
-2|212|Charles|Dexter|16|1834|Male|White||||Vermont||||
-3|212|Frances|Dexter|13|1837|Female|White||||Vermont||||
-4|212|Oliver|Dexter|10|1840|Male|White||||Vermont||||
-5|212|Harriet|Dexter|5|1845|Female|White||||Vermont||||
-6|212|Horace|Dexter|7|1843|Male|White||||Vermont||||
-7|212|Rollin|Warner|25|1825|Male|White||||Vermont||||
-8|213|Jonas|Vanderhoof|37|1813|Male|White||||Vermont||||
-9|213|Caroline|Vanderhoof|32|1818|Female|White||||New York||||
-10|213|Addison|Vanderhoof|12|1838|Male|White||||Vermont||||
-11|213|Oliver|Vanderhoof|10|1840|Male|White||||Vermont||||
-12|213|John|Vanderhoof|7|1843|Male|White||||Vermont||||
-13|213|Sarah|Vanderhoof|5|1845|Female|White||||Vermont||||
-14|213|Ann|Vanderhoof|1|1849|Female|White||||Vermont||||
-15|214|Betsy|Vanderhoof|68|1782|Female|White||||New Jersey||||
-16|215|Hiram|Perkins|35|1815|Male|White||||Vermont||||
-17|215|Cynthia|Perkins|33|1817|Female|White||||New York||||
-18|215|Hiram|Perkins|14|1836|Male|White||||Vermont||||
-19|215|Maria|Perkins|12|1838|Female|White||||Vermont||||
-20|215|Axa|Perkins|9|1841|Female|White||||Vermont||||
-21|215|Henry|Perkins|7|1843|Male|White||||Vermont||||
-22|216|Cornelius|Garvey|30|1820|Male|White||||New York||||
-23|216|Martha|Garvey|25|1825|Female|White||||Vermont||||
-24|216|Adelaide|Garvey|5|1845|Female|White||||Vermont||||
-25|216|Laura|Garvey|1|1849|Female|White||||Vermont||||
-26|217|Francis|Allen|30|1820|Male|White||||Vermont||||
-27|217|Theresa|Allen|25|1825|Female|White||||Canada||||
-28|217|Francis|Allen|7|1843|Male|White||||Vermont||||
-29|217|Mary|Allen|4|1846|Female|White||||Vermont||||
-30|217|Ellen|Allen|2|1848|Female|White||||Vermont||||
-31|218|Edward|Allen|26|1824|Male|White||||Vermont||||
-32|218|Delia|Allen|21|1829|Female|White||||New York||||
-33|218|Marion|Allen|3|1847|Female|White||||Vermont||||
-34|218|William|Allen|1|1849|Male|White||||Vermont||||
-35|219|Benjamin|Negrus|40|1810|Male|White||||Vermont||||
-36|219|Lucretia|Negrus|36|1814|Female|White||||Vermont||||
-37|219|Martha|Negrus|7|1843|Female|White||||Vermont||||
-38|220|Wheeler|French|52|1798|Male|White||||Vermont||||
-39|220|Mary|French|47|1803|Female|White||||Vermont||||
-40|220|George|French|24|1826|Male|White||||Vermont||||
-41|220|Harriet|French|21|1829|Female|White||||Vermont||||
-42|220|Mary|French|16|1834|Female|White||||Vermont||||
-
-12|220|Emily|French|11|1839|Female|White||||Vermont||||
-13|220|George|Champion|15|1835|Male|White||||Canada||||
-14|221|George|Everts|59|1791|Male|White||||Vermont||||
-15|221|Abigal|Everts|61|1789|Female|White||||Vermont||||
-16|221|George|Everts|22|1828|Male|White||||Vermont||||
-17|222|David|Carpenter|32|1818|Male|White||||Canada||||
-18|222|Flavel|Carpenter|32|1818|Female|White||||Canada||||
-19|222|David|Carpenter|9|1841|Male|White||||Vermont||||
-1|222|John|Carpenter|7|1843|Male|White||||Vermont||||
-2|222|Josephine|Carpenter|5|1845|Female|White||||Vermont||||
-3|222|James|Carpenter|3|1847|Male|White||||Vermont||||
-4|222|Oliver|Carpenter|1|1849|Male|White||||Vermont||||
-5|222|Mary|Gravelle|98|1752|Female|White||||Canada||||
-6|223|Pheron G|Goff|35|1815|Male|White||||New York||||
-7|223|Olive|Goff|35|1815|Female|White||||Vermont||||
-8|223|Mary|Goff|9|1841|Female|White||||New York||||
-9|223|Hiram|Goff|4|1846|Male|White||||New York||||
-10|223|Edward|Goff|1|1849|Male|White||||Vermont||||
-11|223|Bridget|Malone|11|1839|Female|White||||Ireland||||
 
 1|212|Emily|Dexter|18|1832|Female|White||||Vermont||||
 2|212|Charles|Dexter|16|1834|Male|White||||Vermont||||
@@ -1447,25 +1387,27 @@ PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|Ind
 41|220|Harriet|French|21|1829|Female|White||||Vermont||||
 42|220|Mary|French|16|1834|Female|White||||Vermont||||
 
-12|220|Emily|French|11|1839|Female|White||||Vermont||||
-13|220|George|Champion|15|1835|Male|White||||Canada||||
-14|221|George|Everts|59|1791|Male|White||||Vermont||||
-15|221|Abigal|Everts|61|1789|Female|White||||Vermont||||
-16|221|George|Everts|22|1828|Male|White||||Vermont||||
-17|222|David|Carpenter|32|1818|Male|White||||Canada||||
-18|222|Flavel|Carpenter|32|1818|Female|White||||Canada||||
-19|222|David|Carpenter|9|1841|Male|White||||Vermont||||
 
 
 
-1|222|John|Carpenter|7|1843|Male|White||||Vermont||||
-2|222|Josephine|Carpenter|5|1845|Female|White||||Vermont||||
-3|222|James|Carpenter|3|1847|Male|White||||Vermont||||
-4|222|Oliver|Carpenter|1|1849|Male|White||||Vermont||||
-5|222|Mary|Gravelle|98|1752|Female|White||||Canada||||
-6|223|Pheron G|Goff|35|1815|Male|White||||New York||||
-7|223|Olive|Goff|35|1815|Female|White||||Vermont||||
-8|223|Mary|Goff|9|1841|Female|White||||New York||||
-9|223|Hiram|Goff|4|1846|Male|White||||New York||||
-10|223|Edward|Goff|1|1849|Male|White||||Vermont||||
-11|223|Bridget|Malone|11|1839|Female|White||||Ireland||||
+1|220|Emily|French|11|1839|Female|White||||Vermont||||
+2|220|George|Champion|15|1835|Male|White||||Canada||||
+3|221|George|Everts|59|1791|Male|White||||Vermont||||
+4|221|Abigal|Everts|61|1789|Female|White||||Vermont||||
+5|221|George|Everts|22|1828|Male|White||||Vermont||||
+6|222|David|Carpenter|32|1818|Male|White||||Canada||||
+7|222|Flavel|Carpenter|32|1818|Female|White||||Canada||||
+8|222|David|Carpenter|9|1841|Male|White||||Vermont||||
+
+9|222|John|Carpenter|7|1843|Male|White||||Vermont||||
+10|222|Josephine|Carpenter|5|1845|Female|White||||Vermont||||
+11|222|James|Carpenter|3|1847|Male|White||||Vermont||||
+12|222|Oliver|Carpenter|1|1849|Male|White||||Vermont||||
+13|222|Mary|Gravelle|98|1752|Female|White||||Canada||||
+
+14|223|Theron G|Goff|35|1815|Male|White||||New York||||
+15|223|Olive|Goff|35|1815|Female|White||||Vermont||||
+16|223|Mary|Goff|9|1841|Female|White||||New York||||
+17|223|Hiram|Goff|4|1846|Male|White||||New York||||
+18|223|Edward|Goff|1|1849|Male|White||||Vermont||||
+19|223|Bridget|Malone|11|1839|Female|White||||Ireland||||
