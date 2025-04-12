@@ -10,7 +10,7 @@ Coverage:
 
 | Year | Addison | Bridport | Ferrisburg | Panton | Vergennes |
 | --- | --- | --- | --- | --- | --- |
-| 1850 |✓||✓|✓| ✓|
+| 1850 |✓|✓|✓|✓| ✓|
 | 1860 ||||||
 | 1870 ||||||
 | 1880 |✓|✓|✓|✓|✓|
