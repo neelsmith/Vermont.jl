@@ -1,0 +1,53 @@
+PageLine|Street|Dwelling|Surname|GivenName|Race|Gender|Age|BirthMonth|BirthYear|Relation|Marital|MarriedThisYear|Occupation|MonthsUnemployed|Sick|Blind|DeafDumb|Idiotic|Insane|Maimed|AttendedSchool|CannotRead|CannotWrite|Birthplace|FatherBirthPlace|MotherBirthPlace
+
+1|North Fumeburgh|1|Ploof|Joseph|White|Male|53||Abt 1827|Self (Head)|Married||Farm laborer||||||||||Y|Canada|Canada|Canada
+2|North Fumeburgh|1|Ploof|Matilda|White|Female|49||Abt 1831|Wife|Married|||||||||||Y|Y|Canada|Canada|Canada
+3|North Fumeburgh|1|Ploof|Nellie|White|Female|8||Abt 1872|Daughter|Single|||||||||||||Vermont|Canada|Canada
+4|North Fumeburgh|2|Jones|Norman H.|White|Male|53||Abt 1827|Self (Head)|Married||Farmer & Teamster|||||||||Y|Y|Vermont|New York|New York
+5|North Fumeburgh|2|Jones|Jane|White|Female|53||Abt 1827|Wife|Married|||||||||||Y|Y|Vermont|Vermont|Ireland
+6|North Fumeburgh|3|Palmer|Harley L.|White|Male|27||Abt 1853|Self (Head)|Married|Y|Miller|||||||||||Vermont|Vermont|Vermont
+7|North Fumeburgh|3|Palmer|Allice|White|Female|20||Abt 1860|Wife|Married|Y||||||||||||Vermont|Canada|Ireland
+8|North Fumeburgh|4|Keeler|Edward A.|White|Male|64||Abt 1816|Self (Head)|Widower||Carpenter and joiner|||||||||||Vermont|Vermont|Vermont
+9|North Fumeburgh|4|Bunkor|Allice|White|Female|50||Abt 1830||Married||Domestic servant|||||||||||Canada|Connecticut|Vermont
+10|North Fumeburgh|5|Miller|Julius|White|Male|46||Abt 1834|Self (Head)|Married||Farm laborer|||||||||||Vermont|New Hampshire|New Hampshire
+11|North Fumeburgh|5|Miller|Julia|White|Female|48||Abt 1832|Wife|Married||||Hernia Diabetes|||||||||England|England|England
+12|North Fumeburgh|5|Miller|Henry|White|Male|10||Abt 1870|Son|Single||||||||||Y||Y|Vermont|Vermont|Vermont
+13|North Fumeburgh|5|Webb|John|White|Male|50||Abt 1830||Married||Farm laborer||Phthisic|||||||||Vermont|New York|Vermont
+14|North Fumeburgh|5|Turner|Maggie|White|Female|11||Abt 1869||Single||Domestic servant|||||||||Y|Y|New York|Canada|Canada
+15|North Fumeburgh|6|Webb|Aaron B.|White|Male|87||Abt 1793|Self (Head)|Widower||Tanner and currier|||||||||||New York|New York|New York
+16|North Fumeburgh|6|Brown|John|White|Male|59||Abt 1821||Widower||Shoemaker|||||||||||Pennsylvania|England|England
+17|North Fumeburgh|7|Mallory|Charles H.|White|Male|51||Abt 1829|Self (Head)|Married||Merchant Genl.|||||||||||New York|Vermont|Vermont
+18|North Fumeburgh|7|Mallory|Ellen|White|Female|33||Abt 1847|Wife|Married|||||||||||||Vermont|Vermont|Vermont
+19|North Fumeburgh|7|Mallory|Mary M.|White|Female|16||Abt 1864|Daughter|Single||Student||||||||Y|||Vermont|New York|Vermont
+20|North Fumeburgh|7|Mallory|Abestir|White|Female|11||Abt 1869|Daughter|Single||||||||||Y|||Vermont|New York|Vermont
+21|North Fumeburgh|7|Mallory|Lola|White|Female|9||Abt 1871|Daughter|Single||||||||||Y|||Vermont|New York|Vermont
+22|North Fumeburgh|7|Mallory|Charles|White|Male|5||Abt 1875|Son|Single|||||||||||||Vermont|New York|Vermont
+23|North Fumeburgh|8|Martin|Levi|White|Male|54||Abt 1826|Self (Head)|Married||Laborer|||||||||Y|Y|Canada|Canada|Canada
+24|North Fumeburgh|8|Martin|Mary|White|Female|57||Abt 1823|Wife|Married|||||||||||Y|Y|Vermont|Canada|Canada
+25|North Fumeburgh|8|Martin|Joseph|White|Male|28||Abt 1852|Son|Married||Farm laborer|||||||||||Vermont|Canada|Vermont
+26|North Fumeburgh|9|Collins|E. B.|White|Male|30||Abt 1850|Self (Head)|Married||Clerk|||||||||||Vermont|Vermont|New York
+27|North Fumeburgh|9|Collins|Abbie|White|Female|28||Abt 1852|Wife|Married|||||||||||||Vermont|Vermont|Vermont
+28|North Fumeburgh|9|Collins|Luella|White|Female|6||Abt 1874|Daughter|Single||||||||||Y|||Vermont|Vermont|Vermont
+29|North Fumeburgh|9|Vaneon|Ruth|White|Female|12||Abt 1868||Single||Student||||||||Y|||Vermont|Vermont|Vermont
+30|North Fumeburgh|9|Vaneon|Samantha|White|Female|43||Abt 1837||Widowed||Matron At Pantry|||||||||||Vermont|Vermont|Vermont
+31|North Fumeburgh|10|Martin|S. B.|White|Male|31||Abt 1849|Self (Head)|Married||Hotel Keeper & Farmer|||||||||||Vermont|Vermont|Vermont
+32|North Fumeburgh|10|Martin|Annett|White|Female|29||Abt 1851|Wife|Married|||||||||||||Vermont|Vermont|Vermont
+33|North Fumeburgh|10|Martin|Sarah|White|Female|9||Abt 1871|Daughter|Single||||||||||Y|||Vermont|Vermont|Vermont
+34|North Fumeburgh|10|Martin|Mary|White|Female|7||Abt 1873|Daughter|Single||||||||||Y|||Vermont|Vermont|Vermont
+35|North Fumeburgh|10|Martin|John W.|White|Male|5||Abt 1875|Son|Single|||||||||||||Vermont|Vermont|Vermont
+36|North Fumeburgh|10|Owen|Frank|White|Male|21||Abt 1859||Single||Farm laborer|||||||||Y|Y|New York|New York|New York
+37|North Fumeburgh|11|Percival|P. D.|White|Male|57||Abt 1823|Self (Head)|Married||Miller & Farmer|||||||||||New York|New Hampshire|New Hampshire
+38|North Fumeburgh|11|Percival|Sarah|White|Female|33||Abt 1847|Wife|Married|||||||||||||New York|New York|New York
+39|North Fumeburgh|11|Percival|Luthina|White|Female|18||Abt 1862|Daughter|Single|||||||||||||Vermont|New York|New York
+40|North Fumeburgh|11|Percival|Henry|White|Male|16||Abt 1864|Son|Single||Works in Granite Mill||||||||Y|||Vermont|New York|Vermont
+41|North Fumeburgh|11|Percival|Alden|White|Male|9||Abt 1871|Son|Single||||||||||Y|||Vermont|New York|New York
+42|North Fumeburgh|11|Tuttle|Louisa|White|Female|66||Abt 1814|Mother-in-law|Widowed|||||||||||||New York|New York|New York
+43|North Fumeburgh|12|Palmer|Charel L.|White|Male|42||Abt 1838|Self (Head)|Married||Carpenter and joiner|||||||||||Vermont|New York|Vermont
+44|North Fumeburgh|12|Palmer|Celinda|White|Female|42||Abt 1838|Wife|Married||||Consumption|||||||||Vermont|Vermont|Vermont
+45|North Fumeburgh|12|Palmer|Fred R. H.|White|Male|20||Abt 1860|Son|Single||Blacksmith|||||||||||Vermont|Vermont|Vermont
+46|North Fumeburgh|12|Palmer|Frank C.|White|Male|20||Abt 1860|Son|Single||Farm laborer|||||||||||Vermont|Vermont|Vermont
+47|North Fumeburgh|12|Palmer|Eliza V.|White|Female|15||Abt 1865|Daughter|Single||||||||||Y|||Vermont|Vermont|Vermont
+48|North Fumeburgh|13|Sorrell|Olliver|White|Male|58||Abt 1822|Self (Head)|Married||Teamster||Phthisic|||||||Y|Y|Canada|Canada|Canada
+49|North Fumeburgh|13|Sorrell|Mary|White|Female|53||Abt 1827|Wife|Married|||||||||||||Canada|Canada|Canada
+50|North Fumeburgh|13|Sorrell|Damos|White|Male|24||Abt 1856|Son|Single||Wheelwright|||||||||||Vermont|Canada|Canada
+
