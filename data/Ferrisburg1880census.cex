@@ -315,7 +315,9 @@ PageLine|Street|Dwelling|Surname|GivenName|Race|Gender|Age|BirthMonth|BirthYear|
 47||73|Carl|Maud M.|White|Female|2/12|Feb|Abt 1880|Daughter|Single|||||||||||||Vermont|Vermont|Vermont
 48||73|Fuller|Minne|White|Female|15||Abt 1865|Sister-in-law|Single||Student||||||||Y|||Vermont|Vermont|Vermont
 49||74|Lewis|Zeb|White|Male|56||Abt 1824|Self (Head)|Married||Farmer|||||||||Y|Y|Canada|Canada|Canada
-50||74|Lewis|Sarah|White|Female|57||Abt 1823|Wife|Married||Housekeeper|
+50||74|Lewis|Sarah|White|Female|57||Abt 1823|Wife|Married||Housekeeper|||||||||Y|Y|Canada|Canada|Canada
+
+
 
 1||74|Lewis|Olliver|White|Male|18||Abt 1862|Son|Single||Farm laborer|||||||||||Vermont|Canada|Canada
 
