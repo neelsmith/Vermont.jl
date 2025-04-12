@@ -1,662 +1,580 @@
-Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|Birthplace|
-|1850-10-15|1|1|John G. Smith|34|M||Farmer|5000|Vermont
-|1850-10-15|1|1|Emila Smith|32|F||||Rhode Island
-|1850-10-15|1|1|Emila Smith|32|F||||Vermont
-|1850-10-15|1|1|William Smith|7|M||||Vermont
-|1850-10-15|1|1|Edward Smith|4|M||||Vermont
-|1850-10-15|1|1|Lorane Smith|1|F||||Vermont
-|1850-10-15|1|1|Emila Smith|1/12|F||||Vermont
-|1850-10-15|1|1|Patrick Ryan|20|M||Laborer||Ireland
-|1850-10-15|1|1|Elizabeth Grandy|25|F||||Vermont
-
-|1850-10-15|2|2|Joseph Haywood|54|M||Farmer|5000|Massachusetts
-|1850-10-15|2|2|Amanda Haywood|40|F||||Vermont
-|1850-10-15|2|2|Josephine Haywood|24|F||||Vermont
-|1850-10-15|2|2|Ashua E. Haywood|18|F||||Vermont
-|1850-10-15|2|2|Benjamin C. Haywood|23|M||||Vermont
-|1850-10-15|2|2|Mariam E. Wilder|11|F||||Vermont
-|1850-10-15|2|2|Henry H. Wilder|9|M||||Vermont
-
-|1850-10-15|3|3|James Capren|27|M||Farmer||New York
-|1850-10-15|3|3|Harret Capren|22|F||||Vermont
-
-|1850-10-15|4|4|Joseph Janning|65|M||Laborer||Canada
-|1850-10-15|4|4|Hannah Janning|64|F||||Canada
-
-|1850-10-15|5|5|Peter Alden Jr|27|M||Laborer||Vermont
-|1850-10-15|5|5|Jane Alden|26|F||||Vermont
-|1850-10-15|5|5|Sarah Alden|3|F||||Vermont
-|1850-10-15|5|5|Joseph Carter|16|M||Laborer||Vermont
-
-|1850-10-15|6|6|Seymour Depuy|33|M||Laborer||Canada
-|1850-10-15|6|6|Elizabeth Depuy|24|F||||Vermont
-|1850-10-15|6|6|Anthony Depuy|9|M||||Vermont
-|1850-10-15|6|6|Joseph Depuy|6|M||||Vermont
-|1850-10-15|6|6|Seymour Depuy  Jr.|1|F||||Vermont
-
-|1850-10-15|7|7|Joseph Rogers|49|M||Farmer||New York
-|1850-10-15|7|7|Sophia Rogers|46|F||||New York
-|1850-10-15|7|7|George Rogers|25|M||Laborer||Vermont
-|1850-10-15|7|7|Samuel Rogers|22|M||Laborer||Vermont
-|1850-10-15|7|7|Chancy Rogers|18|M||Laborer||Vermont
-|1850-10-15|7|7|Amos Rogers|16|M||Laborer||Vermont
-|1850-10-15|7|7|William Rogers|9|M||||Vermont
-|1850-10-15|7|7|Eliza Rogers|20|F||||Vermont
-|1850-10-15|7|7|Mary Rogers|5|F||||Vermont
-|1850-10-15|7|7|Henry Rogers|1|M||||Vermont
-|1850-10-15|7|7|Amos Stimson|72|M||None|Massachusetts
-
-|1850-10-15|8|8|Francis Prince|56|M||Laborer||Canada
-|1850-10-15|8|8|Julia Prince|50|F||||Canada
-|1850-10-15|8|8|Mariah Prince|20|F||||Vermont
-|1850-10-15|8|8|Henry Prince|19|M||Laborer||Vermont
-|1850-10-15|8|8|Fransis Prince|17|M||Laborer||Vermont
-|1850-10-15|8|8|John Prince|14|M||||Vermont
-|1850-10-15|8|8|Almeda Prince|13|F||||Vermont
-|1850-10-15|8|8|William Prince|11|M||||Vermont
-|1850-10-15|8|8|Edward Prince|8|M||||Vermont
-|1850-10-15|8|8|Roselia Prince|5|M||||Vermont
-
-true|1850-10-15|9|9|Abner Holcomb|75|M||Farmer||Connecticut
-true|1850-10-15|9|9|Orpha Holcomb|69|F||||New Hampshire
-true|1850-10-15|9|9|Charity Holcomb|42|F||||Vermont
-true|1850-10-15|9|9|Pered Holcomb|18|M||Laborer||Vermont
-
-|1850-10-15|10|10|Mathuell F. Ganis|40|M||Farmer|10000|Vermont
-|1850-10-15|10|10|Mary A. Ganis|30|F||||Vermont
-|1850-10-15|10|10|Hopkins F. Ganis|7|M||||Vermont
-|1850-10-15|10|10|Samuel F. Ganis|6|M||||Vermont
-|1850-10-15|10|10|Agens Ganis|2|F||||Vermont
-|1850-10-15|10|10|Mariah Conant|16|F||||Vermont
-
-|1850-10-15|11|11|Calvin Frank|69|M||Iron Smith||Vermont
-|1850-10-15|11|11|Caroline Frank|61|F||||Vermont
-|1850-10-15|11|11|Fransis Frank|27|M||Iron Smith||Vermont
-|1850-10-15|11|11|John McDaniels|18|M||Iron Smith||Canada
-
-|1850-10-15|12|12|Frederick Curten|27|M||Farmer|6000|Vermont
-|1850-10-15|12|12|Faces Curten|27|F||||Vermont
-|1850-10-15|12|12|Charles Curten|2|M||||Vermont
-|1850-10-15|12|12|Rowland Curten|20|M||Laborer||Vermont
-|1850-10-15|12|12|Lovinna Stowell|16|F||||Vermont
-
-true|1850-10-15|13|13|Henry Allen|35|M||Farmer|5000|Vermont
-true|1850-10-15|13|13|Matilda Allen|34|F||||Vermont
-true|1850-10-15|13|13|Julia Ann Allen|12|F||||Vermont
-true|1850-10-15|13|13|Benjamin Allen|10|M||||Vermont
-true|1850-10-15|13|13|Betsy Allen|8|F||||Vermont
-true|1850-10-15|13|13|Obediah Allen|6|M||||Vermont
-true|1850-10-15|13|13|Elicta Allen|9/12|M||||Vermont
-true|1850-10-15|13|13|Matilda Welles|25|F||||Canada
-true|1850-10-15|13|13|Ruth Carter|62|F|||1250|Vermont
-true|1850-10-15|13|13|Charles Hatch|26|M||Laborer||Vermont
-
-true|1850-10-15|14|14|Phineas Holcomb|61|M||Farmer|150|Vermont
-true|1850-10-15|14|14|Anna Holcomb|52|F||||Vermont
-true|1850-10-15|14|14|Joseph Holcomb|42|M||Laborer||Vermont
-true|1850-10-15|14|14|Christopher Holcomb|18|M||Laborer||Vermont
-
-|1850-10-15|15|15|Akins Collum|25|M||Tailor||Canada
-|1850-10-15|15|15|Julia Ann Collum|25|F||||Canada
-|1850-10-15|15|15|Wallace Collum|1|M||||Vermont
-|1850-10-15|15|15|Elizabeth Collum|57|F||||Canada
-|1850-10-15|15|15|Joseph Collum|26|M||Laborer||Canada
-|1850-10-15|15|15|Joseph Collum Jr.|3|M||||Vermont
-
-true|1850-10-15|16|16|Norman Lansley|35|M||Docter|800|Vermont
-true|1850-10-15|16|16|Betsy Lansley|27|F||||Vermont
-true|1850-10-15|16|16|Josephine Lansley|4|F||||Vermont
-
-|1850-10-15|17|17|Henry L.P. Warner|38|M||Bapt. Minister||Vermont
-|1850-10-15|17|17|Lucinda Warner|34|F||||Vermont
-
-true|1850-10-15|18|18|Thomas Gardner|47|M||Carpenter & Joiner|300|New Jersey
-true|1850-10-15|18|18|Abigail Gardner|42|F||||Vermont
-true|1850-10-15|18|18|Edwin W. Gardner|21|M||Carpenter & Joiner||Vermont
-true|1850-10-15|18|18|Truman Gardner|14|M||||Vermont
-true|1850-10-15|18|18|Mary H. Gardner|11|F||||Vermont
-true|1850-10-15|18|18|Hellen Gardner|7|F||||Vermont
-true|1850-10-15|18|18|James E. Gardner|5|M||||Vermont
-true|1850-10-15|18|18|Loisa Gardner|3|F||||Vermont
-
-|1850-10-15|19|19|Charles Adams|27|M||Farmer||Vermont
-|1850-10-15|19|19|Eliza Willard|63|F||||New York
-
-true|1850-10-15|20|20|Henry Storms|52|M|B|Laborer|300|Vermont
-true|1850-10-15|20|20|Sarah Storms|34|F||||Vermont
-true|1850-10-15|20|20|Ugene Storms|11|M|M|||Vermont
-true|1850-10-15|20|20|Charlott Storms|10|F|M|||Vermont
-true|1850-10-15|20|20|Sarah Ann Milina|30|F|M|||New York
-true|1850-10-15|20|20|Jamiah Milina|11|F|M|||New York
-
-true|1850-10-15|21|21|Sally Chapin|49|F|||500|Vermont
-true|1850-10-15|21|21|Delia Chapin|25|F||||Vermont
-true|1850-10-15|21|21|Viola Chapin|18|F||||Vermont
-
-true|1850-10-15|22|22|Hiram Kent|38|M||Farmer|1500|Vermont
-true|1850-10-15|22|22|Delia Kent|31|F||||Vermont
-true|1850-10-15|22|22|Enoch Kent|8|M||||Vermont
-
-|1850-10-15|23|23|John W. Sheldwin|39|M||Laborer||Vermont
-|1850-10-15|23|23|Elizabeth Sheldwin|27|F||||Vermont
-|1850-10-15|23|23|John Sheldwin|13|M||||Vermont
-|1850-10-15|23|23|Henry Sheldwin|12|M||||Vermont
-|1850-10-15|23|23|Mary Sheldwin|10|F||||Vermont
-|1850-10-15|23|23|Benjamin Sheldwin|9|M||||Vermont
-|1850-10-15|23|23|Nancy Sheldwin|6|F||||Vermont
-|1850-10-15|23|23|Sarah Sheldwin|5|F||||Vermont
-|1850-10-15|23|23|Moses Sheldwin|4|M||||Vermont
-|1850-10-15|23|23|Philena Sheldwin|2|F||||Vermont
-|1850-10-15|23|23|Seloma Valerin|75|F||||Vermont
-
-true|1850-10-15|24|24|David Adams|38|M||Farmer||Vermont
-true|1850-10-15|24|24|Abram C. Harris|42|M||Farmer||New York
-true|1850-10-15|24|24|Isaac L. Harris|22|M||Farmer||New York
-true|1850-10-15|24|24|Hannah R. Harris|38|F||||Vermont
-true|1850-10-15|24|24|Mary Ann Heath|30|F||||Vermont
-true|1850-10-15|24|24|Alice Stone|18|F||||Vermont
-true|1850-10-15|24|24|Syntha Adams|10|F||||Vermont
-
-true|1850-10-15|25|25|Roswell D. Hopkins|69|M||Farmer||Vermont
-true|1850-10-15|25|25|Sarah F. Hopkins|45|F||||Vermont
-true|1850-10-15|25|25|Eliza Lion|14|F||||New York
-
-true|1850-10-15|25|26|Roswell J. Hopkins|41|M||Farmer|8600|Vermont
-true|1850-10-15|25|26|Loiza Dudley|40|F||||Vermont
-true|1850-10-15|25|26|Phebe Ann Tilley|23|F||||Vermont
-true|1850-10-15|25|26|Milo S. Parmee|27|M||Laborer||New York
-true|1850-10-15|25|26|Mary Raymo|14|F||||Canada
-
-|1850-10-15|26|27|Silas Tupper|71|M||Farmer|4000|New Jersey
-|1850-10-15|26|27|Mercia Tupper|68|F||||Connecticut
-|1850-10-15|26|27|Aegalus Gaige|50|M||Laborer||New York
-|1850-10-15|26|27|Sally Beevan|15|F||||New York
-
-true|1850-10-15|27|28|James Tenbrooks|48|M||Farmer|5000|England
-true|1850-10-15|27|28|Mary Tenbrooks|46|F||||Vermont
-true|1850-10-15|27|28|Jane Ann Tenbrooks|24|F||||Vermont
-true|1850-10-15|27|28|William Tenbrooks|19|M||Farmer||Vermont
-true|1850-10-15|27|28|Ogden Tenbrooks|16|M||Farmer||Vermont
-true|1850-10-15|27|28|Elizabeth Tenbrooks|12|F||||Vermont
-true|1850-10-15|27|28|Ellen Tenbrooks|6|F||||Vermont
-true|1850-10-15|27|28|Mary Ann Tenbrooks|35|F||||England
-true|1850-10-15|27|28|Mary Buvan|14|F||||Vermont
-true|1850-10-15|27|28|Thomas Buvan|25|M||Laborer||Scotland
-
-|1850-10-15|28|29|Walter Tilley|65|M||Laborer||New York
-|1850-10-15|28|29|Jane Tilley|63|F||||New York
-|1850-10-15|28|29|George W. Tilley|21|M||Laborer||Vermont
-
-|1850-10-15|29|30|Samuel Mitchiel|75|M||Laborer||Vermont
-|1850-10-15|29|30|Hannah Mitchiel|74|F||||Vermont
-|1850-10-15|29|30|Miner Mitchiel|23|M||Laborer||Vermont
-
-true|1850-10-15|30|31|Horatio N. White|47|M||Farmer|7000|Vermont
-true|1850-10-15|30|31|Syrena White|41|F||||Vermont
-true|1850-10-15|30|31|Friend A. White|17|M||Farmer||Vermont
-true|1850-10-15|30|31|Francis E. White|16|F||||Vermont
-true|1850-10-15|30|31|William E. White|14|M||||Vermont
-true|1850-10-15|30|31|George A. White|12|M||||Vermont
-true|1850-10-15|30|31|Canada White|8|F||||Vermont
-
-|1850-10-15|31|32|Joseph Little|27|M||Laborer||Vermont
-|1850-10-15|31|32|Mary Little|26|F||||Canada
-|1850-10-15|31|32|Joseph Little Jr|4|M||||Canada
-|1850-10-15|31|32|Charles Little|2|M||||Vermont
-
-|1850-10-15|32|33|Hiram Spaulding|46|M||Farmer|4000|Vermont
-|1850-10-15|32|33|Olive M. Spaulding|31|F||||Vermont
-|1850-10-15|32|33|Davis L. Spaulding|15|M||||Vermont
-|1850-10-15|32|33|Julian P. Spaulding|9|M||||Vermont
-|1850-10-15|32|33|Everit N. Spaulding|6|M||||Vermont
-|1850-10-15|32|33|Charles Ferris|27|M||Laborer||Vermont
-|1850-10-15|32|33|Juniett Peck|16|F||||Vermont
-
-|1850-10-15|33|34|James Shepard|34|M||Carpenter & Joiner|250|Vermont
-|1850-10-15|33|34|Sarah Jane Shepard|29|F||||New York
-|1850-10-15|33|34|James W. Shepard|9|M||||Vermont
-|1850-10-15|33|34|Charles E. Shepard|7|M||||Vermont
-
-|1850-10-15|34|35|Symon Shepard|57|M||Carpenter|300|Vermont
-|1850-10-15|34|35|Phila Shepard|59|F||||Vermont
-|1850-10-15|34|35|Phila Shepard|22|M||Joiner||Vermont
-
-|1850-10-15|35|36|Lewis Daniels|40|M||Laborer||Canada
-|1850-10-15|35|36|Rose Daniels|38|F||||Canada
-|1850-10-15|35|36|Lewis Daniels Jr|16|M||Laborer||Canada
-|1850-10-15|35|36|Rose Daniels|13|F||||Canada
-|1850-10-15|35|36|Mitchel Daniels|10|M||||Vermont
-|1850-10-15|35|36|Mary Daniels|8|F||||Vermont
-|1850-10-15|35|36|Joseph Daniels|6|M||||Vermont
-
-|1850-10-15|36|37|Nathan Spaulding|70|M||Farmer|3000|Vermont
-|1850-10-15|36|37|Huldah Spaulding|68|F||||New York
-|1850-10-15|36|37|Ruba Spaulding|40|F||||Vermont
-|1850-10-15|36|37|Mary Ann Spaulding|30|F||||Vermont
-|1850-10-15|36|37|Berthena Forbs|8|F||||Canada
-|1850-10-15|36|37|Joseph Gorke|17|M||Laborer||New York
-|1850-10-15|36|37|Myron Batchelder|21|M||Laborer||Vermont
-
-true|1850-10-15|37|38|Amasa Benson|28|M||Shoe maker|1200|Vermont
-true|1850-10-15|37|38|Harry Benson|33|M||None||Vermont
-true|1850-10-15|37|38|Polly Benson|57|F||||Vermont
-true|1850-10-15|37|38|Eunice Benson|18|F||||Vermont
-
-|1850-10-15|38|39|Norman Grandy|41|M||Farmer||Vermont
-|1850-10-15|38|39|Cloa Grandy|41|F||||Vermont
-|1850-10-15|38|39|Sumon B. Grandy|15|M||||Vermont
-|1850-10-15|38|39|Francis Ferris|35|F||||Vermont
-|1850-10-15|38|39|Rhoda Stagg|62|F||||Vermont
-
-true|1850-10-15|39|40|Isaac Spaulding|59|M||Farmer|6000|Vermont
-true|1850-10-15|39|40|Phebe Spaulding|55|F||||Vermont
-true|1850-10-15|39|40|Rebecca Spaulding|30|F||||Vermont
-true|1850-10-15|39|40|Isaac S. Spaulding|21|M||Farmer||Vermont
-true|1850-10-15|39|40|Phebe W. Spaulding|16|F||||Vermont
-true|1850-10-15|39|40|Munson P. Curtis|28|M||Laborer||Vermont
-true|1850-10-15|39|40|Welthy Curtis|25|F||||Vermont
-true|1850-10-15|39|40|Naris Curtis|1|M||||Vermont
-
-|1850-10-16|40|41|Warren Hatch|39|M||Shoe Maker||Vermont
-|1850-10-16|40|41|Phebe Hatch|34|F||||Vermont
-|1850-10-16|40|41|Sarah Hatch|13|F||||Vermont
-|1850-10-16|40|41|Isaac Hatch|12|M||||Vermont
-|1850-10-16|40|41|Ida Hatch|10|F||||Vermont
-|1850-10-16|40|41|Warren S. Hatch|4|M||||Vermont
-
-|1850-10-16|41|42|Edrich Adams|39|M||Farmer|4000|Vermont
-|1850-10-16|41|42|Marion H. Adams|35|F||||Vermont
-|1850-10-16|41|42|John F. Adams|12|M||||Vermont
-|1850-10-16|41|42|Isadore Adams|10|F||||Vermont
-|1850-10-16|41|42|Ella Adams|8|F||||Vermont
-|1850-10-16|41|42|Edrick Adams Jr|5|M||||Vermont
-|1850-10-16|41|42|Emma Adams|3|F||||Vermont
-|1850-10-16|41|42|Murrey Adams|2|M||||Vermont
-|1850-10-16|41|42|Arthur Adams|1/12|M||||Vermont
-|1850-10-16|41|42|Edrick Ferris|26|M||Laborer||Vermont
-|1850-10-16|41|42|Mikiel Billon|48|M||Laborer||Ireland
-|1850-10-16|41|42|Mary Billon|17|F||||Canada
-
-true|1850-10-16|42|43|Elijah Grandy|68|M||Farmer|3000|Vermont
-true|1850-10-16|42|43|Ester Grandy|64|F||||New Jersey
-true|1850-10-16|42|43|Alvan Grandy|32|M||Farmer||Vermont
-true|1850-10-16|42|43|Ester Grandy|32|F||||Vermont
-true|1850-10-16|42|43|Syntha Batcheler|36|F||||Vermont
-true|1850-10-16|42|43|Roxana Batcheler|13|F||||Vermont
-true|1850-10-16|42|43|John W. Batcheler|11|M||||Vermont
-
-|1850-10-16|43|44|Truman Grandy|47|M||Farmer|2000|Vermont
-|1850-10-16|43|44|Polly R. Grandy|45|F||||Vermont
-|1850-10-16|43|44|Mariah L. Grandy|25|F||||Vermont
-|1850-10-16|43|44|Caroline Grandy|21|F||||Vermont
-|1850-10-16|43|44|Jesse L. Grandy|19|M||Farmer||Vermont
-|1850-10-16|43|44|Harriet Grandy|13|F||||Vermont
-|1850-10-16|43|44|William M. Grandy|10|M||||Vermont
-|1850-10-16|43|44|Ellen Grandy|8|F||||Vermont
-|1850-10-16|43|44|Charles W. Grandy|3|M||||Vermont
-|1850-10-16|43|44|Edward Holcomb|31|M||Laborer||Vermont
-
-
-true|1850-10-16|44|45|Jefferson Convers|34|M||Farmer|3300|Vermont
-true|1850-10-16|44|45|Sarah Convers|32|F||||Vermont
-true|1850-10-16|44|45|John R. Convers|7|M||||Vermont
-true|1850-10-16|44|45|Jesse G. Convers|4|M||||Vermont
-
-true|1850-10-16|45|46|Joel W. Grandy|31|M||Carpenter & Joiner|125|Vermont
-true|1850-10-16|45|46|Polly Grandy|31|F||||Vermont
-true|1850-10-16|45|46|Charlott E. Grandy|8|F||||Vermont
-true|1850-10-16|45|46|Lucinda A. Grandy|5|F||||Vermont
-true|1850-10-16|45|46|Alonzo W. Grandy|5/12|M||||Vermont
-
-|1850-10-16|46|47|Rupee Norton|30|M||Farmer|400|Vermont
-|1850-10-16|46|47|Betsey Norton|32|F||||Vermont
-|1850-10-16|46|47|Wallace Norton|2|M||||Vermont
-|1850-10-16|46|47|Katurah Grandey|72|F|||600|Vermont
-|1850-10-16|46|47|Abner Grandey|36|M||Farmer|400|Vermont
-|1850-10-16|46|47|Edward Lewis|62|M||Laborer||Vermont
-
-true|1850-10-16|47|48|Aaron Curler|49|M||Farmer|4000|Vermont
-true|1850-10-16|47|48|Cathrine Curler|40|F||||New Jersey
-true|1850-10-16|47|48|Loiza Curler|19|F||||Vermont
-true|1850-10-16|47|48|Cathrine Curler|17|F||||Vermont
-true|1850-10-16|47|48|Cathrine Curler|11|M||||Vermont
-true|1850-10-16|47|48|Annett Curler|4|F||||Vermont
-true|1850-10-16|47|48|Jacob V. Curler|92|M||None|2000|New York
-true|1850-10-16|47|48|Jacob Gardner|24|M||Laborer||Vermont
-
-true|1850-10-16|48|49|James McOrman|34|M||Laborer||Ireland
-true|1850-10-16|48|49|Betsy McOrman|36|F||||Ireland
-true|1850-10-16|48|49|James McOrman Jr|10|M||||Ireland
-true|1850-10-16|48|49|James McOrman|8|F||||France
-true|1850-10-16|48|49|John McOrman|6|M||||France
-true|1850-10-16|48|49|Mary H. McOrman|5|F||||France
-
-|1850-10-16|49|50|Abram Burwell|38|M||Laborer||Vermont
-|1850-10-16|49|50|Rosina Burwell|28|F||||Vermont
-|1850-10-16|49|50|Martha E. Burwell|4|F||||Vermont
-|1850-10-16|49|50|Charles W. Burwell|2|M||||Vermont
-|1850-10-16|49|50|Lucy Critenden|52|F||||Vermont
-
-|1850-10-16|50|51|Ann F. Hays|37|F|||200|Vermont
-|1850-10-16|50|51|Sally M. Curler|21|F||||Vermont
-
-|1850-10-16|51|52|Clark Conant|44|M||Iron Smith|2800|Massachusetts
-|1850-10-16|51|52|Samantha Conant|44|F||||Vermont
-|1850-10-16|51|52|Lyman J. Conant|19|M||Iron Smith||New York
-|1850-10-16|51|52|Jane Ann Conant|13|F||||New York
-|1850-10-16|51|52|William Conant|12|M||||New York
-|1850-10-16|51|52|George Conant|8|M||||Vermont
-|1850-10-16|51|52|Emily Conant|5|F||||Vermont
-|1850-10-16|51|52|Luretia Conant|1|F||||Vermont
-|1850-10-16|51|52|Emma Conant|72|F||||Vermont
-
-|1850-10-16|52|53|James Hall|50|M||Laborer||Vermont
-|1850-10-16|52|53|Almira Hall|42|F||||New York
-|1850-10-16|52|53|Lewis Raymond|9|M||||Canada
-
-|1850-10-16|53|54|Anthony Burwell|44|M||Farmer|3000|Vermont
-|1850-10-16|53|54|Achsah Burwell|40|F||||Vermont
-|1850-10-16|53|54|Francis P. Burwell|13|F||||Vermont
-|1850-10-16|53|54|Charles L. Burwell|11|M||||Vermont
-|1850-10-16|53|54|Anna L. Burwell|7|F||||Vermont
-|1850-10-16|53|54|Fordice H. Shipard|19|M||Laborer||Vermont
-|1850-10-16|53|54|Betsy Bevan|20|F||||Vermont
-
-true|1850-10-16|54|55|John Davis|30|M||Laborer|250|Vermont
-true|1850-10-16|54|55|Rachael Davis|37|F||||New York
-
-|1850-10-16|55|56|Henry Gardner|50|M||Farmer|3500|New Jersey
-|1850-10-16|55|56|Dianthony Gardner|42|F||||Vermont
-|1850-10-16|55|56|Samuel Gardner|21|M||Studant||Vermont
-|1850-10-16|55|56|Charles W. Sperry|30|M||School Teacher||Vermont
-|1850-10-16|55|56|Rebecca Sperry|19|F||||Vermont
-
-|1850-10-16|56|57|John Spaulding|58|M||Farmer|7000|Vermont
-|1850-10-16|56|57|Elizabeth Spaulding|56|F||||New Jersey
-|1850-10-16|56|57|Jacob Spaulding|33|M||Farmer||Vermont
-|1850-10-16|56|57|Polly Ann Spaulding|22|F||||Vermont
-|1850-10-16|56|57|Olive Spaulding|21|F||||Vermont
-|1850-10-16|56|57|Mary E. Spaulding|3|F||||Vermont
-
-|1850-10-16|57|58|John B. Spaulding|35|M||Farmer||Vermont
-|1850-10-16|57|58|Suson B. Spaulding|33|F||||Vermont
-
-|1850-10-16|58|59|Samuel Shepard|82|M||Farmer|10000|Connecticut
-|1850-10-16|58|59|Taymor Shepard|63|F||||Connecticut
-|1850-10-16|58|59|William Shepard|19|M||Farmer||Vermont
-|1850-10-16|58|59|Josiah S. Tappen|39|M||Farmer||Vermont
-|1850-10-16|58|59|Semantha Tappen|33|F||||Vermont
-|1850-10-16|58|59|Shefail Tappen|14|M||||Vermont
-|1850-10-16|58|59|Harriet A. Tappen|12|F||||Vermont
-|1850-10-16|58|59|Rollen P. Tappen|10|M||||Vermont
-|1850-10-16|58|59|Silad Tappen|6|M||||Vermont
-|1850-10-16|58|59|Bridget Cooners|19|F||||Ireland
-
-|1850-10-16|59|60|Henry Howard|27|M||Farmer||New York
-|1850-10-16|59|60|Sophia Howard|22|F||||Vermont
-|1850-10-16|59|60|Emily P. Howard|6/12|F||||Vermont
-|1850-10-16|59|60|Julia Raynor|17|F||||Vermont
-
-|1850-10-16|60|61|Wasburn Brown|59|M||Farmer|6000|Vermont
-|1850-10-16|60|61|Polly Brown|50|F||||Vermont
-|1850-10-16|60|61|Henry Brown|26|M||Farmer||Vermont
-|1850-10-16|60|61|Daniel Brown|16|M||Farmer||Vermont
-|1850-10-16|60|61|Elizabeth D. Brown|9|F||||Vermont
-|1850-10-16|60|61|Leorand W. Brown|5|M||||Vermont
-|1850-10-16|60|61|Peter Larabo|16|M||Laborer||Canada
-
-|1850-10-16|61|62|Ester Tull|51|F|||2000|New York
-|1850-10-16|61|62|Sarah P. Tull|18|F||||New York
-|1850-10-16|61|62|Charles Tull|14|M||||Vermont
-|1850-10-16|61|62|Harriet Tull|12|F||||Vermont
-|1850-10-16|61|62|William Tull|9|M||||Vermont
-
-|1850-10-16|62|63|William Foster|29|M||Meth. Minister||Canada
-|1850-10-16|62|63|Sarah Foster|25|F||||New York
-|1850-10-16|62|63|William Foster Jr|1|M||||New York
-|1850-10-16|62|63|Sarah Smith|5|F||||New York
-
-|1850-10-16|63|64|Stephen Roscoe|21|M||Farmer|10000|Vermont
-|1850-10-16|63|64|Betsy Roscoe|18|F||||Vermont
-|1850-10-16|63|64|Edwin Hurlbert|17|M||Farmer||Vermont
-|1850-10-16|63|64|Stephen Mulliss|15|M||||Vermont
-|1850-10-16|63|64|Loisy Mulliss|11|M||||Vermont
-
-true|1850-10-16|64|65|Hiram W. Pond|52|M||Farmer||Vermont
-true|1850-10-16|64|65|Betsy Pond|53|F||||Vermont
-true|1850-10-16|64|65|Loiza Pond|79|F||||Vermont
-true|1850-10-16|64|65|Charlott Baker|36|F||||Vermont
-true|1850-10-16|64|65|Albert Baker|14|M||||Vermont
-
-|1850-10-16|65|66|Betsy Roscoe|59|F|||500|Vermont
-|1850-10-16|65|66|Susan Mulliss|34|F||||New York
-|1850-10-16|65|66|Betsy Ann Mulliss|5|F|||50|New York
-
-true|1850-10-16|66|67|Royal Kent|32|M||Farmer|1000|Vermont
-true|1850-10-16|66|67|Lucy Kent|26|F||||Vermont
-true|1850-10-16|66|67|John W. Kent|4|M||||Vermont
-true|1850-10-16|66|67|Philina Kent|4/12|F||||Vermont
-
-true|1850-10-16|67|68|Loyal Kent|32|M||Farmer|1500|Vermont
-true|1850-10-16|67|68|Enoch Kent|22|M||Farmer|1000|Vermont
-true|1850-10-16|67|68|Syntha Kent|24|F||||Vermont
-true|1850-10-16|67|68|Rachael Kent|67|F|||1000|Vermont
-
-|1850-10-16|68|69|Charles Weisley|32|M||Farmer||Massachusetts
-|1850-10-16|68|69|Loiza Weisley|25|F||||Vermont
-|1850-10-16|68|69|Silas Weisley|7|M||||Vermont
-|1850-10-16|68|69|Mary Weisley|2|F||||Vermont
-|1850-10-16|68|69|Charles H. Weisley|5/12|M||||Vermont
-|1850-10-16|68|69|Peter Mack|18|M||Laborer||Ireland
-|1850-10-16|68|69|James Sage|22|M||Laborer||Ireland
-
-true|1850-10-16|69|70|Silas Pond|52|M||Farmer|15000|Vermont
-true|1850-10-16|69|70|Angeline Pond|48|M||||Vermont
-true|1850-10-16|69|70|Martin Hayt|28|M||Farmer||Vermont
-true|1850-10-16|69|70|Sophia Hayt|24|F||||Vermont
-true|1850-10-16|69|70|Pilana Pond|9|F||||Vermont
-true|1850-10-16|69|70|John Barns|30|M||Laborer||Canada
-true|1850-10-16|69|70|Maryett Barns|26|F||||Canada
-true|1850-10-16|69|70|Charles Miny|17|M||Laborer||Canada
-true|1850-10-16|69|70|John Ganater|13|M||||New York
-
-|1850-10-16|70|71|Malankton Ferris|56|M||Laborer||Vermont
-|1850-10-16|70|71|Ruth Ferris|47|F||||New York
-|1850-10-16|70|71|Semantha Ferris|20|F||||Vermont
-|1850-10-16|70|71|George Ferris|11|M||||Vermont
-|1850-10-16|70|71|Martha Ferris|6|F||||Vermont
-
-|1850-10-16|71|72|Charles Trudo|48|M||Farmer||Canada
-|1850-10-16|71|72|Emily Trudo|45|F||||Canada
-|1850-10-16|71|72|Charles Trudo Jr|25|M||Laborer||Canada
-|1850-10-16|71|72|Joseph Trudo|19|M||Laborer||Vermont
-|1850-10-16|71|72|Fransis Trudo|17|M||Laborer||Vermont
-|1850-10-16|71|72|Mary Trudo|15|F||||Vermont
-|1850-10-16|71|72|Lucy Trudo|12|F||||Vermont
-|1850-10-16|71|72|William Trudo|10|M||||Vermont
-|1850-10-16|71|72|Loiza Trudo|8|F||||Vermont
-|1850-10-16|71|72|Anthony Trudo|1|M||||Vermont
-|1850-10-16|71|72|Joseph Rock|23|M||Laborer||Canada
-|1850-10-16|71|72|Emela Rock|22|F||||Canada
-
-|1850-10-16|72|73|Rufus E. Orkins|32|M||Wheel Wright|350|New Hampshire
-|1850-10-16|72|73|Armena Orkins|27|F||||Vermont
-|1850-10-16|72|73|Anna Orkins|6|F||||Vermont
-|1850-10-16|72|73|Nancy Orkins|5|F||||Vermont
-|1850-10-16|72|73|Julia Orkins|3|F||||Vermont
-|1850-10-16|72|73|Aramintha Hobbs|24|F||||Vermont
-
-|1850-10-16|73|74|Joseph Perry|40|M||Laborer||Canada
-|1850-10-16|73|74|Mary Perry|37|F||||Canada
-|1850-10-16|73|74|Joseph Perry Jr|9|M||||Vermont
-|1850-10-16|73|74|Olud Perry|8|M||||Vermont
-|1850-10-16|73|74|Prince Perry|5|M||||Vermont
-|1850-10-16|73|74|John Perry|5|M||||Vermont
-|1850-10-16|73|74|Fransis Perry|1|M||||Vermont
-|1850-10-16|73|74|Silas Allen|42|M||Laborer||Vermont
-
-|1850-10-16|74|75|Morris Smith|57|M||Farmer|14000|Vermont
-|1850-10-16|74|75|Harriet Smith|49|F||||Vermont
-|1850-10-16|74|75|Charlott Smith|24|F||||Vermont
-|1850-10-16|74|75|Francis Smith|22|F||||Vermont
-|1850-10-16|74|75|James Kitchen|18|M||Laborer||Canada
-
-true|1850-10-16|75|76|Solomon Allen|29|M||Hotell Keeper|8000|Vermont
-true|1850-10-16|75|76|Loiza Allen|27|F||||Vermont
-true|1850-10-16|75|76|William S. Allen|2|M||||Vermont
-true|1850-10-16|75|76|Catherine Allen|72|F||||Vermont
-true|1850-10-16|75|76|Charles Macarter|27|M||Laborer||Scotland
-true|1850-10-16|75|76|Mary Dreyic|18|F||||Ireland
-true|1850-10-16|75|76|Ellen Dority|22|F||||Ireland
-true|1850-10-16|75|76|John McClain|21|M||Laborer||Scotland
-true|1850-10-16|75|76|Mirnerva Silver|22|F||||New York
-
-true|1850-10-16|76|77|George S. Walker|46|M||Farmer|6000|Vermont
-true|1850-10-16|76|77|Elizabeth Walker|70|F||||Vermont
-true|1850-10-16|76|77|Jeviah Walker|28|F||||Vermont
-true|1850-10-16|76|77|Clarassa L. Walker|25|F||||Vermont
-
-|1850-10-16|77|78|Joseph Wise|40|M||Laborer||Canada
-|1850-10-16|77|78|Martha Wise|25|F||||Canada
-|1850-10-16|77|78|Julia Wise|11|F||||Vermont
-|1850-10-16|77|78|Philinda Wise|9|F||||Vermont
-|1850-10-16|77|78|Loiza Wise|7|F||||Vermont
-|1850-10-16|77|78|Henry Wise|3|M||||Vermont
-|1850-10-16|77|78|David Wise|1|M||||Vermont
-
-true|1850-10-16|78|79|Urnsted Keeler|45|M||Farmer|7500|Vermont
-true|1850-10-16|78|79|Patience Keeler|50|F||||Vermont
-true|1850-10-16|78|79|Buren Keeler|20|M||Farmer||Vermont
-
-true|1850-10-16|79|80|John Igo|50|M||Cooper||Ireland
-true|1850-10-16|79|80|Rachael Igo|60|F||||New York
-
-true|1850-10-16|80|81|Emmerson Stedman|60|M||Iron Smith|1000|Vermont
-true|1850-10-16|80|81|Phebe J. Stedman|46|F||||Vermont
-true|1850-10-16|80|81|Anna Stedman|14|F||||Vermont
-true|1850-10-16|80|81|Lucinda Stedman|12|F||||Vermont
-true|1850-10-16|80|81|David Raynis|11|M||||Vermont
-
-true|1850-10-16|81|82|Hiram Allen|44|M||Farmer|10000|Vermont
-true|1850-10-16|81|82|Patience Allen|43|F||||Vermont
-true|1850-10-16|81|82|Solomon Allen|18|M||Student||Vermont
-true|1850-10-16|81|82|Elizabeth Allen|15|F||||Vermont
-true|1850-10-16|81|82|Sarah Allen|9|F||||Vermont
-true|1850-10-16|81|82|Ellen Allen|1/12|F||||Vermont
-true|1850-10-16|81|82|Cashus Palmer|18|M||Laborer||Vermont
-
-|1850-10-17|82|83|William Kingsland|48|M||Farmer||New Jersey
-|1850-10-17|82|83|Caroline Kingsland|38|F||||New York
-|1850-10-17|82|83|Adaline Kingsland|15|F||||Vermont
-|1850-10-17|82|83|Marial Kingsland|11|M||||Vermont
-|1850-10-17|82|83|Delia Kingsland|8|F||||Vermont
-|1850-10-17|82|83|Delia Kingsland|5|M||||Vermont
-|1850-10-17|82|83|Marthy Kingsland|81|F||||New Jersey
-
-|1850-10-17|83|84|Daniel Sturtdifant|45|M||Farmer||Vermont
-|1850-10-17|83|84|Julia Sturtdifant|30|F||||Vermont
-|1850-10-17|83|84|Elsa L. Sturtdifant|2|F||||Vermont
-|1850-10-17|83|84|Robert Paelmer|14|M||||Vermont
-
-|1850-10-17|84|85|Prosper Eno|18|M||Laborer||Canada
-|1850-10-17|84|85|Jane Eno|19|F||||Canada
-
-|1850-10-17|85|86|Hezekiah Jackson|77|M||Farmer|4000|Massachusetts
-|1850-10-17|85|86|Sally Jackson|60|F||||New York
-|1850-10-17|85|86|David Jackson|26|M||Farmer||Vermont
-|1850-10-17|85|86|Louisa Jackson|44|F||||Vermont
-|1850-10-17|85|86|Charlott Jackson|24|F||||Vermont
-|1850-10-17|85|86|Elmira Jackson|21|F||||Vermont
-|1850-10-17|85|86|Phillipp Lansing|16|M||Laborer||Canada
-
-|1850-10-17|86|87|Sally Monson|60|F||||Massachusetts
-|1850-10-17|86|87|Mary Ann Fletcher|30|F||||Vermont
-|1850-10-17|86|87|Loisa Chapman|16|F||||Vermont
-|1850-10-17|86|87|Peter Trudo|22|M||Laborer||Canada
-
-|1850-10-17|87|88|Joseph Vriment|38|M||Laborer||Canada
-|1850-10-17|87|88|Philana Vriment|36|F||||Canada
-|1850-10-17|87|88|Almira Vriment|8|F||||Vermont
-|1850-10-17|87|88|Charles Vriment|7|M||||Vermont
-|1850-10-17|87|88|Octava Vriment|5|F||||Vermont
-|1850-10-17|87|88|Joseph A. Vriment|3|M||||Vermont
-
-|1850-10-17|88|89|Joshua F. Fields|41|M||Farmer|12000|Vermont
-|1850-10-17|88|89|Lucinda Fields|36|F||||New York
-|1850-10-17|88|89|Rosatha Fields|12|F||||Vermont
-|1850-10-17|88|89|Viola E. Fields|10|F||||Vermont
-|1850-10-17|88|89|Edward A. Fields|8|M||||Vermont
-|1850-10-17|88|89|Joseph Fields|33|M||Farmer||Vermont
-|1850-10-17|88|89|Mikiel Dwyer|19|M||Laborer||Ireland
-
-|1850-10-17|88|90|Thomas Perkins|83|M||None||New York
-|1850-10-17|88|90|Thomas Perkins Jr|42|M||Laborer||Vermont
-|1850-10-17|88|90|Hannah Perkins|30|F||||Vermont
-|1850-10-17|88|90|Charles A. Perkins|2|M||||Vermont
-|1850-10-17|88|90|Abel Bristol|21|M||Laborer||Vermont
-
-true|1850-10-17|90|91|George Spencer|57|M||Farmer|5400|Vermont
-true|1850-10-17|90|91|Matilda Spencer|39|F||||Vermont
-true|1850-10-17|90|91|Harret Spencer|20|F||||Vermont
-true|1850-10-17|90|91|Gideon Spencer|18|M||Farmer||Vermont
-true|1850-10-17|90|91|Jonathan Spencer|14|M||||New York
-true|1850-10-17|90|91|Sarah Spencer|13|F||||Vermont
-true|1850-10-17|90|91|Clara Spencer|4|F||||Vermont
-true|1850-10-17|90|91|Elizabeth Spencer|4/12|F||||Vermont
-true|1850-10-17|90|91|Joannah Spencer|76|F||||Vermont
-
-|1850-10-17|91|92|William Holland|87|M||None||Massachusetts
-|1850-10-17|91|92|Mary Holland|80|F||||Massachusetts
-
-|1850-10-17|92|93|Stephen Holland|53|M||Farmer|5000|Massachusetts
-|1850-10-17|92|93|Achsa Holland|46|F||||Massachusetts
-|1850-10-17|92|93|Emerson Holland|21|M||Laborer||Massachusetts
-|1850-10-17|92|93|Salmon W. Holland|13|M||||Vermont
-|1850-10-17|92|93|Jessie Maryet Holland|1|F||||Vermont
-
-|1850-10-17|93|94|Nelson Richards|40|M||Farmer|5400|Massachusetts
-|1850-10-17|93|94|Caroline M. Richards|28|F||||Vermont
-|1850-10-17|93|94|Catherine M. Richards|9|F||||Vermont
-|1850-10-17|93|94|Franklin Richards|7|M||||Vermont
-|1850-10-17|93|94|Jane Richards|5|F||||Vermont
-|1850-10-17|93|94|William Richards|4|M||||Vermont
-|1850-10-17|93|94|Samuel Richards|7/12|M||||Vermont
-|1850-10-17|93|94|John Delana|14|M||||Ireland
-|1850-10-17|93|94|Mary Maramnack|18|F||||Ireland
-
-|1850-10-17|94|95|Patrick Newgent|38|M||Laborer||Ireland
-|1850-10-17|94|95|Ann Newgent|32|F||||Ireland
-|1850-10-17|94|95|James Newgent|4|M||||Ireland
-|1850-10-17|94|95|William Newgent|1/12|M||||Vermont
-
-true|1850-10-17|95|96|Philo Bristol|35|M||Farmer|2000|Vermont
-true|1850-10-17|95|96|Prudance Bristol|36|F||||Massachusetts
-true|1850-10-17|95|96|Noah Bristol|14|M||||Vermont
-true|1850-10-17|95|96|Jane Bristol|12|F||||Vermont
-true|1850-10-17|95|96|Miron Bristol|9|M||||Vermont
-true|1850-10-17|95|96|Perin Bristol|7|M||||Vermont
-true|1850-10-17|95|96|Albert Bristol|5|M||||Vermont
-true|1850-10-17|95|96|Adalade Bristol|2|F||||Vermont
-true|1850-10-17|95|96|John Porter|47|M||None||Massachusetts
-
-true|1850-10-17|96|97|Russell T. Bristol|28|M||Farmer|800|Vermont
-true|1850-10-17|96|97|Jane Bristol|22|F||||Vermont
-true|1850-10-17|96|97|William Bristol|2|M||||Vermont
-true|1850-10-17|96|97|Edwin Bristol|4/12|M||||Vermont
-true|1850-10-17|96|97|Anna Bristol|57|F|||900|New York
-true|1850-10-17|96|97|William Talbert|19|M||Laborer||New York
-true|1850-10-17|96|97|Lydia Bristol|19|F|||400|Vermont
-
-|1850-10-17|97|98|William Hobbs|56|M||Laborer||Vermont
-|1850-10-17|97|98|Sally Hobbs|47|F||||Vermont
-|1850-10-17|97|98|Mary Prindle|8|F||||Vermont
-
-|1850-10-17|98|99|Norman W. Bristol|32|M||Farmer|6000|Vermont
-
-|1850-10-17|99|100|Patrick Ryne|27|M||Laborer||Ireland
-|1850-10-17|99|100|Johannah Ryne|26|F||||Ireland
-|1850-10-17|99|100|Thomas Ryne|2|M||||Ireland
-
-|1850-10-17|100|101|Alexander Branch|62|M||Farmer|7500|Vermont
-|1850-10-17|100|101|Hareet Branch|26|F||||Vermont
-|1850-10-17|100|101|Hannah Perkins|20|F||||Vermont
+PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|Industry|Value|BirthPlace|MarriedThisYear|AttendedSchool|Illiterate|Condition
+
+1|1|1|John D|Smith|34|1816|Male|White|Farmer|Agriculture|5000|Vermont||||
+2|1|1|Emela|Smith|32|1818|Female|White||||Rhode Island||||
+3|1|1|William|Smith|7|1843|Male|White||||Vermont||Yes||
+4|1|1|Edward|Smith|4|1846|Male|White||||Vermont||||
+5|1|1|Lorane|Smith|1|1849|Female|White||||Vermont||||
+6|1|1|Emila|Smith|0|1850|Female|White||||Vermont||||
+7|1|1|Patrick|Ryan|20|1830|Male|White|Laborer|Industry Not Reported||Ireland||||
+8|1|1|Elizabeth|Grandy|25|1825|Female|White||||Vermont||||
+9|2|2|Joseph|Haywood|54|1796|Male|White|Farmer|Agriculture|5000|Massachusetts||||
+10|2|2|Amanda|Haywood|40|1810|Female|White||||Vermont||||
+11|2|2|Josephine|Haywood|24|1826|Female|White||||Vermont||||
+12|2|2|Ashua E|Haywood|18|1832|Female|White||||Vermont||||
+13|2|2|Benjaman C|Haywood|13|1837|Male|White||||Vermont||Yes||
+14|2|2|Mariam E|Wilder|11|1839|Female|White||||Vermont||Yes||
+15|2|2|Henry H|Wilder|9|1841|Male|White||||Vermont||Yes||
+16|3|3|Janes|Capren|27|1823|Male|White|Farmer|Agriculture||New York|Yes|||
+17|3|3|Harrett|Capren|22|1828|Female|White||||Vermont|Yes|||
+18|4|4|Joseph|Janning|65|1785|Male|White|Laborer|Industry Not Reported||Canada|||Yes|
+19|4|4|Hannah|Janning|64|1786|Female|White||||Canada|||Yes|
+20|5|5|Peter|Alden|27|1823|Male|White|Laborer|Industry Not Reported||Vermont||||
+21|5|5|Jane|Alden|26|1824|Female|White||||Vermont||||
+22|5|5|Sarah|Alden|3|1847|Female|White||||Vermont||||
+23|5|5|Joseph|Carter|16|1834|Male|White|Laborer|Industry Not Reported||Vermont||||
+24|6|6|Seymour|Depay|33|1817|Male|White|Laborer|Industry Not Reported||Canada||||
+25|6|6|Elizabeth|Depay|24|1826|Female|White||||Vermont||||
+26|6|6|Anthony|Depay|9|1841|Male|White||||Vermont||Yes||
+27|6|6|Joseph|Depay|6|1844|Male|White||||Vermont||||
+28|6|6|Seymour|Depay|1|1849|Male|White||||Vermont||||
+29|7|7|Joseph|Rogers|49|1801|Male|White|Farmer|Agriculture||New York||||
+30|7|7|Sophia|Rogers|46|1804|Female|White||||New York||||
+31|7|7|George|Rogers|25|1825|Male|White|Laborer|Industry Not Reported||Vermont||||
+32|7|7|Samuel|Rogers|22|1828|Male|White|Laborer|Industry Not Reported||Vermont||||
+33|7|7|Chancy|Rogers|18|1832|Male|White|Laborer|Industry Not Reported||Vermont||||
+34|7|7|Amos|Rogers|16|1834|Male|White|Laborer|Industry Not Reported||Vermont||||
+35|7|7|William|Rogers|9|1841|Male|White||||Vermont||||
+36|7|7|Eliza|Rogers|20|1830|Female|White||||Vermont||||
+37|7|7|Mary|Rogers|5|1845|Female|White||||Vermont||||
+38|7|7|Henry|Rogers|1|1849|Male|White||||Vermont||||
+39|7|7|Amos|Stimson|72|1778|Male|White|None|Non-Industrial Response||Massachusetts||||Pauper
+40|8|8|Francis|Prime|56|1794|Male|White|Laborer|Industry Not Reported||Canada||||
+41|8|8|Julia|Prime|50|1800|Female|White||||Canada||||
+42|8|8|Mariah|Prime|20|1830|Female|White||||Vermont||||
+
+
+1|8|8|Henry|Prime|19|1831|Male|White|Laborer|Industry Not Reported||Vermont||||
+2|8|8|Francis|Prime|17|1833|Male|White|Laborer|Industry Not Reported||Vermont||Yes||
+3|8|8|John|Prime|14|1836|Male|White||||Vermont||Yes||
+4|8|8|Almeda|Prime|13|1837|Female|White||||Vermont||Yes||
+5|8|8|William|Prime|11|1839|Male|White||||Vermont||Yes||
+6|8|8|Edward|Prime|8|1842|Male|White||||Vermont||Yes||
+7|8|8|Roselia|Prime|5|1845|Female|White||||Vermont||||
+8|9|9|Abner|Holcomb|73|1777|Male|White|Farmer|Agriculture||Connecticut||||
+9|9|9|Orphe|Holcomb|69|1781|Female|White||||New Hampshire||||
+10|9|9|Charaty|Holcomb|42|1808|Female|White||||Vermont||||
+11|9|9|Preed|Holcomb|18|1832|Male|White|Laborer|Industry Not Reported||Vermont||||
+12|10|10|Mathaell T|Ganiss|40|1810|Male|White|Farmer|Agriculture|10000|Vermont||||
+13|10|10|Mery S|Ganiss|30|1820|Female|White||||Vermont||||
+14|10|10|Hapkins F|Ganiss|7|1843|Male|White||||Vermont||Yes||
+15|10|10|Samuel F|Ganiss|6|1844|Male|White||||Vermont||Yes||
+16|10|10|Agnes|Ganiss|2|1848|Female|White||||Vermont||||
+17|10|10|Mariah|Conant|16|1834|Female|White||||Vermont||||
+18|11|11|Calvin|Frank|68|1782|Male|White|Iron Smith|Other Primary Iron and Steel Industries||Vermont||||
+19|11|11|Caroline|Frank|61|1789|Female|White||||Vermont||||
+20|11|11|Fransis|Frank|27|1823|Male|White|Iron Smith|Other Primary Iron and Steel Industries||Vermont||||
+21|11|11|John|McDaniels|18|1832|Male|White|Iron Smith|Other Primary Iron and Steel Industries||Canada||||
+22|12|12|Fredrick|Curta|27|1823|Male|White|Farmer|Agriculture|6000|Vermont||||
+23|12|12|Faces|Curta|27|1823|Female|White||||Vermont||||
+24|12|12|Charles|Curta|2|1848|Male|White||||Vermont||||
+25|12|12|Rowland|Curta|20|1830|Male|White|Laborer|Industry Not Reported||Vermont||||
+26|12|12|Lovinna|Stowell|16|1834|Female|White||||Vermont||Yes||
+27|13|13|Henry|Allen|35|1815|Male|White|Farmer|Agriculture|5000|Vermont||||
+28|13|13|Matilda|Allen|34|1816|Female|White||||Vermont||||
+29|13|13|Julia Ann|Allen|12|1838|Female|White||||Vermont||Yes||
+30|13|13|Benjaman|Allen|10|1840|Male|White||||Vermont||Yes||
+31|13|13|Betsey|Allen|8|1842|Female|White||||Vermont||Yes||
+32|13|13|Obediah|Allen|6|1844|Male|White||||Vermont||Yes||
+33|13|13|Elicta|Allen|0|1850|Female|White||||Vermont||||
+34|13|13|Matilda|Weller|25|1825|Female|White||||Canada||||
+35|13|13|Ruth|Carter|62|1788|Female|White|||1250|Vermont||||
+36|13|13|Charles|Hutch|26|1824|Male|White|Laborer|Industry Not Reported||Vermont||||
+37|14|14|Phimas|Holcomb|61|1789|Male|White|Farmer|Agriculture|150|Vermont||||
+38|14|14|Anna|Holcomb|52|1798|Female|White||||Vermont||||
+39|14|14|Joseph|Holcomb|42|1808|Male|White|Laborer|Industry Not Reported||Vermont||||
+40|14|14|Christopher|Holcomb|18|1832|Male|White|Laborer|Industry Not Reported||Vermont||||
+41|15|15|Akins|Collum|30|1820|Male|White|Tailor|Apparel and Accessories Stores, Except Shoe||Canada||||
+42|15|15|Julia Ann|Collum|25|1825|Female|White||||Canada||||
+
+1|15|15|Wallis|Collum|1|1849|Male|White||||Vermont||||
+2|15|15|Elizabeth|Collum|57|1793|Female|White||||Canada||||
+3|15|15|Joseph|Collum|26|1824|Male|White|Laborer|Industry Not Reported||Canada||||
+4|15|15|Joseph|Collum|3|1847|Male|White||||Vermont||||
+5|16|16|Norman|Tousley|35|1815|Male|White|Doctor|Medical and Other Health Services, Except Hospitals|800|Vermont||||
+6|16|16|Betsey|Tousley|27|1823|Female|White||||Vermont||||
+7|16|16|Josephine|Tousley|4|1846|Female|White||||Vermont||Yes||
+8|17|17|Henry S P|Warner|38|1812|Male|White|Baptist Minister|Welfare and Religious Services||Vermont||||
+9|17|17|Lucinda|Warner|34|1816|Female|White||||Vermont||||
+10|18|18|Thomas|Gardner|47|1803|Male|White|Carpenter & Joiner|Construction|500|New Jersey||||
+11|18|18|Abigail|Gardner|42|1808|Female|White||||Vermont||||
+12|18|18|Edwin W|Gardner|21|1829|Male|White|Carpenter & Joiner|Construction||Vermont||||
+13|18|18|Truman|Gardner|14|1836|Male|White||||Vermont||Yes||
+14|18|18|Maryett|Gardner|11|1839|Female|White||||Vermont||Yes||
+15|18|18|Hellen|Gardner|7|1843|Female|White||||Vermont||Yes||
+16|18|18|James E|Gardner|5|1845|Male|White||||Vermont||||
+17|18|18|Loisa|Gardner|3|1847|Female|White||||Vermont||||
+18|19|19|Charles|Adams|27|1823|Male|White|Farmer|Agriculture||Vermont||||
+19|19|19|Eliza|Willard|63|1787|Female|White||||New York||||
+20|20|20|Henry|Storms|52|1798|Male|Black|Laborer|Industry Not Reported|300|Vermont||||
+21|20|20|Sarah|Storms|54|1796|Female|White||||Vermont||||
+22|20|20|Ugene|Storms|11|1839|Male|Mulatto||||Vermont||Yes||
+23|20|20|Charlott|Storms|10|1840|Female|Mulatto||||Vermont||Yes||
+24|20|20|Sarah Ann|Milina|30|1820|Female|Mulatto||||New York||||
+25|20|20|Jamiah|Milina|11|1839|Male|Mulatto||||New York||Yes||
+26|21|21|Sally|Chapin|49|1801|Female|White|||500|Vermont||||
+27|21|21|Delia|Chapin|25|1825|Female|White||||Vermont||||
+28|21|21|Viola|Chapin|18|1832|Female|White||||Vermont||Yes||
+29|22|22|Hiram|Kent|38|1812|Male|White|Farmer|Agriculture|1500|Vermont||||
+30|22|22|Delia|Kent|31|1819|Female|White||||Vermont||||
+31|22|22|Enoch|Kent|8|1842|Male|White||||Vermont||Yes||
+32|23|23|John W|Sheldwin|39|1811|Male|White|Laborer|Industry Not Reported||Vermont||||
+33|23|23|Elizabeth|Sheldwin|27|1823|Female|White||||Vermont||||
+34|23|23|John|Sheldwin|13|1837|Male|White||||Vermont||Yes||
+35|23|23|Henry|Sheldwin|12|1838|Male|White||||Vermont||Yes||
+36|23|23|Mary|Sheldwin|10|1840|Female|White||||Vermont||Yes||
+37|23|23|Benjaman|Sheldwin|9|1841|Male|White||||Vermont||Yes||
+38|23|23|Nancy|Sheldwin|6|1844|Female|White||||Vermont||Yes||
+39|23|23|Sarah|Sheldwin|5|1845|Female|White||||Vermont||Yes||
+40|23|23|Moses|Sheldwin|4|1846|Male|White||||Vermont||||
+41|23|23|Philena|Sheldwin|2|1848|Female|White||||Vermont||||
+42|23|23|Seloma|Valern|75|1775|Female|White||||Vermont||||
+
+1|24|24|David|Adams|38|1812|Male|White|Farmer|Agriculture||Vermont||||
+2|24|24|Abram C|Harris|42|1808|Male|White|Farmer|Agriculture||New York||||
+3|24|24|Isaac T|Harris|22|1828|Male|White|Farmer|Agriculture||New York||||
+4|24|24|Hannah R|Harris|38|1812|Female|White||||Vermont||||
+5|24|24|Mary Ann|Heath|30|1820|Female|White||||Vermont||||
+6|24|24|Alace|Stone|18|1832|Female|White||||Vermont||||
+7|24|24|Syntha|Adams|10|1840|Female|White||||Vermont||Yes||
+8|25|25|Roswell D|Hopkins|69|1781|Male|White|Farmer|Agriculture||Vermont||||
+9|25|25|Sarah F|Hopkins|45|1805|Female|White||||Vermont||||
+10|25|25|Eliza|Lion|14|1836|Female|White||||New York||Yes||
+11|25|26|Roswell J|Hopkins|41|1809|Male|White|Farmer|Agriculture|8500|Vermont||||
+12|25|26|Lonza|Dudley|40|1810|Female|White||||Vermont||||
+13|25|26|Phebe Ann|Tilly|23|1827|Female|White||||Vermont||||
+14|25|26|Milo S|Parmee|27|1823|Male|White|Laborer|Industry Not Reported||New York||||
+15|25|26|Mary|Raymo|14|1836|Female|White||||Canada||Yes||
+16|26|27|Silas|Supper|71|1779|Male|White|Farmer|Agriculture|4000|New Jersey||||
+17|26|27|Mercia|Supper|68|1782|Female|White||||Connecticut||||
+18|26|27|Argalus|Gaige|50|1800|Male|White|Laborer|Industry Not Reported||New York|||Yes|
+19|26|27|Sally|Beevan|15|1835|Female|White||||New York||Yes||
+20|27|28|James|Tenbrooks|48|1802|Male|White|Farmer|Agriculture|5000|England||||
+21|27|28|Mary|Tenbrooks|46|1804|Female|White||||Vermont||||
+22|27|28|Jane Ann|Tenbrooks|24|1826|Female|White||||Vermont||||
+23|27|28|William|Tenbrooks|19|1831|Male|White|Farmer|Agriculture||Vermont||Yes||
+24|27|28|Ogden|Tenbrooks|16|1834|Male|White|Farmer|Agriculture||Vermont||Yes||
+25|27|28|Elizabath|Tenbrooks|12|1838|Female|White||||Vermont||Yes||
+26|27|28|Ellen|Tenbrooks|6|1844|Female|White||||Vermont||Yes||
+27|27|28|Mary Ann|Tenbrooks|35|1815|Female|White||||England||||
+28|27|28|Mary|Buvan|14|1836|Female|White||||Vermont||Yes||
+29|27|28|Thomas|Buvan|25|1825|Male|White|Laborer|Industry Not Reported||Scotland||||
+30|28|29|Walter|Tilley|65|1785|Male|White|Laborer|Industry Not Reported||New York||||
+31|28|29|Jane|Tilley|63|1787|Female|White||||New York||||
+32|28|29|George W|Tilley|21|1829|Male|White|Laborer|Industry Not Reported||Vermont||||
+33|29|30|Samuel|Mitchiel|75|1775|Male|White|Laborer|Industry Not Reported||Vermont||||
+34|29|30|Hannah|Mitchiel|74|1776|Female|White||||Vermont||||
+35|29|30|Miner|Mitchiel|23|1827|Male|White|Laborer|Industry Not Reported||Vermont||||
+36|30|31|Horatio N|White|47|1803|Male|White|Farmer|Agriculture|7000|Vermont||||
+37|30|31|Syrena|White|41|1809|Female|White||||Vermont||||
+38|30|31|Friend A|White|17|1833|Male|White|Farmer|Agriculture||Vermont||Yes||
+39|30|31|Francis E|White|16|1834|Female|White||||Vermont||Yes||
+40|30|31|William E|White|14|1836|Male|White||||Vermont||Yes||
+41|30|31|George A|White|12|1838|Male|White||||Vermont||Yes||
+42|30|31|Canada|White|8|1842|Female|White||||Vermont||Yes||
+
+
+1|31|32|Joseph|Little|27|1823|Male|White|Laborer|Industry Not Reported||Vermont||||
+2|31|32|Mary|Little|26|1824|Female|White||||Canada||||
+3|31|32|Joseph|Little|4|1846|Male|White||||Canada||||
+4|31|32|Charles|Little|2|1848|Male|White||||Vermont||||
+5|32|33|Hiram|Spaulding|46|1804|Male|White|Farmer|Agriculture|4000|Vermont|Yes|||
+6|32|33|Olive M|Spaulding|31|1819|Female|White||||Vermont|Yes|||
+7|32|33|Davis L|Spaulding|15|1835|Male|White||||Vermont||Yes||
+8|32|33|Julius P|Spaulding|9|1841|Male|White||||Vermont||Yes||
+9|32|33|Everit H|Spaulding|6|1844|Male|White||||Vermont||Yes||
+10|32|33|Charles|Ferris|27|1823|Male|White|Laborer|Industry Not Reported||Vermont||||
+11|32|33|Juniett|Peck|16|1834|Female|White||||Vermont||Yes||
+12|33|34|James|Shepard|34|1816|Male|White|Carpenter & Joiner|Construction|250|Vermont||||
+13|33|34|Sarah Jane|Shepard|29|1821|Female|White||||New York||||
+14|33|34|James W|Shepard|9|1841|Male|White||||Vermont||Yes||
+15|33|34|Charles E|Shepard|7|1843|Male|White||||Vermont||Yes||
+16|34|35|Lymon|Shepard|57|1793|Male|White|Carpenter|Construction|500|Vermont||||
+17|34|35|Phila|Shepard|59|1791|Female|White||||Vermont||||
+18|34|35|Edward|Shepard|22|1828|Male|White|Joiner|Construction||Vermont||||
+19|35|36|Lewis|Daniels|40|1810|Male|White|Laborer|Industry Not Reported||Canada||||
+20|35|36|Rose|Daniels|37|1813|Female|White||||Canada||||
+21|35|36|Lewis|Daniels|16|1834|Male|White|Laborer|Industry Not Reported||Canada||||
+22|35|36|Rose|Daniels|13|1837|Female|White||||Canada||Yes||
+23|35|36|Mitchel|Daniels|10|1840|Male|White||||Vermont||Yes||
+24|35|36|Mary|Daniels|8|1842|Female|White||||Vermont||Yes||
+25|35|36|Joseph|Daniels|6|1844|Male|White||||Vermont||Yes||
+26|36|37|Nathan|Spaulding|70|1780|Male|White|Farmer|Agriculture|3000|Vermont||||
+27|36|37|Huldah|Spaulding|68|1782|Female|White||||New York||||
+28|36|37|Ruba|Spaulding|40|1810|Female|White||||Vermont||||
+29|36|37|Mary Ann|Spaulding|30|1820|Female|White||||Vermont||||
+30|36|37|Berthena|Forbs|8|1842|Female|White||||Canada||Yes||
+31|36|37|Joseph|Gorke|17|1833|Male|White|Laborer|Industry Not Reported||New York||||
+32|36|37|Myron|Batchelder|21|1829|Male|White|Laborer|Industry Not Reported||Vermont||||
+33|37|38|Amasa|Benson|28|1822|Male|White|Shoemaker|Footwear, Except Rubber|1200|Vermont||||
+34|37|38|Harry|Benson|33|1817|Male|White|None|Non-Industrial Response||Vermont||||Idiotic
+35|37|38|Polly|Benson|57|1793|Female|White||||Vermont||||
+36|37|38|Eunice|Benson|18|1832|Female|White||||Vermont||Yes||
+37|38|39|Norman|Grandy|41|1809|Male|White|Farmer|Agriculture||Vermont||||
+38|38|39|Cloa|Grandy|41|1809|Female|White||||Vermont||||
+39|38|39|Luman B|Grandy|15|1835|Male|White||||Vermont||Yes||
+40|38|39|Francis|Ferris|35|1815|Female|White||||Vermont||||
+41|38|39|Rhoda|Stagg|62|1788|Female|White||||Vermont||||
+42|39|40|Isaac|Spaulding|59|1791|Male|White|Farmer|Agriculture|6000|Vermont||||
+
+
+1|39|40|Phebe|Spaulding|55|1795|Female|White||||Vermont||||
+2|39|40|Rebecca|Spaulding|30|1820|Female|White||||Vermont||||
+3|39|40|Isaac S|Spaulding|21|1829|Male|White|Farmer|Agriculture||Vermont||Yes||
+4|39|40|Phebe W|Spaulding|16|1834|Female|White||||Vermont||Yes||
+5|39|40|Munson P|Curtis|28|1822|Male|White|Laborer|Industry Not Reported||Vermont||||
+6|39|40|Welthy|Curtis|25|1825|Female|White||||Vermont||||
+7|39|40|Natio|Curtis|1|1849|Male|White||||Vermont||||
+8|40|41|Warren|Hatch|39|1811|Male|White|Shoemaker|Footwear, Except Rubber||Vermont||||
+9|40|41|Phebe|Hatch|34|1816|Female|White||||Vermont||||
+10|40|41|Sarah|Hatch|13|1837|Female|White||||Vermont||Yes||
+11|40|41|Isaac|Hatch|12|1838|Male|White||||Vermont||Yes||
+12|40|41|Ida|Hatch|10|1840|Female|White||||Vermont||Yes||
+13|40|41|Warren S|Hatch|4|1846|Male|White||||Vermont||Yes||
+14|41|42|Edrick|Adams|39|1811|Male|White|Farmer|Agriculture|4000|Vermont||||
+15|41|42|Marion M|Adams|33|1817|Female|White||||Vermont||||
+16|41|42|John F|Adams|12|1838|Male|White||||Vermont||Yes||
+17|41|42|Isadore|Adams|10|1840|Female|White||||Vermont||Yes||
+18|41|42|Ella|Adams|8|1842|Female|White||||Vermont||Yes||
+19|41|42|Edrick|Adams|5|1845|Male|White||||Vermont||Yes||
+20|41|42|Emma|Adams|3|1847|Female|White||||Vermont||||
+21|41|42|Murrey|Adams|2|1848|Male|White||||Vermont||||
+22|41|42|Arthur|Adams|0|1850|Male|White||||Vermont||||
+23|41|42|Edrick|Ferris|26|1824|Male|White|Laborer|Industry Not Reported||Vermont||||
+24|41|42|Mikiel|Billon|43|1807|Male|White|Laborer|Industry Not Reported||Ireland||||
+25|41|42|Mary|Billon|17|1833|Female|White||||Canada||||
+26|42|43|Elizah|Grandy|68|1782|Male|White|Farmer|Agriculture|3000|Vermont||||
+27|42|43|Ester|Grandy|64|1786|Female|White||||New Jersey||||
+28|42|43|Alvan|Grandy|34|1816|Male|White|Farmer|Agriculture||Vermont||||
+29|42|43|Ester|Grandy|32|1818|Female|White||||Vermont||||
+30|42|43|Syntha|Batcheder|36|1814|Female|White||||Vermont||||
+31|42|43|Roxana|Batcheder|13|1837|Female|White||||Vermont||Yes||
+32|42|43|John W|Batcheder|11|1839|Male|White||||Vermont||Yes||
+33|43|44|Truman|Grandy|47|1803|Male|White|Farmer|Agriculture|2000|Vermont||||
+34|43|44|Polly R|Grandy|45|1805|Female|White||||Vermont||||
+35|43|44|Mariah L|Grandy|23|1827|Female|White||||Vermont||||
+36|43|44|Caroline|Grandy|21|1829|Female|White||||Vermont||||
+37|43|44|Jessa L|Grandy|19|1831|Male|White|Farmer|Agriculture||Vermont||Yes||
+38|43|44|Harrett|Grandy|13|1837|Female|White||||Vermont||Yes||
+39|43|44|William M|Grandy|10|1840|Male|White||||Vermont||Yes||
+40|43|44|Ellen|Grandy|8|1842|Female|White||||Vermont||Yes||
+41|43|44|Charles H|Grandy|3|1847|Male|White||||Vermont||||
+42|43|44|Edmond|Holcomb|31|1819|Male|White|Laborer|Industry Not Reported||Vermont||||
+
+
+1|44|45|Jefferson|Convers|34|1816|Male|White|Farmer|Agriculture|3300|Vermont||||
+2|44|45|Sarah|Convers|32|1818|Female|White||||Vermont||||
+3|44|45|John R|Convers|7|1843|Male|White||||Vermont||Yes||
+4|44|45|Jessa G|Convers|4|1846|Male|White||||Vermont||||
+5|45|46|Joel H|Grandy|31|1819|Male|White|Carpenter & Joiner|Construction|125|Vermont||||
+6|45|46|Polly|Grandy|33|1817|Female|White||||Vermont||||
+7|45|46|Charlott E|Grandy|8|1842|Female|White||||Vermont||Yes||
+8|45|46|Lurinda A|Grandy|5|1845|Female|White||||Vermont||Yes||
+9|45|46|Alonzo W|Grandy|0|1850|Male|White||||Vermont||||
+10|46|47|Russell|Norton|30|1820|Male|White|Farmer|Agriculture|400|Vermont||||
+11|46|47|Betsey|Norton|32|1818|Female|White||||Vermont||||
+12|46|47|Wallace|Norton|2|1848|Male|White||||Vermont||||
+13|46|47|Katurah|Grandy|62|1788|Female|White|||600|Vermont||||
+14|46|47|Abnor|Grandy|36|1814|Male|White|Farmer|Agriculture|400|Vermont||||
+15|46|47|Edward|Lewis|52|1798|Male|White|Laborer|Industry Not Reported||Vermont||||
+16|47|48|Aaron|Curler|49|1801|Male|White|Farmer|Agriculture|4000|Vermont||||
+17|47|48|Cathrine|Curler|40|1810|Female|White||||New Jersey||||
+18|47|48|Loiza|Curler|19|1831|Female|White||||Vermont||||
+19|47|48|Cathrine|Curler|17|1833|Female|White||||Vermont||||
+20|47|48|William|Curler|11|1839|Male|White||||Vermont||Yes||
+21|47|48|Annett|Curler|4|1846|Female|White||||Vermont||||
+22|47|48|Jacob V|Curler|96|1754|Male|White|None|Non-Industrial Response|2000|New York||||
+23|47|48|Jacob|Gardner|24|1826|Male|White|Laborer|Industry Not Reported||Vermont||||
+24|48|49|James|McOrman|34|1816|Male|White|Laborer|Industry Not Reported||Ireland||||
+25|48|49|Betsey|McOrman|36|1814|Female|White||||Ireland||||
+26|48|49|James|McOrman|10|1840|Male|White||||Ireland||Yes||
+27|48|49|Ellen|McOrman|8|1842|Female|White||||France||Yes||
+28|48|49|John|McOrman|6|1844|Male|White||||France||||
+29|48|49|Maryett|McOrman|5|1845|Female|White||||France||||
+30|49|50|Abram|Burwell|38|1812|Male|White|Laborer|Industry Not Reported||Vermont||||
+31|49|50|Rosina|Burwell|28|1822|Female|White||||Vermont||||
+32|49|50|Martha E|Burwell|4|1846|Female|White||||Vermont||||
+33|49|50|Charles H|Burwell|2|1848|Male|White||||Vermont||||
+34|49|50|Lury|Critenden|52|1798|Female|White||||Vermont||||
+35|50|51|Ann F|Hays|37|1813|Female|White|||200|Vermont||||
+36|50|51|Sally M|Curler|21|1829|Female|White||||Vermont||||
+37|51|52|Clark|Conant|44|1806|Male|White|Iron Smith|Other Primary Iron and Steel Industries|2800|Massachusetts||||
+38|51|52|Semantha|Conant|44|1806|Female|White||||Vermont||||
+39|51|52|Igmon J|Conant|19|1831|Male|White|Iron Smith|Other Primary Iron and Steel Industries||New York||Yes||
+40|51|52|Jane Ann|Conant|13|1837|Female|White||||New York||Yes||
+41|51|52|William|Conant|12|1838|Male|White||||New York||Yes||
+42|51|52|George|Conant|8|1842|Male|White||||Vermont||Yes||
+
+
+1|51|52|Emely|Conant|5|1845|Female|White||||Vermont||Yes||
+2|51|52|Luretia|Conant|1|1849|Female|White||||Vermont||||
+3|51|52|Emma|Conant|72|1778|Female|White||||Massachusetts||||
+4|52|53|James|Hall|50|1800|Male|White|Laborer|Industry Not Reported||Vermont||||
+5|52|53|Almira|Hall|42|1808|Female|White||||New York||||
+6|52|53|Lewis|Raymond|9|1841|Male|White||||Canada||||Pauper
+7|53|54|Anthony S|Burwell|44|1806|Male|White|Farmer|Agriculture|3000|Vermont||||
+8|53|54|Achsah|Burwell|40|1810|Female|White||||Vermont||||
+9|53|54|Francis J|Burwell|13|1837|Female|White||||Vermont||||
+10|53|54|Charles L|Burwell|11|1839|Male|White||||Vermont||||
+11|53|54|Anna L|Burwell|7|1843|Female|White||||Vermont||||
+12|53|54|Fordice H|Shipard|19|1831|Male|White|Laborer|Industry Not Reported||Vermont||||
+13|53|54|Betsey|Bevan|20|1830|Female|White||||Vermont||||
+14|54|55|John|Davis|30|1820|Male|White|Laborer|Industry Not Reported|250|Vermont||||
+15|54|55|Rachael|Davis|37|1813|Female|White||||New York||||
+16|55|56|Henry|Gardner|50|1800|Male|White|Farmer|Agriculture|3500|New Jersey||||
+17|55|56|Dranthony|Gardner|42|1808|Female|White||||Vermont||||
+18|55|56|Samuel|Gardner|21|1829|Male|White|Student|School Response (Students, Etc.)||Vermont||||
+19|55|56|Charles W|Sperry|30|1820|Male|White|Schoolteacher|Educational Services||Vermont|Yes|||
+20|55|56|Rebecca|Sperry|19|1831|Female|White||||Vermont|Yes|||
+21|56|57|John|Spalding|58|1792|Male|White|Farmer|Agriculture|7000|Vermont||||
+22|56|57|Elizabeth|Spalding|56|1794|Female|White||||New Jersey||||
+23|56|57|Jacob|Spalding|33|1817|Male|White|Farmer|Agriculture||Vermont||||
+24|56|57|Polly Ann|Spalding|22|1828|Female|White||||Vermont||||
+25|56|57|Olive|Spalding|21|1829|Female|White||||Vermont||||
+26|56|57|Mary E|Spalding|3|1847|Female|White||||Vermont||||
+27|57|58|John B|Spalding|35|1815|Male|White|Farmer|Agriculture||Vermont||||
+28|57|58|Suson B|Spalding|33|1817|Female|White||||Vermont||||
+29|58|59|Samuel|Shepard|82|1768|Male|White|Farmer|Agriculture|10000|Connecticut||||
+30|58|59|Taymor|Shepard|63|1787|Female|White||||Connecticut||||
+31|58|59|William|Shepard|19|1831|Male|White|Farmer|Agriculture||Vermont||||
+32|58|59|Josiah S|Tappen|39|1811|Male|White|Farmer|Agriculture||Vermont||||
+33|58|59|Semantha S|Tappen|33|1817|Female|White||||Vermont||||
+34|58|59|Shefail|Tappen|14|1836|Male|White||||Vermont||Yes||
+35|58|59|Harrett A|Tappen|12|1838|Female|White||||Vermont||Yes||
+36|58|59|Rollen J|Tappen|10|1840|Male|White||||Vermont||Yes||
+37|58|59|Silas|Tappen|6|1844|Male|White||||Vermont||Yes||
+38|58|59|Bridget|Conners|19|1831|Female|White||||Ireland||||
+39|59|60|Henry|Howard|27|1823|Male|White|Farmer|Agriculture||New York||||
+40|59|60|Sopkio|Howard|22|1828|Female|White||||Vermont||||
+41|59|60|Emely J|Howard|0|1850|Female|White||||Vermont||||
+42|59|60|Julia|Raymo|17|1833|Female|White||||Vermont||||
+
+1|60|61|Wasburn|Brown|59|1791|Male|White|Farmer|Agriculture|6000|Vermont||||
+2|60|61|Polly|Brown|50|1800|Female|White||||Vermont||||
+3|60|61|Henry|Brown|26|1824|Male|White|Farmer|Agriculture||Vermont||||
+4|60|61|Daniel|Brown|16|1834|Male|White|Farmer|Agriculture||Vermont||||
+5|60|61|Elizabath D|Brown|9|1841|Female|White||||Vermont||||
+6|60|61|Leorand W|Brown|5|1845|Male|White||||Vermont||||
+7|60|61|Peter|Larabo|16|1834|Male|White|Laborer|Industry Not Reported||Canada||||
+8|61|62|Ester|Full|51|1799|Female|White|||2000|New York||||
+9|61|62|Sarah J|Full|18|1832|Female|White||||New York||Yes||
+10|61|62|Charles|Full|14|1836|Male|White||||Vermont||Yes||
+11|61|62|Harrett|Full|12|1838|Female|White||||Vermont||Yes||
+12|61|62|William|Full|9|1841|Male|White||||Vermont||Yes||
+13|62|63|William|Foster|29|1821|Male|White|Methodist Minister|Welfare and Religious Services||Canada||||
+14|62|63|Sarah|Foster|25|1825|Female|White||||New York||||
+15|62|63|William|Foster|1|1849|Male|White||||New York||||
+16|62|63|Sarah|Smith|5|1845|Female|White||||New York||||
+17|63|64|Stephan|Roscoe|21|1829|Male|White|Farmer|Agriculture|10000|Vermont|Yes|||
+18|63|64|Betsey|Roscoe|18|1832|Female|White||||Vermont|Yes|||
+19|63|64|Edwin|Hurlbert|17|1833|Male|White|Farmer|Agriculture||Vermont||Yes||
+20|63|64|Stephan|Mulliss|15|1835|Male|White||||Vermont||Yes||
+21|63|64|Loisa|Mulliss|11|1839|Female|White||||Vermont||Yes||
+22|64|65|Hiram W|Pard|52|1798|Male|White|Farmer|Agriculture||Vermont||||
+23|64|65|Betsey|Pard|53|1797|Female|White||||Vermont||||
+24|64|65|Loiza|Pard|79|1771|Female|White||||Vermont||||
+25|64|65|Charlott|Baker|36|1814|Female|White||||Vermont||||
+26|64|65|Albert|Baker|14|1836|Male|White||||Vermont||Yes||
+27|65|66|Betsey|Roscoe|59|1791|Female|White|||500|Vermont||||
+28|65|66|Susan|Mulliss|34|1816|Female|White||||New York||||
+29|65|66|Betsey Ann|Mulliss|5|1845|Female|White||||New York||Yes||
+30|66|67|Royal|Kent|32|1818|Male|White|Farmer|Agriculture|1000|Vermont||||
+31|66|67|Lury|Kent|26|1824|Female|White||||Vermont||||
+32|66|67|John R|Kent|4|1846|Male|White||||Vermont||||
+33|66|67|Philena|Kent|0|1850|Female|White||||Vermont||||
+34|67|68|Loyal|Kent|32|1818|Male|White|Farmer|Agriculture|1500|Vermont||||
+35|67|68|Enoch|Kent|22|1828|Male|White|Farmer|Agriculture|1000|Vermont||||
+36|67|68|Syntha|Kent|24|1826|Female|White||||Vermont||||
+37|67|68|Rachael|Kent|67|1783|Female|White|||1000|Vermont||||
+38|68|69|Charles|Wrisley|32|1818|Male|White|Farmer|Agriculture||Massachusetts||||
+39|68|69|Loiza|Wrisley|25|1825|Female|White||||Virginia||||
+40|68|69|Silas|Wrisley|7|1843|Male|White||||Vermont||Yes||
+41|68|69|Mary|Wrisley|2|1848|Female|White||||Vermont||||
+42|68|69|Charles H|Wrisley|0|1850|Male|White||||Vermont||||
+
+1|68|69|Peter|Mack|18|1832|Male|White|Laborer|Industry Not Reported||Ireland||||
+2|68|69|James|Sage|22|1828|Male|White|Laborer|Industry Not Reported||Ireland||||
+3|69|70|Silas|Pond|52|1798|Male|White|Farmer|Agriculture|15000|Vermont||||
+4|69|70|Angeline|Pond|48|1802|Female|White||||Vermont||||
+5|69|70|Martin|Hayt|28|1822|Male|White|Farmer|Agriculture||Vermont||||
+6|69|70|Sophia|Hayt|24|1826|Female|White||||Vermont||||
+7|69|70|Pilana|Pond|9|1841|Female|White||||Vermont||Yes||
+8|69|70|John|Barns|30|1820|Male|White|Laborer|Industry Not Reported||Canada||||
+9|69|70|Maryett|Barns|26|1824|Female|White||||Canada||||
+10|69|70|Charles|Ming|17|1833|Male|White|Laborer|Industry Not Reported||Canada||||
+11|69|70|John|Gandter|13|1837|Male|White||||New York||||
+12|70|71|Malankton|Ferris|56|1794|Male|White|Laborer|Industry Not Reported||Vermont||||
+13|70|71|Ruth|Ferris|47|1803|Female|White||||New York||||
+14|70|71|Semantha|Ferris|20|1830|Female|White||||Vermont||||
+15|70|71|George|Ferris|11|1839|Male|White||||Vermont||Yes||
+16|70|71|Martha|Ferris|6|1844|Female|White||||Vermont||Yes||
+17|71|72|Charles|Trudo|48|1802|Male|White|Farmer|Agriculture||Canada|||Yes|
+18|71|72|Emily|Trudo|45|1805|Female|White||||Canada||||
+19|71|72|Charles|Trudo|25|1825|Male|White|Laborer|Industry Not Reported||Canada||||
+20|71|72|Joseph|Trudo|19|1831|Male|White|Laborer|Industry Not Reported||Vermont||||
+21|71|72|Fransis|Trudo|17|1833|Male|White|Laborer|Industry Not Reported||Vermont||||
+22|71|72|Mary|Trudo|15|1835|Female|White||||Vermont||||
+23|71|72|Lucy|Trudo|12|1838|Female|White||||Vermont||||
+24|71|72|William|Trudo|10|1840|Male|White||||Vermont||||
+25|71|72|Loiza|Trudo|8|1842|Female|White||||Vermont||||
+26|71|72|Anthony|Trudo|1|1849|Male|White||||Vermont||||
+27|71|72|Joseph|Rock|23|1827|Male|White|Laborer|Industry Not Reported||Canada|Yes|||
+28|71|72|Emela|Rock|22|1828|Female|White||||Canada|Yes|||
+29|72|73|Rufus E|Orkins|34|1816|Male|White|Wheelwright|Miscellaneous Repair Services|350|New Hampshire||||
+30|72|73|Armena|Orkins|27|1823|Female|White||||Vermont||||
+31|72|73|Anna|Orkins|6|1844|Female|White||||Vermont||Yes||
+32|72|73|Nancy|Orkins|5|1845|Female|White||||Vermont||Yes||
+33|72|73|Julia|Orkins|3|1847|Female|White||||Vermont||||
+34|72|73|Aramintha|Hobbs|24|1826|Female|White||||Vermont||||
+35|73|74|Joseph|Jerry|40|1810|Male|White|Laborer|Industry Not Reported||Canada||||
+36|73|74|Mary|Jerry|37|1813|Female|White||||Canada||||
+37|73|74|Joseph|Jerry|9|1841|Male|White||||Vermont||Yes||
+38|73|74|Oleed|Jerry|8|1842|Male|White||||Vermont||Yes||
+39|73|74|Prince|Jerry|5|1845|Male|White||||Vermont||Yes||
+40|73|74|John|Jerry|3|1847|Male|White||||Vermont||||
+41|73|74|Fransis|Jerry|1|1849|Male|White||||Vermont||||
+42|73|74|Silas|Allen|42|1808|Male|White|Laborer|Industry Not Reported||Vermont||||
+
+1|74|75|Morris|Smith|57|1793|Male|White|Farmer|Agriculture|14000|Vermont||||
+2|74|75|Harriett|Smith|49|1801|Female|White||||Vermont||||
+3|74|75|Charlott|Smith|24|1826|Female|White||||Vermont||||
+4|74|75|Francis|Smith|22|1828|Female|White||||Vermont||||
+5|74|75|James|Kitchen|18|1832|Male|White|Laborer|Industry Not Reported||Canada||||
+6|75|76|Solomon|Allen|29|1821|Male|White|Hotel Keeper|Hotels and Lodging Places|8000|Vermont||||
+7|75|76|Loiza|Allen|27|1823|Female|White||||Vermont||||
+8|75|76|William S|Allen|2|1848|Male|White||||Vermont||||
+9|75|76|Cathrin|Allen|72|1778|Female|White||||Massachusetts||||
+10|75|76|Charles|Mararter|27|1823|Male|White|Laborer|Industry Not Reported||Scotland||||
+11|75|76|Mary|Dreyie|18|1832|Female|White||||Ireland||||
+12|75|76|Ellen|Dorety|22|1828|Female|White||||Ireland||||
+13|75|76|John|McOlum|21|1829|Male|White|Laborer|Industry Not Reported||Scotland||||
+14|75|76|Mirnerva|Silver|22|1828|Female|White||||New York||||
+15|76|77|George S|Walker|46|1804|Male|White|Farmer|Agriculture|6000|Vermont||||
+16|76|77|Elizabath|Walker|70|1780|Female|White||||Vermont||||
+17|76|77|Jeviah|Walker|28|1822|Female|White||||Vermont||||
+18|76|77|Clarassa L|Walker|25|1825|Female|White||||Vermont||||
+19|77|78|Joseph|Wise|40|1810|Male|White|Laborer|Industry Not Reported||Canada||||
+20|77|78|Martha|Wise|25|1825|Female|White||||Canada||||
+21|77|78|Julia|Wise|11|1839|Female|White||||Vermont||Yes||
+22|77|78|Philinda|Wise|9|1841|Female|White||||Vermont||Yes||
+23|77|78|Loiza|Wise|7|1843|Female|White||||Vermont||Yes||
+24|77|78|Henry|Wise|3|1847|Male|White||||Vermont||||
+25|77|78|David|Wise|1|1849|Male|White||||Vermont||||
+26|78|79|Umsted|Keeler|45|1805|Male|White|Farmer|Agriculture|7500|Vermont||||
+27|78|79|Patience|Keeler|50|1800|Female|White||||Vermont||||
+28|78|79|Buren|Keeler|20|1830|Male|White|Farmer|Agriculture||Vermont||||
+29|79|80|John|Igo|50|1800|Male|White|Cooper|Miscellaneous Wood Products||Ireland||||
+30|79|80|Rachael|Igo|60|1790|Female|White||||New York||||
+31|80|81|Emmerson|Stedman|60|1790|Male|White|Iron Smith|Other Primary Iron and Steel Industries|1000|Vermont||||
+32|80|81|Phebe J|Stedman|46|1804|Female|White||||Vermont||||
+33|80|81|Anna|Stedman|14|1836|Female|White||||Vermont||Yes||
+34|80|81|Lucinda|Stedman|12|1838|Female|White||||Vermont||Yes||
+35|80|81|David|Raymo|11|1839|Male|White||||Vermont||Yes||Pauper
+36|81|82|Hiram|Allen|44|1806|Male|White|Farmer|Agriculture|10000|Vermont||||
+37|81|82|Patience|Allen|43|1807|Female|White||||Vermont||||
+38|81|82|Solamon|Allen|18|1832|Male|White|Student|School Response (Students, Etc.)||Vermont||||
+39|81|82|Elizabath|Allen|15|1835|Female|White||||Vermont||||
+40|81|82|Sarah|Allen|9|1841|Female|White||||Vermont||||
+41|81|82|Ellen|Allen|0|1850|Female|White||||Vermont||||
+42|81|82|Cashus|Parmer|18|1832|Male|White|Laborer|Industry Not Reported||Vermont||||
+
+1|82|83|William|Kingsland|45|1805|Male|White|Farmer|Agriculture||New Jersey||||
+2|82|83|Caroline|Kingsland|38|1812|Female|White||||New York||||
+3|82|83|Adaline|Kingsland|15|1835|Female|White||||Vermont||||
+4|82|83|Marial|Kingsland|11|1839|Male|White||||Vermont||||
+5|82|83|Delia|Kingsland|8|1842|Female|White||||Vermont||||
+6|82|83|George|Kingsland|5|1845|Male|White||||Vermont||||
+7|82|83|Martha|Kingsland|81|1769|Female|White||||New Jersey||||
+8|83|84|Daniel|Sturdevant|45|1805|Male|White|Farmer|Agriculture||Vermont||||
+9|83|84|Pulia|Sturdevant|30|1820|Female|White||||Vermont||||
+10|83|84|Elsa L|Sturdevant|2|1848|Male|White||||Vermont||||
+11|83|84|Robert|Paelmer|14|1836|Male|White||||Vermont||||
+12|84|85|Prosper|Erro|18|1832|Male|White|Laborer|Industry Not Reported||Canada|Yes|||
+13|84|85|Pane|Erro|19|1831|Female|White||||Canada|Yes|||
+14|85|86|Hezekiah|Jackson|77|1773|Male|White|Farmer|Agriculture|4000|Massachusetts||||
+15|85|86|Sally|Jackson|60|1790|Female|White||||New York||||
+16|85|86|David|Jackson|26|1824|Male|White|Farmer|Agriculture||Vermont||||
+17|85|86|Lovisa|Jackson|44|1806|Female|White||||Vermont||||
+18|85|86|Charlott|Jackson|24|1826|Female|White||||Vermont||||
+19|85|86|Elmira|Jackson|21|1829|Female|White||||Vermont||||
+20|85|86|Phillipp|Lansing|16|1834|Male|White|Laborer|Industry Not Reported||Canada||||
+21|86|87|Sally|Monson|60|1790|Female|White||||Massachusetts||||
+22|86|87|Mary Ann|Selertcher|30|1820|Female|White||||Vermont||||
+23|86|87|Loisa|Chapmon|16|1834|Female|White||||Vermont||Yes||
+24|86|87|Peter|Lendo|22|1828|Male|White|Laborer|Industry Not Reported||Canada||||
+25|87|88|Joseph|Vriment|38|1812|Male|White|Laborer|Industry Not Reported||Canada||||
+26|87|88|Philana|Vriment|36|1814|Female|White||||Canada|||Yes|
+27|87|88|Almira|Vriment|8|1842|Female|White||||Vermont||Yes||
+28|87|88|Charles|Vriment|7|1843|Male|White||||Vermont||Yes||
+29|87|88|Octava|Vriment|5|1845|Female|White||||Vermont||||
+30|87|88|Joseph A|Vriment|3|1847|Male|White||||Vermont||||
+31|88|89|Joshua F|Fields|41|1809|Male|White|Farmer|Agriculture|12000|Vermont||||
+32|88|89|Lucinda|Fields|36|1814|Female|White||||New York||||
+33|88|89|Rosattha|Fields|12|1838|Female|White||||Vermont||Yes||
+34|88|89|Viola E|Fields|10|1840|Female|White||||Vermont||Yes||
+35|88|89|Edward A|Fields|8|1842|Male|White||||Vermont||Yes||
+36|88|89|Joseph|Fields|33|1817|Male|White|Farmer|Agriculture||Vermont||||
+37|88|89|Mikiel|Dwyre|19|1831|Male|White|Laborer|Industry Not Reported||Ireland||||
+38|89|90|Thomas|Perkins|83|1767|Male|White|None|Non-Industrial Response||New York||||
+39|89|90|Thomas|Perkins|42|1808|Male|White|Laborer|Industry Not Reported||Vermont||||
+40|89|90|Hannah|Perkins|30|1820|Female|White||||Vermont||||
+41|89|90|Charles A|Perkins|2|1848|Male|White||||Vermont||||
+42|89|90|Abel|Bristol|21|1829|Male|White|Laborer|Industry Not Reported|400|Vermont||||
+
+
+1|90|91|George|Spencer|51|1799|Male|White|Farmer|Agriculture|5400|Vermont||||
+2|90|91|Matilda|Spencer|39|1811|Female|White||||Vermont||||
+3|90|91|Hariet|Spencer|20|1830|Female|White||||Vermont||||
+4|90|91|Gideon|Spencer|18|1832|Male|White|Farmer|Agriculture||Vermont||||
+5|90|91|Jonathan|Spencer|14|1836|Male|White||||New York||Yes||
+6|90|91|Soviah|Spencer|15|1835|Female|White||||Vermont||Yes||
+7|90|91|Clara|Spencer|4|1846|Female|White||||Vermont||||
+8|90|91|Elizabeth|Spencer|0|1850|Female|White||||Vermont||||
+9|90|91|Joannah|Spencer|76|1774|Female|White||||Vermont||||
+10|91|92|William|Holland|87|1763|Male|White|None|Non-Industrial Response||Massachusetts||||
+11|91|92|Mary|Holland|80|1770|Female|White||||Massachusetts||||
+12|92|93|Stephen|Holland|53|1797|Male|White|Farmer|Agriculture|5000|Massachusetts||||
+13|92|93|Achsa|Holland|46|1804|Female|White||||Massachusetts||||
+14|92|93|Emerson|Holland|21|1829|Male|White|Laborer|Industry Not Reported||Massachusetts||||
+15|92|93|Salmon W|Holland|13|1837|Male|White||||Vermont||Yes||
+16|92|93|Jessie Marget|Holland|1|1849|Female|White||||Vermont||||
+17|93|94|Nelson|Richards|40|1810|Male|White|Farmer|Agriculture|5400|Massachusetts||||
+18|93|94|Caroline M|Richards|28|1822|Female|White||||Vermont||||
+19|93|94|Catherine M|Richards|9|1841|Female|White||||Vermont||Yes||
+20|93|94|Franklin|Richards|7|1843|Male|White||||Vermont||Yes||
+21|93|94|Jane|Richards|5|1845|Female|White||||Vermont||Yes||
+22|93|94|William|Richards|4|1846|Male|White||||Vermont||||
+23|93|94|Samuel|Richards|0|1850|Male|White||||Vermont||||
+24|93|94|John|Delana|14|1836|Male|White||||Ireland||||
+25|93|94|Mary|Maramnah|18|1832|Female|White||||Ireland||||
+26|94|95|Patrick|Newgent|58|1792|Male|White|Laborer|Industry Not Reported||Ireland||||
+27|94|95|Ann|Newgent|32|1818|Female|White||||Ireland||||
+28|94|95|James|Newgent|4|1846|Male|White||||Ireland||||
+29|94|95|William|Newgent|0|1850|Male|White||||Vermont||||
+30|95|96|Philo|Bristol|35|1815|Male|White|Farmer|Agriculture|2000|Vermont||||
+31|95|96|Prudance|Bristol|36|1814|Female|White||||Massachusetts||||
+32|95|96|Noah|Bristol|14|1836|Male|White||||Vermont||Yes||
+33|95|96|Jane|Bristol|12|1838|Female|White||||Vermont||Yes||
+34|95|96|Miron|Bristol|9|1841|Male|White||||Vermont||Yes||
+35|95|96|Levin|Bristol|7|1843|Male|White||||Vermont||Yes||
+36|95|96|Albert|Bristol|5|1845|Male|White||||Vermont||Yes||
+37|95|96|Adalade|Bristol|2|1848|Female|White||||Vermont||||
+38|95|96|John|Porter|47|1803|Male|White|None|Non-Industrial Response|600|Massachusetts||||Insane
+39|96|97|Russell S|Bristol|28|1822|Male|White|Farmer|Agriculture|800|Vermont||||
+40|96|97|Jane|Bristol|22|1828|Female|White||||Vermont||||
+41|96|97|William|Bristol|2|1848|Male|White||||Vermont||||
+42|96|97|Edwin|Bristol|0|1850|Male|White||||Vermont||||
+
+7|98|97|Amra|Bristol|57|1793|Female|White|Farmer|Agriculture|6000|New York||||
+8|99|97|William|Salbert|19|1831|Male|White|Laborer|Industry Not Reported||New York||||
+9|99|97|Lydia|Bristol|19|1831|Female|White||||Vermont||||
+10|99|98|William|Mobbs|56|1794|Male|White||||Vermont||||
+11|100|98|Sally|Mobbs|47|1803|Female|White|Farmer|Agriculture|7500|Vermont||||
+12|100|98|Mary|Prindle|8|1842|Female|White||||Vermont||||
+13|100|99|Norman W|Bristol|32|1818|Male|White||||Vermont||||
+1|96|100|Patrick|Kyne|27|1823|Male|White|||900|Ireland||||
+2|96|100|Johannah|Kyne|26|1824|Female|White|Laborer|Industry Not Reported||Ireland||Yes||
+3|96|100|Thomas|Kyne|2|1848|Male|White|||400|Ireland||Yes||
+4|97|101|Alaxander|Branch|62|1788|Male|White|Laborer|Industry Not Reported||Vermont||||
+5|97|101|Marrett|Branch|26|1824|Female|White||||Vermont||||
+6|97|101|Hannah|Pickins|20|1830|Female|White||||Vermont||Yes||
