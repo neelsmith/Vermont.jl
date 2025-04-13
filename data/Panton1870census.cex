@@ -1,0 +1,25 @@
+Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gender|Race|Occupation|Real Estate Value|Personal Estate Value|Birthplace|Father of Foreign Birth|Mother of Foreign Birth|Birth Month|Marriage Month|Attended School|Cannot Read|Cannot Write|Condition|Male Citizen Over 21|Denied Voting Rights
+
+1|1|1|Hatch|Ebenezer|45|1825|Male|White|Farmer|3500|1000|Vermont|||||||||Yes|
+2|1|1|Hatch|Caroline|39|1831|Female|White|Keeping House|||Vermont||||||||||
+19|6|6|Rogers|Amos|36|1834|Male|White|Steamboat Engineer|1300|250|Vermont|||||||||Yes|
+20|6|6|Rogers|Maria B|30|1840|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+21|6|6|Rogers|Joseph B|12|1858|Male|White|At Home|||Vermont||Yes|||Yes|||||
+22|6|6|Rogers|Fred F|10|1860|Male|White||||Vermont||Yes|||Yes|||||
+23|6|6|Rogers|Nellie A|8|1862|Female|White||||Vermont||Yes||||||||
+24|6|6|Rogers|Edward A|||Male|White||||Vermont||Yes||||||||
+3|2|2|Kingman|Elizah W|49|1821|Male|White|Farmer|3000|1000|Vermont|||||||||Yes|
+4|2|2|Kingman|Louisa|39|1831|Female|White|Keeping House|||Vermont||||||||||
+5|2|2|Kingman|Isa B|13|1857|Male|White|At Home|||Vermont|||||Yes|||||
+6|2|2|Kingman|Sarah E|3|1867|Female|White||||Vermont||||||||||
+7|2|3|Ferris|Meloncthon|74|1796|Male|White|Farmer|400|150|Vermont|||||||||Yes|
+8|2|3|Ferris|Ruth|65|1805|Female|White|Keeping House|||New York||||||||||
+9|2|3|Holcomb|Harry|60|1810|Male|White||||Vermont|||||||||Yes|
+34|9|9|Curles|Aaron|67|1803|Male|White|Farmer|15000|2200|Vermont|||||||||Yes|
+35|9|9|Curles|Catharine|62|1808|Female|White|Keeping House|||Vermont||||||||||
+36|9|9|Curles|William H|29|1841|Male|White|Farmer|||Vermont|||||||||Yes|
+37|9|9|Curles|Mary|22|1848|Female|White|Keeping House|||Vermont||||||||||
+38|9|9|Curles|Clayton|3|1867|Male|White||||Vermont||||||||||
+39|9|9|Gardner|Jacob|45|1825|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+40|9|9|Trask|Viola|16|1854|Female|White|Domestic Servant|||Vermont||||||||||
+
