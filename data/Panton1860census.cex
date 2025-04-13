@@ -1,100 +1,533 @@
-Map 1857|Date|House|Family|Name|Age|Sex|Color|Occupation|RealEstate|PersonalEstate|Birthplace|
-|1860-06-16|671|1|Corydon Harris|47|M||Farmer|10000|2450|Vt
-true|1860-06-16|672|2|Sally Munson|70|F|||||Mass
-|1860-06-16|673|3|Jessy Tattle|60|M||Farmer|0|130|Vt
-|1860-06-16|674|4|Thomas Perkins|45|M||Laborer|||Vt
-|1860-06-16|675|5|Joseph Lansing|26|M||Laborer|||Canada
-|1860-06-16|676|6|Hector Rock|30|M||Laborer|||Canada
-|1860-06-16|677|7|Andrew Jackson|38|M||Farmer|8000|1000|Vt
-|1860-06-16|678|8|Edward Burck|47|M||Laborer|||Canada
-|1860-06-16|679|9|Joseph Bourgira|47|M||Laborer|||Canada
-|1860-06-16|680|10|Hiram Allen|50|M||Farmer|16890|3725|Vt
-|1860-06-16|682|11|Michael Russell|27|M||Day Laborer|||Ireland
-true|1860-06-16|684|13|Olmstead Keeler|55|M||Farmer|10000|1300|Vt
-|1860-06-16|685|14|Joseph Wise|46|M||Day Laborer|||Canada
-true|1860-06-16|686|15|George J. Walker|64|M||Farmer|7360|1165|Vt
-true|1860-06-16|687|16|Solomon Allen|39|M||Farmer|8000|1300|Vt
-|1860-06-16|688|17|Edward Merrill|28|M||Laborer|||Canada
-|1860-06-16|689|18|Leon Merrill|27|M||Laborer|||Canada
-true|1860-06-16|690|19|Ichabod Sherman|36|M||Farmer|13500|2300|Vt
-|1860-06-16|691|20|Charles Tredo|60|M||Farmer|||Canada
-true|1860-06-16|692|21|Henry Storms|63|M|B|Day Laborer|||Vt
-true|1860-06-16|693|22|John B. Spaulding|43|M||Farmer|1800|1725|Vt
-|1860-06-18|694|23|Lewis Daniels|50|M||Farmer|2150||Conn
-|1860-06-18|695|24|Aaron Holcomb|60|M||||Canada
-true|1860-06-18|696|25|Abner? Grandy|44|M||Farmer|3000|2500|Vt
-true|1860-06-18|697|26|John Spaulding|68||M|Farmer|11000|350|Vt
-|1860-06-18|698|27|Eben Norton|35|M||Day Laborer|||NY
-|1860-06-18|699|28|Jacob Spaulding|42|M||Farmer|2500|1600|Vt
-true|1860-06-18|700|29|Jacob Tappan|58|M||Farmer|2500|1600|NJ
-|1860-06-18|701|30|Levi Matthews|22|M||Laborer||30|Vt
-true|1860-06-18|702|31|Thomas Gardner|57|M||Carpenter|||NJ
-true|1860-06-18|703|32|C.W.B. Converse|45|M||Blacksmith|500|500|Vt
-true|1860-06-18|704|33|James McCormick|45|M||Day Laborer|200|30|Ireland
-true|1860-06-18|705|34|John David|40|M||Day Laborer|250|30|Vt
-true|1860-06-18|706|35|Aaron Curler|57|M||Farmer|1100|2300|Vt
-|1860-06-18|707|36|Madison Converse|43|M||Farmer|1360|300|Vt
-true|1860-06-18|708|37|Jefferson Converse|44|M||Farmer|5500|875|Vt
-true|1860-06-18|709|38|Melanon Ferris|63|M||Laborer|300|30|Vt
-true|1860-06-18|710|39|E.G. Stagg|48|M||Farmer|6000|950|Vt
-true|1860-06-18|711|40|Elijah Grandy|77|M||Farmer|2400|300|Vt
-true|1860-06-18|712|41|Isaac S. Spaulding|30|M||Farmer||500|Vt
-|1860-06-18|713|42|Amos Rogers|26|M||Farmer||300|Vt
-|1860-06-18|714|43|Guy Holcomb|28|M||Farmer|900|35|Vt
-|1860-06-18|715|43|R.K. Curtis|30|M||Carpenter||100|Vt
-|1860-06-18|716|44|Warren Hatch|48|M||Farmer|2560|600|Vt
-true|1860-06-18|717|45|Amasa Benson|37|M||Farmer|1600|420|Vt
-|1860-06-18|718|46|Stillman Grandy|47|M||Farmer||400|Vt
-true|1860-06-18|719|47|Lyman Shepard|65|M||Farmer|2160|250|Vt
-|1860-06-18|719|48|George Pillsbury|25|M||Carpenter|||Mass
-true|1860-06-18|720|49|Hiram Spaulding|48|M||Farmer|4600|800|Vt
-true|1860-06-18|721|50|William E. White|23|M||Farmer|18600|2150|Vt
-true|1860-06-18|722|51|Horatio N. White|57|M||Farmer|||Vt
-|1860-06-18|723|52|Minor Mitchell|30|M||Day laborer|200||Vt
-true|1860-06-18|724|53|William Ten Brooke|28|M||Farmer|5600|500|Vt
-true|1860-06-18|725|54|Silas Tappan|80|M||Farmer|4000|1150|NJ
-true|1860-06-18|726|55|Roswell Hopkins|79||M|Farmer|6800|200|Vt
-true|1860-06-18|726|56|R.J. Hopkins|50|M||Farmer|8000|12000|Vt
-true|1860-06-18|727|57|Daniel Adams|47|M||Farmer|13250|1700|Vt
-|1860-06-18|728|58|Lorrin Cole|58|M||Mechanic|||Vt
-true|1860-06-18|729|59|Hiram Kent|49|M||Farmer|2100|475|Vt
-|1860-06-18|730|60|Ambrose Austin|60|M||Day Laborer||Canada
-|1860-06-18|731|61|F.J. Trask|37|M||Blacksmith|1100|225|Vt
-|1860-06-18|732|62|Josiah Tappan|49|M||Farmer|8360|2000|Vt
-|1860-06-18|733|63|Frank King|25|M||Farm Laborer|||NY
-|1860-06-18|734|64|Lewis Raid?|65|M||Laborer|||Canada
-true|1860-06-18|735|65|Loyal Kent|42|M||Farmer|3000|700|Vt
-|1860-06-18|736|66|Norman Allen|40|M||Farmer|5000|700|Vt
-true|1860-06-19|737|67|Ester Tull|62|F||Farmer|3000|350|NY
-|1860-06-19|737|68|Charles Tull|24|M||Farmer||200|Vt
-|1860-06-19|738|69|Samuel Tebo|24|M||Laborer|||Canada
-|1860-06-19|739|70|Abner C. Mathews|56|M||Farmer|||NY
-true|1860-06-19|740|71|Eenoch  J. Kent|32|M||Farmer|2600|350|Vt
-true|1860-06-19|741|72|Martin Hoyt|37|M||Farmer|6800|950|Vt
-|1860-06-19|742|73|Angeline Pond|57|F|||440||Vt
-true|1860-06-19|743|74|Hiram W. Pond|60|M||Farmer|2800|300|Vt
-true|1860-06-19|744|75|Ruben Sawyer|62|M||Bap. Clergyman|||Vt
-true|1860-06-19|745|76|Norman Towley|46|M||Physician|1500|1000|Vt
-|1860-06-19|746|77|Betsy Pond|65|F||||Vt
-true|1860-06-19|747|78|B.F. Gains|50|M||Farmer|2100|3550|Vt
-|1860-06-19|748|79|Primas Storms|54|M|B|Farm Laborer|150||Vt
-|1860-06-19|749|80|Henry Allen|45|M||Farmer|13800|1900|Vt
-|1860-06-19|750|81|John Perry|45|M||Laborer|||Vt
-|1860-06-19|751|82|Joseph Beat|44|M||Laborer|||NY
-|1860-06-19|752|83|Garret Course|32|M|Farmer|800|100|Ireland
-|1860-06-19|753|84|Pat Sullivan|48|M||Laborer|||Ireland
-true|1860-06-19|754|85|Joseph Rogers|58|M||Farmer|400|200|NY
-true|1860-06-19|755|86|George Rogers|36|M||Farmer|1050|300|Vt
-|1860-06-19|756|87|Patrick Simon|56|M||Laborer||50|Ireland
-|1860-06-19|757|88|Patrick Ryan|38|M||Laborer|420|40|Ireland
-true|1860-06-19|758|89|John D. Smith|43|M||Farmer|15200|1800|Vt
-|1860-06-19|759|90|S.A. Kenyon|33|M||Farmer||150|Vt
-|1860-06-19|760|91|Edward Linch|40|M||Farmer|3210|500|Ireland
-true|1860-06-19|761|92|Alexander Brush|71|M||Farmer|6000|1000|Vt
-|1860-06-19|762|93|Norman W. Bristol|42|M||Farmer|5800|2250|Vt
-true|1860-06-19|763|94|R.T. Bristol|38|M||Famer|2000|600|Vt
-true|1860-06-19|764|95|Philo Bristol|45|M||Farmer|3280|450|Vt
-true|1860-06-19|765|96|Nelson Richards|48|M||Farmer|8000|1550|Mass
-true|1860-06-19|766|97|George Spencer|59|M||Farmer|6700|2400|Vt
-|1860-06-19|767|98|Emerson Holland|30|M||Farmer|5600|1000|Mass
-|1860-06-19|768||Unoccupied|||||||
+PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|RealEstate|PersonalEstate|BirthPlace|MarriedThisYear|AttendedSchool|Illiterate|Condition
+
+671|1|Harris|Corydon|47|1813|Male|White|Farmer|10000|3450|Vermont||||
+671|1|Harris|Achsah|31|1829|Female|White||||Vermont||||
+671|1|Harris|Sidney|6|1854|Male|White||||Vermont||Y||
+671|1|Harris|Araminta|7/12|1859|Female|White||||Vermont||||
+671|1|Burch|Paul|21|1839|Male|White|Farm Laborer|||Vermont||||
+671|1|Harris|Susan|||Female|White||||Vermont|||Y|
+671|1|Stride|Harriet|22|1838|Female|White|Servant|||New York||||
+672|2|Munson|Sally|70|1790|Female|White||||Massachusetts||||
+672|2|Burgon|Octavia|14|1842|Female|White||||Vermont||||
+673|3|Tattle|Jessy|60|1800|Male|White|Farmer||130|Vermont||||
+673|3|Tattle|Sarah|36|1824|Female|White||||Massachusetts||||
+673|3|Tattle|Satterley|16|1844|Male|White||||Vermont||Y||
+673|3|Tattle|Stiles|13|1847|Male|White||||Vermont||Y||
+673|3|Tattle|Elma|11|1849|Female|White||||Vermont||Y||
+673|3|Tattle|Edey|6|1854|Male|White||||Vermont||Y||
+673|3|Tattle|Mary|1|1859|Female|White||||Vermont||||
+673|3|Stride|Amandy|18|1842|Female|White|Servant|||Vermont||||
+674|4|Perkins|Thomas|45|1815|Male|White|Laborer|||Vermont||||
+674|4|Perkins|Hannah|40|1820|Female|White||||Vermont||||
+674|4|Perkins|Charles|8|1852|Male|White||||Vermont||Y||
+674|4|Perkins|Cyntha|6|1854|Female|White||||Vermont||Y||
+674|4|Perkins|Fred|||Male|White||||Vermont||||
+674|4|Perkins|Frank|2|1858|Male|White||||Vermont||||
+674|4|Perkins|Betsey|10/12|1859|Female|White||||Vermont||||
+675|5|Lausing|Joseph|26|1834|Male|White|Laborer|||Canada||||
+675|5|Lausing|Jane|60|1800|Female|White||||Canada||||
+676|6|Rock|Hector|30|1830|Male|White|Laborer|||Canada||||
+676|6|Rock|Mary|28|1832|Female|White||||Canada||||
+676|6|Rock|Betsey|6|1854|Female|White||||Vermont||||
+676|6|Rock|John|4|1856|Male|White||||Vermont||||
+676|6|Rock|Jane|||Female|White||||Vermont||||
+676|6|Rock|Saml|10/12|1859|Male|White||||Vermont||||
+676|6|Rock|James|1|1859|Male|White||||Vermont||||
+677|7|Jackson|Andrew|38|1822|Male|White|Farmer|8000|1000|Vermont||||
+677|7|Jackson|Eliza|38|1822|Female|White||||Vermont||||
+677|7|Jackson|Charles|16|1844|Male|White||||Vermont||Y||
+677|7|Jackson|Fred|||Male|White||||Vermont||||
+677|7|Jackson|Hezekiah|88|1772|Male|White|Farmer|||Connecticut||||
+677|7|Jackson|Sally|70|1790|Female|White||||New York||||
+677|7|Jackson|Louisa|40|1820|Female|White||||Vermont||||
+
+
+677|7|Lansing|Joseph|33|1827|Male|White|Farm Laborer|||Vermont||||
+678|8|Burch|Edward|47|1813|Male|White|Laborer|||Canada|||Y|
+678|8|Burch|Mary|41|1819|Female|White||||Canada||||
+678|8|Burch|Fred|17|1843|Male|White||||Canada||||
+678|8|Burch|Eli|||Male|White||||Canada||||
+678|8|Burch|Joseph|11|1849|Male|White||||Canada||||
+678|8|Burch|Elizabeth|10|1850|Female|White||||Vermont||||
+678|8|Burch|Lewis|8|1852|Male|White||||Vermont||||
+678|8|Burch|Edward|5|1855|Male|White||||Vermont||||
+678|8|Burch|Julia|||Female|White||||Vermont||||
+678|8|Burch|Francis|8/12|1859|Male|White||||Vermont||||
+679|9|Bourgira|Joseph|47|1813|Male|White|Laborer|||Canada||||
+679|9|Bourgira|Mary|45|1815|Female|White||||Canada|||Y|
+679|9|Bourgira|Joseph|13|1847|Male|White||||Vermont||Y||
+679|9|Bourgira|Francis|7|1853|Male|White||||Vermont||Y||
+679|9|Bourgira|Josephine|5|1855|Female|White||||Vermont||||
+679|9|Bourgira|Mary|||Female|White||||Vermont||||
+679|9|Bourgira|Jane|11/12|1859|Female|White||||Vermont||||
+680|10|Alben|Hiram|50|1810|Male|White|Farmer|16890|3725|Vermont||||
+680|10|Alben|Patience|50|1810|Female|White||||Vermont||||
+680|10|Alben|Solomon T|27|1833|Male|White|Farmer|||Vermont||||
+680|10|Alben|Esther|26|1834|Female|White||||New York||||
+680|10|Alben|Howard|||Male|White||||Kansas||||
+680|10|Alben|Sarah|18|1842|Female|White||||Vermont||||
+680|10|Wise|Louisa|17|1843|Female|White|Servant|||Vermont||||
+680|10|Janning|Mitchel|21|1839|Male|White|Farm Laborer|||Vermont||||
+680|10|Semm|Joseph|16|1844|Male|White|Farm Laborer|||Vermont||||
+680|10|Semm|Thomas|21|1839|Male|White|Farm Laborer|||Ireland||||
+680|10|Semm|James|21|1839|Male|White|Farm Laborer|||Ireland||||
+682|11|Russell|Michael|27|1833|Male|White|Day Laborer|||Ireland|||Y|
+682|11|Russell|Ann|25|1835|Female|White||||Ireland|||Y|
+683|12|Igo|Mary|60|1800|Female|White||||New York||||
+684|13|Keeler|Olmsted|55|1805|Male|White|Farmer|10000|1300|Vermont||||
+684|13|Keeler|Patience|60|1800|Female|White||||Vermont||||
+684|13|Keeler|Sarah|6|1854|Female|White||||Iowa||Y||
+685|14|Wise|Joseph|46|1814|Male|White|Day Laborer|||Canada|||Y|
+685|14|Wise|Martha|41|1819|Female|White||||Canada|||Y|
+685|14|Wise|Henry|13|1847|Male|White||||Vermont||||
+685|14|Wise|David|10|1850|Male|White||||Vermont||||
+
+685|14|Wise|Joseph|8|1852|Male|White||||Vermont||Y||
+685|14|Wise|Sarah|6|1854|Female|White||||Vermont||Y||
+685|14|Wise|Charles|4|1856|Male|White||||Vermont||Y||
+685|14|Wise|Frank|10/12|1859|Male|White||||Vermont||||
+686|15|Walker|George J|52|1808|Male|White|Farmer|7350|1165|Vermont||||
+686|15|Walker|Samantha|45|1815|Female|White|||250|Vermont||||
+686|15|Walker|Seviah|42|1818|Female|White|||250|Vermont||||
+686|15|Crook|Claud|36|1824|Female|White||||Vermont||||
+686|15|Crook|Gertrude|5|1855|Female|White||||Vermont||||
+686|15|Spence|Jonathan|24|1836|Male|White|Farmer|||Vermont||||
+687|16|Allen|Solomon|||Male|White|Farmer|8000|1300|Vermont||||
+687|16|Allen|Louisa|38|1822|Female|White||||Vermont||||
+687|16|Allen|William|12|1848|Male|White||||Vermont||Y||
+687|16|Allen|Catharine|6|1854|Female|White||||Vermont||Y||
+687|16|Bacon|George|25|1835|Male|White|Farm Laborer|||England||||
+687|16|Cuyler|Lydia|16|1844|Female|White|Servant|||Vermont||||
+687|16|Allen|Catherine|80|1780|Female|White||||Massachusetts||||
+688|17|Merrill|Edward|28|1832|Male|White|Laborer|||Canada||||
+688|17|Merrill|Phila|20|1840|Female|White||||Vermont||||
+688|17|Merrill|John|4/12|1859|Male|White||||Vermont||||
+689|18|Merrill|Leon|27|1833|Male|White|Laborer|||Canada||||
+689|18|Merrill|Julia|22|1838|Female|White||||Vermont||||
+689|18|Merrill|George|1|1859|Male|White||||Vermont||||
+690|19|Sherman|Ichabod|36|1824|Male|White|Farmer|13500|2300|Vermont||||
+690|19|Sherman|Eliza|24|1836|Female|White||||Vermont||||
+690|19|Waldron|Lucinda|52|1808|Female|White||||Vermont||||
+691|20|Tredo|Charles|60|1800|Male|White|Farmer|||Canada|||Y|
+691|20|Tredo|Catherine|60|1800|Female|White||||Canada|||Y|
+691|20|Tredo|Frank|25|1835|Male|White|Farmer|||Canada|||Y|
+691|20|Tredo|Lucy|20|1840|Female|White||||Canada|Y||Y|
+691|20|Tredo|William|18|1842|Male|White||||Vermont||||
+691|20|Tredo|Jane|||Female|White||||Vermont||||
+691|20|Tredo|Andrew|12|1848|Male|White||||Vermont||Y||
+691|20|Lafontaine|Joseph|28|1832|Male|White||||Canada|Y||Y|
+692|21|Storms|Henry|63|1797|Male|Black|Day Laborer|||Vermont||||
+692|21|Storms|Sarah|65|1795|Female|White||||Vermont||||
+692|21|Storms|Rugene|21|1839|Male|Mulatto||||Vermont||||
+693|22|Spaulding|John B|43|1817|Male|White|Farmer|1800|6725|Vermont||||
+693|22|Spaulding|Susan|42|1818|Female|White||||Vermont||||
+693|22|Holcomb|Helen|17|1843|Female|White|Servant|||Vermont||||
+
+693|22|Holcomb|Abner G|83|1777|Male|White|Farmer|2150||Connecticut||||
+694|23|Daniels|Lewis|50|1810|Male|White|Mason||150|Canada|||Y|
+694|23|Daniels|Lewis|23|1837|Male|White||||Vermont|||Y|
+694|23|Daniels|Joseph|14|1846|Male|White||||Vermont||Y||
+695|24|Holcomb|Aaron|60|1800|Male|White||||Vermont||||Pauper
+695|24|Holcomb|Barbara|45|1815|Female|White||||New York|||Y|
+695|24|Holcomb|Edwin|10|1850|Male|White||||Vermont||Y||
+695|24|Holcomb|Ellen|5|1855|Female|White||||Vermont||||
+695|24|Holcomb|Mary|2|1858|Female|White||||Vermont||||
+696|25|Grandy|Almon|44|1816|Male|White|Farmer|3000|2500|Vermont||||
+696|25|Grandy|Tura|75|1785|Female|White||||Vermont||||
+696|25|McCormick|Ellen|19|1841|Female|White|Servant|||Ireland||||
+697|26|Spaulding|John|68|1792|Male|White|Farmer|11000|350|Vermont||||
+697|26|Spaulding|Elizabeth|66|1794|Female|White||||New Jersey||||
+697|26|Rosa|Betsy|28|1832|Female|White||4000|400|Vermont||||
+697|26|Rosa|Andrea|9|1851|Male|White||||Vermont||Y||
+698|27|Norton|Eben|35|1825|Male|White|Day Laborer|||New York||||
+698|27|Norton|Caroline|30|1830|Female|White||||New York||||
+698|27|Norton|Edwin|6|1854|Male|White||||Vermont||Y||
+698|27|Norton|Edward|6|1854|Male|White||||Vermont||Y||
+699|28|Spaulding|Jacob|42|1818|Male|White|Farmer|2500|1600|Vermont||||
+699|28|Spaulding|Rachel|32|1828|Female|White||||Vermont||||
+699|28|Spaulding|Mary|13|1847|Female|White||||Vermont||Y||
+699|28|Spaulding|Charles|11/12|1859|Male|White||||Vermont||||
+700|29|Tappan|Jacob|58|1802|Male|White|Farmer|2500|1600|New Jersey||||
+700|29|Tappan|Lorinda|43|1817|Female|White||||Vermont||||
+700|29|Tappan|Charlotte|16|1844|Female|White||||New York||||
+700|29|Howard|Henry|34|1826|Male|White|Farmer|||Vermont||||
+700|29|Howard|Sophia|31|1829|Female|White||||Vermont||||
+700|29|Howard|Emily|10|1850|Female|White||||Vermont||Y||
+700|29|Howard|Sarah|8|1852|Female|White||||New York||Y||
+701|30|Matthews|Levi|22|1838|Male|White|Laborer||30|Vermont||||
+701|30|Matthews|Mary|21|1839|Female|White||||New York||||
+102|31|Gardner|Thomas|57|1803|Male|White|Carpenter|||New Jersey||||
+102|31|Gardner|Abigail|51|1809|Female|White||||Vermont||||
+102|31|Gardner|Louisa|12|1848|Female|White||||Vermont||Y||
+103|32|Converse|C W B|45|1815|Male|White|Blacksmith|500|500|Vermont||||
+103|32|Converse|Harriet|42|1818|Female|White||||Vermont||||
+103|32|Converse|Blume|19|1841|Male|White||||Vermont||Y||
+103|32|Converse|Roxana|13|1847|Female|White||||Vermont||Y||
+
+704|33|McCormick|James|45|1815|Male|White|Day Laborer|200|30|Ireland||||
+704|33|McCormick|Betsy|50|1810|Female|White||||Ireland||||
+704|33|McCormick|Margarette|13|1847|Female|White||||France||||
+705|34|Davis|John|40|1820|Male|White|Day Laborer|250|30|Vermont||||
+705|34|Davis|Rachel|44|1816|Female|White||||New York||||
+706|35|Curler|Aaron|57|1803|Male|White|Farmer|11000|2300|Vermont||||
+706|35|Curler|Catharine|50|1810|Female|White||||New Jersey||||
+706|35|Mathew|Louisa|24|1836|Female|White||||Vermont||||
+706|35|Mathew|Albert|||Male|White||||Vermont||Y||
+706|35|Curler|William|20|1840|Male|White||||Vermont||Y||
+706|35|Curler|Annette|14|1846|Female|White||||Vermont||Y||
+706|35|Gardner|Jacob|35|1825|Male|White|Farm Laborer||50|Vermont||||
+706|35|Hayes|Ann|46|1814|Female|White||350|140|Vermont||||
+706|35|Curler|Lunette|8|1852|Female|White||||Vermont||Y||
+707|36|Converse|Madison|43|1817|Male|White|Farmer|1360|300|Vermont||||
+707|36|Converse|Louisa|28|1832|Female|White||||Vermont||||
+707|36|Converse|Fletcher|1|1859|Male|White||||Vermont||||
+708|37|Converse|Jefferson|44|1816|Male|White|Farmer|5500|875|Vermont||||
+708|37|Converse|Sarah|41|1819|Female|White||||Vermont||||
+708|37|Converse|John R|18|1842|Male|White||||Vermont||Y||
+708|37|Converse|Jesse|13|1847|Male|White||||Vermont||Y||
+708|37|Converse|Juba|7|1853|Male|White||||Vermont||Y||
+709|38|Ferris|Melancon|63|1797|Male|White|Laborer|300|30|Vermont||||
+709|38|Ferris|Ruth|56|1804|Female|White||||New York||||
+710|39|Stagg|E G|48|1812|Male|White|Farmer|6000|950|Vermont||||
+710|39|Stagg|Julia|50|1810|Female|White||||Vermont||||
+710|39|Stagg|Josiah|26|1834|Male|White||||Vermont||||
+710|39|Stagg|Harriet|23|1837|Female|White||||Vermont||||
+710|39|Stagg|Helen|1|1859|Female|White||||Vermont||||
+710|39|Stagg|Fayatte|12|1848|Male|White||||Vermont||Y||
+711|40|Grandy|Elijah|77|1783|Male|White|Farmer|2400|300|Vermont||||
+711|40|Grandy|Esther|43|1817|Female|White||||Vermont||||
+711|40|Campbell|George|5|1855|Male|White||||Vermont||Y||
+712|41|Spaulding|Isaac S|30|1830|Male|White|Farmer||500|Vermont||||
+712|41|Spaulding|Janette|26|1834|Female|White||||Vermont||||
+712|41|Spaulding|Wilber|2|1858|Male|White||||Vermont||||
+712|41|Spaulding|Jane|2|1858|Female|White||||Vermont||||
+712|41|Tull|William|17|1843|Male|White||||Vermont||Y||
+712|41|Spaulding|Isaac|70|1790|Male|White|Farmer|10000|800|Vermont||||
+712|41|Spaulding|Phebe|65|1795|Female|White||||Vermont||||
+
+712|41|Curtis|Waltha|35|1825|Female|White||||Vermont||||
+712|41|Curtis|Natin|10|1850|Male|White||||Vermont||Y||
+712|41|Curtis|Hila|7|1853|Female|White||||Vermont||Y||
+713|42|Rogers|Amos|26|1834|Male|White|Farmer||300|Vermont||||
+713|42|Rogers|Delia|28|1832|Female|White||||Vermont||||
+713|42|Rogers|Joseph|2|1858|Male|White||||Vermont||||
+713|42|Rogers|John|3/12|1859|Male|White||||Vermont||||
+714|43|Holcomb|Guy|28|1832|Male|White|Farmer|900|35|Vermont||||
+714|43|Holcomb|Olive|31|1829|Female|White||||Vermont||||
+714|43|Holcomb|Frank|7|1853|Male|White||||Vermont||Y||
+715|43|Curtis|R K|30|1830|Male|White|Carpenter||100|Vermont||||
+715|43|Curtis|Martha|27|1833|Female|White||||Vermont||||
+715|43|Curtis|Julia|||Female|White||||Vermont||||
+715|43|Curtis|Jennie|5/12|1859|Female|White||||Vermont||||
+715|43|Heath|Mariah|60|1800|Female|White||||Vermont||||
+716|44|Hatch|Warren|48|1812|Male|White|Farmer|2560|600|Vermont||||
+716|44|Hatch|Phebe|43|1817|Female|White||||Vermont||||
+716|44|Hatch|Isaac|21|1839|Male|White|Farmer|||Vermont||||
+716|44|Hatch|Ida|20|1840|Female|White||||Vermont||||
+716|44|Hatch|Smith|14|1846|Male|White||||Vermont||Y||
+716|44|Hatch|Earnest|7|1853|Male|White||||Vermont||Y||
+716|44|Hatch|Ryland|4|1856|Male|White||||Vermont||||
+716|44|Hatch|George|9/12|1859|Male|White||||Vermont||||
+717|45|Benson|Amasco|37|1823|Male|White|Farmer|1600|420|Vermont||||
+717|45|Benson|Emilee|31|1829|Female|White||||Vermont||||
+717|45|Benson|Willard|2|1858|Male|White||||Vermont||||
+717|45|Benson|Dolly|66|1794|Female|White||||Vermont||||
+717|45|Benson|Harry|42|1818|Male|White||||Vermont||||Idiotic
+718|46|Grandy|Stillman|47|1813|Male|White|Farmer||400|Vermont||||
+718|46|Grandy|Sally|44|1816|Female|White||||Vermont||||
+718|46|Grandy|Sarah|6|1854|Female|White||||Vermont||||
+718|46|Grandy|Willard|||Male|White||||Vermont||||
+718|46|Spaulding|Ruba|50|1810|Female|White||||Vermont||||
+718|46|Garvin|Cyrus|16|1844|Male|White||||Vermont||||
+718|46|Spaulding|Mary|9|1851|Female|White||||Vermont||Y||
+718|46|Spaulding|Henry|6|1854|Male|White||||Vermont||||
+719|47|Shepard|Lyman|65|1795|Male|White|Farmer|216|250|Vermont||||
+719|47|Shepard|Elmira|59|1801|Female|White||||Vermont||||
+719|48|Pillsbury|George|25|1835|Male|White|Carpenter|||Massachusetts||||
+719|48|Pillsbury|Emily|23|1837|Female|White|||300|Vermont||||
+
+719|48|Pillsbury|Eddie|2|1858|Male|White||||Vermont||||
+719|48|Pillsbury|Charles|9/12|1859|Male|White||||Vermont||||
+120|49|Spaulding|Hiram|48|1812|Male|White|Farmer|4600|800|Vermont||||
+120|49|Spaulding|Olive|41|1819|Female|White||||Vermont||||
+120|49|Spaulding|Janius|19|1841|Male|White|Farmer|||Vermont||Y||
+120|49|Spaulding|Everett|16|1844|Male|White||||Vermont||Y||
+120|49|Spaulding|Ward|1|1859|Male|White||||Vermont||||
+121|50|White|William E|23|1837|Male|White|Farmer|18600|2150|Vermont|Y|||
+121|50|White|Ellen|18|1842|Female|White||||Vermont|Y|||
+722|51|White|Horatio N|57|1803|Male|White|Farmer|||Vermont||||
+722|51|White|Syrena|51|1809|Female|White||||Vermont||||
+722|51|White|Frances|26|1834|Female|White||||Vermont||||
+722|51|White|George|22|1838|Male|White||||Vermont||||
+722|51|White|Canena|17|1843|Female|White||||Vermont||||
+723|52|Mitchen|Mine|30|1830|Male|White|Day Laborer|200||Vermont||||
+723|52|Mitchen|Samuel|84|1776|Male|White||||Vermont|||Y|
+723|52|Mitchen|Lydia|74|1786|Female|White||||New Hampshire||||
+723|52|Storms|Phebe|53|1807|Female|White||||Vermont||||
+724|53|Brook|William|28|1832|Male|White|Farmer|5600|500|Vermont||||
+724|53|Brook|Sarah|23|1837|Female|White||||Vermont||||
+724|53|Brook|James|8/12|1859|Male|White||||Vermont||||
+724|53|Brook|Jane|34|1826|Female|White||||Vermont||||
+724|53|Brook|Ellen|16|1844|Female|White||||Vermont||||
+724|53|Doty|Roxana|40|1820|Female|White|Servant|||Canada||||
+724|53|Brook|James|55|1805|Female|White||||Vermont||||
+725|54|Tappan|Silas|81|1779|Male|White|Farmer|4000|1150|New Jersey||||
+725|54|Tappan|Mercia|78|1782|Female|White||||Connecticut||||
+725|54|Scully|Ellen|37|1823|Female|White|Servant|||Ireland||||
+725|54|Mathew|Hiram|19|1841|Male|White||||Vermont||||
+726|55|Hopkins|Roswell|79|1781|Male|White|Farmer|6800|200|Vermont||||
+726|55|Hopkins|Sarah|55|1805|Female|White||||Vermont||||
+726|55|Ferris|Fanny|50|1810|Female|White||||Vermont||||
+726|56|Hopkins|R J|50|1810|Male|White|Farmer|8000|1200|Vermont||||
+726|56|Hopkins|Louisa|50|1810|Female|White||||Vermont||||
+726|56|Hopkins|Ellen|5|1855|Female|White||||Vermont||||
+726|56|Curle|Kate|26|1834|Female|White|Servant|||Vermont||||
+726|56|Ferris|Charles|36|1824|Male|White|Farm Laborer||50|Vermont||||
+727|57|Adams|Daniel|47|1813|Male|White|Farmer|13250|1700|Vermont||||
+727|57|Adams|Cyntha H|19|1841|Female|White||||Vermont||||
+727|57|Heath|Polly|||Female|White||||Vermont||||
+
+728|58|Cole|Lorrin|58|1802|Male|White|Mechanic|||Vermont||||
+728|58|Graham|Ellen|35|1825|Female|White||||Ireland||||
+728|58|Harris|Abram C|52|1808|Male|White|Laborer|||New York||||
+728|58|Harris|Hannah|47|1813|Female|White||||New Hampshire||||
+728|58|Harris|Frances|10|1850|Female|White||||New York||||
+728|58|Bertell|Harriet|20|1840|Female|White||||New York||||
+728|58|Bertell|Henry|9/12|1859|Male|White||||New York||||
+729|59|Kent|Hiram|49|1811|Male|White|Farmer|2100|475|Vermont||||
+729|59|Kent|Delia|40|1820|Female|White||||Vermont||||
+729|59|Kent|Enoch|17|1843|Male|White||||Vermont||Y||
+730|60|Austin|Ambrose|61|1799|Male|White|Day Laborer|||Canada|||Y|
+730|60|Austin|Mary|45|1815|Female|White||||Vermont|||Y|
+730|60|Austin|Matilda|14|1846|Female|White||||Vermont||Y||
+730|60|Austin|Ellen|9|1851|Female|White||||Vermont||Y||
+730|60|Austin|Henry|5|1855|Male|White||||Vermont||||
+731|61|Trask|F J|37|1823|Male|White|Blacksmith|1100|225|Vermont||||
+731|61|Trask|Delia|35|1825|Female|White||||Vermont||||
+731|61|Trask|Viola|5|1855|Female|White||||Vermont||||
+731|61|Chapin|Sally|58|1802|Female|White|||175|Vermont||||
+732|62|Tappan|Josiah|49|1811|Male|White|Farmer|8360|2000|Vermont||||
+732|62|Tappan|Samantha|43|1817|Female|White||||Vermont||||
+732|62|Tappan|Silas|16|1844|Male|White||||Vermont||Y||
+732|62|Tappan|Wright|8|1852|Male|White||||Vermont||Y||
+732|62|Williamson|Sarah|40|1820|Female|White|Servant|||New York||||
+733|63|King|Frank|25|1835|Male|White|Farm Laborer|||New York|||Y|
+733|63|King|Catherine|28|1832|Female|White||||Ireland||||
+733|63|King|Lizzie|2|1858|Female|White||||Vermont||||
+733|63|King|Ellen|7/12|1859|Female|White||||Vermont||||
+734|64|Raul|Lewis|65|1795|Male|White|Laborer|||Canada|||Y|
+734|64|Raul|Mary|60|1800|Female|White||||Canada|||Y|
+734|64|Raul|Solomon|12|1848|Male|White||||Vermont||Y||
+734|64|Raul|Jane|25|1835|Female|White||||Canada||||Idiotic
+735|65|Kent|Loyal|42|1818|Male|White|Farmer|3000|700|Vermont||||
+735|65|Kent|Louisa|33|1827|Female|White||||Vermont||||
+735|65|Kent|Truman|7|1853|Male|White||||Vermont||Y||
+735|65|Kent|Benton|1|1859|Male|White||||Vermont||||
+736|66|Allen|Norman|41|1819|Male|White|Farmer|5000|700|Vermont||||
+736|66|Allen|Melvina|47|1813|Female|White||||Vermont||||
+736|66|Allen|Esther|||Female|White||||Vermont||Y||
+736|66|Allen|Lydia|13|1847|Female|White||||Vermont||Y||
+
+736|66|Allen|Elizabeth|11|1849|Female|White||||Vermont||Y||
+736|66|Allen|Lorette|9|1851|Female|White||||Vermont||Y||
+736|66|Allen|Ada|7|1853|Female|White||||Vermont||Y||
+736|66|Allen|Lillie|||Female|White||||Vermont||||
+736|66|Monty|Joseph|17|1843|Male|White|Farm Laborer|||Vermont||Y||
+736|66|Disler|Mary|17|1843|Female|White|Servant|||New York||||
+737|67|Tull|Esther|62|1798|Female|White|Farmer|3000|350|New York||||
+737|67|Tull|Harriet|22|1838|Female|White||||Vermont||||
+737|68|Tull|Charles|24|1836|Male|White|Farmer||200|Vermont||||
+737|68|Tull|Nancy|22|1838|Female|White||||Vermont||||
+738|69|Tebo|Samuel|24|1836|Male|White|Laborer|||Canada||||
+738|69|Tebo|Mary|25|1835|Female|White||||Canada||||
+738|69|Tebo|Mary|4|1856|Female|White||||Vermont||||
+738|69|Tebo|Melvina|||Female|White||||Vermont||||
+738|69|Tebo|Saml|1|1859|Male|White||||Vermont||||
+739|70|Mathews|Abner C|56|1804|Male|White|Farmer|||New York||||
+739|70|Mathews|Sally|49|1811|Female|White||||Vermont||||
+739|70|Mathews|Ann|20|1840|Female|White||||Vermont||||
+739|70|Mathews|Byron|12|1848|Male|White||||Vermont||Y||
+739|70|Mathews|Ednay|10|1850|Male|White||||Vermont||Y||
+739|70|Mathews|Sarah|||Female|White||||Vermont||||
+740|71|Kent|Enoch J|32|1828|Male|White|Farmer|2600|350|Vermont||||
+740|71|Kent|Cornelia|31|1829|Female|White||||Vermont||||
+740|71|Kent|Lyman|6|1854|Male|White||||Vermont||Y||
+740|71|Kent|Cyntha|6|1854|Female|White||||Vermont||Y||
+740|71|Kent|Emily|2|1858|Female|White||||Vermont||||
+741|72|Hoyt|Martin|37|1823|Male|White|Farmer|6800|950|Vermont||||
+741|72|Hoyt|Sophia|34|1826|Female|White||||Vermont||||
+741|72|Hoyt|Eliza|11|1849|Female|White||||Vermont||Y||
+741|72|Hoyt|Silas|10|1850|Male|White||||Vermont||Y||
+741|72|Hoyt|Electa|7|1853|Female|White||||Vermont||Y||
+741|72|Hoyt|Louisa|5|1855|Female|White||||Vermont||Y||
+741|72|Hoyt|Sylvana|||Female|White||||Vermont||||
+741|72|Hoyt|Harriet|1|1859|Female|White||||Vermont||||
+742|73|Pond|Angeline|57|1803|Female|White||440||Vermont||||
+742|73|Gandle|John|23|1837|Male|White|Farmer|||Vermont||||
+743|74|Pond|Hiram W|60|1800|Male|White|Farmer|2800|300|Vermont||||
+743|74|Harris|A S|51|1809|Male|White|Farmer|||Vermont||||
+743|74|Harris|Charlotte|46|1814|Female|White||||Vermont||||
+743|74|Felt|Harriet|26|1834|Female|White||||Vermont||||
+
+
+743|74|Felt|Covill|||Male|White||||Vermont||||
+743|74|Felt|Ada|8/12|1859|Female|White||||New Hampshire||||
+743|74|Harris|Caroline|17|1843|Female|White||||Vermont||Y||
+743|74|Harris|Charles|9|1851|Male|White||||Vermont||||Seieotic
+743|74|Mathews|Henry|23|1837|Male|White|Farm Laborer|||Vermont||||
+744|75|Sawyer|Reuben|62|1798|Male|White|Bap Clergyman|||Vermont||||
+744|75|Sawyer|Eliza|52|1808|Female|White||||Vermont||||
+744|75|Sawyer|Caroline|26|1834|Female|White||||Vermont||||
+745|76|Towley|Norman|46|1814|Male|White|Physician|1500|1000|Vermont||||
+745|76|Towley|Betsey|37|1823|Female|White||||Vermont||||
+745|76|Towley|Josephine|14|1846|Female|White||||Vermont||Y||
+745|76|Towley|Len|7|1853|Male|White||||Vermont||Y||
+745|76|Towley|Harry|1|1859|Male|White||||Vermont||||
+745|76|Greene|Fanny|33|1827|Female|White|Servant|650|100|Vermont||||
+746|77|Pond|Betsy|65|1795|Female|White||||Vermont||||
+747|78|Gaines|B F|51|1809|Male|White|Farmer|21000|3550|Vermont||||
+747|78|Gaines|Mary|||Female|White||||Vermont||||
+747|78|Gaines|Hopkins|17|1843|Male|White||||Vermont||Y||
+747|78|Gaines|Samuel|13|1847|Male|White||||Vermont||Y||
+747|78|Gaines|Agness|11|1849|Female|White||||Vermont||Y||
+747|78|Cross|Emily|26|1834|Female|White|Servant|||New York|||Y|
+747|78|Donepham|Timothy|21|1839|Male|White|Farm Laborer||350|Ireland|||Y|
+747|78|Freegard|Thomas|60|1800|Male|White|Farm Laborer|||England||||
+748|79|Storms|Primas|54|1806|Male|Black|Farm Laborer|150||Vermont||||
+748|79|Storms|Ann|40|1820|Female|White||||Vermont||||
+748|79|Storms|Jane|12|1848|Female|Mulatto||||Vermont||Y||
+748|79|Storms|Robert|10|1850|Male|Mulatto||||Vermont||Y||
+748|79|Storms|Rebecca|8|1852|Female|Mulatto||||Vermont||Y||
+748|79|Storms|Ursula|6|1854|Female|Mulatto||||Vermont||||
+748|79|Storms|Phebe|4|1856|Female|Mulatto||||Vermont||||
+748|79|Storms|Mary|3/12|1859|Female|Mulatto||||Vermont||||
+749|80|Allen|Henry|45|1815|Male|White|Farmer|13800|1900|Vermont||||
+749|80|Allen|Matilda|44|1816|Female|White||||Vermont||||
+749|80|Allen|Julia|22|1838|Female|White||||Vermont||||
+749|80|Allen|Benjamin|20|1840|Male|White||||Vermont||Y||
+749|80|Allen|Betsy|16|1844|Female|White||||Vermont||||
+749|80|Allen|Obediah|||Male|White||||Vermont||Y||
+749|80|Allen|Electa|10|1850|Male|White||||Vermont||Y||
+750|81|Derry|John|45|1815|Male|White|Laborer|||Vermont|||Y|
+750|81|Derry|Mary|52|1808|Female|White||||Canada|||Y|
+
+750|81|Derry|William|10|1850|Male|White||||New York||Y||
+750|81|Derry|Ellen|12|1848|Female|White||||New York||Y||
+750|81|Derry|Leod|||Male|White||||New York||||
+750|81|Derry|Albert|19|1841|Male|White||||New York||||
+750|81|Derry|Henry|21|1839|Male|White|Laborer|||New York||||
+750|81|Derry|Jane|22|1838|Female|White||||Canada|||Y|
+750|81|Derry|Josephine|1|1859|Female|White||||New York||||
+751|82|Beat|Joseph|44|1816|Male|White|Laborer|||New York|||Y|
+751|82|Beat|Mary|42|1818|Female|White||||New York|||Y|
+751|82|Beat|Joseph|19|1841|Male|White|Laborer|||New York||||
+751|82|Beat|Jane|13|1847|Female|White||||New York||Y||
+751|82|Beat|James|12|1848|Male|White||||New York||Y||
+751|82|Beat|Betsey|8|1852|Female|White||||New York||||
+752|83|Course|Garret|32|1828|Male|White|Farmer|800|100|Ireland||||
+752|83|Course|Crethon|30|1830|Female|White||||Ireland|||Y|
+752|83|Course|Margaret|2|1858|Female|White||||Vermont||||
+752|83|Course|Edward|1|1859|Male|White||||Vermont||||
+753|84|Sullivan|Pat|48|1812|Male|White|Laborer|||Ireland||||
+753|84|Sullivan|Ellen|45|1815|Female|White||||Ireland|||Y|
+753|84|Sullivan|Mary|4|1856|Female|White||||Vermont||||
+753|84|Sullivan|Michael|20|1840|Male|White||||Ireland||||
+754|85|Rogers|Joseph|58|1802|Male|White|Farmer|400|200|New York||||
+754|85|Rogers|Sophia|55|1805|Female|White||||Massachusetts||||
+754|85|Rogers|Mary|16|1844|Female|White||||Vermont||||
+754|85|Rogers|Charles|11|1849|Male|White||||Vermont||Y||
+755|86|Rogers|George|36|1824|Male|White|Farmer|1050|3000|Vermont||||
+755|86|Rogers|Louis D|21|1839|Female|White||||Vermont||||
+756|87|Simon|Patrick|56|1804|Male|White|Laborer||50|Ireland||||
+756|87|Simon|Margarette|55|1805|Female|White||||Ireland||||
+756|87|Simon|John|19|1841|Male|White||||Ireland||Y||
+756|87|Simon|Patrick|9|1851|Male|White||||Vermont||Y||
+757|88|Ryan|Patrick|38|1822|Male|White|Laborer|420|40|Ireland||||
+757|88|Ryan|Anna|37|1823|Female|White||||Ireland||||
+757|88|Ryan|Michael|14|1846|Male|White||||Ireland||Y||
+757|88|Ryan|Thomas|11|1849|Male|White||||Ireland||Y||
+757|88|Ryan|John|9|1851|Male|White||||Vermont||Y||
+757|88|Ryan|Mary|8|1852|Female|White||||Vermont||Y||
+757|88|Ryan|Edward|7|1853|Male|White||||Vermont||Y||
+757|88|Ryan|Julia|5|1855|Female|White||||Vermont||Y||
+757|88|Ryan|Henry|2/12|1859|Male|White||||Vermont||||
+
+758|89|Smith|John D|43|1817|Male|White|Farmer|15200|1800|Vermont||||
+758|89|Smith|Emily|41|1819|Female|White||||Rhode Island||||
+758|89|Smith|William|17|1843|Male|White||||Vermont||Y||
+758|89|Smith|Edward|13|1847|Male|White||||Vermont||Y||
+758|89|Smith|Loraine|11|1849|Female|White||||Vermont||Y||
+758|89|Smith|Fred|7|1853|Male|White||||Vermont||Y||
+758|89|Smith|Electa|5|1855|Female|White||||Vermont||||
+758|89|Smith|Annette|2|1858|Female|White||||Vermont||||
+758|89|Pullman|Nancy|17|1843|Female|White|Servant|||Canada||||
+758|89|Bryan|Olive|48|1812|Female|White||||Vermont||||
+759|90|Kenyon|S A|33|1827|Male|White|Farmer||150|Vermont||||
+759|90|Kenyon|Polly|28|1832|Female|White||||Vermont||||
+759|90|Kenyon|Edwin|8|1852|Male|White||||Vermont||||
+759|90|Kenyon|Albert|6|1854|Male|White||||Vermont||||
+759|90|Kenyon|Flora|10/12|1859|Female|White||||Vermont||||
+759|90|Squires|Julia|||Female|White||||Vermont||||
+760|91|Linch|Edward|40|1820|Male|White|Farmer|3210|500|Ireland||||
+760|91|Linch|Catherine|29|1831|Female|White||||Ireland||||
+760|91|Linch|Mary|16|1844|Female|White||||Vermont||||
+760|91|Linch|Harriet|13|1847|Female|White||||Vermont||Y||
+760|91|Linch|Ellen|11|1849|Female|White||||Vermont||Y||
+760|91|Linch|Sarah|6|1854|Female|White||||Vermont||||
+760|91|Tockran|Thomas|||Male|White||||Ireland||||
+761|92|Brush|Alexander|71|1789|Male|White|Farmer|6000|1000|Vermont||||
+761|92|Fergeson|Mary|25|1835|Female|White|Servant|||Ireland||||
+761|92|Ryan|Patrick|21|1839|Male|White|Farm Laborer|||Ireland||||
+761|92|Ryan|John|9|1851|Male|White||||Vermont||||
+761|92|Ryan|Edward|35|1825|Male|White|Farm Laborer|||Ireland||||
+762|93|Bristol|Norman W|42|1818|Male|White|Farmer|5800|22500|Vermont||||
+762|93|Bristol|Amelia|32|1828|Female|White||||Vermont||||
+762|93|Bristol|Jim|1/12|1859|Male|White||||Vermont||||
+762|93|Chrutenid|Jane|19|1841|Female|White|Servant|||Vermont||||
+763|94|Bristol|R T|38|1822|Male|White|Farmer|2000|600|Vermont||||
+763|94|Bristol|Martha|32|1828|Female|White||||Vermont||||
+763|94|Bristol|Willard|11|1849|Male|White||||Vermont||Y||
+763|94|Bristol|Edwin|10|1850|Male|White||||Vermont||Y||
+763|94|Bristol|Ernest|8|1852|Male|White||||Vermont||Y||
+763|94|Bristol|Carlton|6|1854|Male|White||||Vermont||Y||
+763|94|Bristol|Alice|4|1856|Female|White||||Vermont||||
+763|94|Bristol|Arther|2|1858|Male|White||||Vermont||||
+
+763|94|Bristol|Wallis|6/12|1859|Male|White||||Vermont||||
+763|94|Thompson|Lucretia|20|1840|Female|White|Servant|||Vermont||||
+763|94|Bristol|Anna|65|1795|Female|White||1350|300|New York||||
+764|95|Bristol|Phile|45|1815|Male|White|Farmer|3280|450|Vermont||||
+764|95|Bristol|Prudence|47|1813|Female|White||||Massachusetts||||
+764|95|Bristol|Ervin|||Male|White||||Vermont||Y||
+764|95|Bristol|Albert|13|1847|Male|White||||Vermont||Y||
+764|95|Bristol|Adalade|12|1848|Female|White||||Vermont||Y||
+764|95|Bristol|George|8|1852|Male|White||||Vermont||Y||
+764|95|Bristol|Judson|7|1853|Male|White||||Vermont||Y||
+765|96|Richards|Nelson|48|1812|Male|White|Farmer|8000|1550|Massachusetts||||
+765|96|Richards|Caroline|38|1822|Female|White||||Vermont||||
+765|96|Richards|Kate|19|1841|Female|White||||Vermont||Y||
+765|96|Richards|Frank|16|1844|Male|White||||Vermont||Y||
+765|96|Richards|Jane|14|1846|Female|White||||Vermont||Y||
+765|96|Richards|William|12|1848|Male|White||||Vermont||Y||
+765|96|Richards|Charles|8|1852|Male|White||||Vermont||Y||
+765|96|Richards|Carrie|7|1853|Female|White||||Vermont||Y||
+765|96|Richards|Nellie|6|1854|Female|White||||Vermont||Y||
+765|96|Ryan|Mary|27|1833|Female|White|Servant|||Ireland||||
+765|96|McLaughlin|William|50|1810|Male|White|Farm Laborer|||Ireland||||
+766|97|Spencer|George|59|1801|Male|White|Farmer|6700|2400|Vermont||||
+766|97|Spencer|Matilda|48|1812|Female|White||||Vermont||||
+766|97|Spencer|Gideon|27|1833|Male|White|Farmer|400|400|Vermont||||
+766|97|Spencer|Harriet|30|1830|Female|White||||Vermont||||
+766|97|Spencer|Sophia|23|1837|Female|White||||Vermont||||
+766|97|Spencer|Claud|14|1846|Female|White||||Vermont||Y||
+766|97|Spencer|Laura|10|1850|Female|White||||Vermont||Y||
+767|98|Holland|Emeron|30|1830|Male|White|Farmer|5600|1000|Massachusetts||||
+767|98|Holland|Achsah|56|1804|Female|White||||Massachusetts||||
+767|98|Holland|Solomon|24|1836|Male|White||||Vermont||||
+767|98|Holland|Jessie|10|1850|Female|White||||Vermont||Y||
+
+
+
+
+
+
