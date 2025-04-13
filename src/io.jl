@@ -89,43 +89,7 @@ function readcensusdata(census::Symbol)
     end
 end
 
-"""Read 1850 or 1860 census data from a file.
-$(SIGNATURES)
-"""
-function readcensusdata(f)
-    datalines = filter(readlines(f)[2:end]) do ln
-        ! isempty(ln)
-    end
-    data = map(datalines) do ln
-        cols = split(ln, "|")
-        if length(cols) < 11
-            @info("ERROR on $(ln)")
-            
-        else 
-        (mappedraw, cdate, houseraw, familyraw, name, ageraw, sex, color, occupation, realestate, birthplace)  = cols
-        house = isempty(houseraw) ? nothing : parse(Int, houseraw)
-        family = isempty(familyraw) ? nothing :  parse(Int, familyraw)
-        age = nothing
-        if ! isempty(ageraw)
-            try 
-                age = parse(Int, ageraw)
-            catch e
-                @warn("Error parsing age $(ageraw) in $(ln)")
-            end
-        end
-        mapped = isempty(mappedraw) ? nothing : mappedraw
-            (mapped = mapped, censusdate = Date(cdate), house = house, family = family, name = name, age = age, sex = sex, color = color, occupation = occupation, realestate = realestate, birthplace = birthplace)
-        end
-    end
-    filter(t -> ! isnothing(t), data)
-end
 
-
-
-#=
-
-
-=#
 function vaultcensusnotes(data, destdir; enumeration = "Panton, Addison, Vermont")
     if ! isdir(destdir)
         mkpath(destdir)
