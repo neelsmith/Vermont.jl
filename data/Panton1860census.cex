@@ -1,6 +1,6 @@
-PageLine|Structure|Family|Given|Surname|Age|BirthYear|Gender|Race|Occupation|RealEstate|PersonalEstate|BirthPlace|MarriedThisYear|AttendedSchool|Illiterate|Condition
+Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|RealEstate|PersonalEstate|BirthPlace|MarriedThisYear|AttendedSchool|Illiterate|Condition
 
-671|1|Harris|Corydon|47|1813|Male|White|Farmer|10000|3450|Vermont||||
+||671|1|Harris|Corydon|47|1813|Male|White|Farmer|10000|3450|Vermont||||
 671|1|Harris|Achsah|31|1829|Female|White||||Vermont||||
 671|1|Harris|Sidney|6|1854|Male|White||||Vermont||Y||
 671|1|Harris|Araminta|7/12|1859|Female|White||||Vermont||||
