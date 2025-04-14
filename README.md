@@ -1,6 +1,6 @@
 # Vermont.jl
 
-Code and data for a project looking at census records for parts of Addison County, Vermont, along the coast of Lake Champlain, in the 1850s.
+Code and data for a project looking at census records for parts of Addison County, Vermont, along the coast of Lake Champlain, in the second half of the nineteenth century.
 
 
 
@@ -13,7 +13,7 @@ Coverage:
 | 1850 |✓|✓|✓|✓| ✓|
 | 1860 |✓| ✓ ||✓||
 | 1870 |✓| ✓ ||✓||
-| 1880 |✓|✓|✓|✓|✓|
+| 1880 |✅|✅|✅|✅|✅|
 
 
 
