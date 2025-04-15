@@ -519,49 +519,48 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 # end bad block
 
-# Bad data block
-1|95|97|Camel|Polly|38|1832|Female|White|Keeping House|||Vermont||||||||
-2|95|97|Camel|Albert|16|1854|Male|White|At Home|||Vermont|||Yes|||||
-3|95|97|Camel|Lora|10|1860|Female|White|At School|||Vermont|||Yes|||||
-4|95|97|Camel|Elvine|6|1864|Female|White|At School|||Vermont|||Yes|||||
-5|95|97|Camel|Laura|2/12||Female|White||||Vermont|Mar|||||||
-6||97|Harris|Sophia|56|1814|Female|White|Domestic|||Vermont||||||||
-7|96|98|Durance|Edgar|42|1828|Male|White|Farmer|3000|600|New York|||||||Yes|
-8|96|98|Durance|Frances|35|1835|Female|White|Keeping House|||Vermont||||||||
-9|96|98|Durance|Albert|14|1856|Male|White|At School|||Vermont|||Yes|||||
-10|96|98|Durance|Alice|12|1858|Female|White|At School|||Vermont|||Yes|||||
-11|96|98|Durance|Cora|9|1861|Female|White|At School|||Vermont|||Yes|||||
-12|96|98|Durance|Amanda|2|1868|Female|White||||Vermont||||||||
-13|96|98|Durance||3/12||Male|White||||Vermont|Mar|||||||
-14|97|99|Warner|Alpheus|58|1812|Male|White|Farmer|5500|2700|Vermont|||||||Yes|
-15|97|99|Warner|Sally|47|1823|Female|White|Keeping House|||Vermont||||||||
-16|97|99|Warner|Jane|2/12||Female|White||||Vermont|Apr|||||||
-17|98|100|Warner|Benjamin|57|1813|Male|White|Farmer|2500|900|Vermont|||||||Yes|
-18|98|100|Warner|Zadia|46|1824|Female|White|Keeping House|||Vermont||||||||
-19|98|100|Warner|Henry|22|1848|Male|White|Farm Laborer|||Vermont|||||||Yes|
-20|98|100|Warner|Lucy|19|1851|Female|White|At Home|||Vermont|||Yes|||||
-21|98|100|Warner|Jennie|15|1855|Female|White|At Home|||Vermont|||Yes|||||
-22|98|100|Warner|Norman|6|1864|Male|White||||Vermont|||Yes|||||
-23|98|100|Warner|Frank|3|1867|Male|White||||Vermont||||||||
-24|99|101|Harris|Ezra|61|1809|Male|White|Farmer|5200|1100|Vermont|||||||Yes|
-25|99|101|Harris|Charles|19|1851|Male|White|Farm Laborer|||Vermont||||||||
-26|99|101|Grandy|Elizabeth|45|1825|Female|White|Keeping House|||Vermont||||||||
-27|99|101|Pond|Hiram|71|1799|Male|White|Retired Farmer|4000|1000|Vermont|||||||Yes|
-28|100|102|Ferris|Benajo|73|1797|Male|White|Farms Overseer|||Vermont|||||||Yes|
-29|100|102|Ferris|Ann|71|1799|Female|White|Keeping House|||Vermont||||||||
-30|100|102|Ferris|Esther|25|1845|Female|White|At Home|||Vermont||||||||
-31|101|103|Newton|John|38|1832|Male|White|Farmer|8500|1200|Vermont|||||||Yes|
-32|101|103|Newton|Polly|50|1820|Female|White|Keeping House|||Vermont||||||||
-33|101|103|Newton|Harvey|16|1854|Male|White|At Home|||Vermont|||Yes|||||
-34|101|103|Hill|Annie|18|1852|Female|White|At School|||Vermont|||Yes|||||
-35|102|104|Warner|Camelia|40|1830|Female|White|Keeping House|500|150|Vermont||||||||
-36|102|104|Warner|Mary|13|1857|Female|White|At School|||Vermont|||Yes|||||
-37|103|105|Hays|John|65|1805|Male|White|Farmer|6000|2000|Vermont|||||||Yes|
-38|103|105|Hays|Mary|66|1804|Female|White|Keeping House|||Vermont||||||||
-39|103|105|Hays|Cora|75|1795|Female|White|At Home|||New York||||||||
-40|104|106|Warner|Anderson|43|1827|Male|White|Farmer|2000|600|Vermont|||||||Yes|
+1|95|97|Camel|Polly|38|1832|Female|White|Keeping House|||Vermont||||||||||
+2|95|97|Camel|Albert|16|1854|Male|White|At Home|||Vermont|||||Yes|||||
+3|95|97|Camel|Lora|10|1860|Female|White|At School|||Vermont|||||Yes|||||
+4|95|97|Camel|Elvine|6|1864|Female|White|At School|||Vermont|||||Yes|||||
+5|95|97|Camel|Laura|2/12||Female|White||||Vermont|||Mar|||||||
+6|95|97|Harris|Sophia|56|1814|Female|White|Domestic|||Vermont||||||||||
+7|96|98|Durance|Edgar|42|1828|Male|White|Farmer|3000|600|New York|||||||||Yes|
+8|96|98|Durance|Frances|35|1835|Female|White|Keeping House|||Vermont||||||||||
+9|96|98|Durance|Albert|14|1856|Male|White|At School|||Vermont|||||Yes|||||
+10|96|98|Durance|Alice|12|1858|Female|White|At School|||Vermont|||||Yes|||||
+11|96|98|Durance|Cora|9|1861|Female|White|At School|||Vermont|||||Yes|||||
+12|96|98|Durance|Amanda|2|1868|Female|White||||Vermont||||||||||
+13|96|98|Durance||3/12||Male|White||||Vermont|||Mar|||||||
+14|97|99|Warner|Alpheus|58|1812|Male|White|Farmer|5500|2700|Vermont|||||||||Yes|
+15|97|99|Warner|Sally|47|1823|Female|White|Keeping House|||Vermont||||||||||
+16|97|99|Warner|Jane|2/12||Female|White||||Vermont|||Apr|||||||
+17|98|100|Warner|Benjamin|57|1813|Male|White|Farmer|2500|900|Vermont|||||||||Yes|
+18|98|100|Warner|Zadia|46|1824|Female|White|Keeping House|||Vermont||||||||||
+19|98|100|Warner|Henry|22|1848|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+20|98|100|Warner|Lucy|19|1851|Female|White|At Home|||Vermont|||||Yes|||||
+21|98|100|Warner|Jennie|15|1855|Female|White|At Home|||Vermont|||||Yes|||||
+22|98|100|Warner|Norman|6|1864|Male|White||||Vermont|||||Yes|||||
+23|98|100|Warner|Frank|3|1867|Male|White||||Vermont||||||||||
+24|99|101|Harris|Ezra|61|1809|Male|White|Farmer|5200|1100|Vermont|||||||||Yes|
+25|99|101|Harris|Charles|19|1851|Male|White|Farm Laborer|||Vermont||||||||||
+26|99|101|Grandy|Elizabeth|45|1825|Female|White|Keeping House|||Vermont||||||||||
+27|99|101|Pond|Hiram|71|1799|Male|White|Retired Farmer|4000|1000|Vermont|||||||||Yes|
+28|100|102|Ferris|Benajo|73|1797|Male|White|Farms Overseer|||Vermont|||||||||Yes|
+29|100|102|Ferris|Ann|71|1799|Female|White|Keeping House|||Vermont||||||||||
+30|100|102|Ferris|Esther|25|1845|Female|White|At Home|||Vermont||||||||||
+31|101|103|Newton|John|38|1832|Male|White|Farmer|8500|1200|Vermont|||||||||Yes|
+32|101|103|Newton|Polly|50|1820|Female|White|Keeping House|||Vermont||||||||||
+33|101|103|Newton|Harvey|16|1854|Male|White|At Home|||Vermont|||||Yes|||||
+34|101|103|Hill|Annie|18|1852|Female|White|At School|||Vermont|||||Yes|||||
+35|102|104|Warner|Camelia|40|1830|Female|White|Keeping House|500|150|Vermont||||||||||
+36|102|104|Warner|Mary|13|1857|Female|White|At School|||Vermont|||||Yes|||||
+37|103|105|Hays|John|65|1805|Male|White|Farmer|6000|2000|Vermont|||||||||Yes|
+38|103|105|Hays|Mary|66|1804|Female|White|Keeping House|||Vermont||||||||||
+39|103|105|Hays|Cora|75|1795|Female|White|At Home|||New York||||||||||
+40|104|106|Warner|Anderson|43|1827|Male|White|Farmer|2000|600|Vermont|||||||||Yes|
 
-# End bad data block
+
 
 
 
