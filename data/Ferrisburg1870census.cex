@@ -829,8 +829,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 1|152|155|King|Annie|||Female|White||||Vermont|Yes|Yes||||||||
 2|152|155|King|Mary|18|1852|Female|White|At Home|||Vermont|Yes|Yes||||||||
-3||155|Turville|Henry|22|1848|Male|White|Works In Woolen Mill|||Vermont|Yes|Yes|||||||Yes|
-4||155|Ring|Louis|51|1819|Male|White|Works In Blk Smith Shop|||Canada|Yes|Yes||||Yes|Yes|||
+3|152|155|Turville|Henry|22|1848|Male|White|Works In Woolen Mill|||Vermont|Yes|Yes|||||||Yes|
+4|152|155|Ring|Louis|51|1819|Male|White|Works In Blk Smith Shop|||Canada|Yes|Yes||||Yes|Yes|||
 5|153|156|German|Joseph|34|1836|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
 6|153|156|German|Nettie|34|1836|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
 7|153|156|German|Joseph|11|1859|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
@@ -1086,9 +1086,9 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 1|200|204|Ball|Wilber|2|1868|Male|White||||Vermont||||||||||
-2||204|Washburn|Emma|22|1848|Female|White|Domestic Servant|||New York||||||||||
-3||205|Huff|John|86|1784|Male|White|Retired Farmer|||New York|||||||||Yes|
-4||205|Huff|Mary|84|1786|Female|White|Keeping House||800|New York||||||||||
+2|200|204|Washburn|Emma|22|1848|Female|White|Domestic Servant|||New York||||||||||
+3|200|205|Huff|John|86|1784|Male|White|Retired Farmer|||New York|||||||||Yes|
+4|200|205|Huff|Mary|84|1786|Female|White|Keeping House||800|New York||||||||||
 5|201|206|Lamay|Joseph|32|1838|Male|White|Farm Laborer|||Canada|Yes|Yes|||||||Yes|
 6|201|206|Lamay|Sophia|25|1845|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
 7|202|207|Gums|Joseph|30|1840|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
@@ -1169,7 +1169,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|215|221|Evarts|Jane|37|1833|Female|White|Keeping House|||Vermont||||||||||
 40|215|221|Evarts|Frankie|18|1852|Male|White|Farm Laborer|||Vermont|||||Yes|||||
 
-
+ # Bad data block
 
 1|215|221|Evarts|John|15|1855|Male|White|Farm Laborer|||Vermont|||Yes|||||
 2|215|221|Evarts|Elizabeth|12|1858|Female|White|At School|||Vermont|||Yes|||||
@@ -1213,6 +1213,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|221|227|Porter|Luther|42|1828|Male|White|Farm Laborer|||Vermont|||||||Yes|
 
 
+# End bad data block
 
 
 1|221|227|Porter|Lorette|19|1851|Female|White|Domestic Servant|||Vermont|||||Yes|||||
@@ -1259,7 +1260,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 1|227|233|Conant|Louisa|24|1846|Female|White|Domestic Servant|||Vermont||||||||||
-2||233|Haswell|Elizabeth|28|1842|Female|White|Dress Maker|||Vermont||||||||||
+2|227|233|Haswell|Elizabeth|28|1842|Female|White|Dress Maker|||Vermont||||||||||
 3|228|234|Scott|Henry A|46|1824|Male|White|Hotel Keeper|6000|1000|Vermont|||||||||Yes|
 4|228|234|Scott|Agnes|42|1828|Female|White|Keeping House|||Vermont||||||||||
 5|228|234|Bailey|Stephen|24|1846|Male|White|Farm Laborer|||Vermont|||||||||Yes|
@@ -1352,8 +1353,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 4|243|249|Lyzott|Eva|8|1862|Female|White||||Vermont|Yes|Yes|||Yes|||||
 5|243|249|Lyzott|Mina|6|1864|Female|White||||Vermont|Yes|Yes|||Yes|||||
 6|243|249|Lyzott|George|2|1868|Male|White||||Vermont|Yes|Yes|||Yes|||||
-7||249|Chambers|Betsey|69|1801|Female|White|Keeping House|||New Hampshire||||||||||
-8||249|Hoose|Keziah|67|1803|Female|White|At Home|||New York||||||||||
+7|243|249|Chambers|Betsey|69|1801|Female|White|Keeping House|||New Hampshire||||||||||
+8|243|249|Hoose|Keziah|67|1803|Female|White|At Home|||New York||||||||||
 9|244|250|Beach|Burr|62|1808|Male|White|Farmer|6000|530|Vermont|||||||||Yes|
 10|244|250|Beach|Mary|55|1815|Female|White|Keeping House|||Vermont||||||||||
 11|244|250|Beach|Owen|15|1855|Male|White|Farm Laborer|||Vermont|||||Yes|||||
@@ -1434,7 +1435,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||268|Walker|Mary|60|1810|Female|White|At Home|||Vermont||||||||||
+1|260|268|Walker|Mary|60|1810|Female|White|At Home|||Vermont||||||||||
 2|261|269|Smith|David|57|1813|Male|White|Farmer|6000|2000|Vermont|||||||||Yes|
 3|261|269|Smith|Sarah|42|1828|Female|White|Keeping House|||Vermont||||||||||
 4|261|269|Smith|Julia|18|1852|Female|White|At Home|||Vermont|||||Yes|||||
@@ -1479,8 +1480,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 1|267|275|Powers|Philana|74|1796|Female|White|Keeping House|||Connecticut||||||||||
-2||275|Tracy|Isabella|21|1849|Female|White|Domestic Servant|||Vermont||||||||||
-3||275|Porter|Arbie|15|1855|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+2|267|275|Tracy|Isabella|21|1849|Female|White|Domestic Servant|||Vermont||||||||||
+3|267|275|Porter|Arbie|15|1855|Male|White|Farm Laborer|||Vermont|||||Yes|||||
 4|268|276|Graves|Philander|40|1830|Male|White|Farm Laborer|||Vermont|||||||||Yes|
 5|268|276|Graves|Mary|35|1835|Female|White|Keeping House|||Vermont||||||||||
 6|269|277|Gage|Whitney|50|1820|Male|White|Farm Laborer||1000|Vermont|||||||||Yes|
@@ -1566,8 +1567,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 1|284|295|Keese|Ruth|3|1867|Female|White||||Vermont||||||||||
-2||295|Vanderhoof|John|33|1837|Male|White|Farm Laborer|||Vermont|||||||||Yes|
-3||295|Mcdurfee|Jane|16|1854|Female|Mulatto|Domestic Servant|||Vermont|||||Yes|||||
+2|284|295|Vanderhoof|John|33|1837|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+3|284|295|Mcdurfee|Jane|16|1854|Female|Mulatto|Domestic Servant|||Vermont|||||Yes|||||
 4|285|296|Parker|Reuben|30|1840|Male|White|Farmer|15000|5000|Vermont|||||||||Yes|
 5|285|296|Parker|Julia|27|1843|Female|White|Keeping House|||Vermont||||||||||
 6|285|296|Parker|Bertram|2|1868|Male|White||||Vermont||||||||||
@@ -1737,7 +1738,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 1|306|318|Bigelow|Jane|2|1868|Female|White||||Vermont||||||||||
-2||318|Austin|Frank|||Male|White|Farm Laborer|||Vermont|||||||||Yes|
+2|306|318|Austin|Frank|||Male|White|Farm Laborer|||Vermont|||||||||Yes|
 3|307|319|Hantley|Isaiah|45|1825|Male|White|Farmer|3000|1000|Vermont|||||||||Yes|
 4|307|319|Hantley|Marian|43|1827|Female|White|Keeping House|||Vermont||||||||||
 5|307|319|Hantley|Reuben|16|1854|Male|White|Farm Laborer|||Vermont|||||Yes|||||
@@ -1779,7 +1780,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||323|Northey|Swan|18|1852|Female|White|Keeping House|||Vermont|||||Yes|||||
+1|311|323|Northey|Swan|18|1852|Female|White|Keeping House|||Vermont|||||Yes|||||
 2|312|324|Tenney|Thomas|47|1823|Male|White|Farmer|2000|200|Vermont|||||||||Yes|
 3|312|324|Tenney|Mary|36|1834|Female|White|Keeping House|||Vermont||||||||||
 4|312|324|Tenney|Edward|12|1858|Male|White|At School|||Vermont|||||Yes|||||
