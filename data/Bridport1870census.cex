@@ -129,6 +129,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|19|19|Hamilton|Chas|45|1825|Male|White|Merchant Ret||15000|Massachusetts|||||||||Yes|
 
 
+
+# Bad data block
 1|19|19|Hamilton|Sarah|36|1834|Female|White|At Home|||Vermont||||||||
 2|19|19|Hamilton|Ashley E|4|1866|Male|White||||Florida||||||||
 3|19|19|Hamilton|Jerome M|3|1867|Male|White||||Vermont||||||||
@@ -169,7 +171,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|26|25|Wicker|Frederick|11|1859|Male|White||||Vermont||||||||
 40|27|26|Dampey|Lewis|34|1836|Male|White|Farmer|200|500|Canada||||||||
 
-
+# End bad datablock
 
 
 1|27|23|Dampey|Elizabeth|29|1841|Female|White|Keeping House|||New York|Yes|Yes|||Yes|||||
@@ -260,7 +262,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 1|41|40|Hall|Lola B|9|1861|Female|White||||Vermont|||||Yes|||||
 2|41|40|Hall|Charles J|23|1847|Male|White|Farmer|2000||Vermont|||||||||Yes|
-3||40|Clark|Wealthy A|38|1832|Female|White|Domestic|||Vermont||||||||||
+3|41|40|Clark|Wealthy A|38|1832|Female|White|Domestic|||Vermont||||||||||
 4|42|41|Stephens|George|50|1820|Male|White|Farmer|1500|1000|Vermont||||||||||
 5|42|41|Stephens|Betsey|46|1824|Female|White|Keeping House|||Vermont||||||||||
 6|43|42|Crane|Chilam|72|1798|Male|White|Farmer|8790||Vermont|||||||||Yes|
@@ -303,6 +305,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 1|50|49|Whitty|Eddie|13|1857|Male|White|At Home|||Vermont|Yes|Yes|||Yes|||||
+2|50|49|Whitty|Celia|11|1859|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
 2|50|49|Whitty|Celia|11|1859|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
 3||49|Wilson|Maryeth|73|1797|Female|White|At Home|||Ireland|Yes|Yes||||||||
 4|51|50|Lucia|Charles|53|1817|Male|White|Farm Laborer|200||Canada|Yes|Yes|||||||Yes|
@@ -348,8 +351,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 1|59|58|Williams|Henry R|7|1863|Male|White||||Vermont|||||Yes|||||
 2|59|58|Williams|Anna F|2|1868|Female|White||||Vermont||||||||||
 3|59|58|Williams|Gertrude|8/12||Female|White||||Vermont|||Sep|||||||
-4||58|Pigeon|Joseph|||Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
-5||58|Downs|Jane|28|1842|Female|White|Domestic|||New York||||||||||
+4|59|58|Pigeon|Joseph|||Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+5|59|58|Downs|Jane|28|1842|Female|White|Domestic|||New York||||||||||
 6|60|59|Williams|Joseph S|42|1828|Male|White|Farmer|4000|900|Vermont|||||||||Yes|
 7|60|59|Williams|Mary|39|1831|Female|White|Keeping House|||Vermont||||||||||
 8|60|59|Williams|Ira|14|1856|Male|White|At Home|||Vermont|||||Yes|||||
@@ -389,8 +392,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 1|63|65|Burroughs|Freddy|6|1864|Male|White||||Vermont||||||||||
-2||65|Joy|Sarah|12|1858|Female|White|At Home|||Vermont||||||||||
-3||65|Hindes|Amelia|35|1835|Female|White|At Home|700|800|Vermont||||||||||
+2|63|65|Joy|Sarah|12|1858|Female|White|At Home|||Vermont||||||||||
+3|63|65|Hindes|Amelia|35|1835|Female|White|At Home|700|800|Vermont||||||||||
 4|64|66|Bennet|Mary A|68|1802|Female|White|Keeping House|200|1500|Vermont||||||||||
 5|65|67|Johnson|Lyman H|49|1821|Male|White|Farmer|12000|9000|Vermont||||||||||
 6|65|67|Johnson|Anna|79|1791|Female|White|Keeping House|||New Jersey||||||||||
@@ -430,7 +433,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|72|74|Jewet|Lucy H|3|1867|Female|White||||Vermont||||||||||
 
 
-1||74|Jackman|Amos|||Male|White|Farm Laborer||200|Vermont||||||||||
+1|72|74|Jackman|Amos|||Male|White|Farm Laborer||200|Vermont||||||||||
 2|73|75|Delphia|Fordana|28|1842|Male|White|Farm Laborer|||Canada|Yes|Yes||||||||
 3|73|75|Delphia|Josephine|24|1846|Female|White|Keeping House|||New York|Yes|Yes||||||||
 4|73|75|Delphia|Peter|3|1867|Male|White||||Vermont|Yes|||||||||
@@ -519,9 +522,9 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 1|88|90|Fletcher|Perry R|6|1864|Male|White||||Vermont|||||Yes|||||
 2|88|90|Fletcher|Willie C|4|1866|Male|White||||Vermont|||||Yes|||||
 3|88|90|Fletcher|Thad|||Male|White||||Vermont||||||||||
-4||90|Spaulding|Jason|23|1847|Male|White|Clerk In Store|||Vermont|||||||||Yes|
-5||90|Chapman|Achsah|18|1852|Female|White|Domestic|||New York||||||||||
-6||90|Blakely|Ellen|15|1855|Female|White|Domestic|||Vermont||||||||||
+4|88|90|Spaulding|Jason|23|1847|Male|White|Clerk In Store|||Vermont|||||||||Yes|
+5|88|90|Chapman|Achsah|18|1852|Female|White|Domestic|||New York||||||||||
+6|88|90|Blakely|Ellen|15|1855|Female|White|Domestic|||Vermont||||||||||
 7|89|91|Phelps|Norman B|36|1834|Male|White|Hotel Keeper|2000|1000|New York|||||||||Yes|
 8|89|91|Phelps|Ester B|33|1837|Female|White|Keeping House|||New York||||||||||
 9|89|91|Barrett|Joseph|66|1804|Male|White|Retired Farmer|||Vermont||||||||||
@@ -561,8 +564,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 1|96|97|Hantty|Helen A|32|1838|Female|White|At Home|||Vermont||||||||||
 2|96|97|Hantty|Clark W|30|1840|Male|White|Tanner & Carrier|3000|1000|Vermont|||||||||Yes|
 3|96|97|Hantty|Anna L|22|1848|Female|White|Teaching School|||Vermont||||||||||
-4||97|Brown|Ann|26|1844|Female|White|At Home|||Canada||||||||||
-5||97|Rease|Edward H|8|1862|Female|White||||Wisconsin|||||Yes|||||
+4|96|97|Brown|Ann|26|1844|Female|White|At Home|||Canada||||||||||
+5|96|97|Rease|Edward H|8|1862|Female|White||||Wisconsin|||||Yes|||||
 6|97|98|Warner|Joseph|38|1832|Male|White|Physician|1200|500|Vermont|||||||||Yes|
 7|97|98|Warner|Isabell|24|1846|Female|White|Keeping House|||Vermont||||||||||
 8|97|98|Warner|Minnie B|5|1865|Female|White||||Vermont|||||Yes|||||
@@ -810,9 +813,9 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|144|142|Brockled|Cora A|9|1861|Female|White||||Vermont|||||Yes|||||
 
 
-1||142|Brasted|Adelbert|5|1865|Male|White||||Vermont|||||Yes|||||
-2||142|Chapel|Emily|||Female|White|Domestic|||New York||||||||||
-3||142|Braman|Vanners|18|1852|Male|White|Farm Laborer|||New York||||||||||
+1|144|142|Brasted|Adelbert|5|1865|Male|White||||Vermont|||||Yes|||||
+2|144|142|Chapel|Emily|||Female|White|Domestic|||New York||||||||||
+3|144|142|Braman|Vanners|18|1852|Male|White|Farm Laborer|||New York||||||||||
 4|145|143|Prebble|Paris S|60|1810|Male|White|Farmer|10000|32000|New York|||||||||Yes|
 5|145|143|Prebble|Rebecca|61|1809|Female|White|Keeping House|||New York||||||||||
 6|145|143|Prebble|Paris F|37|1833|Male|White|Farm Laborer|||New York|||||||||Yes|
@@ -851,7 +854,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|151|149|Lapham|Elmer|23|1847|Male|White|Farm Laborer|||Vermont||||||||||
 40|151|149|Lapham|Frances|22|1848|Female|White|At Home|||Vermont||||||||||
 
-
+# Bad data block
 1|151|149|Lapham|George|15|1855|Male|White|At Home|||Vermont|||Yes||||Yes|
 2|152|150|Brooks|Dorastus|41|1829|Male|White|Farmer|8000|2000|New York|||||||Yes|
 3|152|150|Brooks|Catharine|29|1841|Female|White|Keeping House|||New York||||||||
@@ -891,14 +894,14 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 38|159|156|Stone|Charles|19|1851|Male|White|At Home|||Vermont||||||||
 39|160|157|Merrill|Edward|61|1809|Male|White|Farmer|24000|8000|Vermont|||||||Yes|
 40|160|157|Merrill|Sarah W|53|1817|Female|White|Farmer|||Vermont||||||||
-
+# End bad data block
 
 
 1|160|157|Merrill|Henry E|25|1845|Male|White||||Vermont|||||||||Yes|
 2|160|157|Merrill|Cyrusa S|22|1848|Male|White||||Vermont|||||||||Yes|
-3||157|Bunis|Sarah|11|1859|Female|White||||Vermont|||||Yes|||||
-4||157|Brackman|Mary|19|1851|Female|White||||New York||||||||||
-5||157|Clark|Goodsill|40|1830|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+3|160|157|Bunis|Sarah|11|1859|Female|White||||Vermont|||||Yes|||||
+4|160|157|Brackman|Mary|19|1851|Female|White||||New York||||||||||
+5|160|157|Clark|Goodsill|40|1830|Male|White|Farm Laborer|||Vermont|||||||||Yes|
 6|161|158|Bombard|John|56|1814|Male|White||||Canada|Yes|Yes||||Yes|Yes||Yes|
 7|161|158|Bombard|Ester|56|1814|Female|White|Keeping House|||Canada|Yes|Yes|||Yes|||||
 8|161|158|Bombard|Lewis|11|1859|Male|White|At Home|1000|300|Vermont|Yes|Yes|||Yes|||||
@@ -939,7 +942,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 1|169|168|Rockwood|Jennie|17|1853|Female|White|At Home|||Vermont|||||Yes|||||
 2|169|168|Rockwood|Mary E|11|1859|Female|White|At Home|||Vermont|||||Yes|||||
-3||168|Ducat|Joseph|||Male|White|Farm Laborer|||Vermont||||||||||
+3|169|168|Ducat|Joseph|||Male|White|Farm Laborer|||Vermont||||||||||
 4|170|169|Rockwood|Chloe|80|1790|Female|White|Keeping House|5400|400|Vermont||||||||||
 5|170|169|Rockwood|Dorastas B|60|1810|Male|White|Retired Sailor|||Vermont|||||||||Yes|
 6|170|169|Rockwood|Sarah H|28|1842|Female|White|At Home|||Vermont||||||||||
@@ -1024,9 +1027,9 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||183|Gravenor|John|76|1794|Male|White|Retired Carpenter|||New York|||||||||Yes|
-2||183|Gravenor|Lucy|71|1799|Female|White||||Vermont||||||||||
-3||183|Garvey|Darwin|22|1848|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+1|184|183|Gravenor|John|76|1794|Male|White|Retired Carpenter|||New York|||||||||Yes|
+2|184|183|Gravenor|Lucy|71|1799|Female|White||||Vermont||||||||||
+3|184|183|Garvey|Darwin|22|1848|Male|White|Farm Laborer|||Vermont|||||||||Yes|
 4|185|184|Stone|Nelson|55|1815|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
 5|185|184|Stone|Sally|60|1810|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
 6|185|184|Stone|Edward|15|1855|Male|White|At Home|||Vermont|Yes|Yes|||Yes|||||
