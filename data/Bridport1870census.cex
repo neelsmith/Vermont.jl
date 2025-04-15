@@ -129,46 +129,47 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|19|19|Hamilton|Chas|45|1825|Male|White|Merchant Ret||15000|Massachusetts|||||||||Yes|
 
 
-1|19|19|Hamilton|Sarah|36|1834|Female|White|At Home|||Vermont||||||||
-2|19|19|Hamilton|Ashley E|4|1866|Male|White||||Florida||||||||
-3|19|19|Hamilton|Jerome M|3|1867|Male|White||||Vermont||||||||
-4|19|19|Hamilton|Charles H|||Male|White||||Florida||||||||
-5|20|20|Austin|Holland|38|1832|Male|White|Farm Laborer|||Vermont|||||||Yes|
-6|20|20|Austin|Sally|25|1845|Female|White|Keeping House|||Vermont||||||||
-7|20|20|Austin|Edgar|17|1853|Male|White|At Home|||Vermont|||Yes|||||
-8|20|20|Austin|Alice|15|1855|Female|White|At Home|||Vermont|||Yes|||||
-9|20|20|Austin|Elmer|13|1857|Male|White|At Home|||Vermont|||Yes|||||
-10|20|20|Austin|George|7|1863|Male|White||||Vermont|||Yes|||||
-11|20|20|Austin|Susie|2|1868|Female|White||||Vermont||||||||
-12|21|21|Austin|Philingo|33|1837|Male|White|Farm Laborer|||Vermont|||||||Yes|
-13|21|21|Austin|June|27|1843|Female|White|Keeping House|||Vermont||||||||
-14|21|21|Austin|Anson|6|1864|Male|White||||Vermont|||Yes|||||
-15|21|21|Austin|Lizzy|4|1866|Female|White||||Vermont||||||||
-16|21|21|Austin|Jennie|||Female|White||||Vermont||||||||
-17|22|22|Heminway|Asa|38|1832|Male|White|Farmer|9000|1000|Vermont|||||||Yes|
-18|22|22|Heminway|Helen|30|1840|Female|White|Keeping House|||New York||||||||
-19|22|22|Heminway|Emma L|11|1859|Female|White||||Vermont|||Yes|||||
-20|22|22|Heminway|Lucy P|9|1861|Female|White||||Vermont|||Yes|||||
-21|22|22|Heminway|Carrie F|5|1865|Female|White||||Vermont|||Yes|||||
-22|22|22|Heminway|Sherman A|3|1867|Male|White||||Vermont||||||||
-23|22|22|Archer|Elizabeth|16|1854|Female|White||||New York||||||||
-24|23|23|Heminway|Asa|69|1801|Male|White|Farmer||600|Vermont|||||||Yes|
-25|23|23|Heminway|Amelia|67|1803|Female|White|Keeping House|||Vermont||||||||
-26|23|23|Gough|Lucy A|42|1828|Female|White|Music Teacher|4600||Vermont||||||||
-27|23|23|Nickelson|Prudence I|43|1827|Female|White|Domestic|||Vermont||||||||
-28|23|23|Beeman|Thomas|40|1830|Male|White|Farm Laborer|||Vermont|||||||Yes|
-29|23|23|Smith|Ora|24|1846|Female|White|Teaching School|||Vermont||||||||
-31|25|24|Rice|Abel H|61|1809|Male|White|Farmer|20000||Vermont|||||||Yes|
-32|25|24|Rice|Louisa P|53|1817|Female|White|Keeping House|||Vermont||||||||
-33|25|24|Rice|Darwin E|||Male|White|At Home|||Vermont|||||||Yes|
-34|25|24|Turner|Sarah|39|1831|Female|White|Domestic|||New York||||||||
-35|26|25|Burdeau|Paul|22|1848|Male|White|Farm Laborer|||Canada||||||||
-36|26|25|Burdeau|Sarah|21|1849|Female|White|Keeping House|||Vermont||||||||
-37|26|25|Burdeau|Mary|10/12||Female|White|Keeping House|||Vermont|Aug|||||||
-38|26|25|Burdeau|Prosper|17|1853|Male|White|Farm Laborer|||Canada||||||||
-39|26|25|Wicker|Frederick|11|1859|Male|White||||Vermont||||||||
-40|27|26|Dampey|Lewis|34|1836|Male|White|Farmer|200|500|Canada||||||||
-
+# bad datablock
+1|19|19|Hamilton|Sarah|36|1834|Female|White|At Home|||Vermont||||||||||
+2|19|19|Hamilton|Ashley E|4|1866|Male|White||||Florida||||||||||
+3|19|19|Hamilton|Jerome M|3|1867|Male|White||||Vermont||||||||||
+4|19|19|Hamilton|Charles H|||Male|White||||Florida||||||||||
+5|20|20|Austin|Holland|38|1832|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+6|20|20|Austin|Sally|25|1845|Female|White|Keeping House|||Vermont||||||||||
+7|20|20|Austin|Edgar|17|1853|Male|White|At Home|||Vermont|||||Yes|||||
+8|20|20|Austin|Alice|15|1855|Female|White|At Home|||Vermont|||||Yes|||||
+9|20|20|Austin|Elmer|13|1857|Male|White|At Home|||Vermont|||||Yes|||||
+10|20|20|Austin|George|7|1863|Male|White||||Vermont|||||Yes|||||
+11|20|20|Austin|Susie|2|1868|Female|White||||Vermont||||||||||
+12|21|21|Austin|Philingo|33|1837|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+13|21|21|Austin|June|27|1843|Female|White|Keeping House|||Vermont||||||||||
+14|21|21|Austin|Anson|6|1864|Male|White||||Vermont|||||Yes|||||
+15|21|21|Austin|Lizzy|4|1866|Female|White||||Vermont||||||||||
+16|21|21|Austin|Jennie|||Female|White||||Vermont||||||||||
+17|22|22|Heminway|Asa|38|1832|Male|White|Farmer|9000|1000|Vermont|||||||||Yes|
+18|22|22|Heminway|Helen|30|1840|Female|White|Keeping House|||New York||||||||||
+19|22|22|Heminway|Emma L|11|1859|Female|White||||Vermont|||||Yes|||||
+20|22|22|Heminway|Lucy P|9|1861|Female|White||||Vermont|||||Yes|||||
+21|22|22|Heminway|Carrie F|5|1865|Female|White||||Vermont|||||Yes|||||
+22|22|22|Heminway|Sherman A|3|1867|Male|White||||Vermont||||||||||
+23|22|22|Archer|Elizabeth|16|1854|Female|White||||New York||||||||||
+24|23|23|Heminway|Asa|69|1801|Male|White|Farmer||600|Vermont|||||||||Yes|
+25|23|23|Heminway|Amelia|67|1803|Female|White|Keeping House|||Vermont||||||||||
+26|23|23|Gough|Lucy A|42|1828|Female|White|Music Teacher|4600||Vermont||||||||||
+27|23|23|Nickelson|Prudence I|43|1827|Female|White|Domestic|||Vermont||||||||||
+28|23|23|Beeman|Thomas|40|1830|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+29|23|23|Smith|Ora|24|1846|Female|White|Teaching School|||Vermont||||||||||
+31|25|24|Rice|Abel H|61|1809|Male|White|Farmer|20000||Vermont|||||||||Yes|
+32|25|24|Rice|Louisa P|53|1817|Female|White|Keeping House|||Vermont||||||||||
+33|25|24|Rice|Darwin E|||Male|White|At Home|||Vermont|||||||||Yes|
+34|25|24|Turner|Sarah|39|1831|Female|White|Domestic|||New York||||||||||
+35|26|25|Burdeau|Paul|22|1848|Male|White|Farm Laborer|||Canada||||||||||
+36|26|25|Burdeau|Sarah|21|1849|Female|White|Keeping House|||Vermont||||||||||
+37|26|25|Burdeau|Mary|10/12||Female|White|Keeping House|||Vermont|||Aug|||||||
+38|26|25|Burdeau|Prosper|17|1853|Male|White|Farm Laborer|||Canada||||||||||
+39|26|25|Wicker|Frederick|11|1859|Male|White||||Vermont||||||||||
+40|27|26|Dampey|Lewis|34|1836|Male|White|Farmer|200|500|Canada||||||||||
+#end bad datablock
 
 1|27|23|Dampey|Elizabeth|29|1841|Female|White|Keeping House|||New York|Yes|Yes|||Yes|||||
 2|27|23|Dampey|Celia E|9|1861|Female|White||||Vermont|Yes||||Yes|||||
