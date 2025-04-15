@@ -28,4 +28,10 @@ Key:
 
 
 
+### Validating content
 
+Each column includes two values separated by a slash. The first column is the figure manuially recorded on a census page. The second column is the result of querying the digital `CensusRecord`s. Where the two figures match, we can be confident that the digital objects capture the transcribed data with some reliability.
+
+| District | Year | White males | White females | Colored males | Colored females | Total males | Total females | Aggregate |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Panton** | **1850** | 287 / `287` | 267 / `267` | 3 / `3` | 2 / `2` | 290 / `290` | 269 / `269` | 559 / `559`| 
