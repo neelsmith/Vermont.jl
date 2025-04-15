@@ -109,6 +109,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|28|28|Hoyt|Loyal W|4|1866|Male|White|At Home|||Vermont|||||Yes|||||
 
 
+# Bad data block.
+
 1||28|Curtis|Natio|22|1848|Female|White|At Home|||Vermont||||||||
 2||28|Curtis|Hela|18|1852|Female|White|At Home|||Vermont||||||||
 3|29|29|Harris|Asa|62|1808|Male|White|Farmer|||New York|||||||Yes|
@@ -150,8 +152,9 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|37|37|Perry|Sheridan|4/12||Male|White||||Vermont|Oct|||||||
 40|38|38|Towsley|Norman|54|1816|Male|White|Physician|2800|7000|Vermont|||||||Yes|
 
+#End bad data block
 
-
+# Bad data block
 1|38|38|Towsley|Betsey E|46|1824|Female|White|Keeping House|||Vermont||||||||
 2|38|38|Towsley|Harry|11|1859|Male|White||||Vermont|||Yes|||||
 3||38|Gaze|Emily|40|1830|Female|White|Domestic Servant||400|Vermont||||||||
@@ -191,7 +194,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 38|46|45|Torry|Charles|||Male|White|At Home|||Vermont|||Yes|||||
 39|46|45|Torry|Edgar|17|1853|Male|White|At Home|||Vermont|||Yes|||||
 40|47|46|Grandy|Stillman|57|1813|Male|White|Farmer|5000|1400|Vermont|||||||Yes|
-
+# End bad data block
 
 
 1|47|46|Grandy|Lucretia|55|1815|Female|White|Keeping House|||Vermont||||||||||
