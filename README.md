@@ -22,7 +22,7 @@ Key:
 | --- | --- | --- | --- | --- | --- |
 | 1850 |✅|✅|✅|✅| ✅|
 | 1860 |✓| ✓ ||✓||
-| 1870 |✅| ✅ |✓ |✅||
+| 1870 |✅| ✅ | ✅ |✅||
 | 1880 |✅|✅|✅|✅|✅|
 
 
@@ -34,4 +34,8 @@ Each column includes two values separated by a slash. The first column is the fi
 
 | District | Year | White males | White females | Colored males | Colored females | Total males | Total females | Aggregate |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Addison** | **1850** |  ||  |  | |  |  |
+| **Bridport** | **1850** |  ||  |  | |  |  |
+| **Ferrisburg** | **1850** |  ||  |  | |  |  |
 | **Panton** | **1850** | 287 / `287` | 267 / `267` | 3 / `3` | 2 / `2` | 290 / `290` | 269 / `269` | 559 / `559`| 
+| **Vergennes** | **1850** |  ||  |  | |  |  |
