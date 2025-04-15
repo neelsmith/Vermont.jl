@@ -11,10 +11,15 @@ The `data` directory has delimited-text files with transcribed census records fo
 
 ### Coverage
 
+- Blue outline: Addison County
+- Tan outline: towns included in census datasets (Addison, Bridport, Ferrisburg, Panton, Vergennes)
 
-Key: 
-- ✓  initial data entry complete
-- ✅ all data load correctly into `CensusRecord` objects
+
+| Vermont | |Addison County |
+| --- | --- |
+| ![](./map-key-small.png) | ![](./addison-county.png) |
+
+
 
 
 
@@ -25,6 +30,9 @@ Key:
 | 1870 |✅| ✅ | ✅ |✅||
 | 1880 |✅|✅|✅|✅|✅|
 
+Key: 
+- ✓  initial data entry complete
+- ✅ all data load correctly into `CensusRecord` objects
 
 
 
