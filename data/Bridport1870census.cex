@@ -129,7 +129,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|19|19|Hamilton|Chas|45|1825|Male|White|Merchant Ret||15000|Massachusetts|||||||||Yes|
 
 
-# bad datablock
+
 1|19|19|Hamilton|Sarah|36|1834|Female|White|At Home|||Vermont||||||||||
 2|19|19|Hamilton|Ashley E|4|1866|Male|White||||Florida||||||||||
 3|19|19|Hamilton|Jerome M|3|1867|Male|White||||Vermont||||||||||
@@ -169,7 +169,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 38|26|25|Burdeau|Prosper|17|1853|Male|White|Farm Laborer|||Canada||||||||||
 39|26|25|Wicker|Frederick|11|1859|Male|White||||Vermont||||||||||
 40|27|26|Dampey|Lewis|34|1836|Male|White|Farmer|200|500|Canada||||||||||
-#end bad datablock
+
 
 1|27|23|Dampey|Elizabeth|29|1841|Female|White|Keeping House|||New York|Yes|Yes|||Yes|||||
 2|27|23|Dampey|Celia E|9|1861|Female|White||||Vermont|Yes||||Yes|||||
@@ -298,13 +298,10 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|50|49|Whitty|Thomas|17|1853|Male|White|At Home|||Vermont|Yes|Yes||||||||
 40|50|49|Whitty|Maggie|15|1855|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
 
-
-
-
 1|50|49|Whitty|Eddie|13|1857|Male|White|At Home|||Vermont|Yes|Yes|||Yes|||||
 2|50|49|Whitty|Celia|11|1859|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
 2|50|49|Whitty|Celia|11|1859|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
-3||49|Wilson|Maryeth|73|1797|Female|White|At Home|||Ireland|Yes|Yes||||||||
+3|50|49|Wilson|Maryeth|73|1797|Female|White|At Home|||Ireland|Yes|Yes||||||||
 4|51|50|Lucia|Charles|53|1817|Male|White|Farm Laborer|200||Canada|Yes|Yes|||||||Yes|
 5|51|50|Lucia|Polly|51|1819|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
 6|51|50|Lucia|Eva|17|1853|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
