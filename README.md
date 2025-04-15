@@ -7,8 +7,8 @@ Code and data for a project looking at census records for parts of Addison Count
 ## Census tables
 
 Key: 
-- ✓  data entry complete
-- ✅ data loads correctly 
+- ✓  initial data entry complete
+- ✅ all data load correctly into `CensusRecord` objects
 
 Coverage:
 
