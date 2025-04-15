@@ -465,7 +465,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 1|97|98|Spaulding|Linda|29|1841|Female|White|Keeping House|||Vermont||||||||||
 2|97|98|Spaulding|Eliza|4|1866|Female|White||||Vermont||||||||||
 3|97|98|Spaulding|Mary|||Female|White||||Vermont||||||||||
-4||98|Ikay|Isabell|16|1854|Female|White|Domestic|||Vermont|||||Yes|||||
+4|97|98|Ikay|Isabell|16|1854|Female|White|Domestic|||Vermont|||||Yes|||||
 5|98|99|Dumont|Lewis|27|1843|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
 6|98|99|Dumont|Louisa|26|1844|Female|White|Keeping House|||Vermont||||||||||
 7|98|99|Dumont|Charles R|8|1862|Male|White||||Vermont|||||Yes|||||
@@ -630,9 +630,9 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|130|130|Mcconley|Roseman|25|1845|Female|White|At Home|||New York||||||||||
 
 
-1||130|Norton|Pauline|40|1830|Female|White|Keeping House|4000||New York||||||||||
-2||130|Burwell|Allen|38|1832|Male|White|Farm Laborer||200|Vermont|||||||||Yes|
-3||130|Mconley|Ida|10|1860|Female|White||||New York|||||Yes|||||
+1|130|130|Norton|Pauline|40|1830|Female|White|Keeping House|4000||New York||||||||||
+2|130|130|Burwell|Allen|38|1832|Male|White|Farm Laborer||200|Vermont|||||||||Yes|
+3|130|130|Mconley|Ida|10|1860|Female|White||||New York|||||Yes|||||
 4|131|131|Jackson|David|46|1824|Male|White|Farmer|6600|1200|Vermont|||||||||Yes|
 5|131|131|Jackson|Olive H|37|1833|Female|White|Keeping House|||Vermont||||||||||
 6|131|131|Jackson|Herbert D|12|1858|Male|White|At Home|||Vermont|||||Yes|||||
@@ -672,11 +672,9 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|137|137|Willmarth|Gorge M|15|1855|Male|White|At Home|||Vermont|||||Yes|||||
 
 
-
-
-1||137|Freegard|Sarah|22|1848|Female|White|Domestic|||Vermont|Yes|Yes||||||||
-2||137|Freegard|Nellie|2|1868|Female|White||||Vermont||||||||||
-3||137|Wernet|Henry|16|1854|Male|White|Farm Laborer|||New York|Yes|Yes||||Yes|Yes|||
+1|137|137|Freegard|Sarah|22|1848|Female|White|Domestic|||Vermont|Yes|Yes||||||||
+2|137|137|Freegard|Nellie|2|1868|Female|White||||Vermont||||||||||
+3|137|137|Wernet|Henry|16|1854|Male|White|Farm Laborer|||New York|Yes|Yes||||Yes|Yes|||
 4|138|138|Wernet|Joseph|60|1810|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
 5|138|138|Wernet|Minerva|55|1815|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
 6|138|138|Wernet|Joseph|25|1845|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
