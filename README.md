@@ -6,11 +6,17 @@ Code and data for a project looking at census records for parts of Addison Count
 
 ## Census tables
 
+The `data` directory has delimited-text files with transcribed census records for a selection of Vermont census districts from 1850 through 1880. 
+
+
+### Coverage
+
+
 Key: 
 - ✓  initial data entry complete
 - ✅ all data load correctly into `CensusRecord` objects
 
-Coverage:
+
 
 | Year | Addison | Bridport | Ferrisburg | Panton | Vergennes |
 | --- | --- | --- | --- | --- | --- |
