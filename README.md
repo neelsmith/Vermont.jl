@@ -15,7 +15,7 @@ The `data` directory has delimited-text files with transcribed census records fo
 - Tan outline: towns included in census datasets (Addison, Bridport, Ferrisburg, Panton, Vergennes)
 
 
-| Vermont | |Addison County |
+| Vermont | Addison County |
 | --- | --- |
 |  ![](./addison-county-small.png) | ![](./map-key-small.png) |
 
