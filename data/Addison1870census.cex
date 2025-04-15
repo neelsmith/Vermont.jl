@@ -377,6 +377,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|83|84|Pond|Alvin D|55|1815|Male|White|Farmer|6000|1200|Vermont|||||||||Yes|
 
 
+## The following block of data is bad: too few columns.
 
 1|83|84|Pond|Rhoda|50|1820|Female|White|Keeping House|||Vermont||||||||
 2|83|84|Pond|Eugene A|27|1843|Male|White|Farmer|||Vermont|||||||Yes|
@@ -419,6 +420,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|89|90|Martin|Orlin|11/12||Male|White||||Vermont|Jul|||||||
 40|90|91|Norton|Allen S|32|1838|Male|White|Mason|300|150|Vermont|||||||Yes|
 
+## End bad block
 
 
 1|90|91|Norton|Viola|25|1845|Female|White|Keeping House|||New York||||||||||
