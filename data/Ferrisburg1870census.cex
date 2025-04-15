@@ -1165,51 +1165,48 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|215|221|Evarts|Jane|37|1833|Female|White|Keeping House|||Vermont||||||||||
 40|215|221|Evarts|Frankie|18|1852|Male|White|Farm Laborer|||Vermont|||||Yes|||||
 
- # Bad data block
 
-1|215|221|Evarts|John|15|1855|Male|White|Farm Laborer|||Vermont|||Yes|||||
-2|215|221|Evarts|Elizabeth|12|1858|Female|White|At School|||Vermont|||Yes|||||
-3|215|221|Evarts|Virginia|8|1862|Female|White|At School|||Vermont|||Yes|||||
-4|215|221|Evarts|Emma|7|1863|Female|White|At School|||Vermont|||Yes|||||
-5|215|221|Evarts|Mary|||Female|White||||Vermont||||||||
-6||221|Preston|William|19|1851|Male|White|Farm Laborer|1000|200|Vermont||||||||
-7|216|222|Wilkins|Joseph|35|1835|Male|White|Farmer|12500|1500|Vermont|||||||Yes|
-8|216|222|Wilkins|Harriet|33|1837|Female|White|Keeping House|||New York||||||||
-9|216|222|Wilkins|Annie|9|1861|Female|White|At School|||Vermont|||Yes|||||
-10|216|222|Wilkins|Daniel|7|1863|Male|White|At School|||Vermont|||Yes|||||
-11|216|222|Stewart|Seldon|61|1809|Male|White|Carpenter|||Vermont|||||||Yes|
-12|217|223|Porter|George W|60|1810|Male|White|Farmer|12000|2500|Vermont|||||||Yes|
-13|217|223|Porter|Julia|60|1810|Female|White|Keeping House|||Pennsylvania||||||||
-14|217|223|Porter|Louisa|23|1847|Female|White|At Home|||Vermont||||||||
-15|217|223|Bragg|Reuben|||Male|White|Farm Laborer|||New York|||Yes|||||
-16|217|223|Stacy|Tuffiela|24|1846|Male|White|Farm Laborer|||New York|||||||Yes|
-17|217|223|Sears|Carrie|16|1854|Female|White|Domestic Servant|||Vermont|||Yes|||||
-18|217|223|Sears|John|15|1855|Male|White|Farm Laborer|||Vermont|||Yes|||||
-19|218|224|Porter|Luther|65|1805|Male|White|Farmer|10000|2000|Vermont|||||||Yes|
-20|218|224|Porter|Toletha|60|1810|Female|White|Keeping House|||Vermont||||||||
-21|218|224|Porter|Wallace|28|1842|Male|White|Farm Laborer|||Vermont||||||||
-22|218|224|Porter|Tolitha|17|1853|Female|White|At Home|||Vermont|||Yes|||||
-23|218|224|Porter|Edward|14|1856|Male|White|At Home|||Vermont|||Yes|||||
-24|218|224|Porter|Elwin|12|1858|Male|White|At Home|||Vermont|||Yes|||||
-25|219|225|Porter|Lutherp|37|1833|Male|White|Farm Laborer|||Vermont|||||||Yes|
-26|219|225|Porter|Lizzie|35|1835|Female|White|Keeping House|||Vermont||||||||
-27|219|225|Porter|Sarah|14|1856|Female|White|At Home|||Vermont|||Yes|||||
-28|219|225|Porter|Harvey|16|1854|Male|White|At Home|||Vermont|||Yes|||||
-29|219|225|Porter|Sibbie|12|1858|Female|White|At School|||Vermont|||Yes|||||
-30|219|225|Porter|Hattie|10|1860|Female|White|At School|||Vermont|||Yes|||||
-31|219|225|Porter|Willie|8|1862|Male|White|At School|||Vermont|||Yes|||||
-32|219|225|Porter|Fannie|||Female|White||||Vermont||||||||
-33|220|226|Kinsland|Abram|67|1803|Male|White|Farmer|16000|2000|New Jersey|||||||Yes|
-34|220|226|Kinsland|Ann|65|1805|Female|White|Keeping House|||New Jersey||||||||
-35|220|226|Kinsland|Tomas|22|1848|Male|White|Farm Laborer|||Vermont|||||||Yes|
-36|220|226|Tupper|Elizabeth|24|1846|Female|White|School Teacher|||Vermont||||||||
-37|221|227|Siple|William|32|1838|Male|White|Farmer|5000|1200|Vermont|||||||Yes|
-38|221|227|Siple|Maria|28|1842|Female|White|Keeping House|||Vermont||||||||
-39|221|227|Siple|Peter|47|1823|Male|White|Farm Laborer|||Vermont|||||||Yes|
-40|221|227|Porter|Luther|42|1828|Male|White|Farm Laborer|||Vermont|||||||Yes|
+1|215|221|Evarts|John|15|1855|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+2|215|221|Evarts|Elizabeth|12|1858|Female|White|At School|||Vermont|||||Yes|||||
+3|215|221|Evarts|Virginia|8|1862|Female|White|At School|||Vermont|||||Yes|||||
+4|215|221|Evarts|Emma|7|1863|Female|White|At School|||Vermont|||||Yes|||||
+5|215|221|Evarts|Mary|||Female|White||||Vermont||||||||||
+6|215|221|Preston|William|19|1851|Male|White|Farm Laborer|1000|200|Vermont||||||||||
+7|216|222|Wilkins|Joseph|35|1835|Male|White|Farmer|12500|1500|Vermont|||||||||Yes|
+8|216|222|Wilkins|Harriet|33|1837|Female|White|Keeping House|||New York||||||||||
+9|216|222|Wilkins|Annie|9|1861|Female|White|At School|||Vermont|||||Yes|||||
+10|216|222|Wilkins|Daniel|7|1863|Male|White|At School|||Vermont|||||Yes|||||
+11|216|222|Stewart|Seldon|61|1809|Male|White|Carpenter|||Vermont|||||||||Yes|
+12|217|223|Porter|George W|60|1810|Male|White|Farmer|12000|2500|Vermont|||||||||Yes|
+13|217|223|Porter|Julia|60|1810|Female|White|Keeping House|||Pennsylvania||||||||||
+14|217|223|Porter|Louisa|23|1847|Female|White|At Home|||Vermont||||||||||
+15|217|223|Bragg|Reuben|||Male|White|Farm Laborer|||New York|||||Yes|||||
+16|217|223|Stacy|Tuffiela|24|1846|Male|White|Farm Laborer|||New York|||||||||Yes|
+17|217|223|Sears|Carrie|16|1854|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+18|217|223|Sears|John|15|1855|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+19|218|224|Porter|Luther|65|1805|Male|White|Farmer|10000|2000|Vermont|||||||||Yes|
+20|218|224|Porter|Toletha|60|1810|Female|White|Keeping House|||Vermont||||||||||
+21|218|224|Porter|Wallace|28|1842|Male|White|Farm Laborer|||Vermont||||||||||
+22|218|224|Porter|Tolitha|17|1853|Female|White|At Home|||Vermont|||||Yes|||||
+23|218|224|Porter|Edward|14|1856|Male|White|At Home|||Vermont|||||Yes|||||
+24|218|224|Porter|Elwin|12|1858|Male|White|At Home|||Vermont|||||Yes|||||
+25|219|225|Porter|Lutherp|37|1833|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+26|219|225|Porter|Lizzie|35|1835|Female|White|Keeping House|||Vermont||||||||||
+27|219|225|Porter|Sarah|14|1856|Female|White|At Home|||Vermont|||||Yes|||||
+28|219|225|Porter|Harvey|16|1854|Male|White|At Home|||Vermont|||||Yes|||||
+29|219|225|Porter|Sibbie|12|1858|Female|White|At School|||Vermont|||||Yes|||||
+30|219|225|Porter|Hattie|10|1860|Female|White|At School|||Vermont|||||Yes|||||
+31|219|225|Porter|Willie|8|1862|Male|White|At School|||Vermont|||||Yes|||||
+32|219|225|Porter|Fannie|||Female|White||||Vermont||||||||||
+33|220|226|Kinsland|Abram|67|1803|Male|White|Farmer|16000|2000|New Jersey|||||||||Yes|
+34|220|226|Kinsland|Ann|65|1805|Female|White|Keeping House|||New Jersey||||||||||
+35|220|226|Kinsland|Tomas|22|1848|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+36|220|226|Tupper|Elizabeth|24|1846|Female|White|School Teacher|||Vermont||||||||||
+37|221|227|Siple|William|32|1838|Male|White|Farmer|5000|1200|Vermont|||||||||Yes|
+38|221|227|Siple|Maria|28|1842|Female|White|Keeping House|||Vermont||||||||||
+39|221|227|Siple|Peter|47|1823|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+40|221|227|Porter|Luther|42|1828|Male|White|Farm Laborer|||Vermont|||||||||Yes|
 
-
-# End bad data block
 
 
 1|221|227|Porter|Lorette|19|1851|Female|White|Domestic Servant|||Vermont|||||Yes|||||
