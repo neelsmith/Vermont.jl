@@ -394,7 +394,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 4|74|76|Tatro|Mattie|5|1865|Male|White||||Vermont|Yes|Yes||||||||
 5|74|76|Tatro|Antonie|2|1868|Male|White||||Vermont|Yes|Yes||||||||
 6|74|76|Tatro|Angeline|7/12||Female|White||||Vermont|Yes|Yes|Nov|||||||
-7||76|Grand|Michael|||Male|White|Farm Laborer|||Canada|Yes|Yes||||||||
+7|74|76|Grand|Michael|||Male|White|Farm Laborer|||Canada|Yes|Yes||||||||
 8|75|77|Field|Thomas|66|1804|Male|White|Farmer|4275|6000|Vermont|||||||||Yes|
 9|75|77|Field|Abbie|40|1830|Female|White|Keeping House|||Vermont||||||||||
 10|75|77|Field|Benjamin|15|1855|Male|White|At Home|||Vermont|||||Yes|||||
@@ -432,7 +432,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||82|Huckabone|Lydia|14|1856|Female|White|Domestic Servant|||Wisconsin|||||Yes|||||
+1|80|82|Huckabone|Lydia|14|1856|Female|White|Domestic Servant|||Wisconsin|||||Yes|||||
 2|81|83|Byington|Hubert|48|1822|Male|White|Blksmith||1000|Vermont|||||||||Yes|
 3|81|83|Byington|Martha|45|1825|Female|White|Keeping House|||Vermont||||||||||
 4|81|83|Byington|Joseph|15|1855|Male|White|Blk Smith|||Vermont|||||Yes|||||
@@ -474,7 +474,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|87|89|Allen|Hattie|12|1858|Female|White|At School|||Vermont||Yes|||Yes|||||
 
 
-
+# Begin bad block
 
 1|87|89|Allen|Carrie|10|1860|Female|White|At School|||Vermont|Yes|||Yes|||||
 2|87|89|Allen|Frank|6|1864|Male|White||||Vermont|Yes|||Yes|||||
@@ -517,9 +517,9 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|94|96|Hatch|Cordelia|42|1828|Female|White|Keeping House|||Vermont|||||||||
 40|95|97|Camel|Samuel|45|1825|Male|White|Farmer|7000|1200|Vermont||||||||Yes|
 
+# end bad block
 
-
-
+# Bad data block
 1|95|97|Camel|Polly|38|1832|Female|White|Keeping House|||Vermont||||||||
 2|95|97|Camel|Albert|16|1854|Male|White|At Home|||Vermont|||Yes|||||
 3|95|97|Camel|Lora|10|1860|Female|White|At School|||Vermont|||Yes|||||
@@ -561,6 +561,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|103|105|Hays|Cora|75|1795|Female|White|At Home|||New York||||||||
 40|104|106|Warner|Anderson|43|1827|Male|White|Farmer|2000|600|Vermont|||||||Yes|
 
+# End bad data block
 
 
 
@@ -650,8 +651,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||120|Donahue|John|6/12||Male|White||||Vermont|Yes|Yes|Dec|||||||
-2||120|Dagan|Timothy|25|1845|Male|White|Farm Laborer|||Ireland|Yes|Yes|||||||Yes|
+1|118|120|Donahue|John|6/12||Male|White||||Vermont|Yes|Yes|Dec|||||||
+2|118|120|Dagan|Timothy|25|1845|Male|White|Farm Laborer|||Ireland|Yes|Yes|||||||Yes|
 3|119|121|Kellogg|Wesley|30|1840|Male|White|Farm Overseer||200|Vermont|||||||||Yes|
 4|119|121|Kellogg|Huldah|29|1841|Female|White|Keeping House|||New York||||||||||
 5|119|121|Kellogg|Iroing|4|1866|Male|White||||Vermont||||||||||
