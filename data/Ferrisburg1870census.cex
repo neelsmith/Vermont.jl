@@ -473,51 +473,48 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|87|89|Allen|Kate|32|1838|Female|White|Keeping House|||Canada|Yes|Yes||||||||
 40|87|89|Allen|Hattie|12|1858|Female|White|At School|||Vermont||Yes|||Yes|||||
 
-
-# Check foreign parents!
-
 1|87|89|Allen|Carrie|10|1860|Female|White|At School|||Vermont||Yes|||Yes|||||
-2|87|89|Allen|Frank|6|1864|Male|White||||Vermont|Yes|||Yes|||||
-3|87|89|Allen|Leona|4|1866|Female|White||||Vermont|Yes||||||||
-4|87|89|Allen|Eddie|3/12||Male|White||||Vermont|Yes|Feb|||||||
-5|88|90|Allen|Putnam|54|1816|Male|White|Farmer|8800|26070|Vermont||||||||Yes|
-6|88|90|Allen|Mary Ann|54|1816|Female|White|Keeping House|||Vermont|||||||||
-7|88|90|Allen|Ellen|25|1845|Female|White|At Home|||Vermont|||||||||
-8|88|90|Allen|Mary|21|1849|Female|White|At Home|||Vermont|||||||||
-9|88|90|Allen|Emmette|17|1853|Female|White|At School|||Vermont||||Yes|||||
-10|88|90|Allen|Fnea|14|1856|Male|White|At School|||Vermont||||Yes|||||
-11|88|90|Garvey|Byron|24|1846|Male|White|Farm Laborer|||Vermont||||||||Yes|
-12|89|91|Curler|Hiram|25|1845|Male|White|Farmer|6000|600|Vermont||||||||Yes|
-13|89|91|Curler|Fanny|23|1847|Female|White|Keeping House|||New York|||||||||
-14|89|91|Curler|Lydia|67|1803|Female|White|At Home|||New York|||||||||
-15|90|92|Cregory|John|76|1794|Male|White|Farmer|11600|2000|Vermont||||||||Yes|
-16|90|92|Cregory|Esther|74|1796|Female|White|Keeping House|||Vermont|||||||||
-17|90|92|Cregory|John|35|1835|Male|White|Drover||800|Vermont||||||||Yes|
-18|90|92|Cregory|James|32|1838|Male|White|Farm Laborer||700|Vermont||||||||Yes|
-19|90|92|Leyman|Dapsey|||Male|White|Farm Laborer|||Vermont|||||||||
-20|90|92|Ravlin|Marthe|17|1853|Female|White|Domestic Servant|||Wisconsin|||||||||
-21|91|93|Hatch|Isaac|64|1806|Male|White|Farmer|7000|1250|Vermont||||||||Yes|
-22|91|93|Hatch|Priscilla|54|1816|Female|White|Keeping House|||Vermont|||||||||
-23|91|93|Hatch|Isaac F|27|1843|Male|White|Farm Laborer||800|Vermont||||||||Yes|
-24|91|93|Hatch|Giles|22|1848|Male|White|Farm Laborer|||Vermont||||||||Yes|
-25|91|93|Hatch|Mary|||Female|White|At Home|||Vermont||||Yes|||||
-26|91|93|Hatch|Emma|15|1855|Female|White|At Home|||Vermont||||Yes|||||
-27|91|93|Parker|George|48|1822|Male|White|Farm Laborer|||Virginia|||||||Idiotic||
-28|92|94|Barts|William|70|1800|Male|White|Farmer|3000|800|Vermont||||||||Yes|
-29|92|94|Barts|Huldah|54|1816|Female|White|Keeping House|||Vermont|||||||||
-30|92|94|Barts|David|21|1849|Male|White|Farm Laborer|1000|200|Vermont||||||||Yes|
-31|92|94|Barts|Mary|33|1837|Female|White|At Home||1000|Vermont|||||||||
-32|92|94|Barts|Edgar|12|1858|Male|White|At School|||New York||||Yes|||||
-33|92|94|Barts|Frank|8|1862|Male|White|At School|||New York||||Yes|||||
-34|93|95|Allen|Hadiah|49|1821|Male|White|Farmer|4000|1000|Vermont||||||||Yes|
-35|93|95|Allen|Helen|39|1831|Female|White|Keeping House|||Vermont|||||||||
-36|93|95|Allen|Sarah|||Female|White||||Vermont|||||||||
-37|93|95|Allen|Carrie|8|1862|Female|White|At School||500|Vermont|||||Yes|||||
-38|94|96|Hatch|Charles|45|1825|Male|White|Farmer|6000|1300|Vermont|||||||||Yes|
-39|94|96|Hatch|Cordelia|42|1828|Female|White|Keeping House|||Vermont||||||||||
-40|95|97|Camel|Samuel|45|1825|Male|White|Farmer|7000|1200|Vermont|||||||||Yes|
+2|87|89|Allen|Frank|6|1864|Male|White||||Vermont||Yes|||Yes|||||
+3|87|89|Allen|Leona|4|1866|Female|White||||Vermont||Yes||||||||
+4|87|89|Allen|Eddie|3/12||Male|White||||Vermont||Yes|Feb|||||||
+5|88|90|Allen|Putnam|54|1816|Male|White|Farmer|8800|26070|Vermont|||||||||Yes|
+6|88|90|Allen|Mary Ann|54|1816|Female|White|Keeping House|||Vermont||||||||||
+7|88|90|Allen|Ellen|25|1845|Female|White|At Home|||Vermont||||||||||
+8|88|90|Allen|Mary|21|1849|Female|White|At Home|||Vermont||||||||||
+9|88|90|Allen|Emmette|17|1853|Female|White|At School|||Vermont|||||Yes|||||
+10|88|90|Allen|Fnea|14|1856|Male|White|At School|||Vermont|||||Yes|||||
+11|88|90|Garvey|Byron|24|1846|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+12|89|91|Curler|Hiram|25|1845|Male|White|Farmer|6000|600|Vermont|||||||||Yes|
+13|89|91|Curler|Fanny|23|1847|Female|White|Keeping House|||New York||||||||||
+14|89|91|Curler|Lydia|67|1803|Female|White|At Home|||New York||||||||||
+15|90|92|Cregory|John|76|1794|Male|White|Farmer|11600|2000|Vermont|||||||||Yes|
+16|90|92|Cregory|Esther|74|1796|Female|White|Keeping House|||Vermont||||||||||
+17|90|92|Cregory|John|35|1835|Male|White|Drover||800|Vermont|||||||||Yes|
+18|90|92|Cregory|James|32|1838|Male|White|Farm Laborer||700|Vermont|||||||||Yes|
+19|90|92|Leyman|Dapsey|||Male|White|Farm Laborer|||Vermont||||||||||
+20|90|92|Ravlin|Marthe|17|1853|Female|White|Domestic Servant||||Wisconsin|||||||||
+21|91|93|Hatch|Isaac|64|1806|Male|White|Farmer|7000|1250|Vermont|||||||||Yes|
+22|91|93|Hatch|Priscilla|54|1816|Female|White|Keeping House|||Vermont||||||||||
+23|91|93|Hatch|Isaac F|27|1843|Male|White|Farm Laborer||800|Vermont|||||||||Yes|
+24|91|93|Hatch|Giles|22|1848|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+25|91|93|Hatch|Mary|||Female|White|At Home|||Vermont|||||Yes|||||
+26|91|93|Hatch|Emma|15|1855|Female|White|At Home|||Vermont|||||Yes|||||
+27|91|93|Parker|George|48|1822|Male|White|Farm Laborer|||Virginia||||||||Idiotic||
+28|92|94|Barts|William|70|1800|Male|White|Farmer|3000|800|Vermont|||||||||Yes|
+29|92|94|Barts|Huldah|54|1816|Female|White|Keeping House|||Vermont||||||||||
+30|92|94|Barts|David|21|1849|Male|White|Farm Laborer|1000|200|Vermont|||||||||Yes|
+31|92|94|Barts|Mary|33|1837|Female|White|At Home||1000|Vermont||||||||||
+32|92|94|Barts|Edgar|12|1858|Male|White|At School|||New York|||||Yes|||||
+33|92|94|Barts|Frank|8|1862|Male|White|At School|||New York|||||Yes|||||
+34|93|95|Allen|Hadiah|49|1821|Male|White|Farmer|4000|1000|Vermont|||||||||Yes|
+35|93|95|Allen|Helen|39|1831|Female|White|Keeping House|||Vermont||||||||||
+36|93|95|Allen|Sarah|||Female|White||||Vermont||||||||||
+37|93|95|Allen|Carrie|8|1862|Female|White|At School||500|Vermont||||||Yes|||||
+38|94|96|Hatch|Charles|45|1825|Male|White|Farmer|6000|1300|Vermont||||||||||Yes|
+39|94|96|Hatch|Cordelia|42|1828|Female|White|Keeping House|||Vermont|||||||||||
+40|95|97|Camel|Samuel|45|1825|Male|White|Farmer|7000|1200|Vermont||||||||||Yes|
 
-# end bad block
+
 
 1|95|97|Camel|Polly|38|1832|Female|White|Keeping House|||Vermont||||||||||
 2|95|97|Camel|Albert|16|1854|Male|White|At Home|||Vermont|||||Yes|||||
