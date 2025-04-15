@@ -17,7 +17,7 @@ The `data` directory has delimited-text files with transcribed census records fo
 
 | Vermont | |Addison County |
 | --- | --- |
-| ![](./map-key-small.png) | ![](./addison-county.png) |
+|  ![](./addison-county-small.png) | ![](./map-key-small.png) |
 
 
 
