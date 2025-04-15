@@ -912,3 +912,1010 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|167|170|German|Israel|15|1855|Male|White|Farm Laborer|||Vermont|Yes|Yes||||||||
 
 
+
+
+1|167|170|German|Triffly|13|1857|Male|White|Farm Laborer|||Vermont|Yes|Yes|||Yes|||||
+2|167|170|German|Peter|7|1863|Male|White||||Vermont|Yes|Yes|||Yes|||||
+3|167|170|German|John|5|1865|Male|White||||Vermont|Yes|Yes|||Yes|||||
+4|167|170|German|Josie|3|1867|Female|White||||Vermont|Yes|Yes||||||||
+5|168|171|Reynold|John|33|1837|Male|White|Farm Laborer||200|New York|||||||||Yes|
+6|168|171|Reynold|Julia|33|1837|Female|White|Keeping House|||Vermont||||||||||
+7|168|171|Reynold|Lorette|5/12||Female|White||||Vermont|||Jan|||||||
+8|168|171|Noonan|Daniel|24|1846|Male|White|Speculator||2000|Vermont|||||||||Yes|
+9|168|171|Humphrey|Sylvanus|64|1806|Male|White|Physician||10000|Vermont|||||||||Yes|
+10|168|171|Daniel|Matilda|27|1843|Female|White|Domestic Servant|||New York||||||||||
+11|168|172|Page|Caroline|35|1835|Female|White|Keeping House|||Vermont||||||||||
+12|168|172|Labore|Mary|37|1833|Female|White|Dress Maker|||Vermont||||||||||
+13|168|172|Labore|Abbie|66|1804|Female|White|Dress Maker|||Vermont||||||||||
+14|168|172|Page|Abbie|4|1866|Female|White||||Vermont||||||||||
+15|168|172|Page|Nathan|34|1836|Male|White|Huckster|||Vermont|||||||||Yes|
+16|169|173|Chase|Timothy|50|1820|Male|White|Farmer|4500|700|Vermont|||||||||Yes|
+17|169|173|Chase|Polly|48|1822|Female|White|Keeping House|||Vermont||||||||||
+18|169|173|Chase|Jerome|||Male|White|Farm Laborer|||Vermont|||||Yes|||||
+19|169|173|Chase|Annie|13|1857|Female|White|At School|||Vermont|||||Yes|||||
+20|169|173|Chase|Homer|7|1863|Male|White|At School|||Vermont|||||Yes|||||
+21|169|173|Chase|Marcia|82|1788|Female|White|At Home||6000|Vermont||||||||||
+22|169|173|Palmer|Electa|16|1854|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+23|170|174|Mumblo|Durfee|23|1847|Male|White|Farm Laborer|||New York|Yes|Yes||||Yes|Yes||Yes|
+24|170|174|Mumblo|Mary|23|1847|Female|White|Keeping House|||New York|Yes|Yes||||||||
+25|170|174|Mumblo|David|5|1865|Male|White|At School|||Vermont|||||Yes|||||
+26|170|174|Mumblo|Alfred|2|1868|Male|White||||Vermont||||||||||
+27|171|175|Richardson|Moses|43|1827|Male|White|Retired Armer|2000|200|Vermont|||||||||Yes|
+28|171|175|Richardson|Julia|45|1825|Female|White|Keeping House|||Vermont||||||||||
+29|171|175|Surrell|Josie|25|1845|Female|White|Domestic Servant|||Vermont|Yes|Yes||||||||
+30|172|176|Ubar|Silas|54|1816|Male|White|Shoe Maker|800||Canada|Yes|Yes|||||||Yes|
+31|172|176|Ubar|Mary|48|1822|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+32|172|176|Ubar|Adolphus|25|1845|Male|White|Farm Laborer|||Vermont|Yes|Yes|||||||Yes|
+33|172|176|Ubar|Meria|24|1846|Female|White|At Home|||Vermont|Yes|Yes||||||||
+34|173|177|Norman|Joseph|34|1836|Male|White|Shoe Maker|1500|300|Vermont|||||||||Yes|
+35|173|177|Norman|Mary|28|1842|Female|White|Keeping House|||Vermont||||||||||
+36|173|177|Norman|John|24|1846|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+37|174|178|Yott|Geroge|50|1820|Male|White|Farm Laborer|800||Canada|Yes|Yes|||||||Yes|
+38|174|178|Yott|Caroline|37|1833|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+39|174|178|Yott|Malcomb|4|1866|Male|White||||Vermont|Yes|||||||||
+40|174|178|Yott|Frank|||Male|White||||Vermont|Yes|||||||||
+
+
+1|174|178|Yott|Charles|40|1830|Male|White|Farm Laborer|||Canada|||||||||Yes|
+2|175|179|Squire|Eri|65|1805|Male|White|Retired Farmer|2000|300|New York|||||||||Yes|
+3|175|179|Squire|Harriett|51|1819|Female|White|Keeping House|||Vermont||||||||||
+4|175|179|Squire|Rolla|12|1858|Male|White|At School|||Vermont|||||Yes|||||
+5|175|179|Squire|Thurston|10|1860|Male|White|At School|||Vermont|||||Yes|||||
+6|176|180|Palmer|George|33|1837|Male|White|Farmer|7000|1000|Vermont|||||||||Yes|
+7|176|180|Palmer|Esma|24|1846|Female|White|Keeping House|||Vermont||||||||||
+8|176|180|Palmer|Alice|3/12||Female|White||||Vermont|||Feb|||||||
+9|176|180|Blair|Lewis|13|1857|Male|White|Farm Laborer|||Vermont|Yes|Yes||||||||
+10|176|180|Jevoel|Peter|14|1856|Male|White|Farm Laborer|||Vermont||||||||||
+11|177|181|Squire|Peter|25|1845|Male|White|Merchant|2000|400|Vermont|Yes|Yes|||||||Yes|
+12|177|181|Squire|Josephine|21|1849|Female|White|Keeping House|||New York||||||||||
+13|177|181|Squire|John|3|1867|Male|White||||Vermont||||||||||
+14|177|181|Squire|Joseph|||Male|White||||Vermont||||||||||
+15|178|182|Lafluer|Enos|80|1790|Male|White|Retired Farmer|600|150|Canada|Yes|Yes||||||||
+16|178|182|Lafluer|Caroline|60|1810|Female|White|Keeping House|||England|Yes|Yes||||||||
+17|178|182|Miller|Melvina|52|1818|Female|White|At Home|||Vermont||||||||||
+18|179|183|Miller|Hannah|70|1800|Female|White|Keeping House|600|100|Maine||||||||||
+19|179|183|Miller|Russell|43|1827|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+20|179|183|Miller|Nancy|34|1836|Female|White|Domestic Servant|||Vermont||||||||||
+21|179|183|Miller|Effie|3|1867|Female|White||||Vermont||||||||||
+22|180|184|Hazard|Leuaca|60|1810|Male|White|Retired Farmer|2000|1500|Canada|||||||||Yes|
+23|180|184|Hazard|Axie|37|1833|Female|White|Keeping House|||Vermont||||||||||
+24|180|184|Hazard|Richard|10|1860|Male|White|At School|||Vermont|||||Yes|||||
+25|181|185|Taft|Orville|39|1831|Male|White|Farmer|2000|1000|Vermont|||||||||Yes|
+26|181|185|Taft|Clara|24|1846|Female|White|Keeping House|||Vermont||||||||||
+27|181|185|Taft|Ada|21|Abt 1868|Female|White||||Vermont||||||||||
+28|182|186|Taft|Moses|78|1792|Male|White|Retired Farmer|10000|1800|Vermont|||||||||Yes|
+29|182|186|Taft|Jerusha|68|1802|Female|White|Keeping House|||Vermont||||||||||
+30|182|186|Taft|Eliza|84|1786|Female|White|At Home|||Vermont||||||||||
+31|182|186|Little|Louisa|17|1853|Female|White|Domestic Servant|||Vermont||||||||||
+32|183|187|Lequire|John|52|1818|Male|White|Blacksmith|600|400|Vermont|Yes|Yes|||||||Yes|
+33|183|187|Lequire|Mary|48|1822|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+34|183|187|Lequire|Jane|22|1848|Female|White|At Home|||Vermont||||||||||
+35|183|187|Lequire|James|||Male|White|Farm Laborer|||Vermont||||||||||
+36|183|187|Lequire|Julia|18|1852|Female|White|At Home|||Vermont|||||Yes|||||
+37|184|188|Leais|Zebulon|43|1827|Male|White|Farmer|1000|350|Canada|Yes|Yes|||||||Yes|
+38|184|188|Leais|Sally|43|1827|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+39|184|188|Leais|John|14|1856|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+40|184|188|Leais|Peter|12|1858|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+
+
+
+1|184|188|Leais|Louisa|9|1861|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+2|184|188|Leais|Oliver|7|1863|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+3|184|188|Leais|Edward|17|1853|Male|White|Farm Laborer|||Vermont|Yes|Yes|||Yes|||||
+4|184|188|Leais|Maria|18|1852|Female|White|Domestic Servant|||Vermont|Yes|Yes|||Yes|||||
+5|185|189|Fuller|Nelson|47|1823|Male|White|Carpenter|370|100|Vermont|||||||||Yes|
+6|185|189|Fuller|Mary|46|1824|Female|White|Keeping House|||Vermont||||||||||
+7|185|189|Fuller|Jennie|||Female|White|Domestic Servant|||Vermont||||||||||
+8|185|189|Fuller|Minnie|5|1865|Female|White||||Vermont||||||||||
+9|186|190|Haight|Henry|61|1809|Male|White|Farm Laborer|850|200|Vermont|||||||||Yes|
+10|186|190|Haight|Mary|41|1829|Female|White|Keeping House|||England|Yes|Yes||||||||
+11|186|190|Haight|Henry|21|1849|Male|White|Farm Laborer|||Vermont||Yes|||||||Yes|
+12|186|190|Haight|Reuben|18|1852|Male|White|Farm Laborer|||Vermont||Yes|||Yes|||||
+13|186|190|Haight|Euoam|16|1854|Male|White|Farm Laborer|||Vermont||Yes|||Yes|||||
+14|186|190|Haight|Ella|11|1859|Female|White|At School|||Vermont||Yes|||Yes|||||
+15|187|191|Leais|John|49|1821|Male|White|Farmer|900|400|Canada|Yes|Yes|||||||Yes|
+16|187|191|Leais|Kate|63|1807|Female|White|Keeping House|||Connecticut||||||||||
+17|187|191|Leais|Ellen|3|1867|Female|White||||Vermont|Yes|||||||||
+18|187|191|Leais|John|26|1844|Male|White|Farm Laborer|||Vermont|Yes||||||||Yes|
+19|187|191|Leais|Sally|23|1847|Female|White|Domestic Servant|||Vermont|Yes|||||||||
+20|188|192|Leais|David|50|1820|Male|White|Farm Laborer|600|300|Canada|Yes|Yes|||||||Yes|
+21|188|192|Leais|Mary|48|1822|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+22|189|193|Kimball|George|36|1834|Male|White|Farmer|10000|2000|Vermont|||||||||Yes|
+23|189|193|Kimball|Melissa|26|1844|Female|White|Keeping House|||Vermont||||||||||
+24|189|193|Kimball|Edith|||Female|White||||Vermont||||||||||
+25|189|193|Kimball|Maria|68|1802|Female|White|At Home|||Vermont||||||||||
+26|189|193|Stanahen|Edward|16|1854|Male|White|Farm Laborer|||Vermont||||||||||
+27|190|194|Stone|Antonie|86|1784|Male|White|Farm Laborer|500|100|Canada|Yes|Yes||||Yes|Yes|||
+28|190|194|Stone|Mary|80|1790|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
+29|190|194|Minette|Edward|29|1841|Male|White|Farm Laborer|2000|300|Canada|Yes|Yes|||||||Yes|
+30|190|194|Minette|Lucy|34|1836|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+31|190|194|Minette|Mary|4|1866|Female|White||||Vermont|Yes|Yes||||||||
+32|190|194|Minette|Willie|||Male|White||||Vermont|Yes|Yes||||||||
+33|191|195|Stafford|Sally|74|1796|Female|White|Keeping House|1000|150|Vermont||||||||||
+34|191|195|Stafford|Sarah|44|1826|Female|White|At Home|||Vermont||||||||||
+35|192|196|Siple|Peter|46|1824|Male|White|Farmer|700|200|Vermont|||||||||Yes|
+36|192|196|Siple|Mary|47|1823|Female|White|Keeping House|||Vermont||||||||||
+37|192|196|Siple|Elda|13|1857|Female|White|At School|||Vermont|||||Yes|||||
+38|192|196|Siple|Era|11|1859|Female|White|At School|||Vermont|||||Yes|||||
+39|192|196|Siple|Minnie|8|1862|Female|White|At School|||Vermont|||||Yes|||||
+40|192|196|Siple|Lydia|6|1864|Female|White||||Vermont|||||Yes|||||
+
+
+1|193|197|Wallace|Roswell|60|1810|Male|White|Farm Laborer|||Canada|Yes|Yes|||||||Yes|
+2|193|197|Wallace|Jane|47|1823|Female|White|Keeping House|||Vermont||||||||||
+3|193|197|Wood|George|11|1859|Male|White|At School|||Vermont|||||Yes|||||
+4|194|198|Beach|Henry H|38|1832|Male|White|RR Station Agent|2000|2000|Vermont|||||||||Yes|
+5|194|198|Beach|Sylvia|30|1840|Female|White|Keeping House||1500|Vermont||||||||||
+6|194|198|Beach|Ezra|||Male|White||||Vermont||||||||||
+7|195|199|Leais|Nelson|35|1835|Male|White|Farm Laborer|400|500|Canada|Yes|Yes|||||||Yes|
+8|195|199|Leais|Josephine|33|1837|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+9|195|199|Leais|Mary|14|1856|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+10|195|199|Leais|Louisa|11|1859|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+11|195|199|Leais|Henry|9|1861|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+12|195|199|Leais|Willie|5|1865|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+13|195|199|Leais|Jerry|3|1867|Male|White||||Vermont|Yes|Yes||||||||
+14|195|199|Leais|Alfred|30|1840|Male|White|Farm Laborer|160||Vermont|Yes|Yes|||||||Yes|
+15|195|199|Leais|Selena|||Female|White|Keeping House|||Canada|Yes|Yes||||||||
+16|195|199|Leais|Louisa|4|1866|Female|White||||Vermont||Yes||||||||
+17|196|200|Kimball|Synan|64|1806|Male|White|Farmer|4000|1800|New Hampshire|||||||||Yes|
+18|196|200|Kimball|Phoebe|58|1812|Female|White|Keeping House|||Vermont||||||||||
+19|196|200|Kimball|Noble|23|1847|Male|White|Farm Laborer||200|Vermont|||||||||Yes|
+20|196|200|Kimball|Ann|21|1849|Female|White|At Home|||Vermont||||||||||
+21|197|201|Miller|Jermiah|70|1800|Male|White|Farmer|4000|500|Vermont|||||||||Yes|
+22|197|201|Miller|Catherine|70|1800|Female|White|Keeping House|||New York||||||||||
+23|198|202|Ball|Stephen|51|1819|Male|White|Farmer|18000|3000|Vermont|||||||||Yes|
+24|198|202|Ball|Lydia|34|1836|Female|White|Keeping House|||Vermont||||||||||
+25|198|202|Ball|Wallace|22|1848|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+26|198|202|Ball|Emerson|17|1853|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+27|198|202|Ball|Louisa|21|1849|Female|White|School Teacher|||Vermont||||||||||
+28|198|202|Ball|Ella|19|1851|Female|White|At Home|||Vermont|||||Yes|||||
+29|198|202|Ball|Cora|5|1865|Female|White|At School|||Vermont|||||Yes|||||
+30|198|202|Ball|Hubert|2|1868|Male|White||||Vermont||||||||||
+31|198|202|Jandreau|Rosa|||Female|White|Domestic Servant|||Vermont|Yes|Yes||||||||
+32|199|203|Ball|Ansill|60|1810|Male|White|Farmer|4000|1500|Vermont|||||||||Yes|
+33|199|203|Curler|Lydia|25|1845|Female|White|Keeping House|||Vermont||||||||||
+34|199|203|Brooks|John|30|1840|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+35|199|203|Bragg|John|22|1848|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+36|200|204|Ball|Michael|52|1818|Male|White|Farmer|13000|2800|Vermont|||||||||Yes|
+37|200|204|Ball|Annie|41|1829|Female|White|Keeping House|||Vermont||||||||||
+38|200|204|Ball|Ezra|21|1849|Male|White|At Home|||Vermont|||||||||Yes|
+39|200|204|Ball|George|19|1851|Male|White|At Home|||Vermont|||||Yes|||||
+40|200|204|Ball|Emma|16|1854|Female|White|At Home|||Vermont|||||Yes|||||
+
+
+
+1|200|204|Ball|Wilber|2|1868|Male|White||||Vermont||||||||||
+2||204|Washburn|Emma|22|1848|Female|White|Domestic Servant|||New York||||||||||
+3||205|Huff|John|86|1784|Male|White|Retired Farmer|||New York|||||||||Yes|
+4||205|Huff|Mary|84|1786|Female|White|Keeping House||800|New York||||||||||
+5|201|206|Lamay|Joseph|32|1838|Male|White|Farm Laborer|||Canada|Yes|Yes|||||||Yes|
+6|201|206|Lamay|Sophia|25|1845|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+7|202|207|Gums|Joseph|30|1840|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+8|202|207|Gums|Mary|27|1843|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
+9|202|207|Gums|Mary|4|1866|Female|White||||Vermont|Yes|Yes||||||||
+10|202|207|Gums|Joseph|||Male|White||||Vermont|Yes|Yes||||||||
+11|203|208|Cordeth|Lewis|22|1848|Male|White|Farm Laborer|||Canada|Yes|Yes||Jan|||||Yes|
+12|203|208|Cordeth|Mary|24|1846|Female|White|Keeping House|||Vermont|Yes|Yes||Jan||||||
+13|204|209|Curler|David|48|1822|Male|White|Farm Laborer|500|150|Vermont|||||||||Yes|
+14|204|209|Curler|Roxana|48|1822|Female|White|Keeping House|||Vermont||||||||||
+15|204|209|Curler|Martha|11|1859|Female|White|At School|||Vermont|||||Yes|||||
+16|204|209|Curler|John|8|1862|Male|White|At School|||Vermont|||||Yes|||||
+17|205|210|Gage|Orange|43|1827|Male|White|Farmer|10000|900|Vermont|||||||||Yes|
+18|205|210|Gage|Sarah|37|1833|Female|White|Keeping House|||Vermont||||||||||
+19|205|210|Gage|Clara|5|1865|Female|White||||Vermont||||||||||
+20|205|210|Newton|George|27|1843|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+21|205|210|Valeoay|Josephine|11|1859|Female|White|At School|||Vermont|||||Yes|||||
+22|205|210|Gage|Abigail|73|1797|Female|White|At Home|||Vermont||||||||||
+23|206|211|Valwan|Joseph|43|1827|Male|White|Farm Laborer|150|100|Canada|Yes|Yes||||Yes|Yes||Yes|
+24|206|211|Valwan|Catherine|36|1834|Female|White|Keeping House|||Canada|Yes|Yes|||||Yes|||
+25|206|211|Valwan|Lizzie|17|1853|Female|White|Domestic Servant|||New York|Yes|Yes||||||||
+26|206|211|Valwan|Joseph|15|1855|Male|White|Farm Laborer|||Vermont|Yes|Yes|||Yes|||||
+27|206|211|Valwan|Hattie|13|1857|Female|White|Domestic Servant|||Vermont|Yes|Yes|||Yes|||||
+28|206|211|Valwan|Mary|11|1859|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+29|206|211|Valwan|Willie|10|1860|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+30|206|211|Valwan|Ezra|8|1862|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+31|206|211|Valwan|Della|6|1864|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+32|206|211|Valwan|Freddie|4|1866|Male|White||||Vermont|Yes|Yes||||||||
+33|206|211|Valwan|Josie|||Female|White||||Vermont|Yes|Yes||||||||
+34|207|212|Roberts|Eli|64|1806|Male|White|Farmer|7000|500|Vermont|||||||||Yes|
+35|207|212|Roberts|Nancy|67|1803|Female|White|Keeping House|||Canada||||||||||
+36|207|212|Roberts|Edwin|29|1841|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+37|207|212|Young|Robert|25|1845|Male|White|Brick Maker|450||Canada|Yes|Yes|||||Yes||Yes|
+38|207|212|Ferris|Weldon|19|1851|Male|White|Brick Maker|||Vermont|||||||||Yes|
+39|208|213|Spears|John|37|1833|Male|White|Farmer|1800|250|Vermont|||||||||Yes|
+40|208|213|Spears|Roxie|37|1833|Female|White|Keeping House|||New York||||||||||
+
+
+
+1|208|213|Spears|Charles|16|1854|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+2|208|213|Spears|Edna|9|1861|Female|White|At School|||Vermont|||||Yes|||||
+3|208|213|Spears|Willie|2|1868|Male|White||||Vermont||||||||||
+4|209|214|Come|Willie|38|1832|Male|White|Farm Laborer|||Vermont|Yes|Yes|||||||Yes|
+5|209|214|Come|Almeda|||Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+6|209|214|Come|Willie|9|1861|Male|White|At School|||Vermont|||||Yes|||||
+7|209|214|Come|George|2|1868|Male|White||||Vermont||||||||||
+8|209|214|Powers|Thomas|64|1806|Male|White||||Vermont|Yes|Yes|||||||Yes|
+9|209|214|Powers|Sophia|55|1815|Female|White|At Home|||Canada|Yes|Yes||||||||
+10|209|215|Gage|Daniel|55|1815|Male|White|Farmer|700|100|Vermont|||||||||Yes|
+11|210|216|Duran|William|55|1815|Male|White|Farmer|5000|1000|Vermont|||||||||Yes|
+12|210|216|Duran|Lucinda|44|1826|Female|White|Keeping House|||Vermont||||||||||
+13|210|216|Duran|Mary|10|1860|Female|White|At School|||Vermont|||||Yes|||||
+14|210|216|Duran|Sarah|9|1861|Female|White|At School|||Vermont|||||Yes|||||
+15|210|216|Duran|Freddie|||Male|White||||Vermont||||||||||
+16|210|216|Duran|Ruth|77|1793|Female|White|At Home|||Massachusetts||||||||||
+17|210|216|Jackson|Julius|25|1845|Male|White|Farm Laborer|||New York|||||||||Yes|
+18|211|217|Gage|Joseph|34|1836|Male|White|Farm Laborer||450|Vermont|||||||||Yes|
+19|211|217|Gage|Mary|32|1838|Female|White|Keeping House|||Vermont||||||||||
+20|211|217|Gage|Norman|11|1859|Male|White|At School|||Vermont|||||Yes|||||
+21|211|217|Gage|Lucinda|8|1862|Female|White|At School|||Vermont|||||Yes|||||
+22|211|217|Gage|Chase|80|1790|Male|White|Retired Farmer|2000||Vermont|||||||||Yes|
+23|211|217|Gage|Philana|70|1800|Female|White|At Home|||Vermont||||||||||
+24|212|218|Cluff|Albert|50|1820|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+25|212|218|Cluff|Mary|36|1834|Female|White|Keeping House|||New York||||||||||
+26|212|218|Cluff|Almira|2|1868|Female|White||||Vermont||||||||||
+27|213|219|Gage|Clara|70|1800|Female|White|Keeping House|||Vermont||||||||||
+28|213|219|Collins|Ellen|28|1842|Female|White|At Home|||Vermont||||||||||
+29|213|219|Collins|Eliza|13|1857|Female|White|At School|||Vermont|||||Yes|||||
+30|213|219|Merriam|Albert|17|1853|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+31|213|219|Higby|Loraine|73|1797|Female|White|At Home|||Vermont||||||||||
+32|214|220|Curler|Jesse|44|1826|Male|White|Farmer|2800|700|Vermont|||||||||Yes|
+33|214|220|Curler|Dorette|36|1834|Female|White|Keeping House|||Vermont||||||||||
+34|214|220|Curler|Lunetta|18|1852|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+35|214|220|Curler|Walter|14|1856|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+36|214|220|Curler|Maria|5|1865|Female|White|At School|||Vermont|||||Yes|||||
+37|214|220|Como|William|38|1832|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+38|215|221|Evarts|George|41|1829|Male|White|Farm Laborer||150|Vermont|||||||||Yes|
+39|215|221|Evarts|Jane|37|1833|Female|White|Keeping House|||Vermont||||||||||
+40|215|221|Evarts|Frankie|18|1852|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+
+
+
+1|215|221|Evarts|John|15|1855|Male|White|Farm Laborer|||Vermont|||Yes|||||
+2|215|221|Evarts|Elizabeth|12|1858|Female|White|At School|||Vermont|||Yes|||||
+3|215|221|Evarts|Virginia|8|1862|Female|White|At School|||Vermont|||Yes|||||
+4|215|221|Evarts|Emma|7|1863|Female|White|At School|||Vermont|||Yes|||||
+5|215|221|Evarts|Mary|||Female|White||||Vermont||||||||
+6||221|Preston|William|19|1851|Male|White|Farm Laborer|1000|200|Vermont||||||||
+7|216|222|Wilkins|Joseph|35|1835|Male|White|Farmer|12500|1500|Vermont|||||||Yes|
+8|216|222|Wilkins|Harriet|33|1837|Female|White|Keeping House|||New York||||||||
+9|216|222|Wilkins|Annie|9|1861|Female|White|At School|||Vermont|||Yes|||||
+10|216|222|Wilkins|Daniel|7|1863|Male|White|At School|||Vermont|||Yes|||||
+11|216|222|Stewart|Seldon|61|1809|Male|White|Carpenter|||Vermont|||||||Yes|
+12|217|223|Porter|George W|60|1810|Male|White|Farmer|12000|2500|Vermont|||||||Yes|
+13|217|223|Porter|Julia|60|1810|Female|White|Keeping House|||Pennsylvania||||||||
+14|217|223|Porter|Louisa|23|1847|Female|White|At Home|||Vermont||||||||
+15|217|223|Bragg|Reuben|||Male|White|Farm Laborer|||New York|||Yes|||||
+16|217|223|Stacy|Tuffiela|24|1846|Male|White|Farm Laborer|||New York|||||||Yes|
+17|217|223|Sears|Carrie|16|1854|Female|White|Domestic Servant|||Vermont|||Yes|||||
+18|217|223|Sears|John|15|1855|Male|White|Farm Laborer|||Vermont|||Yes|||||
+19|218|224|Porter|Luther|65|1805|Male|White|Farmer|10000|2000|Vermont|||||||Yes|
+20|218|224|Porter|Toletha|60|1810|Female|White|Keeping House|||Vermont||||||||
+21|218|224|Porter|Wallace|28|1842|Male|White|Farm Laborer|||Vermont||||||||
+22|218|224|Porter|Tolitha|17|1853|Female|White|At Home|||Vermont|||Yes|||||
+23|218|224|Porter|Edward|14|1856|Male|White|At Home|||Vermont|||Yes|||||
+24|218|224|Porter|Elwin|12|1858|Male|White|At Home|||Vermont|||Yes|||||
+25|219|225|Porter|Lutherp|37|1833|Male|White|Farm Laborer|||Vermont|||||||Yes|
+26|219|225|Porter|Lizzie|35|1835|Female|White|Keeping House|||Vermont||||||||
+27|219|225|Porter|Sarah|14|1856|Female|White|At Home|||Vermont|||Yes|||||
+28|219|225|Porter|Harvey|16|1854|Male|White|At Home|||Vermont|||Yes|||||
+29|219|225|Porter|Sibbie|12|1858|Female|White|At School|||Vermont|||Yes|||||
+30|219|225|Porter|Hattie|10|1860|Female|White|At School|||Vermont|||Yes|||||
+31|219|225|Porter|Willie|8|1862|Male|White|At School|||Vermont|||Yes|||||
+32|219|225|Porter|Fannie|||Female|White||||Vermont||||||||
+33|220|226|Kinsland|Abram|67|1803|Male|White|Farmer|16000|2000|New Jersey|||||||Yes|
+34|220|226|Kinsland|Ann|65|1805|Female|White|Keeping House|||New Jersey||||||||
+35|220|226|Kinsland|Tomas|22|1848|Male|White|Farm Laborer|||Vermont|||||||Yes|
+36|220|226|Tupper|Elizabeth|24|1846|Female|White|School Teacher|||Vermont||||||||
+37|221|227|Siple|William|32|1838|Male|White|Farmer|5000|1200|Vermont|||||||Yes|
+38|221|227|Siple|Maria|28|1842|Female|White|Keeping House|||Vermont||||||||
+39|221|227|Siple|Peter|47|1823|Male|White|Farm Laborer|||Vermont|||||||Yes|
+40|221|227|Porter|Luther|42|1828|Male|White|Farm Laborer|||Vermont|||||||Yes|
+
+
+
+
+1|221|227|Porter|Lorette|19|1851|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+2|222|228|Daniel|Henry|28|1842|Male|White|Farmer|3000|800|Canada|Yes|Yes|||||Yes|||
+3|222|228|Daniel|Delia|25|1845|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+4|222|228|Daniel|Delia B|7|1863|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+5|222|228|Daniel|Hattie|2|1868|Female|White||||Vermont|Yes|Yes||||||||
+6|222|228|Daniel|William|5/12||Male|White||||Vermont|Yes|Yes|Nov|||||||
+7|222|228|Daniel|Hartwell|16|1854|Male|White|Farm Laborer|||Canada|Yes|Yes|||Yes||||Yes|
+8|223|229|Hawkins|Homer|30|1840|Male|White|Farmer|9000|1000|Vermont|||||||||Yes|
+9|223|229|Hawkins|Lucy|29|1841|Female|White|Keeping House|||Vermont||||||||||
+10|223|229|Hawkins|Amy|6|1864|Female|White|At School|||Vermont|||||Yes|||||
+11|223|229|Hawkins|James|||Male|White||||Vermont||||||||||
+12|223|229|Jones|Jonas|31|1839|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+13|223|229|Laro|Peter|22|1848|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+14|223|229|Hanks|Joseph|14|1856|Male|White|Farm Laborer|||Vermont|Yes|Yes||||Yes|Yes|||
+15|223|229|Laro|Joseph|8|1862|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+16|224|230|Kinsland|Hiram|41|1829|Male|White|Farmer|8000|1500|Vermont|||||||||Yes|
+17|224|230|Kinsland|Phoeba|29|1841|Female|White|Keeping House|||Vermont||||||||||
+18|224|230|Kinsland|Herbert|6|1864|Male|White|At School|||Vermont|||||Yes|||||
+19|224|230|Kinsland|Jessie|4|1866|Female|White||||Vermont|||||Yes|||||
+20|224|230|Kinsland|not named|1/12||Male|White||||Vermont|||Apr|||||||
+21|224|230|Leais|Joseph|18|1852|Male|White|Farm Laborer|||Vermont||||||||||
+22|224|230|Raymond|Rhoda|45|1825|Female|White|Domestic Servant|||Vermont||||||||||
+23|224|230|Raymond|Fanny|6|1864|Female|White|At School|||Vermont|||||Yes|||||
+24|225|231|Graves|Elijah|45|1825|Male|White|Farmer|6000|1200|Vermont|||||||||Yes|
+25|225|231|Graves|Betsey|33|1837|Female|White|Keeping House|||Vermont||||||||||
+26|225|231|Graves|Agnes|9|1861|Female|White|At School|||Vermont|||||Yes|||||
+27|225|231|Graves|Clara|7|1863|Female|White|At School|||Vermont|||||Yes|||||
+28|225|231|Graves|Lillie|3|1867|Female|White||||Vermont||||||||||
+29|225|231|Conant|William|27|1843|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+30|226|232|Porter|Henry|56|1814|Male|White|Farmer|6000|1200|Vermont|||||||||Yes|
+31|226|232|Porter|Eliza|52|1818|Female|White|Keeping House|||Vermont||||||||||
+32|226|232|Porter|Charles|33|1837|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+33|226|232|Porter|Emma|22|1848|Female|White|At Home|||Vermont||||||||||
+34|226|232|Porter|Lorette|19|1851|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+35|226|232|Porter|Alice|16|1854|Female|White|At Home|||Vermont|||||Yes|||||
+36|226|232|Porter|Willie|12|1858|Male|White|Farm Laborer|||Vermont||||||||||
+37|226|232|Beach|Allen|||Male|White|Farm Laborer|||Vermont||||||||||
+38|227|233|Conant|William|26|1844|Male|White|Farmer|2000|550|Vermont|||||||||Yes|
+39|227|233|Conant|Betsey|60|1810|Female|White|Keeping House|||Vermont||||||||||
+40|227|233|Conant|Louilla|21|1849|Female|White|At Home|||Vermont||||||||||
+
+
+
+1|227|233|Conant|Louisa|24|1846|Female|White|Domestic Servant|||Vermont||||||||||
+2||233|Haswell|Elizabeth|28|1842|Female|White|Dress Maker|||Vermont||||||||||
+3|228|234|Scott|Henry A|46|1824|Male|White|Hotel Keeper|6000|1000|Vermont|||||||||Yes|
+4|228|234|Scott|Agnes|42|1828|Female|White|Keeping House|||Vermont||||||||||
+5|228|234|Bailey|Stephen|24|1846|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+6|228|234|Damas|Julia|18|1852|Female|White|Domestic Servant|||New York||||||||||
+7|228|234|Sweeney|Julia|48|1822|Female|White|Cook|||New York||||||||||
+8|229|235|Booth|Henry A|22|1848|Male|White|Farmer|17500|7500|Vermont|||||||||Yes|
+9|229|235|Brownson|James|40|1830|Male|White|Farm Laborer|||Canada|||||||||Yes|
+10|229|235|Lewis|Annie|34|1836|Female|White|Domestic Servant|||Vermont||||||||||
+11|229|235|Lewis|Ella|10|1860|Female|White|At School|||Vermont|||||Yes|||||
+12|230|236|Bragg|Calvin|62|1808|Male|White|Farmer|10000|1300|New Hampshire|||||||||Yes|
+13|230|236|Bragg|Cynthia|55|1815|Female|White|Keeping House|||Vermont||||||||||
+14|230|236|Bragg|Eliza|61|1809|Female|White|Dress Maker|||Vermont||||||||||
+15|230|236|Battolph|Emeline|15|1855|Female|White|Domestic Servant|||Canada|Yes|Yes|||Yes|||||
+16|231|237|Kellogg|Josiah|46|1824|Male|White|Stone Mason|700|1000|Vermont|||||||||Yes|
+17|231|237|Kellogg|Cynthia|46|1824|Female|White|Keeping House|||Vermont||||||||||
+18|231|237|Kellogg|Cessies|19|1851|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+19|231|237|Kellogg|Truman|17|1853|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+20|231|237|Kellogg|Ella|14|1856|Female|White|At School|||Vermont|||||Yes|||||
+21|231|237|Kellogg|Emma|14|1856|Female|White|At School|||Vermont|||||Yes|||||
+22|231|237|Kellogg|Gorham|11|1859|Male|White|At School|||Vermont|||||Yes|||||
+23|231|237|Kellogg|Flora|8|1862|Female|White|At School|||Vermont||||||||||
+24|232|238|Satterly|Isaac|65|1805|Male|White|Farmer|6000|4000|Vermont|||||||||Yes|
+25|232|238|Satterly|Loraine|56|1814|Female|White|Keeping House|||New York||||||||||
+26|232|238|Robinson|Sarah|17|1853|Female|White|School Teacher|||Vermont|||||Yes|||||
+27|233|239|Satterly|Ralph|40|1830|Male|White|Farmer|10000|2000|Vermont|||||||||Yes|
+28|233|239|Satterly|Loraine|36|1834|Female|White|Keeping House|||Vermont||||||||||
+29|233|239|Satterly|Eva|7|1863|Female|White||||Vermont|||||Yes|||||
+30|233|239|Hurlburt|Phila|65|1805|Female|White|At Home|||Vermont||||||||||
+31|233|239|Hurlburt|Phila|32|1838|Female|White|At Home|||Vermont||||||||||
+32|233|239|Stowe|William|44|1826|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+33|233|239|Stowe|Mary|32|1838|Female|Mulatto|Domestic Servant|||Vermont||||||||||
+34|234|240|Carpenter|John|25|1845|Male|White|Farm Laborer||100|Vermont|||||||||Yes|
+35|234|240|Carpenter|Lucy|22|1848|Female|White|Keeping House|||Vermont||||||||||
+36|234|240|Carpenter|John|4|1866|Male|White|At School|||Vermont|||||Yes|||||
+37|234|240|Carpenter|Julia|3|1867|Female|White|At School|||Vermont|||||Yes|||||
+38|234|240|Carpenter|Mary|2|1868|Female|White||||Vermont||||||||||
+39|234|240|Carpenter|Frank|6/12||Male|White||||Vermont|||Dec|||||||
+40|234|240|Gooka|Delia|37|1833|Female|White|Domestic Servant|||Canada|Yes|Yes||||||||
+
+
+
+
+
+1|234|240|Gooka|Joseph|27|1843|Male|White|Farm Laborer|||Canada|Yes|Yes||||||||
+2|235|241|Keese|Mary|38|1832|Female|White|Keeping House|||New York||||||||||
+3|235|241|Keese|James|40|1830|Male|White|Farm Laborer|700|150|New York|||||||||Yes|
+4|235|241|Keese|William|7|1863|Male|White||||Vermont||||||||||
+5|235|241|Reynolds|Joseph|57|1813|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+6|236|242|Carter|James|93|1777|Male|White|Retired Farmer||100|New Hampshire|||||||||Yes|
+7|236|242|Carter|Harriet|69|1801|Female|White|Keeping House|||New Hampshire||||||||||
+8|236|242|Reynold|Clarissa|12|1858|Female|White|At School|||Vermont|||||Yes|||||
+9|237|243|Birket|Joseph|34|1836|Male|White|Farmer|10000|1500|Vermont|||||||||Yes|
+10|237|243|Birket|Louisa|28|1842|Female|White|Keeping House|||Vermont||||||||||
+11|237|243|Birket|Addie|||Female|White||||Vermont||||||||||
+12|237|243|Reynolds|Edwin|16|1854|Male|White|Farm Laborer|||Vermont|Yes|Yes|||Yes|||||
+13|237|243|King|Nellie|14|1856|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+14|238|244|Field|George|47|1823|Male|White|Ger Merchant Rel|4000|4000|Vermont|||||||||Yes|
+15|238|244|Field|Chestina|28|1842|Female|White|Keeping House||700|Vermont||||||||||
+16|238|244|Field|Isadore|13|1857|Female|White|At Home|||Vermont|||||Yes|||||
+17|238|244|Bell|Alonzo|40|1830|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+18|239|245|Baker|Solomon|42|1828|Male|White|Farm Laborer|1000|500|Vermont|||||||||Yes|
+19|239|245|Baker|Matilda|34|1836|Female|White|Keeping House|||Vermont||||||||||
+20|239|245|Baker|Susan|17|1853|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+21|239|245|Baker|Salomon|14|1856|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+22|239|245|Baker|Charles|13|1857|Male|White|At School|||Vermont|||||Yes|||||
+23|239|245|Baker|Ellen|9|1861|Female|White||||Vermont|||||Yes|||||
+24|239|245|Baker|Eddie|7|1863|Male|White||||Vermont|||||Yes|||||
+25|239|245|Baker|Sarah|1/12||Female|White||||Vermont|||May|||||||
+26|240|246|Tupper|Alva|55|1815|Male|White|Carpenter|3000|150|Vermont|||||||||Yes|
+27|240|246|Tupper|Jane|55|1815|Female|White|Keeping House|||Vermont||||||||||
+28|240|246|Tupper|Lizzie|21|1849|Female|White|School Teacher|||Vermont||||||||||
+29|241|247|Graves|Philemon|45|1825|Male|White|Carpenter||600|Vermont|||||||||Yes|
+30|241|247|Graves|Catherine|40|1830|Female|White|Keeping House|||Vermont||||||||||
+31|241|247|Graves|Laura|16|1854|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+32|241|247|Graves|Julia|13|1857|Female|White|At School|||Vermont|||||Yes|||||
+33|241|247|Graves|James|11|1859|Male|White|At School|||Vermont|||||Yes|||||
+34|241|247|Graves|Edson|9|1861|Male|White|At School|||Vermont|||||Yes|||||
+35|241|247|Graves|Jonas|6|1864|Male|White||||Vermont|||||Yes|||||
+36|241|247|Graves|Flora|3|1867|Female|White||||Vermont||||||||||
+37|241|247|Graves|Mary|6/12||Female|White||||Vermont|||Dec|||||||
+38|242|248|Kingman|Charles|26|1844|Male|White|Cooper|600||New York|||||||||Yes|
+39|242|248|Kingman|Maria|19|1851|Female|White|Keeping House|||Vermont||||||||||
+40|243|249|Lyzott|George|37|1833|Male|White|Painter|||Canada|Yes|Yes|||||||Yes|
+
+
+
+1|243|249|Lyzott|Sooisa|36|1834|Female|White|Keeping House|||Canada||||||||||
+2|243|249|Lyzott|Emma|12|1858|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+3|243|249|Lyzott|Mattie|10|1860|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+4|243|249|Lyzott|Eva|8|1862|Female|White||||Vermont|Yes|Yes|||Yes|||||
+5|243|249|Lyzott|Mina|6|1864|Female|White||||Vermont|Yes|Yes|||Yes|||||
+6|243|249|Lyzott|George|2|1868|Male|White||||Vermont|Yes|Yes|||Yes|||||
+7||249|Chambers|Betsey|69|1801|Female|White|Keeping House|||New Hampshire||||||||||
+8||249|Hoose|Keziah|67|1803|Female|White|At Home|||New York||||||||||
+9|244|250|Beach|Burr|62|1808|Male|White|Farmer|6000|530|Vermont|||||||||Yes|
+10|244|250|Beach|Mary|55|1815|Female|White|Keeping House|||Vermont||||||||||
+11|244|250|Beach|Owen|15|1855|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+12|244|250|Beach|Holden|6|1864|Male|White||||Vermont|||||Yes|||||
+13|244|251|Tucker|Phoebe|58|1812|Female|White|Keeping House|||New York||||||||||
+14|244|251|Sheridan|Annie|19|1851|Female|White|School Teacher|||Vermont||||||||||
+15|245|252|Tift|William|64|1806|Male|White|Shoe Maker|600|200|Vermont|||||||||Yes|
+16|245|252|Tift|Eunice|48|1822|Female|White|Keeping House|||Vermont||||||||||
+17|246|253|Graves|Betsey|60|1810|Female|White|Keeping House|||Vermont||||||||||
+18|246|253|Graves|Pamelia|50|1820|Female|White|At Home|||Vermont||||||||||
+19|246|253|Norris|Nancy|48|1822|Female|White|Milliner|||Vermont||||||||||
+20|247|254|Law|Peter|54|1816|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+21|247|254|Law|Catherine|49|1821|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
+22|247|255|Mineo|Alick|25|1845|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+23|247|255|Mineo|Mary|18|1852|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+24|247|255|Mineo|Ellen|3|1867|Female|White||||Vermont|Yes|||||||||
+25|248|256|Bell|John|48|1822|Male|White|Gen Merchant Ret|3000|3000|Vermont|||||||||Yes|
+26|248|256|Bell|Mary|41|1829|Female|White|Keeping House|||Vermont||||||||||
+27|248|256|Bell|Hattie|13|1857|Female|White|At School|||Vermont|||||Yes|||||
+28|248|256|Bell|George|11|1859|Male|White|At School|||Vermont|||||Yes|||||
+29|248|256|Bell|Edward|3|1867|Male|White||||Vermont||||||||||
+30|248|256|Bell|Mary|1/12||Female|White||||Vermont|||Apr|||||||
+31|248|256|Kingman|Albert|22|1848|Male|White|Clerk Shoe Stone|||Vermont|||||||||Yes|
+32|248|256|Durant|Eliza|46|1824|Female|White|At Home|||Vermont||||||||||
+33|248|256|Durant|Ella|12|1858|Female|White|At School|||Vermont|||||Yes|||||
+34|249|257|Field|Stephen|54|1816|Male|White|Farmer|5000|1000|Vermont|||||||||Yes|
+35|249|257|Field|Eliza|50|1820|Female|White|Keeping House|||Vermont||||||||||
+36|249|257|Field|Edgar|23|1847|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+37|250|258|Booth|Alva|31|1839|Male|White|Retired Farmer|2500|10000|Vermont||||||||||
+38|250|258|Booth|Julia|32|1838|Female|White|Keeping House|||Vermont||||||||||
+39|250|258|Booth|Nellie|8|1862|Female|White|At School|||Vermont|||||Yes|||||
+40|250|258|Booth|Frank|3|1867|Male|White||||Vermont||||||||||
+
+
+
+
+1|250|258|Booth|Sarah|10/12||Female|White||||Vermont|||Aug|||||||
+2|251|259|Fraser|George|72|1798|Male|White|Farmer|2500|500|Vermont|||||||||Yes|
+3|251|259|Fraser|Harriet|68|1802|Female|White|Keeping House|||Vermont||||||||||
+4|251|259|Fraser|Bena|42|1828|Female|White|At Home|||Vermont||||||||||
+5|251|259|Shubert|Susan|15|1855|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+6|251|259|Anderson|Sarah|7|1863|Female|White||||Ireland|Yes|Yes||||||||
+7|252|260|Perry|Hiram|59|1811|Male|White|Farmer|5600|4000|Vermont|||||||||Yes|
+8|252|260|Hurlburt|Phoebe|70|1800|Female|White|At Home|||Vermont||||||||||
+9|252|260|Collins|Emily|34|1836|Female|White|Domestic Servant|||Vermont||||||||||
+10|253|261|Leonard|William|41|1829|Male|White|Retired Farmer|6000|8000|Vermont|||||||||Yes|
+11|253|261|Leonard|Phoebe|41|1829|Female|White|Keeping House|||Vermont||||||||||
+12|253|261|Leonard|Charles|10|1860|Male|White|At School|||Vermont|||||Yes|||||
+13|254|262|Walker|Hiram|57|1813|Male|White|Retired Merchant|1200|10000|New York|||||||||Yes|
+14|254|262|Walker|Paulina|57|1813|Female|White|Keeping House|||Vermont||||||||||
+15|255|263|Ferris|Benjamin|68|1802|Male|White|Farmer|6000|500|Vermont|||||||||Yes|
+16|255|263|Ferris|Mary|67|1803|Female|White|Keeping House|||Vermont||||||||||
+17|255|263|Hurlburt|Harriet|68|1802|Female|White|Domestic Servant|||Vermont||||||||||
+18|256|264|Field|Walker|30|1840|Male|White|Farmer|15000|6000|Vermont|||||||||Yes|
+19|256|264|Field|Carrie|30|1840|Female|White|Keeping House|||Vermont||||||||||
+20|256|264|Field|Cora|7|1863|Female|White|At School|||Vermont|||||Yes|||||
+21|256|264|Field|Ellen|4|1866|Female|White||||Vermont|||||Yes|||||
+22|256|264|Bailey|Martha|32|1838|Female|White|Domestic Servant|||Vermont||||||||||
+23|256|264|Field|Charles|11|1859|Male|White|At School|||Vermont|||||Yes|||||
+24|257|265|Preston|Joseph|31|1839|Male|White|Farm Laborer||500|Vermont|||||||||Yes|
+25|257|265|Preston|Hannah|30|1840|Female|White|Keeping House|||New York||||||||||
+26|257|265|Preston|Emma|11|1859|Female|White|At School|||Vermont|||||Yes|||||
+27|258|266|Tyler|Abram|68|1802|Male|White|Farmer|19000|500|Vermont|||||||||Yes|
+28|258|266|Tyler|Eliza|61|1809|Female|White|Keeping House|||Vermont||||||||||
+29|258|266|Tyler|Robert|13|1857|Male|White|At School|||Vermont|||||Yes|||||
+30|259|267|Joslen|William|72|1798|Male|White|Farmer|2000|4000|Vermont|||||||||Yes|
+31|259|267|Joslen|Lova|59|1811|Female|White|Keeping House|||Vermont||||||||||
+32|259|267|Joslen|Cornelia|32|1838|Female|White|At Home|||Vermont||||||||||
+33|259|267|Joslen|Frank|19|1851|Male|White|Farm Laborer|||Vermont||||||||||
+34|260|268|Tupper|Ira|76|1794|Male|White|Farmer|11000|1500|Vermont|||||||||Yes|
+35|260|268|Tupper|Mary|73|1797|Female|White|Keeping House|||Vermont||||||||||
+36|260|268|Tupper|Absalom|49|1821|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+37|260|268|Tupper|Amanda|48|1822|Female|White|Keeping House|||Vermont||||||||||
+38|260|268|Tupper|Ira|17|1853|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+39|260|268|Tupper|Charles|12|1858|Male|White|At School|||Vermont|||||Yes|||||
+40|260|268|Tupper|Frederick|3|1867|Male|White||||Vermont||||||||||
+
+
+
+
+1||268|Walker|Mary|60|1810|Female|White|At Home|||Vermont||||||||||
+2|261|269|Smith|David|57|1813|Male|White|Farmer|6000|2000|Vermont|||||||||Yes|
+3|261|269|Smith|Sarah|42|1828|Female|White|Keeping House|||Vermont||||||||||
+4|261|269|Smith|Julia|18|1852|Female|White|At Home|||Vermont|||||Yes|||||
+5|261|269|Smith|Josie|13|1857|Female|White|At School|||Vermont|||||Yes|||||
+6|261|269|Saw|Henry|||Male|White|Farm Laborer|||Vermont|Yes|Yes||||Yes|Yes|||
+7|261|269|Lervice|Mary|38|1832|Female|White|Domestic Servant|||Vermont||||||||||
+8|262|270|Garo|Joseph|35|1835|Male|White|Farm Laborer|||Vermont|Yes|Yes|||||||Yes|
+9|262|270|Garo|Mary|33|1837|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+10|262|270|Garo|Joseph|6|1864|Male|White|At School|||Vermont|||||Yes|||||
+11|262|270|Garo|Louisa|4|1866|Female|White||||Vermont||||||||||
+12|262|270|Garo|John|2|1868|Male|White||||Vermont||||||||||
+13|262|270|Smith|Lydia|75|1795|Female|White|At Home|||Vermont||||||||||
+14|263|271|Booth|William|29|1841|Male|White|Farmer|6500|900|Vermont||Yes|||||||Yes|
+15|263|271|Booth|Sophia|54|1816|Female|White|Keeping House|5000|900|England|Yes|Yes||||||||
+16|263|271|Booth|Ellen|23|1847|Female|White|At Home|||Vermont||Yes||||||||
+17|263|271|Booth|Austin|21|1849|Male|White|Farmer|4000|900|Vermont|||||||||Yes|
+18|263|271|Booth|Richard|18|1852|Male|White|At Home|2300||Vermont||||||||||
+19|263|271|Booth|Ada|16|1854|Female|White|At Home|2000||Vermont||||||||||
+20|263|271|Goodrich|Clanik|42|1828|Female|White|Domestic Servant|||Vermont||||||||||
+21|263|271|Halpin|Joseph|56|1814|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+22|263|271|Bond|Nellie|8|1862|Female|White||||Vermont|||||Yes|||||
+23|264|272|Bull|Samuel|28|1842|Male|White|Farmer|18000|3000|Vermont|||||||||Yes|
+24|264|272|Bull|Phoebe|28|1842|Female|White|Keeping House|||Vermont||||||||||
+25|264|272|Laro|Francis|24|1846|Male|White|Farm Laborer|||Vermont|Yes|Yes||||||||
+26|264|272|Martell|Ezel|17|1853|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+27|264|272|Durkin|Rose|18|1852|Female|White|Domestic Servant|||New York||||||||||
+28|265|273|Graves|Laird|75|1795|Male|White|Farm Laborer|600|300|Vermont|||||||||Yes|
+29|265|273|Graves|Polly|70|1800|Female|White|At Home|||Vermont||||||||||
+30|265|273|Graves|Isaac|35|1835|Male|White|Farm Laborer||300|Vermont|||||||||Yes|
+31|265|273|Graves|Alice|29|1841|Female|White|Keeping House|||Vermont||||||||||
+32|265|273|Booth|Janed|65|1805|Male|White|Retired Farmer|||Vermont|||||||||Yes|
+33|266|274|Walker|Zerial|69|1801|Male|White|Farmer|15000|1000|Vermont|||||||||Yes|
+34|266|274|Walker|Margaret|65|1805|Female|White|At Home|||Vermont||||||||||
+35|266|274|Walker|James|31|1839|Male|White|Farm Owner|||Vermont|||||||||Yes|
+36|266|274|Walker|Mary|28|1842|Female|White|Keeping House|||Vermont||||||||||
+37|266|274|Walker|Daisy|2|1868|Female|White||||Vermont||||||||||
+38|266|274|Batter|Michael|24|1846|Male|White|Farm Laborer|||Vermont|Yes|Yes|||||||Yes|
+39|266|274|Darwin|Ellen|19|1851|Female|White|Domestic Servant|||Vermont|Yes||||Yes|||||
+40|267|275|Powers|Artwell|77|1793|Male|White|Farmer|7000|2000|Vermont|||||||||Yes|
+
+
+
+
+1|267|275|Powers|Philana|74|1796|Female|White|Keeping House|||Connecticut||||||||||
+2||275|Tracy|Isabella|21|1849|Female|White|Domestic Servant|||Vermont||||||||||
+3||275|Porter|Arbie|15|1855|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+4|268|276|Graves|Philander|40|1830|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+5|268|276|Graves|Mary|35|1835|Female|White|Keeping House|||Vermont||||||||||
+6|269|277|Gage|Whitney|50|1820|Male|White|Farm Laborer||1000|Vermont|||||||||Yes|
+7|269|277|Gage|Mary|45|1825|Female|White|Keeping House|||Vermont||||||||||
+8|269|277|Gage|Emerson|19|1851|Male|White|Farm Laborer|500|100|Vermont|||||Yes||||Yes|
+9|270|278|Laro|Peter|27|1843|Male|White|Farm Laborer|||Vermont|Yes|Yes|||||||Yes|
+10|270|278|Laro|Linda|||Female|White|Keeping House|||Vermont||||||||||
+11|271|279|Scott|Aaron|63|1807|Male|White|Farm Laborer|600|150|Vermont|||||||||Yes|
+12|271|279|Scott|Pamelia|49|1821|Female|White|Keeping House|||Vermont||||||||||
+13|271|279|Scott|Martha|26|1844|Female|White|At Home|||Vermont||||||||||
+14|271|279|Scott|Ellen|23|1847|Female|White|At Home|||Vermont||||||||||
+15|271|279|Scott|Abbie|21|1849|Female|White|At Home|||Vermont||||||||||
+16|271|279|Scott|William|6|1864|Male|White||||Vermont|||||Yes|||||
+17|272|280|Clarkson|William|47|1823|Male|White|Farm Laborer|||Ireland|Yes|Yes|||||||Yes|
+18|272|280|Clarkson|Sarah|36|1834|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+19|272|280|Clarkson|Sarah A|12|1858|Female|White|At School|||Vermont|Yes||||Yes|||||
+20|272|280|Clarkson|Henry|11|1859|Male|White|At School|||Vermont|Yes||||Yes|||||
+21|273|281|Kingman|Merriam|40|1830|Male|White|Farmer|2000|1000|Vermont|||||||||Yes|
+22|273|281|Kingman|Martha|23|1847|Female|White|Keeping House|||Vermont||||||||||
+23|273|281|Kingman|Ida|7|1863|Female|White||||Vermont|||||Yes|||||
+24|274|282|Laro|Frank|24|1846|Male|White|Farm Laborer|||Vermont|Yes|Yes|||||||Yes|
+25|274|282|Laro|Delphine|23|1847|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+26|274|283|Preston|Russell|27|1843|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+27|274|283|Preston|Ann|||Female|White|Keeping House|||Vermont||||||||||
+28|274|283|Preston|Elmer|4/12||Male|White||||Vermont|||Jan|||||||
+29|275|284|Palmer|Joseph|51|1819|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+30|275|284|Wing|Sarah|40|1830|Female|White|Keeping House|||Vermont||||||||||
+31|276|285|Locke|Joshua|73|1797|Male|White|RR Station Agent|3000|2000|Vermont|||||||||Yes|
+32|276|285|Locke|Jane|56|1814|Female|White|Keeping House|||Vermont||||||||||
+33|276|285|Locke|Lee|24|1846|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+34|276|285|Locke|Samantha|||Female|White|Domestic Servant|||Vermont||||||||||
+35|277|286|Danis|Oliver|26|1844|Male|White|Shoe Maker|||Canada|Yes|Yes|||||||Yes|
+36|277|286|Danis|Mary|23|1847|Female|White|Keeping House|||Vermont||||||||||
+37|277|286|Danis|Mary|6/12||Female|White||||Vermont|Yes||Dec|||||||
+38|278|287|Barnum|John|38|1832|Male|White|Blacksmith||500|New York|||||||||Yes|
+39|278|287|Barnum|Matilda|30|1840|Female|White|Keeping House|||Vermont||||||||||
+40|278|287|Barnum|Libbie|7|1863|Female|White||||Vermont|||||Yes|||||
+
+
+
+
+1|278|287|Barnum|Fannie|||Female|White||||Vermont||||||||||
+2|278|287|Barnum|Hannah|70|1800|Female|White|At Home|||Vermont||||||||||
+3|279|288|Filla|Byron|28|1842|Male|White|Farmer|6000|1000|Vermont|||||||||Yes|
+4|279|288|Filla|Hattie|28|1842|Female|White|Keeping House|||Vermont||||||||||
+5|279|288|Filla|Hosea|4|1866|Male|White||||Vermont||||||||||
+6|279|288|Filla|Mintum|||Female|White||||Vermont||||||||||
+7|279|288|Gale|Charles|25|1845|Male|White|Carpenter||1000|Vermont|||||||||Yes|
+8|279|288|Brooks|Jackson|24|1846|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+9|279|288|Brooks|Mary|||Female|White|Domestic Servant|||Vermont||||||||||
+10|279|289|Russell|Gerry|40|1830|Male|White|Miller||2000|Vermont|||||||||Yes|
+11|279|289|Russell|Mary|38|1832|Female|White|Keeping House|||Vermont||||||||||
+12|279|289|Russell|John|10|1860|Male|White|At School|||Vermont|||||Yes|||||
+13|279|289|Russell|Sarah|7|1863|Female|White||||Vermont|||||Yes|||||
+14|280|290|Danis|Oliver|55|1815|Male|White|Farm Laborer|||Canada|Yes|Yes|||||||Yes|
+15|280|290|Danis|Mary|54|1816|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+16|280|290|Danis|Joseph|15|1855|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+17|280|290|Danis|John|13|1857|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+18|280|290|Danis|Mary|10|1860|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+19|280|290|Danis|Delia|9|1861|Female|White||||Vermont|Yes|Yes|||Yes|||||
+20|280|290|Danis|Louisa|5|1865|Female|White||||Vermont|Yes|Yes|||Yes|||||
+21|281|291|Gale|Edmund|36|1834|Male|White|Farm Laborer||100|Vermont|||||||||Yes|
+22|281|291|Gale|Harriet|29|1841|Female|White|Keeping House|||Vermont||||||||||
+23|281|291|Gale|Hattie|||Female|White||||Vermont||||||||||
+24|281|291|Gale|Lucy|19|1851|Female|White|At Home|||Vermont|||||Yes|||||
+25|282|292|Wing|George|37|1833|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+26|282|292|Wing|Isabel|30|1840|Female|White|Keeping House|||Vermont||||||||||
+27|283|293|Wilson|Curtis|61|1809|Male|White|Carpenter|500|500|Vermont|||||||||Yes|
+28|283|293|Wilson|Sarah|57|1813|Female|White|Keeping House|||Vermont||||||||||
+29|283|293|Wilson|George|26|1844|Male|White|Farm Laborer||500|Vermont|||||||||Yes|
+30|283|293|Wilson|Electa|||Female|White|At Home|||Vermont||||||||||
+31|283|293|Wilson|Isadore|16|1854|Female|White|At School|||Vermont|||||Yes|||||
+32|283|293|Kelly|Sylvester|11|1859|Male|White|At School|||Vermont|||||Yes|||||
+33|283|294|Kelly|Patrick|50|1820|Male|White|Farm Laborer|||Ireland|Yes|Yes|||||||Yes|
+34|283|294|Kelly|Eliza|40|1830|Female|White|Keeping House|||Ireland|Yes|Yes||||||||
+35|283|294|Kelly|Benjamin|11|1859|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+36|283|294|Kelly|Sarah|6|1864|Female|White||||Vermont|Yes|Yes|||Yes|||||
+37|284|295|Lyon|Amzi|39|1831|Male|White|Cong Minster||2000|Ohio|||||||||Yes|
+38|284|295|Lyon|Martha|35|1835|Female|White|Keeping House|15000||Vermont||||||||||
+39|284|295|Lyon|Emma|11|1859|Female|White|At School|||Ohio|||||Yes|||||
+40|284|295|Keese|Benjamin|11|1859|Male|White|At School|||Vermont|||||Yes|||||
+
+
+
+1|284|295|Keese|Ruth|3|1867|Female|White||||Vermont||||||||||
+2||295|Vanderhoof|John|33|1837|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+3||295|Mcdurfee|Jane|16|1854|Female|Mulatto|Domestic Servant|||Vermont|||||Yes|||||
+4|285|296|Parker|Reuben|30|1840|Male|White|Farmer|15000|5000|Vermont|||||||||Yes|
+5|285|296|Parker|Julia|27|1843|Female|White|Keeping House|||Vermont||||||||||
+6|285|296|Parker|Bertram|2|1868|Male|White||||Vermont||||||||||
+7|285|296|Parker|Reuben|73|1797|Male|White|Retired Farmer||10000|Vermont|||||||||Yes|
+8|285|296|Siple|Ermina|||Female|White|Domestic Servant|||Vermont||||||||||
+9|285|296|Ross|Elizabeth|85|1785|Female|White|Not Any|||Vermont||||||Yes|Yes|Deaf Mute||
+10|286|297|Robinson|Rollin|73|1797|Male|White|Farmer|25000|5200|Vermont|||||||||Yes|
+11|286|297|Robinson|Rollin D|37|1833|Male|White|Artist|||Vermont|||||||||Yes|
+12|286|297|Robinson|George|45|1825|Male|White|Farmer|||Vermont|||||||||Yes|
+13|286|297|Griswold|Naomi|58|1812|Female|White|Keeping House||500|Vermont||||||||||
+14|286|297|Aiger|Eliza|16|1854|Female|White|Domestic Servant|||Vermont|Yes|Yes||||||||
+15|287|298|Leonard|William|41|1829|Male|White|Farmer|3100|8000|Vermont|||||||||Yes|
+16|287|298|Leonard|Phoebe|41|1829|Female|White|Keeping House|6000||Vermont||||||||||
+17|287|298|Leonard|Charles|9|1861|Male|White|At School|||Vermont|||||Yes|||||
+18|287|298|Danis|Willie|17|1853|Male|White|Farm Laborer|||Vermont|Yes|Yes||||||||
+19|288|299|Nichol|Robert|35|1835|Male|White|Farm Laborer|||Vermont|Yes|Yes|||||||Yes|
+20|288|299|Nichol|Patty|34|1836|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+21|288|299|Nichol|Phoebe|17|1853|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+22|288|299|Nichol|Amelia|3|1867|Female|White||||Vermont||||||||||
+23|288|299|Nichol|Willie|14|1856|Male|White|At School|||Vermont|||||Yes|||||
+24|288|299|Nichol|Eliza|7|1863|Female|White|At School|||Vermont|||||Yes|||||
+25|288|299|Rice|Delana|24|1846|Female|White|Domestic Servant|||Vermont|Yes|Yes||||||||
+26|289|300|Rogers|Henry|66|1804|Male|White|Farmer|8000|400|Vermont|||||||||Yes|
+27|289|300|Rogers|Susan|56|1814|Female|White|Keeping House|||Vermont||||||||||
+28|289|300|Rogers|Phoebe|33|1837|Female|White|At Home|||Vermont||||||||||
+29|289|300|Niles|Helen|14|1856|Female|White|Domestic Servant|||Vermont||||||||||
+30|290|301|Danis|Oliver|70|1800|Male|White|Farm Laborer||180|Canada|Yes|Yes||||Yes|Yes||Yes|
+31|290|301|Danis|Louisa|68|1802|Female|White|Keeping House|||Canada|Yes|Yes|||||Yes|||
+32|290|301|Danis|Louisa|15|1855|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
+33|290|301|Danis|Henry|18|1852|Male|White|Farm Laborer|||Vermont|Yes|Yes|||Yes|||||
+34|290|301|Danis|Peter|||Male|White|Farm Laborer|||Vermont|Yes|Yes||||||||
+35|290|301|Danis|Moses|22|1848|Male|White|Works In Saw Mill|||Vermont|Yes|Yes|||||||Yes|
+36|291|302|Mumblo|Augustine|46|1824|Male|White|Fisherman||100|Canada|Yes|Yes||||Yes|Yes|||
+37|291|302|Mumblo|Delana|47|1823|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
+38|291|302|Mumblo|Henry|19|1851|Male|White|Farm Laborer|||Canada|Yes|Yes|||||Yes|||
+39|291|302|Mumblo|Francis|17|1853|Male|White|Farm Laborer|||Canada|Yes|Yes|||||Yes|||
+40|291|302|Mumblo|Frances|14|1856|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
+
+
+1|291|302|Mumblo|Sarah|13|1857|Female|White|At Home|||Vermont|Yes|Yes||||||||
+2|291|302|Mumblo|Darris|10|1860|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+3|291|302|Mumblo|Christopher|7|1863|Male|White||||Vermont|Yes|Yes|||Yes|||||
+4|291|302|Mumblo|Julia|5|1865|Female|White||||Vermont|Yes|Yes||||||||
+5|291|302|Mumblo|Lewis|3|1867|Male|White||||Vermont|Yes|Yes||||||||
+6|292|303|Barrow|Peter|60|1810|Male|White|Fisherman|||Canada|Yes|Yes||||Yes|Yes|||
+7|292|303|Barrow|Louisa|59|1811|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
+8|292|303|Barrow|Hector|||Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+9|292|303|Barrow|Napalron|18|1852|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+10|292|303|Barrow|Maria|17|1853|Female|White|At Home|||Canada|Yes|Yes||||Yes|Yes|||
+11|292|303|Barrow|Louisa|13|1857|Female|White|At Home|||Canada|Yes|Yes||||Yes|Yes|||
+12|292|303|Barrow|Antonie|15|1855|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+13|292|303|Barrow|Francis|80|1790|Male|White|Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+14|292|303|Barrow|Marcia|78|1792|Female|White|At Home|||Canada|Yes|Yes||||Yes|Yes|||
+15|293|304|Lucia|Henry|37|1833|Male|White|Farm Laborer||150|Canada|Yes|Yes|||||||Yes|
+16|293|304|Lucia|Maria|37|1833|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+17|293|304|Lucia|Dennis|14|1856|Male|White|Farm Laborer|||Canada|Yes|Yes||||||||
+18|293|304|Lucia|Peter|13|1857|Male|White|Farm Laborer|||Canada|Yes|Yes||||||||
+19|293|304|Lucia|Augustine|11|1859|Male|White|At School|||Canada|Yes|Yes|||Yes|||||
+20|293|304|Lucia|De esting|10|1860|Male|White|At School|||Canada|Yes|Yes|||Yes|||||
+21|293|304|Lucia|Maria|7|1863|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+22|293|304|Lucia|Antonie|5|1865|Male|White||||Vermont|Yes|Yes||||||||
+23|293|304|Lucia|Mary|2|1868|Female|White||||Vermont|Yes|Yes||||||||
+24|293|304|Lucia||2/12||Female|White||||Vermont|Yes|Yes|May|||||||
+25|294|305|St George|Aleck|51|1819|Male|White|Farm Laborer||200|Canada|Yes|Yes||||Yes|Yes|||
+26|294|305|St George|Margaret|49|1821|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
+27|294|305|St George|Ellen|21|1849|Female|White|At Home|||Canada|Yes|Yes||||Yes|Yes|||
+28|294|305|St George|Amelia|19|1851|Female|White|At Home|||Canada|Yes|Yes||||Yes|Yes|||
+29|294|305|St George|Delia|16|1854|Female|White|At Home|||Canada|Yes|Yes||||Yes|Yes|||
+30|294|305|St George|Joseph|15|1855|Male|White|At Home|||Canada|Yes|Yes||||Yes|Yes|||
+31|294|305|St George|John|12|1858|Male|White|At School|||Canada|Yes|Yes|||Yes|||||
+32|294|305|St George|Julius|10|1860|Male|White|At School|||Canada|Yes|Yes|||Yes|||||
+33|294|305|St George|Mary|7|1863|Female|White||||Canada|Yes|Yes|||Yes|||||
+34|294|305|St George|Henry|3|1867|Male|White||||Canada|Yes|Yes||||||||
+35|294|305|St George|Peter|71|1799|Male|White|Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+36|295|306|Lamartine|John|30|1840|Male|White|Farm Laborer|||Canada|Yes|Yes|||||Yes||Yes|
+37|295|306|Lamartine|Julia|28|1842|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+38|295|306|Lamartine|Thomas|10|1860|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+39|295|306|Lamartine|Maria|7|1863|Female|White||||Vermont|Yes|Yes|||Yes|||||
+40|295|306|Lamartine|John|5|1865|Male|White||||Vermont|Yes|Yes|||Yes|||||
+
+
+
+
+1|295|306|Lamartine|Julius|3|1867|Male|White||||Vermont|Yes|Yes||||||||
+2|295|306|Lamartine|Lucy|3/12||Female|White||||Vermont|Yes|Yes|Feb|||||||
+3|296|307|January|Peter|60|1810|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+4|296|307|January|Delia|61|1809|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
+5|296|307|January|Ellen|15|1855|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
+6|296|307|January|Peter|22|1848|Male|White|Farm Laborer|||Canada|Yes|Yes||Dec|||||Yes|
+7|296|307|January|Maria|18|1852|Female|White|Domestic Servant|||Vermont|Yes|Yes||Dec||||||
+8|297|308|Larock|Hector|55|1815|Male|White|Farm Laborer||300|Canada|Yes|Yes|||||||Yes|
+9|297|308|Larock|Margaret|52|1818|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+10|297|308|Larock|Stephen|||Male|White|Farm Laborer|||Vermont|Yes|Yes||||||||
+11|297|308|Larock|Helen|18|1852|Female|White|At Home|||Vermont|Yes|Yes||||||||
+12|297|308|Larock|Louisa|15|1855|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
+13|297|308|Larock|Lucia|13|1857|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+14|297|308|Larock|Alick|79|1791|Male|White|Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+15|297|308|Larock|Ann|77|1793|Female|White|At Home|||Canada|Yes|Yes||||Yes|Yes|||
+16|298|309|St Clair|Peter|45|1825|Male|White|Farm Laborer||150|Canada|Yes|Yes|||||||Yes|
+17|298|309|St Clair|Annie|43|1827|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+18|298|309|St Clair|Oliver|||Male|White|Farm Laborer|||Vermont|Yes|Yes||||||||
+19|298|309|St Clair|Lucy|18|1852|Female|White|Domestic Servant|||Vermont|Yes|Yes||||||||
+20|298|309|St Clair|Peter|16|1854|Male|White|Farm Laborer|||Vermont|Yes|Yes||||||||
+21|298|309|St Clair|Joseph|13|1857|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+22|298|309|St Clair|John|11|1859|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+23|298|309|St Clair|Mary|9|1861|Female|White||||Vermont|Yes|Yes|||Yes|||||
+24|298|309|St Clair|Eliza|6|1864|Female|White||||Vermont|Yes|Yes|||Yes|||||
+25|298|309|St Clair|Amanda|4|1866|Female|White||||Vermont|Yes|Yes||||||||
+26|298|309|St Clair|Annie|||Female|White||||Vermont|Yes|Yes||||||||
+27|298|309|Delano|Tulia|62|1808|Female|White|At Home|||Canada|Yes|Yes||||||||
+28|299|310|Troussean|Raymond|19|1851|Male|White|Farm Laborer||500|Vermont|Yes|||||||||
+29|299|310|Troussean|Mary|18|1852|Female|White|Keeping House|||Vermont||||||||||
+30|299|310|Troussean|Juliette|||Female|White||||Vermont||||||||||
+31|299|310|Troussean|Paul|50|1820|Male|White|Farm Laborer|||Canada|Yes|Yes|||||||Yes|
+32|300|311|Hurlburt|Peter|54|1816|Male|White|Farm Laborer|600|100|Canada|Yes|Yes|||||||Yes|
+33|300|311|Hurlburt|Mary|50|1820|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+34|300|311|Hurlburt|Julia|16|1854|Female|White|Domestic Servant|||Vermont|Yes|Yes|||Yes|||||
+35|300|311|Hurlburt|John|14|1856|Male|White|Farm Laborer|||Vermont|Yes|Yes||||||||
+36|300|311|Hurlburt|Ann|13|1857|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+37|300|311|Hurlburt|Peter|21|1849|Male|White|Farm Laborer|||Vermont|Yes|Yes||Sep|||||Yes|
+38|300|311|Hurlburt|Margaret|19|1851|Female|White|At Home|||Vermont|Yes|Yes||Sep||||||
+39|301|312|Wheeler|John|60|1810|Male|White|Farm Laborer|||Vermont|Yes|Yes|||||||Yes|
+40|301|312|Wheeler|Mary|60|1810|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+
+
+
+1|301|312|Wheeler|Susan|18|1852|Female|White|At Home|||Vermont||||||||||
+2|301|312|Wheeler|Nelson|16|1854|Male|White|Farm Laborer|||Vermont||||||||||
+3|301|312|Wheeler|Sarah|14|1856|Female|White|At Home|||Vermont|||||Yes|||||
+4|302|313|Shadrack|John|42|1828|Male|White|Stone Mason||100|Vermont|Yes|Yes|||||||Yes|
+5|302|313|Shadrack|Maria|40|1830|Female|White|Keeping House|||Vermont||||||||||
+6|302|313|Shadrack|Sarah|16|1854|Female|White|At Home|||Vermont|||||Yes|||||
+7|302|313|Shadrack|Mary|12|1858|Female|White|At School|||Vermont|||||Yes|||||
+8|303|314|Wheeler|Sheldon|50|1820|Male|White|Farmer|6000|4000|Vermont|||||||||Yes|
+9|303|314|Wheeler|Alice|48|1822|Female|White|Keeping House|||Vermont||||||||||
+10|303|314|Wheeler|Edwin|21|1849|Male|White|Farm Laborer||500|Vermont|||||||||Yes|
+11|303|314|Wheeler|Lucy|19|1851|Female|White|School Teacher|||Vermont|||||Yes|||||
+12|303|314|Wheeler|Charles|16|1854|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+13|303|314|Wheeler|Frank|12|1858|Male|White|At School|||Vermont|||||Yes|||||
+14|303|314|Wheeler|Ann|10|1860|Female|White|At School|||Vermont|||||Yes|||||
+15|303|314|Goslow|Henry|35|1835|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+16|303|314|Goslow|Mary|31|1839|Female|White|Domestic Servant|||Vermont||||||||||
+17|304|315|Bostwick|George|36|1834|Male|White|Farmer|6000|1000|Massachusetts|||||||||Yes|
+18|304|315|Bostwick|Margaret|34|1836|Female|White|Keeping House|||Vermont||||||||||
+19|304|315|Bostwick|Helen|12|1858|Female|White|At School|||Vermont|||||Yes|||||
+20|304|315|Bostwick|Frank|10|1860|Male|White|At School|||Vermont|||||Yes|||||
+21|304|315|Bostwick|George|8|1862|Male|White|At School|||Vermont|||||Yes|||||
+22|304|315|Bostwick|Nellie|2|1868|Female|White||||Vermont||||||||||
+23|304|315|Mayo|Sylvester|25|1845|Male|White|Farm Laborer||800|Vermont|||||||||Yes|
+24|304|315|Mayo|Julia|24|1846|Female|White|Domestic Servant|||Vermont||||||||||
+25|305|316|Norton|Abi|60|1810|Male|White|Farmer|1000|450|Vermont||||||Yes|Yes||Yes|
+26|305|316|Norton|Melissa|59|1811|Female|White|Keeping House|||Vermont||||||Yes|Yes|||
+27|305|317|Norton|John|30|1840|Male|White|Farm Laborer||150|Vermont|||||||||Yes|
+28|305|317|Norton|Amanda|26|1844|Female|White|Keeping House|||Vermont||||||||||
+29|305|317|Norton|Clarissa|8|1862|Female|White||||Vermont|||||Yes|||||
+30|305|317|Norton|George|6|1864|Male|White||||Vermont|||||Yes|||||
+31|305|317|Norton|Eben|4|1866|Male|White||||Vermont|||||Yes|||||
+32|305|317|Norton|Lillie|2|1868|Female|White||||Vermont||||||||||
+33|305|317|Norton|Asa|2/12||Male|White||||Vermont|||Mar|||||||
+34|306|318|Bigelow|John|40|1830|Male|White|Farmer|1000|300|Vermont|||||||||Yes|
+35|306|318|Bigelow|Jenicha|39|1831|Female|White|Keeping House|||Vermont||||||||||
+36|306|318|Bigelow|Isa|16|1854|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+37|306|318|Bigelow|Cynthia|14|1856|Female|White|At Home|||Vermont|||||Yes|||||
+38|306|318|Bigelow|Sarah|12|1858|Female|White|At School|||Vermont|||||Yes|||||
+39|306|318|Bigelow|Allen|9|1861|Male|White|At School|||Vermont|||||Yes|||||
+40|306|318|Bigelow|Harriet|6|1864|Female|White||||Vermont|||||Yes|||||
+
+
+1|306|318|Bigelow|Jane|2|1868|Female|White||||Vermont||||||||||
+2||318|Austin|Frank|||Male|White|Farm Laborer|||Vermont|||||||||Yes|
+3|307|319|Hantley|Isaiah|45|1825|Male|White|Farmer|3000|1000|Vermont|||||||||Yes|
+4|307|319|Hantley|Marian|43|1827|Female|White|Keeping House|||Vermont||||||||||
+5|307|319|Hantley|Reuben|16|1854|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+6|307|319|Hantley|Stephen|12|1858|Male|White|At School|||Vermont|||||Yes|||||
+7|307|319|Hantley|Lucy|10|1860|Female|White|At School|||Vermont|||||Yes|||||
+8|307|319|Brown|Julius|21|1849|Male|White|Farm Laborer|||Vermont||||Dec|||||Yes|
+9|307|319|Brown|Alice|19|1851|Female|White|Domestic Servant|||Vermont||||Dec||||||
+10|308|320|Preston|John|32|1838|Male|White|Farmer|6000|1000|Vermont|||||||||Yes|
+11|308|320|Preston|Julia|31|1839|Female|White|Keeping House|||Vermont||||||||||
+12|308|320|Preston|Olive|12|1858|Female|White|At School|||Vermont|||||Yes|||||
+13|308|320|Preston|Charles|9|1861|Male|White|At School|||Vermont|||||Yes|||||
+14|308|320|Preston|Delane|6|1864|Female|White||||Vermont|||||Yes|||||
+15|308|320|Porter|Charles|22|1848|Male|White|Farm Laborer||200|Vermont|||||||||Yes|
+16|308|320|Baker|Jane|16|1854|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+17|309|321|Halleck|Heman|47|1823|Male|White|Farmer|10000|2000|Vermont|||||||||Yes|
+18|309|321|Halleck|Sophia|43|1827|Female|White|Keeping House|||Vermont||||||||||
+19|309|321|Halleck|Jennie|14|1856|Female|White|At Home|||Vermont|||||Yes|||||
+20|309|321|Halleck|Charles|12|1858|Male|White|At Home|||Vermont|||||Yes|||||
+21|309|321|Halleck|Lucy|9|1861|Female|White|At School|||Vermont|||||Yes|||||
+22|309|321|Halleck|Loyal|7|1863|Male|White|At School|||Vermont|||||Yes|||||
+23|309|321|Halleck|Loraine|3|1867|Female|White|Infant|||Vermont||||||||||
+24|309|321|Matt|Allen|24|1846|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+25|309|321|Briggs|Alice|18|1852|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+26|310|322|Daniels|Edward|40|1830|Male|White|Woolen Manufacture|8000|6000|England|Yes|Yes|||||||Yes|
+27|310|322|Daniels|Flavilla|43|1827|Female|White|Keeping House|||Vermont||||||||||
+28|310|322|German|Joseph|40|1830|Male|White|Works In Woolen Mill|||Canada|Yes|Yes|||||||Yes|
+29|310|322|Turville|Henry|22|1848|Male|White|Works In Woolen Mill|||Canada|Yes|Yes|||||||Yes|
+30|310|322|Fallaw|John|19|1851|Male|White|Works In Woolen Mill|||Vermont|||||Yes|||||
+31|310|322|Fallaw|Thomas|17|1853|Male|White|Works In Woolen Mill|||Vermont|||||Yes|||||
+32|310|322|Palmer|George|21|1849|Male|White|Works In Woolen Mill|||Vermont|||||||||Yes|
+33|310|322|Wheeler|Jennie|22|1848|Female|White|Works In Woolen Mill|||Vermont||||||||||
+34|310|322|Wheeler|Addie|16|1854|Female|White|Works In Woolen Mill|||Vermont|||||Yes|||||
+35|310|322|Vanca|Abby|19|1851|Female|White|Domestic Servant|||Vermont|||||Yes|||||
+36|311|323|Martin|Carlos C|50|1820|Male|White|Farmer|6000|6000|Vermont|||||||||Yes|
+37|311|323|Martin|Anna|30|1840|Female|White|Keeping House|||Vermont||||||||||
+38|311|323|Martin|Carlos|4|1866|Male|White||||Vermont||||||||||
+39|311|323|Martin|George|2|1868|Male|White||||Vermont||||||||||
+40|311|323|Martin|Olive|82|1788|Female|White|||600|Vermont||||||||||
+
+
+
+1||323|Northey|Swan|18|1852|Female|White|Keeping House|||Vermont|||||Yes|||||
+2|312|324|Tenney|Thomas|47|1823|Male|White|Farmer|2000|200|Vermont|||||||||Yes|
+3|312|324|Tenney|Mary|36|1834|Female|White|Keeping House|||Vermont||||||||||
+4|312|324|Tenney|Edward|12|1858|Male|White|At School|||Vermont|||||Yes|||||
+5|312|324|Tenney|Louisa|10|1860|Female|White|At School|||Vermont|||||Yes|||||
+6|312|324|Tenney|Calvin|9|1861|Male|White|At School|||Vermont|||||Yes|||||
+7|312|324|Tenney|Julius|6|1864|Male|White||||Vermont|||||Yes|||||
+8|312|324|Tenney|Lettie|5|1865|Female|White||||Vermont|||||Yes|||||
+9|313|325|Follan|Thomas|52|1818|Male|White|Farmer|3000|700|Ireland|Yes|Yes|||||||Yes|
+10|313|325|Follan|James|21|1849|Male|White|Farm Laborer|||Ireland|Yes|Yes|||||||Yes|
+11|313|325|Follan|John|18|1852|Male|White|Farm Laborer|||Vermont|Yes|Yes|||Yes|||||
+12|313|325|Follan|Thomas|16|1854|Male|White|Farm Laborer|||Vermont|Yes|Yes|||Yes|||||
+13|313|325|Follan|Michael|14|1856|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+14|313|325|Follan|Mary|10|1860|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+15|313|325|Dillon|Bridgett|5|1865|Female|White|Keeping House|||Vermont||||||||||
+16|314|326|Mooney|James|38|1832|Male|White|Farmer|9000|800|Ireland|Yes|Yes|||||||Yes|
+17|314|326|Mooney|Ellen|35|1835|Female|White|Keeping House|||Ireland|Yes|Yes||||||||
+18|314|326|Mooney|Ann|14|1856|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+19|314|326|Mooney|Catherine|11|1859|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+20|314|326|Mooney|Mary|9|1861|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+21|314|326|Mooney|Celestia|6|1864|Female|White||||Vermont|Yes|Yes|||Yes|||||
+22|314|326|Mooney|John|3|1867|Male|White||||Vermont|Yes|Yes|||Yes|||||
+23|314|326|Mooney|James|3/12||Male|White||||Vermont|Yes|Yes|Feb|||||||
+24|314|326|Dwyer|Catherine|65|1805|Female|White|At Home|||Ireland|Yes|Yes||||||||
+25|315|327|Miller|Julius|34|1836|Male|White|Farm Laborer||150|Vermont|||||||||Yes|
+26|315|327|Miller|Cynthia|21|1849|Female|White|Keeping House|||Vermont||||||||||
+27|315|327|Miller|Sarah|2|1868|Female|White||||Vermont||||||||||
+28|315|327|Miller|George|3/12||Male|White||||Vermont|||Feb|||||||
+29|316|328|Laclair|Joseph|32|1838|Male|White|Farm Laborer||200|Canada|Yes|Yes||||Yes|Yes|||
+30|316|328|Laclair|Clema|31|1839|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
+31|316|328|Laclair|Francis|55|1815|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
+32|316|328|Laclair|Phoebe|17|1853|Female|White|At Home|||Canada|Yes|Yes||||Yes|Yes|||
+33|317|329|Field|James|30|1840|Male|White|Farmer|5500|1100|Vermont|||||||||Yes|
+34|317|329|Field|Carrie|26|1844|Female|White|Keeping House|||Vermont||||||||||
+35|317|329|Field|Arthur|||Male|White||||Vermont||||||||||
+36|317|329|Manum|Mary|26|1844|Female|White|Domestic Servant|||Vermont||||||||||
+37|317|329|Herrington|Caleb|19|1851|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+38|318|330|Williams|William|51|1819|Male|White|Farmer|5500|900|Vermont|||||||||Yes|
+39|318|330|Williams|Bulah|36|1834|Female|White|Keeping House|||New York||||||||||
+40|318|330|Williams|Pliny|14|1856|Male|White|At Home|||Vermont|||||Yes|||||
+
+
+
+
+1|318|330|Williams|Willie|11|1859|Male|White|At School|||Vermont|||||Yes|||||
+2|319|331|Philemon|Jerry|49|1821|Male|White|Farm Laborer||150|Canada|Yes|Yes||||||||
+3|319|331|Philemon|Eleanor|30|1840|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+4|319|331|Philemon|Lucy|13|1857|Female|White|At School|||Vermont|Yes|Yes|||Yes|||||
+5|319|331|Philemon|Zeb|10|1860|Male|White|At School|||Vermont|Yes|Yes|||Yes|||||
+6|319|331|Philemon|William|8|1862|Male|White||||Vermont|Yes|Yes|||Yes|||||
+7|319|331|Martin|William|3|1867|Male|White||||Vermont|Yes|Yes||||||||
+8|320|332|Fuller|Lewis|48|1822|Male|White|Farmer|15000|2500|Vermont|||||||||Yes|
+9|320|332|Fuller|Nellie|15|1855|Female|White|At School|||Vermont|||||Yes|||||
+10|320|332|Fuller|Gideon|13|1857|Male|White|At School|||Vermont|||||Yes|||||
+11|320|332|Fuller|Hattie|9|1861|Female|White|At School|||Vermont|||||Yes|||||
+12|320|332|Fuller|Lada|4|1866|Female|White||||Vermont||||||||||
+13|320|332|Fuller|Mary|26|1844|Female|White|Keeping House|||Vermont||||||||||
+14|320|332|Herrington|John|25|1845|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+15|321|333|Herrington|Amanda|54|1816|Female|White|Keeping House|||Vermont||||||||||
+16|321|333|Herrington|George|12|1858|Male|White|At School|||Vermont|||||Yes|||||
+17|321|333|Herrington|Cliney|9|1861|Male|White|At School|||Vermont|||||Yes|||||
+18|322|334|Mcomber|Lindley|33|1837|Male|White|Farmer|2000|300|Vermont|||||||||Yes|
+19|322|334|Mcomber|Lydia|34|1836|Female|White|Keeping House|||Vermont||||||||||
+20|322|334|Mcomber|Fred|9|1861|Male|White|At School|||Vermont|||||Yes|||||
+21|322|334|Dakin|Annie|64|1806|Female|White|At Home|||Vermont||||||||||
+22|323|335|Thompson|Benona|56|1814|Male|White|Horse Farrier|5000|500|Vermont|||||||||Yes|
+23|323|335|Thompson|Ann|30|1840|Female|White|Keeping House|||Ireland|Yes|Yes||||||||
+24|323|335|Thompson|John|11|1859|Male|White|At School|||Vermont||Yes|||Yes|||||
+25|323|335|Thompson|George|9|1861|Male|White|At School|||Vermont||Yes|||Yes|||||
+26|323|335|Thompson|Ira|6|1864|Male|White||||Vermont||Yes|||Yes|||||
+27|323|335|Thompson|Willie|3|1867|Male|White||||Vermont||Yes||||||||
+28|323|335|Thompson|Charles|||Male|White||||Vermont||Yes||||||||
+29|324|336|Cloof|Abram|34|1836|Male|White|Carpenter|100|100|Vermont|||||||||Yes|
+30|324|336|Cloof|Sarah|25|Abt 1840|Female|White|Keeping House|||Vermont||||||||||
+31|324|336|Cloof|Amelia|8|1862|Female|White||||Vermont|||||Yes|||||
+32|324|336|Cloof|Sylvester|||Male|White||||Vermont||||||||||
+33|325|337|Hailburt|Abel|47|1823|Male|White|Farm Laborer||850|Vermont|||||||||Yes|
+34|325|337|Hailburt|Celinda|38|1832|Female|White|Keeping House|||Vermont||||||||||
+35|325|337|Hailburt|Sarah|7|1863|Female|White||||Vermont|||||Yes|||||
+36|325|337|Hailburt|Freddie|2|1868|Male|White||||Vermont||||||||||
+37|326|338|Hanks|Anthony|46|1824|Male|White|Farmer|1000|600|Canada|Yes|Yes||||Yes|Yes||Yes|
+38|326|338|Hanks|Hattie|47|1823|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+39|326|338|Hanks|Margaret|||Female|White|Not Any|||Vermont|Yes|Yes||||||||
+40|326|338|Hanks|Alphonso|21|1849|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes||Yes|
+
+
+
+
+
+
+1|326|338|Hanks|Alfred|3|1867|Male|White||||Vermont|Yes|Yes||||||||
+2|326|338|Hanks|Notnarned|1/12||Female|White||||Vermont|Yes|Yes|Apr|||||||
+3|327|339|Blair|Peter|44|1826|Male|White|Farm Laborer||100|Canada|Yes|Yes|||||||Yes|
+4|327|339|Blair|Mary|37|1833|Female|White|Keeping House|||New York|Yes|Yes||||||||
+5|327|339|Blair|Louis|12|1858|Male|White|At School|||Vermont|Yes||||Yes|||||
+6|327|339|Blair|Peter|10|1860|Male|White|At School|||Vermont|Yes||||Yes|||||
+7|327|339|Blair|Mary|8|1862|Female|White|At School|||Vermont|Yes||||Yes|||||
+8|327|339|Blair|Cassie|15|1855|Female|White|At School|||Vermont|Yes||||Yes|||||
+9|327|339|Blair|James|7|1863|Male|White||||Vermont|Yes||||Yes|||||
+10|327|339|Blair|Lena|4|1866|Female|White||||Vermont|Yes|||||||||
+11|327|339|Blair|Amelia|3|1867|Female|White||||Vermont|Yes|||||||||
+12|328|340|Carpenter|Luther|75|1795|Male|White|Farmer|3000|1000|Vermont|||||||||Yes|
+13|328|340|Carpenter|Lydia|56|1814|Female|White|Keeping House|||Vermont||||||||||
+14|328|340|Caringham|Willie|12|1858|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+15|329|341|Cunningham|Albert|28|1842|Male|White|Farm Manager||1000|Vermont|||||||||Yes|
+16|329|341|Cunningham|Alvira|26|1844|Female|White|Keeping House|||Vermont||||||||||
+17|329|341|Cunningham|Julia|2|1868|Female|White||||Vermont||||||||||
+18|329|341|Hazard|Fanny|77|1793|Female|White|Not Any|5000||Vermont||||||||||
+19|329|341|Mason|Frankie|14|1856|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+20|330|342|Comstock|John|28|1842|Male|White|Farm Laborer||200|Vermont|||||||||Yes|
+21|330|342|Comstock|Isabel|27|1843|Female|White|Keeping House|||Vermont||||||||||
+22|330|342|Comstock|Lizzie|2|1868|Female|White||||T||||||||||
+23|331|343|Wing|James|32|1838|Male|White|Farmer|4000|1100|Vermont|||||||||Yes|
+24|331|343|Wing|Amanda|27|1843|Female|White|Keeping House|||Vermont||||||||||
+25|331|343|Wing|Olin|2|1868|Male|White||||Vermont||||||||||
+26|332|344|Wing|Daniel|27|1843|Male|White|Farmer|1000|600|Vermont|||||||||Yes|
+27|332|344|Wing|Isaac|69|1801|Male|White|Retired Farmer||500|Vermont|||||||||Yes|
+28|332|344|Wing|Fanny|65|1805|Female|White|Keeping House|||Vermont||||||||||
+29|333|345|Ball|Henry|24|1846|Male|White|Farmer|500|200|Vermont|||||||||Yes|
+30|333|345|Ball|Homer|22|1848|Male|White|Farmer|500|150|Vermont|||||||||Yes|
+31|333|345|Ball|Emma|18|1852|Female|White|Keeping House|||Vermont||||||||||
+32|334|346|Coursey|Edward|50|1820|Male|White|Farmer|2000|750|Ireland|Yes|Yes|||||||Yes|
+33|334|346|Coursey|Mary|35|1835|Female|White|Keeping House|||Ireland|Yes|Yes||||||||
+34|334|346|Coursey|Margaret|8|1862|Female|White||||Vermont|Yes|Yes|||Yes|||||
+35|334|346|Coursey|John|6|1864|Male|White||||Vermont|Yes|Yes|||Yes|||||
+36|334|346|Coursey|Nellie|4|1866|Female|White||||Vermont|Yes|Yes|||Yes|||||
+37|334|346|Coursey|Edward|||Male|White||||Vermont|Yes|Yes||||||||
+38|335|347|Clark|James|34|1836|Male|White|Farmer|4000|1000|Vermont|Yes|Yes|||||||Yes|
+39|335|347|Clark|Mary|29|1841|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+40|335|347|Clark|Walter|4|1866|Male|White||||Vermont|||||Yes|||||
+
+
+1|335|347|Clark|Charles|2|1868|Male|White||||Vermont||||||||||
+2|335|348|Clark|John|25|1845|Male|White|Farm Laborer|250||Vermont|Yes|Yes|||||||Yes|
+3|335|348|Clark|Maria|26|1844|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+4|336|349|Spencer|George|52|1818|Male|White|Farmer|3000|2000|Vermont|||||||||Yes|
+5|336|349|Spencer|Louisa|49|1821|Female|White|Keeping House|||Vermont||||||||||
+6|336|349|Spencer|Addie|16|1854|Female|White|At School|||Vermont|||||Yes|||||
+7|336|349|Spencer|Libbie|12|1858|Female|White|At School|||Vermont|||||Yes|||||
+8|336|349|Spencer|George|10|1860|Male|White|At School|||Vermont|||||Yes|||||
+
