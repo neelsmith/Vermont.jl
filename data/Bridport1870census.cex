@@ -129,8 +129,6 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|19|19|Hamilton|Chas|45|1825|Male|White|Merchant Ret||15000|Massachusetts|||||||||Yes|
 
 
-
-# Bad data block
 1|19|19|Hamilton|Sarah|36|1834|Female|White|At Home|||Vermont||||||||
 2|19|19|Hamilton|Ashley E|4|1866|Male|White||||Florida||||||||
 3|19|19|Hamilton|Jerome M|3|1867|Male|White||||Vermont||||||||
@@ -170,8 +168,6 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 38|26|25|Burdeau|Prosper|17|1853|Male|White|Farm Laborer|||Canada||||||||
 39|26|25|Wicker|Frederick|11|1859|Male|White||||Vermont||||||||
 40|27|26|Dampey|Lewis|34|1836|Male|White|Farmer|200|500|Canada||||||||
-
-# End bad datablock
 
 
 1|27|23|Dampey|Elizabeth|29|1841|Female|White|Keeping House|||New York|Yes|Yes|||Yes|||||
@@ -854,47 +850,46 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|151|149|Lapham|Elmer|23|1847|Male|White|Farm Laborer|||Vermont||||||||||
 40|151|149|Lapham|Frances|22|1848|Female|White|At Home|||Vermont||||||||||
 
-# Bad data block
-1|151|149|Lapham|George|15|1855|Male|White|At Home|||Vermont|||Yes||||Yes|
-2|152|150|Brooks|Dorastus|41|1829|Male|White|Farmer|8000|2000|New York|||||||Yes|
-3|152|150|Brooks|Catharine|29|1841|Female|White|Keeping House|||New York||||||||
-4|152|150|Brooks|Ellie|3|1867|Female|White||||New York||||||||
-5|152|150|La|Duke|14|1856|Male|White|Farm Laborer|||New York|||Yes|||||
-6|152|150|Prebble|Anna|65|1805|Female|White|At Home|||New York||||||||
-7|152|150|Glidden|Josiah|21|1849|Male|White|Farm Laborer|||New York|||||||Yes|
-8|153|151|Burroughs|James|60|1810|Male|White|Farm Laborer|||New York|||||||Yes|
-9|153|151|Burroughs|Achsa|50|1820|Female|White|Keeping House|||New York||||||||
-10|153|151|Burroughs|Martha|18|1852|Female|White|At Home|||New York||||||||
-11|153|151|Burroughs|Gardner|15|1855|Male|White|At Home|||New York|||Yes|||||
-12|153|151|Burroughs|Willie|10|1860|Male|White|At Home|||New York|||Yes|||||
-14|155|152|Swinton|Henry|35|1835|Male|White|Farmer|1450|300|Vermont|||||||Yes|
-15|155|152|Swinton|Mary J|37|1833|Female|White|Keeping House|||Vermont||||||||
-16|155|152|Swinton|Ida J|12|1858|Female|White|At Home|||Vermont|||Yes|||||
-17|155|152|Swinton|James E|9|1861|Female|White||||Vermont|||Yes|||||
-18|155|152|Swinton|Wiliam|6|1864|Male|White||||Vermont|||Yes|||||
-19|155|152|Swinton|Sidney D|3|1867|Male|White||||Vermont||||||||
-20|155|152|Swinton|Iretta|||Female|White||||Vermont||||||||
-21|156|153|Witherel|John H|28|1842|Male|White|Farmer & Ferry Man|7000|1200|Vermont|||||||Yes|
-22|156|153|Witherel|Anna|23|1847|Female|White|Keeping House|||Vermont||||||||
-23|156|153|Witherel|Gertie S|7/12||Female|White||||Vermont|Nov|||||||
-24|156|153|Mcdaniel|Rose|19|1851|Female|White|Domestic|||New York||||||||
-25|156|153|Harrow|Joseph|17|1853|Female|White|Farm Laborer|||Vermont||||||||
-26|157|154|Stafford|Thomas|37|1833|Male|White|Farm Laborer|||Vermont||||||||
-27|157|154|Stafford|Nancy E|22|1848|Female|White|Keeping House|||Vermont||||||||
-28|157|154|Stafford|Byron|5|1865|Male|White||||Vermont||||||||
-29|157|154|Stafford|Emma J|4|1866|Female|White||||Vermont||||||||
-30|157|154|Stafford|Silas|2|1868|Male|White||||Vermont||||||||
-31|158|155|Willox|Edwin R|29|1841|Male|White|Farmer|7500|1500|Vermont|||||||Yes|
-32|158|155|Willox|Frances E|24|1846|Female|White|Keeping House|||Vermont||||||||
-33|158|155|Willox|Herbert|||Male|White||||Vermont||||||||
-34|158|155|Willox|Philemona|64|1806|Female|White|At Home|||Vermont||||||||
-35|159|156|Stone|Phillip|66|1804|Male|White|Farmer|8900|2800|Vermont|||||||Yes|
-36|159|156|Stone|Julia|50|1820|Female|White|Keeping House|||Vermont||||||||
-37|159|156|Stone|Marshall|28|1842|Male|White|At Home|||Vermont|||||||Yes|
-38|159|156|Stone|Charles|19|1851|Male|White|At Home|||Vermont||||||||
-39|160|157|Merrill|Edward|61|1809|Male|White|Farmer|24000|8000|Vermont|||||||Yes|
-40|160|157|Merrill|Sarah W|53|1817|Female|White|Farmer|||Vermont||||||||
-# End bad data block
+
+1|151|149|Lapham|George|15|1855|Male|White|At Home|||Vermont|||||Yes||||Yes|
+2|152|150|Brooks|Dorastus|41|1829|Male|White|Farmer|8000|2000|New York|||||||||Yes|
+3|152|150|Brooks|Catharine|29|1841|Female|White|Keeping House|||New York||||||||||
+4|152|150|Brooks|Ellie|3|1867|Female|White||||New York||||||||||
+5|152|150|La|Duke|14|1856|Male|White|Farm Laborer|||New York|||||Yes|||||
+6|152|150|Prebble|Anna|65|1805|Female|White|At Home|||New York||||||||||
+7|152|150|Glidden|Josiah|21|1849|Male|White|Farm Laborer|||New York|||||||||Yes|
+8|153|151|Burroughs|James|60|1810|Male|White|Farm Laborer|||New York|||||||||Yes|
+9|153|151|Burroughs|Achsa|50|1820|Female|White|Keeping House|||New York||||||||||
+10|153|151|Burroughs|Martha|18|1852|Female|White|At Home|||New York||||||||||
+11|153|151|Burroughs|Gardner|15|1855|Male|White|At Home|||New York|||||Yes|||||
+12|153|151|Burroughs|Willie|10|1860|Male|White|At Home|||New York|||||Yes|||||
+14|155|152|Swinton|Henry|35|1835|Male|White|Farmer|1450|300|Vermont|||||||||Yes|
+15|155|152|Swinton|Mary J|37|1833|Female|White|Keeping House|||Vermont||||||||||
+16|155|152|Swinton|Ida J|12|1858|Female|White|At Home|||Vermont|||||Yes|||||
+17|155|152|Swinton|James E|9|1861|Female|White||||Vermont|||||Yes|||||
+18|155|152|Swinton|Wiliam|6|1864|Male|White||||Vermont|||||Yes|||||
+19|155|152|Swinton|Sidney D|3|1867|Male|White||||Vermont||||||||||
+20|155|152|Swinton|Iretta|||Female|White||||Vermont||||||||||
+21|156|153|Witherel|John H|28|1842|Male|White|Farmer & Ferry Man|7000|1200|Vermont|||||||||Yes|
+22|156|153|Witherel|Anna|23|1847|Female|White|Keeping House|||Vermont||||||||||
+23|156|153|Witherel|Gertie S|7/12||Female|White||||Vermont|||Nov|||||||
+24|156|153|Mcdaniel|Rose|19|1851|Female|White|Domestic|||New York||||||||||
+25|156|153|Harrow|Joseph|17|1853|Female|White|Farm Laborer|||Vermont||||||||||
+26|157|154|Stafford|Thomas|37|1833|Male|White|Farm Laborer|||Vermont||||||||||
+27|157|154|Stafford|Nancy E|22|1848|Female|White|Keeping House|||Vermont||||||||||
+28|157|154|Stafford|Byron|5|1865|Male|White||||Vermont||||||||||
+29|157|154|Stafford|Emma J|4|1866|Female|White||||Vermont||||||||||
+30|157|154|Stafford|Silas|2|1868|Male|White||||Vermont||||||||||
+31|158|155|Willox|Edwin R|29|1841|Male|White|Farmer|7500|1500|Vermont|||||||||Yes|
+32|158|155|Willox|Frances E|24|1846|Female|White|Keeping House|||Vermont||||||||||
+33|158|155|Willox|Herbert|||Male|White||||Vermont||||||||||
+34|158|155|Willox|Philemona|64|1806|Female|White|At Home|||Vermont||||||||||
+35|159|156|Stone|Phillip|66|1804|Male|White|Farmer|8900|2800|Vermont|||||||||Yes|
+36|159|156|Stone|Julia|50|1820|Female|White|Keeping House|||Vermont||||||||||
+37|159|156|Stone|Marshall|28|1842|Male|White|At Home|||Vermont|||||||||Yes|
+38|159|156|Stone|Charles|19|1851|Male|White|At Home|||Vermont||||||||||
+39|160|157|Merrill|Edward|61|1809|Male|White|Farmer|24000|8000|Vermont|||||||||Yes|
+40|160|157|Merrill|Sarah W|53|1817|Female|White|Farmer|||Vermont||||||||||
 
 
 1|160|157|Merrill|Henry E|25|1845|Male|White||||Vermont|||||||||Yes|
