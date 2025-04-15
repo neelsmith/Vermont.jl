@@ -377,51 +377,47 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|83|84|Pond|Alvin D|55|1815|Male|White|Farmer|6000|1200|Vermont|||||||||Yes|
 
 
-## The following block of data is bad: too few columns.
 
-1|83|84|Pond|Rhoda|50|1820|Female|White|Keeping House|||Vermont||||||||
-2|83|84|Pond|Eugene A|27|1843|Male|White|Farmer|||Vermont|||||||Yes|
-3|83|84|Pond|Charlott|34|1836|Female|White|Keeping House|||Vermont||||||||
-4|83|84|Pond|Mary|15|1855|Female|White|Teaching School|||Vermont|||Yes|||||
-5|83|84|Pond|George D|12|1858|Male|White|At Home|||Vermont|||Yes|||||
-6|83|84|Pond|Cassius E|10/12|1869|Male|White||||Vermont||Aug||||||
-7||84|Merritt|Emma|9|1861|Female|White||||Vermont|||Yes|||||
-8|84|85|Day|Judson R|32|1838|Male|White|Farmer|8000|2000|Vermont|||||||Yes|
-9|84|85|Day|Lucy E|33|1837|Female|White|Keeping House|||Vermont||||||||
-10|84|85|Day|Clara B|9|1861|Female|White||||Vermont|||Yes|||||
-11|84|85|Day|Willie A|6|1864|Male|White||||Vermont|||Yes|||||
-12|84|85|Killde|Daniel|19|1851|Male|White|Farm Laborer|||Vermont||||||||
-13|84|85|Day|Ester|58|1812|Female|White||||Vermont||||||||
-14|84|85|Hanks|Gordon C|30|1840|Male|White|Farmer|8000|1600|Vermont|||||||Yes|
-15|84|85|Hanks|Rachel M|55|1815|Female|White|Keeping House||1000|Vermont||||||||
-16|84|85|Day|George H|35|1835|Male|White|Farmer|||Vermont|||||||Yes|
-17|84|85|Day|Wealthy M|36|1834|Female|White|Keeping House|||Vermont||||||||
-18|85|86|Dayton|Ira H|55|1815|Male|White|Farmer|800|257|Vermont|||||||Yes|
-19|85|86|Dayton|Dawida|49|1821|Female|White|Keeping House|||Vermont||||||||
-20|85|86|Dayton|Leslie W|16|1854|Male|White|Farm Laborer|||Vermont|||Yes|||||
-21|85|86|Dayton|Ada J|14|1856|Female|White|At Home|||Vermont|||Yes|||||
-22|85|86|Dayton|Ida A|12|1858|Female|White|At Home|||Vermont|||Yes|||||
-23|85|86|Dayton|Edwin F|10|1860|Male|White||||Vermont|||Yes|||||
-24|86|87|Kent|Philander|48|1822|Male|White|Farmer|3800|1000|New York|||||||Yes|
-25|86|87|Kent|Calvin|41|1829|Male|White|Farmer|||New York|||||||Yes|
-26|86|87|Kent|Philena|51|1819|Female|White|Keeping House|||New York||||||||
-27|86|87|Kent|Emily|40|1830|Female|White|Keeping House|||New York||||||||
-28|86|87|Kent|Zora|83|1787|Male|White|Retired Farmer|||New York|||||||Yes|
-29|87|88|Goff|Roxana|63|1807|Female|White|Keeping House|||Vermont||||||||
-30|87|88|Goff|Silas M|39|1831|Male|White|Carpenter|||Vermont|||||||Yes|
-31|88|89|Fanner|Samuel|46|1824|Male|White|Farmer|2000|1200|Vermont|||||||Yes|
-32|88|89|Fanner|Lucinda|51|1819|Female|White|Keeping House|||Vermont||||||||
-33|88|89|Clair|Ettie|9|1861|Female|White||||Vermont|||Yes|||||
-34|89|90|Martin|Valentin|28|1842|Male|White|Farm Laborer|||Vermont|||||||Yes|
-35|89|90|Martin|Elizabeth|28|1842|Female|White|Keeping House|||New York||||||||
-36|89|90|Martin|Nellie|7|1863|Female|White||||New York|||Yes|||||
-37|89|90|Martin|Lalon|6|1864|Male|White||||New York|||Yes|||||
-38|89|90|Martin|Olin|4|1866|Female|White||||Vermont|||Yes|||||
-39|89|90|Martin|Orlin|11/12||Male|White||||Vermont|Jul|||||||
-40|90|91|Norton|Allen S|32|1838|Male|White|Mason|300|150|Vermont|||||||Yes|
-
-## End bad block
-
+1|83|84|Pond|Rhoda|50|1820|Female|White|Keeping House|||Vermont||||||||||
+2|83|84|Pond|Eugene A|27|1843|Male|White|Farmer|||Vermont|||||||||Yes|
+3|83|84|Pond|Charlott|34|1836|Female|White|Keeping House|||Vermont||||||||||
+4|83|84|Pond|Mary|15|1855|Female|White|Teaching School|||Vermont|||||Yes|||||
+5|83|84|Pond|George D|12|1858|Male|White|At Home|||Vermont|||||Yes|||||
+6|83|84|Pond|Cassius E|10/12|1869|Male|White||||Vermont||||Aug||||||
+7|83|84|Merritt|Emma|9|1861|Female|White||||Vermont|||||Yes|||||
+8|84|85|Day|Judson R|32|1838|Male|White|Farmer|8000|2000|Vermont|||||||||Yes|
+9|84|85|Day|Lucy E|33|1837|Female|White|Keeping House|||Vermont||||||||||
+10|84|85|Day|Clara B|9|1861|Female|White||||Vermont|||||Yes|||||
+11|84|85|Day|Willie A|6|1864|Male|White||||Vermont|||||Yes|||||
+12|84|85|Killde|Daniel|19|1851|Male|White|Farm Laborer|||Vermont||||||||||
+13|84|85|Day|Ester|58|1812|Female|White||||Vermont||||||||||
+14|84|85|Hanks|Gordon C|30|1840|Male|White|Farmer|8000|1600|Vermont|||||||||Yes|
+15|84|85|Hanks|Rachel M|55|1815|Female|White|Keeping House||1000|Vermont||||||||||
+16|84|85|Day|George H|35|1835|Male|White|Farmer|||Vermont|||||||||Yes|
+17|84|85|Day|Wealthy M|36|1834|Female|White|Keeping House|||Vermont||||||||||
+18|85|86|Dayton|Ira H|55|1815|Male|White|Farmer|800|257|Vermont|||||||||Yes|
+19|85|86|Dayton|Dawida|49|1821|Female|White|Keeping House|||Vermont||||||||||
+20|85|86|Dayton|Leslie W|16|1854|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+21|85|86|Dayton|Ada J|14|1856|Female|White|At Home|||Vermont|||||Yes|||||
+22|85|86|Dayton|Ida A|12|1858|Female|White|At Home|||Vermont|||||Yes|||||
+23|85|86|Dayton|Edwin F|10|1860|Male|White||||Vermont|||||Yes|||||
+24|86|87|Kent|Philander|48|1822|Male|White|Farmer|3800|1000|New York|||||||||Yes|
+25|86|87|Kent|Calvin|41|1829|Male|White|Farmer|||New York|||||||||Yes|
+26|86|87|Kent|Philena|51|1819|Female|White|Keeping House|||New York||||||||||
+27|86|87|Kent|Emily|40|1830|Female|White|Keeping House|||New York||||||||||
+28|86|87|Kent|Zora|83|1787|Male|White|Retired Farmer|||New York|||||||||Yes|
+29|87|88|Goff|Roxana|63|1807|Female|White|Keeping House|||Vermont||||||||||
+30|87|88|Goff|Silas M|39|1831|Male|White|Carpenter|||Vermont|||||||||Yes|
+31|88|89|Fanner|Samuel|46|1824|Male|White|Farmer|2000|1200|Vermont|||||||||Yes|
+32|88|89|Fanner|Lucinda|51|1819|Female|White|Keeping House|||Vermont||||||||||
+33|88|89|Clair|Ettie|9|1861|Female|White||||Vermont|||||Yes|||||
+34|89|90|Martin|Valentin|28|1842|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+35|89|90|Martin|Elizabeth|28|1842|Female|White|Keeping House|||New York||||||||||
+36|89|90|Martin|Nellie|7|1863|Female|White||||New York|||||Yes|||||
+37|89|90|Martin|Lalon|6|1864|Male|White||||New York|||||Yes|||||
+38|89|90|Martin|Olin|4|1866|Female|White||||Vermont|||||Yes|||||
+39|89|90|Martin|Orlin|11/12||Male|White||||Vermont|||Jul|||||||
+40|90|91|Norton|Allen S|32|1838|Male|White|Mason|300|150|Vermont|||||||||Yes|
 
 1|90|91|Norton|Viola|25|1845|Female|White|Keeping House|||New York||||||||||
 2|90|91|Norton|Alice V|5|1865|Female|White||||Vermont|||||Yes|||||
