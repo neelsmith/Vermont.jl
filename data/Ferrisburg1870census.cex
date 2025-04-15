@@ -217,8 +217,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 1|40|42|Palma|Abbie|9|1861|Female|White||||Vermont||||||||||
-2||42|Norton|Meaad|67|1803|Male|White|Retired Farmer|20000|8000|Vermont|||||||||Yes|
-3||42|Norton|Lucy|55|1815|Female|White|At Home|||Vermont||||||||||
+2|40|42|Norton|Meaad|67|1803|Male|White|Retired Farmer|20000|8000|Vermont|||||||||Yes|
+3|40|42|Norton|Lucy|55|1815|Female|White|At Home|||Vermont||||||||||
 4|41|43|Crane|Harvey|36|1834|Male|White|Physician|10000|3000|Vermont|||||||||Yes|
 5|41|43|King|Arthur|22|1848|Male|White|Farm Laborer|||Canada|Yes|Yes|||||||Yes|
 6|41|43|Cronk|Henry|16|1854|Male|White|Farm Laborer|||Vermont|||||Yes|||||
