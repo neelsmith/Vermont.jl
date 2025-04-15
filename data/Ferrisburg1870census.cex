@@ -474,9 +474,9 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|87|89|Allen|Hattie|12|1858|Female|White|At School|||Vermont||Yes|||Yes|||||
 
 
-# Begin bad block
+# Check foreign parents!
 
-1|87|89|Allen|Carrie|10|1860|Female|White|At School|||Vermont|Yes|||Yes|||||
+1|87|89|Allen|Carrie|10|1860|Female|White|At School|||Vermont||Yes|||Yes|||||
 2|87|89|Allen|Frank|6|1864|Male|White||||Vermont|Yes|||Yes|||||
 3|87|89|Allen|Leona|4|1866|Female|White||||Vermont|Yes||||||||
 4|87|89|Allen|Eddie|3/12||Male|White||||Vermont|Yes|Feb|||||||
@@ -512,10 +512,10 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 34|93|95|Allen|Hadiah|49|1821|Male|White|Farmer|4000|1000|Vermont||||||||Yes|
 35|93|95|Allen|Helen|39|1831|Female|White|Keeping House|||Vermont|||||||||
 36|93|95|Allen|Sarah|||Female|White||||Vermont|||||||||
-37|93|95|Allen|Carrie|8|1862|Female|White|At School||500|Vermont||||Yes|||||
-38|94|96|Hatch|Charles|45|1825|Male|White|Farmer|6000|1300|Vermont||||||||Yes|
-39|94|96|Hatch|Cordelia|42|1828|Female|White|Keeping House|||Vermont|||||||||
-40|95|97|Camel|Samuel|45|1825|Male|White|Farmer|7000|1200|Vermont||||||||Yes|
+37|93|95|Allen|Carrie|8|1862|Female|White|At School||500|Vermont|||||Yes|||||
+38|94|96|Hatch|Charles|45|1825|Male|White|Farmer|6000|1300|Vermont|||||||||Yes|
+39|94|96|Hatch|Cordelia|42|1828|Female|White|Keeping House|||Vermont||||||||||
+40|95|97|Camel|Samuel|45|1825|Male|White|Farmer|7000|1200|Vermont|||||||||Yes|
 
 # end bad block
 
