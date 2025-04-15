@@ -109,93 +109,90 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|28|28|Hoyt|Loyal W|4|1866|Male|White|At Home|||Vermont|||||Yes|||||
 
 
-# Bad data block.
 
-1||28|Curtis|Natio|22|1848|Female|White|At Home|||Vermont||||||||
-2||28|Curtis|Hela|18|1852|Female|White|At Home|||Vermont||||||||
-3|29|29|Harris|Asa|62|1808|Male|White|Farmer|||New York|||||||Yes|
-4|29|29|Harris|Hannah|59|1811|Female|White|Keeping House|||Vermont||||||||
-5|29|29|Harris|Fanny E|||Female|White|At Home|||New York||||||||
-6|30|30|Stonur|Sarah|76|1794|Female|White|Keeping House|400||Vermont||||||||
-7|30|30|Igo|Rachel|78|1792|Female|White|Pauper|||New York||||||||
-8|31|31|Holcomb|Groard|38|1832|Male|White|Carpenter|1000||Vermont|||||||Yes|
-9|31|31|Holcomb|Oliver|42|1828|Female|White|Keeping House|||Vermont||||||||
-10|31|31|Holcomb|Frank|18|1852|Male|White|At Home|||Vermont|||Yes|||||
-11|32|32|Baker|Albert|34|1836|Male|White|Painter|||New York|||||||Yes|
-12|32|32|Baker|Elizabeth|21|1849|Female|White|Keeping House|||Vermont||||||||
-13|33|33|Hopkins|Sarah|60|1810|Female|White|Keeping House|1000||Vermont||||||||
-14|33|33|Ferris|Francis|50|1820|Female|White|Keeping House|||Vermont||||||||
-15|34|34|Gains|Bithuel S|60|1810|Male|White|Farmer|30000|3000|Vermont|||||||Yes|
-16|34|34|Gains|Hopkins F|27|1843|Male|White|Farmer|||Vermont|||||||Yes|
-17|34|34|Gains|Lottie J|26|1844|Female|White|Keeping House|||New York||||||||
-18|34|34|Tappan|Louida|53|1817|Female|White|||2500|Vermont||||||||
-19|34|34|Walkins|Evangeline|16|1854|Female|White|Domestic Servt|||New York||||||||
-20|34|34|Warner|Beal|36|1834|Male|White|Farm Laborer|800|200|Vermont|||||||Yes|
-21|34|34|Corum|Mayre|17|1853|Male|White|Farm Laborer|||New York||||||||
-22|35|35|Stonus|Primus|70|1800|Male|Black||300||Vermont||||||||
-23|35|35|Stonus|Anna|48|1822|Female|Black|Keeping House|||Vermont||||||||
-24|35|35|Stonus|Jane|23|1847|Female|Black|At Home|||Vermont||||||||
-25|35|35|Stonus|Robert|||Male|Black|At Home|||Vermont||||||||
-26|35|35|Stonus|Mary|10|1860|Female|Black||||Vermont||||||||
-27|35|35|Stonus|Charles|4|1866|Male|Black||||Vermont||||||||
-28|36|36|Allen|Henry|55|1815|Male|White|Farmer|25000|2000|Vermont|||||||Yes|
-29|36|36|Allen|Matilda|54|1816|Female|White|Keeping House|||Vermont||||||||
-30|36|36|Allen|Benjaman|30|1840|Male|White|Farm Laborer|||Vermont|||||||Yes|
-31|36|36|Allen|Betsey|28|1842|Female|White|At Home|||Vermont||||||||
-32|36|36|Allen|Obediah|26|1844|Male|White|Farm Laborer|||Vermont|||||||Yes|
-33|36|36|Allen|Electa|||Female|White|At Home|||Vermont||||||||
-34|36|36|Jones|Eddie|16|1854|Male|White|Farm Laborer|||Vermont||||||||
-35|37|37|Perry|Henry|31|1839|Male|White|Farm Laborer|||New York|||||||Yes|
-36|37|37|Perry|Cyrena B|28|1842|Female|White|Keeping House|||Vermont||||||||
-37|37|37|Perry|Ida|9|1861|Female|White||||Vermont|||Yes|||||
-38|37|37|Perry|Richard H|3|1867|Male|White||||Vermont||||||||
-39|37|37|Perry|Sheridan|4/12||Male|White||||Vermont|Oct|||||||
-40|38|38|Towsley|Norman|54|1816|Male|White|Physician|2800|7000|Vermont|||||||Yes|
 
-#End bad data block
+1|28|28|Curtis|Natio|22|1848|Female|White|At Home|||Vermont||||||||||
+2|28|28|Curtis|Hela|18|1852|Female|White|At Home|||Vermont||||||||||
+3|29|29|Harris|Asa|62|1808|Male|White|Farmer|||New York|||||||||Yes|
+4|29|29|Harris|Hannah|59|1811|Female|White|Keeping House|||Vermont||||||||||
+5|29|29|Harris|Fanny E|||Female|White|At Home|||New York||||||||||
+6|30|30|Stonur|Sarah|76|1794|Female|White|Keeping House|400||Vermont||||||||||
+7|30|30|Igo|Rachel|78|1792|Female|White|Pauper|||New York||||||||||
+8|31|31|Holcomb|Groard|38|1832|Male|White|Carpenter|1000||Vermont|||||||||Yes|
+9|31|31|Holcomb|Oliver|42|1828|Female|White|Keeping House|||Vermont||||||||||
+10|31|31|Holcomb|Frank|18|1852|Male|White|At Home|||Vermont|||||Yes|||||
+11|32|32|Baker|Albert|34|1836|Male|White|Painter|||New York|||||||||Yes|
+12|32|32|Baker|Elizabeth|21|1849|Female|White|Keeping House|||Vermont||||||||||
+13|33|33|Hopkins|Sarah|60|1810|Female|White|Keeping House|1000||Vermont||||||||||
+14|33|33|Ferris|Francis|50|1820|Female|White|Keeping House|||Vermont||||||||||
+15|34|34|Gains|Bithuel S|60|1810|Male|White|Farmer|30000|3000|Vermont|||||||||Yes|
+16|34|34|Gains|Hopkins F|27|1843|Male|White|Farmer|||Vermont|||||||||Yes|
+17|34|34|Gains|Lottie J|26|1844|Female|White|Keeping House|||New York||||||||||
+18|34|34|Tappan|Louida|53|1817|Female|White|||2500|Vermont||||||||||
+19|34|34|Walkins|Evangeline|16|1854|Female|White|Domestic Servt|||New York||||||||||
+20|34|34|Warner|Beal|36|1834|Male|White|Farm Laborer|800|200|Vermont|||||||||Yes|
+21|34|34|Corum|Mayre|17|1853|Male|White|Farm Laborer|||New York||||||||||
+22|35|35|Stonus|Primus|70|1800|Male|Black||300||Vermont||||||||||
+23|35|35|Stonus|Anna|48|1822|Female|Black|Keeping House|||Vermont||||||||||
+24|35|35|Stonus|Jane|23|1847|Female|Black|At Home|||Vermont||||||||||
+25|35|35|Stonus|Robert|||Male|Black|At Home|||Vermont||||||||||
+26|35|35|Stonus|Mary|10|1860|Female|Black||||Vermont||||||||||
+27|35|35|Stonus|Charles|4|1866|Male|Black||||Vermont||||||||||
+28|36|36|Allen|Henry|55|1815|Male|White|Farmer|25000|2000|Vermont|||||||||Yes|
+29|36|36|Allen|Matilda|54|1816|Female|White|Keeping House|||Vermont||||||||||
+30|36|36|Allen|Benjaman|30|1840|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+31|36|36|Allen|Betsey|28|1842|Female|White|At Home|||Vermont||||||||||
+32|36|36|Allen|Obediah|26|1844|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+33|36|36|Allen|Electa|||Female|White|At Home|||Vermont||||||||||
+34|36|36|Jones|Eddie|16|1854|Male|White|Farm Laborer|||Vermont||||||||||
+35|37|37|Perry|Henry|31|1839|Male|White|Farm Laborer|||New York|||||||||Yes|
+36|37|37|Perry|Cyrena B|28|1842|Female|White|Keeping House|||Vermont||||||||||
+37|37|37|Perry|Ida|9|1861|Female|White||||Vermont|||||Yes|||||
+38|37|37|Perry|Richard H|3|1867|Male|White||||Vermont||||||||||
+39|37|37|Perry|Sheridan|4/12||Male|White||||Vermont|||Oct|||||||
+40|38|38|Towsley|Norman|54|1816|Male|White|Physician|2800|7000|Vermont|||||||||Yes|
 
-# Bad data block
-1|38|38|Towsley|Betsey E|46|1824|Female|White|Keeping House|||Vermont||||||||
-2|38|38|Towsley|Harry|11|1859|Male|White||||Vermont|||Yes|||||
-3||38|Gaze|Emily|40|1830|Female|White|Domestic Servant||400|Vermont||||||||
-4|39|39|Chapin|Solly|68|1802|Female|White|Keeping House||200|Vermont||||||||
-5|39|39|Trask|Delia|45|1825|Female|White|Keeping House|||Vermont||||||||
-6|39|39|Trask|Viola|15|1855|Female|White|At Home|||Vermont|||Yes|||||
-7|39|39|Trask|Emck|8|1862|Male|White|At Home|||Vermont|||Yes|||||
-8|39|39|Trask|Clara|6|1864|Female|White|At Home|||Vermont|||Yes|||||
-9|40|40|Kent|Hirani|58|1812|Male|White|Farmer|1680|600|Vermont|||||||Yes|
-10|40|40|Kent|Delia|50|1820|Female|White|Keeping House|||Vermont||||||||
-11|41|41|Parker|George H|29|1841|Male|White|Clergyman||250|Vermont|||||||Yes|
-12|41|41|Parker|Arvilla D|26|1844|Female|White|Keeping House|||Vermont||||||||
-13|41|41|Parker|Ralph G|3|1867|Male|White||||Vermont||||||||
-14|41|41|Parker|Juia E|4/12||Female|White||||Vermont|Dec|||||||
-16|43|42|Rogers|Samuel|43|1827|Male|White|Farmer & Engineer On Steam Boat|4500||Vermont|||||||Yes|
-17|43|42|Rogers|Mary E|36|1834|Female|White|Keeping House|||Vermont||||||||
-18|43|42|Rogers|Day|8|1862|Male|White||||Vermont|||Yes|||||
-19|43|42|Rogers|Samuel H|2|1868|Male|White||||Vermont||||||||
-20|43|42|Allen|George W|25|1845|Male|White|Farm Laborer|||Vermont|||||||Yes|
-21|43|42|Allen|June|23|1847|Female|White|Keeping House|||Vermont||||||||
-22|44|43|Spaulding|Isaac S|41|1829|Male|White|Farmer|4500|2370|Vermont|||||||Yes|
-23|44|43|Spaulding|Jennett E|36|1834|Female|White|Keeping House|||Vermont||||||||
-24|44|43|Spaulding|Wilbur|12|1858|Male|White|At Home|||Vermont|||Yes|||||
-25|44|43|Spaulding|Ella|12|1858|Female|White|At Home|||Vermont|||Yes|||||
-26|44|43|Spaulding|Loyal|9|1861|Male|White|At Home|||Vermont|||Yes|||||
-27|44|43|Spaulding|Lucy|7|1863|Female|White||||Vermont|||Yes|||||
-28|44|43|Spaulding|Julia|5|1865|Female|White||||Vermont|||Yes|||||
-29|44|43|Spaulding|John|2|1868|Male|White||||Vermont||||||||
-30|44|43|Spaulding|Pheba|75|1795|Female|White||||Vermont||||||||
-31|45|44|Haton|Warren|58|1812|Male|White|Farmer|||Vermont|||||||Yes|
-32|45|44|Haton|Pheba|53|1817|Female|White|Keeping House|||Vermont||||||||
-33|45|44|Haton|Ryland|14|1856|Male|White|At Home|||Vermont|||Yes|||||
-34|45|44|Haton|George M|11|1859|Male|White|At Home|||Vermont|||Yes|||||
-35|46|45|Torry|James D|53|1817|Male|White|Farmer|4800|1200|Vermont|||||||Yes|
-36|46|45|Torry|Eunice|52|1818|Female|White|Keeping House|||Vermont||||||||
-37|46|45|Torry|Pheba|21|1849|Female|White|At Home|||Vermont||||||||
-38|46|45|Torry|Charles|||Male|White|At Home|||Vermont|||Yes|||||
-39|46|45|Torry|Edgar|17|1853|Male|White|At Home|||Vermont|||Yes|||||
-40|47|46|Grandy|Stillman|57|1813|Male|White|Farmer|5000|1400|Vermont|||||||Yes|
-# End bad data block
 
+
+1|38|38|Towsley|Betsey E|46|1824|Female|White|Keeping House|||Vermont||||||||||
+2|38|38|Towsley|Harry|11|1859|Male|White||||Vermont|||||Yes|||||
+3|38|38|Gaze|Emily|40|1830|Female|White|Domestic Servant||400|Vermont||||||||||
+4|39|39|Chapin|Solly|68|1802|Female|White|Keeping House||200|Vermont||||||||||
+5|39|39|Trask|Delia|45|1825|Female|White|Keeping House|||Vermont||||||||||
+6|39|39|Trask|Viola|15|1855|Female|White|At Home|||Vermont|||||Yes|||||
+7|39|39|Trask|Emck|8|1862|Male|White|At Home|||Vermont|||||Yes|||||
+8|39|39|Trask|Clara|6|1864|Female|White|At Home|||Vermont|||||Yes|||||
+9|40|40|Kent|Hirani|58|1812|Male|White|Farmer|1680|600|Vermont|||||||||Yes|
+10|40|40|Kent|Delia|50|1820|Female|White|Keeping House|||Vermont||||||||||
+11|41|41|Parker|George H|29|1841|Male|White|Clergyman||250|Vermont|||||||||Yes|
+12|41|41|Parker|Arvilla D|26|1844|Female|White|Keeping House|||Vermont||||||||||
+13|41|41|Parker|Ralph G|3|1867|Male|White||||Vermont||||||||||
+14|41|41|Parker|Juia E|4/12||Female|White||||Vermont|||Dec|||||||
+16|43|42|Rogers|Samuel|43|1827|Male|White|Farmer & Engineer On Steam Boat|4500||Vermont|||||||||Yes|
+17|43|42|Rogers|Mary E|36|1834|Female|White|Keeping House|||Vermont||||||||||
+18|43|42|Rogers|Day|8|1862|Male|White||||Vermont|||||Yes|||||
+19|43|42|Rogers|Samuel H|2|1868|Male|White||||Vermont||||||||||
+20|43|42|Allen|George W|25|1845|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+21|43|42|Allen|June|23|1847|Female|White|Keeping House|||Vermont||||||||||
+22|44|43|Spaulding|Isaac S|41|1829|Male|White|Farmer|4500|2370|Vermont|||||||||Yes|
+23|44|43|Spaulding|Jennett E|36|1834|Female|White|Keeping House|||Vermont||||||||||
+24|44|43|Spaulding|Wilbur|12|1858|Male|White|At Home|||Vermont|||||Yes|||||
+25|44|43|Spaulding|Ella|12|1858|Female|White|At Home|||Vermont|||||Yes|||||
+26|44|43|Spaulding|Loyal|9|1861|Male|White|At Home|||Vermont|||||Yes|||||
+27|44|43|Spaulding|Lucy|7|1863|Female|White||||Vermont|||||Yes|||||
+28|44|43|Spaulding|Julia|5|1865|Female|White||||Vermont|||||Yes|||||
+29|44|43|Spaulding|John|2|1868|Male|White||||Vermont||||||||||
+30|44|43|Spaulding|Pheba|75|1795|Female|White||||Vermont||||||||||
+31|45|44|Haton|Warren|58|1812|Male|White|Farmer|||Vermont|||||||||Yes|
+32|45|44|Haton|Pheba|53|1817|Female|White|Keeping House|||Vermont||||||||||
+33|45|44|Haton|Ryland|14|1856|Male|White|At Home|||Vermont|||||Yes|||||
+34|45|44|Haton|George M|11|1859|Male|White|At Home|||Vermont|||||Yes|||||
+35|46|45|Torry|James D|53|1817|Male|White|Farmer|4800|1200|Vermont|||||||||Yes|
+36|46|45|Torry|Eunice|52|1818|Female|White|Keeping House|||Vermont||||||||||
+37|46|45|Torry|Pheba|21|1849|Female|White|At Home|||Vermont||||||||||
+38|46|45|Torry|Charles|||Male|White|At Home|||Vermont|||||Yes|||||
+39|46|45|Torry|Edgar|17|1853|Male|White|At Home|||Vermont|||||Yes|||||
+40|47|46|Grandy|Stillman|57|1813|Male|White|Farmer|5000|1400|Vermont|||||||||Yes|
 
 1|47|46|Grandy|Lucretia|55|1815|Female|White|Keeping House|||Vermont||||||||||
 2|47|46|Grandy|Sarah|16|1854|Female|White|At Home|||Vermont|||||Yes|||||
