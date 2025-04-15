@@ -6,11 +6,15 @@ Code and data for a project looking at census records for parts of Addison Count
 
 ## Census tables
 
+Key: 
+- ✓  data entry complete
+- ✅ data loads correctly 
+
 Coverage:
 
 | Year | Addison | Bridport | Ferrisburg | Panton | Vergennes |
 | --- | --- | --- | --- | --- | --- |
-| 1850 |✓|✓|✓|✓| ✓|
+| 1850 |✅|✅|✅|✅| ✅|
 | 1860 |✓| ✓ ||✓||
 | 1870 |✓| ✓ ||✓||
 | 1880 |✅|✅|✅|✅|✅|

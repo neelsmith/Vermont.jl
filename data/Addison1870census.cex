@@ -210,8 +210,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|50|51|Noonan|Amy|2|1868|Female|White||||Vermont||||||||||
 40|50|51|Noonan|Rufus|7/12||Male|White||||Vermont|||Nov|||||||
 
-1||51|Agan|Mary|26|1844|Female|White|Domestic|||Massachusetts|Yes|Yes||||||||
-2||51|Miller|James|32|1838|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+1|50|51|Agan|Mary|26|1844|Female|White|Domestic|||Massachusetts|Yes|Yes||||||||
+2|50|51|Miller|James|32|1838|Male|White|Farm Laborer|||Vermont|||||||||Yes|
 3||51|Lafountain|Thomas|40|1830|Male|White|Farm Laborer|||Canada|Yes|Yes||||Yes|Yes|||
 4||51|Leyit|William|26|1844|Male|White|Farm Laborer|||Canada||||||Yes|Yes|||
 5|51|52|Cota|Alex|49|1821|Male|White|Farm Laborer|||Canada||||||Yes|Yes||Yes|
