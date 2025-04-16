@@ -1,3 +1,129 @@
 Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gender|Race|Occupation|Real Estate Value|Personal Estate Value|Birthplace|Father of Foreign Birth|Mother of Foreign Birth|Birth Month|Marriage Month|Attended School|Cannot Read|Cannot Write|Condition|Male Citizen Over 21|Denied Voting Rights
 
 
+
+1|1|1|Bristol|Milo|55|1815|Male|White|Hardware Merchant Ret|9000|4000|Vermont|||||||||Yes|
+2|1|1|Bristol|Prudencia|26|1844|Female|White|Keeping House|||Massachusetts||||||||||
+3|1|1|Bristol|Albert W|23|1847|Male|White|Clerk In Store||400|Vermont|||||||||Yes|
+4|1|1|Bristol|Geroge E|18|1852|Male|White|At Home|||Vermont|||||Yes|||||
+5|1|1|Rugg|Mancy|68|1802|Female|White|Tailoress|1000||Massachusetts||||||||||
+6|1|1|Rock|Clary|16|1854|Female|White|Domestic Servant|||Vermont||||||||||
+7|1|2|Bristol|Myron F|27|1843|Male|White|Hardware Merchant Ret|600|800|Vermont|||||||||Yes|
+8|1|2|Bristol|Almeda|22|1848|Female|White|Keeping House|||Vermont||||||||||
+9|1|2|Bristol|Nellie|11/12||Female|White||||Vermont|||Jul|||||||
+10|2|3|Bristol|Noah|24|1846|Male|White|Girculating On Journ Produce|||Vermont|||||||||Yes|
+11|2|3|Bristol|Hattie A|28|1842|Female|White|Keeping House|||Vermont||||||||||
+12|2|3|Bristol|Melton E|6|1864|Male|White||||Vermont|||||Yes|||||
+13|2|3|Fisher|Mary M|22|1848|Female|White|Domestic Servant|||Vermont||||||||||
+14|3|4|Morgan|Elizabeth|30|1840|Female|White|Dress Maker|||New York||||||||||
+15|4|5|Markham|Sarah|92|1778|Female|White|Keeping House|||Connecticut||||||||||
+16|4|5|Markham|Jenette M|64|1806|Female|White|Keeping House|||New Hampshire||||||||||
+17|4|5|Porter|Sophiah|80|1790|Female|White|Keeping House|2000|300|New Hampshire||||||||||
+18|5|6|Adams|Julis|50|1820|Female|White|Keeping House|5000|200|New York||||||||||
+19|5|6|Adams|Franklin T|32|1838|Male|White|Day Labour|||Vermont|||||||||Yes|
+20|5|6|Adams|Fredrick H|19|1851|Male|White|At School|||Vermont|||||Yes|||||
+21|5|6|Adams|Benjamin V|15|1855|Male|White|At School|||Vermont|||||Yes|||||
+22|6|7|Arthur|Asa A|27|1843|Male|White|Physician||800|New York|||||||||Yes|
+23|6|7|Arthur|Catharine|48|1822|Female|White|Keeping House|||New York||||||||||
+24|7|8|Bradbury|Ellenor F|44|1826|Female|White|Keeping House|||Vermont||||||||||
+25|7|8|Bradbury|George W|17|1853|Male|White|Clerk In Store|||Vermont||||||||||
+26|7|8|Bradbury|Ellinor C|15|1855|Female|White|At Home|||Vermont|||||Yes|||||
+27|7|8|Bradbury|Fanny W|13|1857|Female|White|At Home|||Vermont|||||Yes|||||
+28|7|8|Geros|Flavilla|19|1851|Female|White|Domestic Servant|||Vermont||||||||||
+29|7|8|Bradbury|William|23|1847|Male|White|Sailor|||Vermont|||||||||Yes|
+30|7|8|Bradbury|Charles A|21|1849|Male|White|Mill Shipman In Navy|||Vermont|||||||||Yes|
+31|8|9|Benton|Rollins C|56|1814|Male|White|Retired Journer|2500|3000|Connecticut|||||||||Yes|
+32|8|9|Benton|Faudom|42|1828|Female|White|Keeping House|||Connecticut||||||||||
+33|8|9|Benton|Asa E|15|1855|Male|White|At Home|||Connecticut|||||Yes|||||
+34|9|10|Bingham|Ira|59|1811|Male|White|Dry Good Merchant Ret|1000|7500|Vermont|||||||||Yes|
+35|9|10|Bingham|Charlott M|52|1818|Female|White|Keeping House|||New York||||||||||
+36|9|10|Bingham|Amantt O|26|1844|Female|White|At Home|||Vermont||||||||||
+37|9|10|Bingham|Charles H|11|1859|Male|White|At Home|||Vermont|||||Yes|||||
+38|9|10|Bingham|Rhoda|87|1783|Female|White||||Connecticut||||||||||
+39|9|10|Bingham|Laura C|49|1821|Female|White||||Vermont||||||||||
+40|9|10|Gordon|Ellen|21|1849|Female|White|Domestic Servant|||Vermont|Yes|Yes||||||||
+
+
+1|11|12|Norton|Nathaniel G|39|1831|Male|White|Miller|15000|10000|Vermont|||||||||Yes|
+2|11|12|Norton|Lueretis|39|1831|Female|White|Keeping House|||Vermont||||||||||
+3|11|12|Norton|John M|13|1857|Male|White|At Home|||Vermont|||||Yes|||||
+4|11|12|Norton|Eugene G|11|1859|Male|White|At Home|||Vermont|||||Yes|||||
+5|11|12|Norton|Arthur W|3|1867|Male|White||||Vermont|||||||||Yes|
+6|11|12|Roscoe|George|26|1844|Male|White|Teamster|||Vermont||||||||||
+7|11|12|Rockmary|Jane|16|1854|Female|White|Domestic Servant|||Vermont||||||||||
+8|11|12|Norton|Rufas|75|1795|Male|White|Retired Journer||500|Massachusetts|||||||||Yes|
+9|11|12|Tabor|Arthur|21|1849|Male|White|Painter|||Canada||||||||||
+10|11|12|Tabor|Hervey|50|1820|Male|White|Painter||500|Vermont||||||||||
+11|12|13|Mims|Joseph|25|1845|Male|White|Shoe Maker|||Canada|Yes|Yes|||||||Yes|
+12|12|13|Mims|Francis|22|1848|Female|White|Keeping House|||Vermont||||||||||
+13|12|13|Mims|Fannie|7|1863|Female|White||||Vermont|Yes|||||||||
+14|12|14|Welcom|Cloud|34|1836|Male|White|Works In Tailor Shop|2500|300|Canada|Yes|Yes|||||||Yes|
+15|12|14|Welcom|Elmira|37|1833|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+16|13|15|Vabaque|Joseph|34|1836|Male|White|Works In Blacksmith Shop||125|Canada|Yes|Yes||||Yes|Yes|||
+17|13|15|Vabaque|Matilda|25|1845|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
+18|13|15|Vabaque|Julia|5|1865|Female|White||||Canada|Yes|Yes||||||||
+19|13|15|Vabaque|Maria|3|1867|Female|White||||Canada|Yes|Yes||||||||
+20|13|15|Vabaque|Joseph|11/12||Male|White||||Canada|Yes|Yes|Jul|||||||
+21|13|15|Jange|Joseph|19|1851|Male|White|Works In Sash Factory|||Canada|Yes|||||||||
+22|14|16|Kautal|Edward|23|1847|Male|White|Worsk In Waygon Shop||150|New York|Yes|Yes|||||||Yes|
+23|14|16|Kautal|Rosa|17|1853|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+24|14|16|Kautal|Eddie|7/12||Male|White||||Vermont|Yes|Yes|Feb|||||||
+25|15|17|Allen|Samuel|31|1839|Male|White|Painter|||Vermont|||||||||Yes|
+26|15|17|Allen|Rosella|28|1842|Female|White|Keeping House|||Vermont||||||||||
+27|15|18|Sasway|Frank|56|1814|Male|White|Works In Shoe Shop|||New York|||||||||Yes|
+28|15|18|Sasway|Betty|55|1815|Female|White|Keeping House|||New York||||||Yes|Yes|||
+29|15|18|Sasway|Libbie|26|1844|Female|White|Works In Tailor Shop|||New York||||||||||
+30|15|18|Sasway|Minnie|12|1858|Female|White|At Home|||New York|||||Yes|||||
+31|15|18|Sasway|Georgie|7|1863|Male|White||||New York|||||Yes|||||
+32|16|19|Scovill|Ezra A|37|1833|Male|White|Grocer|2500|1000|Vermont|||||||||Yes|
+33|16|19|Scovill|Sarah|39|1831|Female|White|Keeping House|||Vermont||||||||||
+34|16|19|Scovill|Clara E|13|1857|Female|White|At Home|||Vermont|||||Yes|||||
+35|16|19|Scovill|Fred E|7|1863|Male|White||||Vermont|||||Yes|||||
+36|17|20|Gargranam|Nancy|49|1821|Female|White|Keeping House|2000|1000|Vermont||||||||||
+37|17|20|Gargranam|Eliza J|18|1852|Female|White|Teaching School|400||Vermont|||||Yes|||||
+38|17|20|Gargranam|Ellen D|14|1856|Female|White|At Home|300||Vermont|||||Yes|||||
+39|17|20|Gargranam|Franklin B|12|1858|Male|White|At Home|300||Vermont|||||Yes|||||
+40|18|21|Roberts|John P|57|1813|Male|White|Lumber Dealer|7000|3000|Canada|||||||||Yes|
+
+
+1|18|21|Roberts|Elizabeth|55|1815|Female|White|Keeping House|||Massachusetts||||||||||
+2||21|Lewis|David H|27|1843|Male|White|Bank Cashier||1000|Canada|||||||||Yes|
+3||21|Lewis|Francis E|28|1842|Female|White||||Vermont||||||||||
+4||21|Lewis|Francis E H|8|1862|Male|White||||Vermont|||||Yes|||||
+5||21|Fucia|Flora|15|1855|Female|White|Domestic Servant|||Vermont|Yes|Yes||||||||
+6|19|22|Parkins|Hiram|28|1842|Male|White|Farm Laborer|||Vermont|||||||||Yes|
+7|19|22|Parkins|Mary|24|1846|Female|White|Keeping House|||Canada|Yes|Yes||||||||
+8|19|22|Parkins|Lilly J|8|1862|Female|White||||Vermont||Yes|||Yes|||||
+9|19|22|Parkins|Arthur|4|1866|Male|White||||Vermont||Yes||||||||
+10|19|22|Parkins|Flora|2|1868|Female|White||||Vermont||Yes||||||||
+11|20|23|Palmes|Abizal|34|1836|Female|White|Keeping House|||Vermont|||||||Yes|||
+12|20|23|Foster|Sbeyal|62|1808|Female|White|Keeping House|||Vermont||||||||||
+13|20|23|Palmer|Nancy J|||Female|White|At Home|||Vermont||||||||||
+14|20|23|Palmer|Alzma|7|1863|Female|White||||Vermont|||||Yes|||||
+15|21|24|Bowsea|Isaac|23|1847|Male|White|Day Labour|||Vermont|||||||||Yes|
+16|21|24|Bowsea|Laura|25|1845|Female|White|Keeping House|||Vermont||||||||||
+17|21|24|Bowsea|George|8|1862|Male|White||||Vermont|||||Yes|||||
+18|21|24|Bowsea|Eddie|6|1864|Male|White||||Vermont|||||Yes|||||
+19|21|24|Bowsea|Alvino|2|1868|Female|White||||Vermont||||||||||
+20|21|24|Bowsea|Isaac|3/12||Male|White||||Vermont|||Mar|||||||
+21|22|25|Jarvis|Edward|27|1843|Male|White|Shoe Maker|||Vermont|Yes|Yes|||||||Yes|
+22|22|25|Jarvis|Miner|28|1842|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
+23|22|25|Jarvis|Willie|7|1863|Male|White||||Vermont|Yes|Yes||||||||
+24|22|25|Jarvis|Laura A|5|1865|Female|White||||Vermont|Yes|Yes||||||||
+25|22|25|Jarvis|Mary N|2|1868|Female|White||||Vermont|Yes|Yes||||||||
+26|23|26|Fritton|Timothy|40|1830|Male|White|Carpenter & Joiner|800|500|New York|Yes|Yes|||||||Yes|
+27|23|26|Fritton|Lorana J|31|1839|Female|White|Keeping House|||New York||||||||||
+28|23|26|Fritton|Lettie E|5|1865|Female|White||||New York||||||||||
+29|23|26|Fritton|Freddie|3|1867|Male|White||||New York||||||||||
+30|24|27|Douglas|Casmier|68|1802|Male|White|Stone & Brick Mason|2000|200|Canada|Yes|Yes||||Yes|Yes||Yes|
+31|24|27|Douglas|Julia|68|1802|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
+32|25|28|Mckean|Jonas|29|1841|Male|White|Day Labour|2100|400|Ireland|Yes|Yes||||||||
+33|25|28|Mckean|Bridget|32|1838|Female|White|Keeping House|||Ireland|Yes|Yes||||||||
+34|25|28|Mckean|George|8|1862|Male|White||||Vermont|Yes|Yes|||Yes|||||
+35|25|28|Mckean|Minnie|4|1866|Female|White||||Vermont|Yes|Yes||||||||
+36|25|28|Mckean|Freddie|2|1868|Male|White||||Vermont|Yes|Yes||||||||
+37|25|29|Donaghy|James|28|1842|Female|White|Day Labour|||Vermont|Yes|Yes|||||||Yes|
+38|25|29|Donaghy|Ellen|26|1844|Female|White|Keeping House|||Ireland|Yes|Yes||||||||
+39|25|29|Donaghy|James|||Male|White||||Vermont||Yes||||||||
+40|25|30|Crosby|William|29|1841|Male|White|Works In Tin Shop|||Ireland|Yes|Yes|||||||Yes|
+
