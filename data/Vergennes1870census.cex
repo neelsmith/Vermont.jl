@@ -87,10 +87,10 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 1|18|21|Roberts|Elizabeth|55|1815|Female|White|Keeping House|||Massachusetts||||||||||
-2||21|Lewis|David H|27|1843|Male|White|Bank Cashier||1000|Canada|||||||||Yes|
-3||21|Lewis|Francis E|28|1842|Female|White||||Vermont||||||||||
-4||21|Lewis|Francis E H|8|1862|Male|White||||Vermont|||||Yes|||||
-5||21|Fucia|Flora|15|1855|Female|White|Domestic Servant|||Vermont|Yes|Yes||||||||
+2|18|21|Lewis|David H|27|1843|Male|White|Bank Cashier||1000|Canada|||||||||Yes|
+3|18|21|Lewis|Francis E|28|1842|Female|White||||Vermont||||||||||
+4|18|21|Lewis|Francis E H|8|1862|Male|White||||Vermont|||||Yes|||||
+5|18|21|Fucia|Flora|15|1855|Female|White|Domestic Servant|||Vermont|Yes|Yes||||||||
 6|19|22|Parkins|Hiram|28|1842|Male|White|Farm Laborer|||Vermont|||||||||Yes|
 7|19|22|Parkins|Mary|24|1846|Female|White|Keeping House|||Canada|Yes|Yes||||||||
 8|19|22|Parkins|Lilly J|8|1862|Female|White||||Vermont||Yes|||Yes|||||
@@ -173,10 +173,10 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||39|Cummings|Mary|21|1849|Female|White|Domestic Servant|||Canada|Yes|Yes||||Yes|Yes|||
-2||39|Alden|Mary J|||Female|White|Tailoress|||Canada|Yes|Yes||||||||
-3||39|Mesteth|Victor|26|1844|Female|White|Tailoress|||Canada|Yes|Yes||||||||
-4||39|Blanchard|Ambrose|18|1852|Male|White|Aprentice To Mason|||Vermont|Yes|Yes||||||||
+1|32|39|Cummings|Mary|21|1849|Female|White|Domestic Servant|||Canada|Yes|Yes||||Yes|Yes|||
+2|32|39|Alden|Mary J|||Female|White|Tailoress|||Canada|Yes|Yes||||||||
+3|32|39|Mesteth|Victor|26|1844|Female|White|Tailoress|||Canada|Yes|Yes||||||||
+4|32|39|Blanchard|Ambrose|18|1852|Male|White|Aprentice To Mason|||Vermont|Yes|Yes||||||||
 5|33|40|Gordon|Charles|34|1836|Male|White|Works In Tanery|||Canada|Yes|Yes||||||||
 6|33|40|Gordon|Fanie|33|1837|Female|White|Keeping House|||Canada|Yes|Yes||||||||
 7|33|40|Gordon|Charles|15|1855|Male|White|Works In Door Factory|||Vermont|Yes|Yes||||||||
@@ -432,8 +432,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||88|Douthat|Ellen|18|1852|Female|Black|Domestic Servant|||North Carolina||||||||||
-2||88|Bougue|Genevive|||Female|White||||New York||||||||||
+1|73|88|Douthat|Ellen|18|1852|Female|Black|Domestic Servant|||North Carolina||||||||||
+2|73|88|Bougue|Genevive|||Female|White||||New York||||||||||
 3|74|89|Smith|William L|31|1839|Male|White|Clergyman||500|New York|||||||||Yes|
 4|74|89|Smith|Sarah C|27|1843|Female|White|Keeping House|||New York||||||||||
 5|74|89|Smith|Grace E|2|1868|Female|White||||Mas||||||||||
@@ -478,7 +478,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 1|78|96|Fortin|Alzina|21|1849|Female|White|At Home|||Canada|Yes|Yes|||||Yes|||
 2|78|96|Fortin|William|18|1852|Male|White|Butcher|||Vermont|Yes|Yes||||||||
-3||96|Perene|Vivet|75|1795|Female|White||||Canada|Yes|Yes||||||||
+3|78|96|Perene|Vivet|75|1795|Female|White||||Canada|Yes|Yes||||||||
 4|79|97|Melvin|David A|25|1845|Male|White|Merchant Ret|7000|12000|Vermont|||||||||Yes|
 5|79|97|Melvin|Mary C|25|1845|Female|White|Keeping House|||Vermont|Yes|||||||||
 6|79|98|White|William|28|1842|Male|White|Works In Sash Factory|||Vermont|||||||||Yes|
@@ -562,8 +562,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||111|Siberty|Vina|11|1859|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
-2||111|Falardo|John|36|1834|Male|White|Works In Door Factory|||Canada|Yes|Yes|||||||Yes|
+1|88|111|Liberty|Vina|11|1859|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
+2|88|111|Falardo|John|36|1834|Male|White|Works In Door Factory|||Canada|Yes|Yes|||||||Yes|
 3|89|112|Gevor|Lewis|49|1821|Male|White|Carpenter & Joiner|1500|200|Canada|Yes|Yes|||||||Yes|
 4|89|112|Gevor|Julia|38|1832|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
 5|89|112|Gevor|Adalene|18|1852|Female|White|Domestic Servant|||Vermont|Yes|||||||||
@@ -652,11 +652,11 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 4|100|125|Stoddard|George|6|1864|Male|White||||Massachusetts||||||||||
 5|100|125|Stoddard|Henry|3|1867|Male|White||||New York||||||||||
 6|100|125|Stoddard|Settie|6/12||Female|White||||New York|||Dec|||||||
-7||125|Mclaughlin|Robt|32|1838|Male|White|Blacksmith|||Vermont|Yes|Yes|||||||Yes|
-8||125|Mclaughlin|Nellie|24|1846|Female|White|Keeping House|||Vermont||||||||||
-9||125|Mclaughlin|Seymour|3|1867|Male|White||||Vermont||||||||||
-10||125|Hays|Edwards|16|1852|Male|White|Teamster|||Vermont||||May||||||
-11||125|Hays|Jenny|17|1851|Female|White|Keeping House|||Vermont|Yes|||May||||||
+7|100|125|Mclaughlin|Robt|32|1838|Male|White|Blacksmith|||Vermont|Yes|Yes|||||||Yes|
+8|100|125|Mclaughlin|Nellie|24|1846|Female|White|Keeping House|||Vermont||||||||||
+9|100|125|Mclaughlin|Seymour|3|1867|Male|White||||Vermont||||||||||
+10|100|125|Hays|Edwards|16|1852|Male|White|Teamster|||Vermont||||May||||||
+11|100|125|Hays|Jenny|17|1851|Female|White|Keeping House|||Vermont|Yes|||May||||||
 12|101|126|Ellsworth|Apram D|62|1808|Male|White|Capt In Saleman & Dept|1000|8000|New York|||||||||Yes|
 13|101|126|Ellsworth|Pheba|60|1810|Female|White|Keeping House|||New York||||||||||
 14|101|126|Scugles|Hellen|40|1830|Female|Black|Domestic Servant|||New York||||||||||
@@ -730,7 +730,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 40|114|139|Ledger|George|2|1868|Male|White||||Vermont|Yes|||||||||
 
 
-1||139|Lareau|Julius|7|1863|Male|White||||Vermont|||||Yes|||||
+1|114|139|Lareau|Julius|7|1863|Male|White||||Vermont|||||Yes|||||
 2|115|140|Young|Philiman R|52|1818|Male|White|Retired Merchant|3000|2000|Vermont|||||||||Yes|
 3|115|140|Young|Catherine|47|1823|Female|White||||Vermont||||||||||
 4|115|140|Young|John E|24|1846|Male|White|Druggist|||Vermont|||||||||Yes|
@@ -814,56 +814,52 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|126|157|Hawkins|Julia B|43|1827|Female|White|Keeping House|||Vermont||||||||||
 40|126|157|Hawkins|Lina H|13|1857|Female|White|At Home|||Vermont||||||||||
 
-
-
-1|126|157|Hawkins|Williard|10|1860|Male|White||||Vermont|||Yes|||||
-2|126|157|Hawkins|Laura|69|1801|Female|White||||Vermont||||||||
-3||157|Brota|John|16|1854|Female|White|Domestic Servant|||New York||||||||
-4|127|158|Bessie|Charles H|40|1830|Male|White|Retired Hotel Keeper||15000|New York|||||||Yes|
-5|127|158|Bessie|Ellen|39|1831|Female|White|Keeping House|||Vermont||||||||
-6|127|158|Bessie|Willie|11|1859|Male|White||||Illinois|||Yes|||||
-7|127|158|Munson|Francis|18|1852|Female|Black|Cook|||New York||||||||
-8|127|158|Sealy|Jennett|17|1853|Female|White|Domestic Servant|||Vermont||||||||
-9|127|158|Gree|Abram|23|1847|Male|White||||New York|||||||Yes|
-10|128|159|Strong|Francis|40|1830|Male|White|Spoke & Hull Worker|38000|32000|Vermont|||||||Yes|
-11|128|159|Strong|Sarah|36|1834|Female|White|Keeping House|||Vermont||||||||
-12|128|159|Strong|Herman|21|1849|Male|White|Bookkeeper|||Ohio|||||||Yes|
-13|128|159|Strong|Herbert|21|1849|Male|White||||Ohio||Jun|||||Yes|
-14|128|159|Strong|Francis C|8|1862|Female|White||||Vermont|||Yes|||||
-15|128|159|Ross|Delia|27|1843|Female|White|At Home|||Vermont||||||||
-16|128|159|Ross|George|31|1839|Male|White|Spoke & Hull ??||5000|Vermont|||||||Yes|
-17|128|159|Ross|Francis S|2|1868|Male|White||||Vermont||||||||
-18|128|159|Strong|Ella J|21|1849|Female|White|At Home|||Vermont||||||||
-19|128|159|Lucia|Celia|17|1853|Female|White|Domestic Servant|||Vermont||||||||
-20|129|160|Field|Susan W|47|1823|Male|White|Furniture Maker|||New York|||||||Yes|
-21|129|160|Field|Sophia W|37|1833|Female|White|Keeping House|12000|5000|Vermont||||||||
-22|129|160|Field|Mary A|9|1861|Female|White||||Vermont|||Yes|||||
-23|129|160|Field|Arthur S|6|1864|Male|White||||Vermont|||Yes|||||
-24|129|160|Field|Merrell P|15|1855|Male|White|At Home|||Vermont|||Yes|||||
-25|129|160|Raynold|Hattie|26|1844|Female|White|Domestic Servant|||Vermont||||||||
-26|130|161|Griswold|George|39|1831|Male|White|Grocer|1000|500|Vermont|||||||Yes|
-27|130|161|Griswold|Eliza|24|1846|Female|White|Keeping House|||Vermont||||||||
-28|130|161|Griswold|George W|8|1862|Male|White||||Vermont|||Yes|||||
-29|130|161|Griswold|Mary|5|1865|Female|White||||Vermont|||Yes|||||
-30|130|161|Griswold|Tamas|10/12||Female|White||||Vermont|Aug|||||||
-31|131|162|Nye|Russel|53|1817|Male|White|Morhle Dealer|||Vermont|||||||Yes|
-32|131|162|Nye|Mary|51|1819|Female|White|Keeping House|||Vermont||||||||
-33|131|162|Nye|Louise|30|1840|Female|White|At Home|||Vermont||||||||
-34|131|162|Nye|George|22|1848|Male|White|Student|||Vermont|||Yes|||||
-35|131|162|Nye|Cora|13|1857|Female|White|At Home|||Vermont|||Yes|||||
-36|131|162|Smith|Lottie|19|1851|Female|White|At Home|||Vermont|||Yes|||||
-37|131|162|Crane|Flora|17|1853|Female|White||||Vermont|||Yes|||||
-38|131|162|Northrop|Mattie|16|1854|Female|White||||Vermont|||Yes|||||
-39|131|162|Stillson|Maranda|43|1827|Female|White|Domestic Servant|||Vermont||||||||
-40|132|163|Fisher|Milo B|39|1831|Male|White|Dry Good Merchant Ret|2000|8000|Vermont|||||||Yes|
-
-
+1|126|157|Hawkins|Williard|10|1860|Male|White||||Vermont|||||Yes|||||
+2|126|157|Hawkins|Laura|69|1801|Female|White||||Vermont||||||||||
+3|126|157|Brota|John|16|1854|Female|White|Domestic Servant|||New York||||||||||
+4|127|158|Bessie|Charles H|40|1830|Male|White|Retired Hotel Keeper||15000|New York|||||||||Yes|
+5|127|158|Bessie|Ellen|39|1831|Female|White|Keeping House|||Vermont||||||||||
+6|127|158|Bessie|Willie|11|1859|Male|White||||Illinois|||||Yes|||||
+7|127|158|Munson|Francis|18|1852|Female|Black|Cook|||New York||||||||||
+8|127|158|Sealy|Jennett|17|1853|Female|White|Domestic Servant|||Vermont||||||||||
+9|127|158|Gree|Abram|23|1847|Male|White||||New York|||||||||Yes|
+10|128|159|Strong|Francis|40|1830|Male|White|Spoke & Hull Worker|38000|32000|Vermont|||||||||Yes|
+11|128|159|Strong|Sarah|36|1834|Female|White|Keeping House|||Vermont||||||||||
+12|128|159|Strong|Herman|21|1849|Male|White|Bookkeeper|||Ohio|||||||||Yes|
+13|128|159|Strong|Herbert|21|1849|Male|White||||Ohio||||Jun|||||Yes|
+14|128|159|Strong|Francis C|8|1862|Female|White||||Vermont|||||Yes|||||
+15|128|159|Ross|Delia|27|1843|Female|White|At Home|||Vermont||||||||||
+16|128|159|Ross|George|31|1839|Male|White|Spoke & Hull ??||5000|Vermont|||||||||Yes|
+17|128|159|Ross|Francis S|2|1868|Male|White||||Vermont||||||||||
+18|128|159|Strong|Ella J|21|1849|Female|White|At Home|||Vermont||||||||||
+19|128|159|Lucia|Celia|17|1853|Female|White|Domestic Servant|||Vermont||||||||||
+20|129|160|Field|Susan W|47|1823|Male|White|Furniture Maker|||New York|||||||||Yes|
+21|129|160|Field|Sophia W|37|1833|Female|White|Keeping House|12000|5000|Vermont||||||||||
+22|129|160|Field|Mary A|9|1861|Female|White||||Vermont|||||Yes|||||
+23|129|160|Field|Arthur S|6|1864|Male|White||||Vermont|||||Yes|||||
+24|129|160|Field|Merrell P|15|1855|Male|White|At Home|||Vermont|||||Yes|||||
+25|129|160|Raynold|Hattie|26|1844|Female|White|Domestic Servant|||Vermont||||||||||
+26|130|161|Griswold|George|39|1831|Male|White|Grocer|1000|500|Vermont|||||||||Yes|
+27|130|161|Griswold|Eliza|24|1846|Female|White|Keeping House|||Vermont||||||||||
+28|130|161|Griswold|George W|8|1862|Male|White||||Vermont|||||Yes|||||
+29|130|161|Griswold|Mary|5|1865|Female|White||||Vermont|||||Yes|||||
+30|130|161|Griswold|Tamas|10/12||Female|White||||Vermont|||Aug|||||||
+31|131|162|Nye|Russel|53|1817|Male|White|Morhle Dealer|||Vermont|||||||||Yes|
+32|131|162|Nye|Mary|51|1819|Female|White|Keeping House|||Vermont||||||||||
+33|131|162|Nye|Louise|30|1840|Female|White|At Home|||Vermont||||||||||
+34|131|162|Nye|George|22|1848|Male|White|Student|||Vermont|||||Yes|||||
+35|131|162|Nye|Cora|13|1857|Female|White|At Home|||Vermont|||||Yes|||||
+36|131|162|Smith|Lottie|19|1851|Female|White|At Home|||Vermont|||||Yes|||||
+37|131|162|Crane|Flora|17|1853|Female|White||||Vermont|||||Yes|||||
+38|131|162|Northrop|Mattie|16|1854|Female|White||||Vermont|||||Yes|||||
+39|131|162|Stillson|Maranda|43|1827|Female|White|Domestic Servant|||Vermont||||||||||
+40|132|163|Fisher|Milo B|39|1831|Male|White|Dry Good Merchant Ret|2000|8000|Vermont|||||||||Yes|
 
 
 1|132|163|Fisher|Katie|29|1841|Female|White|Keeping House|||Vermont||||||||||
 2|132|163|Fisher|Ada C|||Female|White||||Vermont||||||||||
-3||163|Leaky|Lilly|13|1857|Female|White|Domestic Servant|||Vermont||||||||||
-4||163|Richard|Chares|18|1852|Male|White|Clerk In Store|||Vermont||||||||||
+3|132|163|Leaky|Lilly|13|1857|Female|White|Domestic Servant|||Vermont||||||||||
+4|132|163|Richard|Chares|18|1852|Male|White|Clerk In Store|||Vermont||||||||||
 5|133|164|Hosford|Charles E|31|1839|Male|White|Merchant Ret||10000|New York|||||||||Yes|
 6|133|164|Hosford|Ellen|28|1842|Female|White|Keeping House|||New York||||||||||
 7|133|164|Hosford|Jessee|4|1866|Female|White||||New York||||||||||
@@ -948,12 +944,12 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||180|Rivers|Benona|16|1854|Male|White|Works In Cabinet Shop|||Vermont|Yes|Yes|||||Yes|||
-2||180|Rivers|Henry|14|1856|Male|White|Works In Cabinet Shop|||Vermont|Yes|Yes|||||Yes|||
-3||180|Rivers|Julia|11|1859|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
-4||180|Rivers|Mary|3|1867|Female|White||||Vermont|Yes|Yes|||Yes|||||
-5||180|Rivers|Napoleon|7|1863|Male|White||||Vermont|Yes|Yes|||Yes|||||
-6||180|Rivers|Lucy|4|1866|Female|White||||Vermont|Yes|Yes||||||||
+1|145|180|Rivers|Benona|16|1854|Male|White|Works In Cabinet Shop|||Vermont|Yes|Yes|||||Yes|||
+2|145|180|Rivers|Henry|14|1856|Male|White|Works In Cabinet Shop|||Vermont|Yes|Yes|||||Yes|||
+3|145|180|Rivers|Julia|11|1859|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
+4|145|180|Rivers|Mary|3|1867|Female|White||||Vermont|Yes|Yes|||Yes|||||
+5|145|180|Rivers|Napoleon|7|1863|Male|White||||Vermont|Yes|Yes|||Yes|||||
+6|145|180|Rivers|Lucy|4|1866|Female|White||||Vermont|Yes|Yes||||||||
 7|146|181|Gordon|Audley|60|1810|Male|Black|Farm Laborer|||Ireland|Yes|Yes||||Yes|Yes||Yes|
 8|146|181|Gordon|Mary|64|1806|Female|White|Keeping House|||Ireland|Yes|Yes||||Yes|Yes|||
 9|146|181|Gordon|Mariett|31|1839|Female|White|Seamstress|||Ireland|Yes|Yes||||||||
@@ -1035,10 +1031,10 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||187|Hoofnagle|Henry|26|1844|Male|White|Clerk In Store|||Vermont|||||||||Yes|
-2||187|Cleaves|Elias|24|1846|Male|White|Clerk In Store|||Vermont|||||||||Yes|
-3||187|Hopkins|Samuel|38|1832|Male|White|Boatman|||New York|||||||||Yes|
-4||187|Freeman|John|50|1820|Male|White|Clergyman||3000|New Hampshire|||||||||Yes|
+1|152|187|Hoofnagle|Henry|26|1844|Male|White|Clerk In Store|||Vermont|||||||||Yes|
+2|152|187|Cleaves|Elias|24|1846|Male|White|Clerk In Store|||Vermont|||||||||Yes|
+3|152|187|Hopkins|Samuel|38|1832|Male|White|Boatman|||New York|||||||||Yes|
+4|152|187|Freeman|John|50|1820|Male|White|Clergyman||3000|New Hampshire|||||||||Yes|
 5|153|188|Stewart|Rachel|65|1805|Female|White|Keeps Boarding House|3000|1000|Vermont||||||||||
 6|153|188|Joynes|Nathan|38|1832|Male|White|Cabinet Maker|2500|400|Vermont|||||||||Yes|
 7|153|188|Joynes|Harriet|43|1827|Female|White|Milliner||800|Vermont||||||||||
@@ -1082,7 +1078,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 1|159|195|Sorelle|Margaret|33|1837|Female|White|Keeping House|||Connecticut|Yes|Yes||||||||
 2|159|195|Sorelle|Kate|10|1860|Female|White||||Connecticut|||||Yes|||||
 3|159|195|Sorelle|Weller|9|1861|Male|White||||Connecticut|||||Yes|||||
-4||195|King|Mary J|18|1852|Female|White|At Home|||Connecticut|||||||Yes|||
+4|159|195|King|Mary J|18|1852|Female|White|At Home|||Connecticut|||||||Yes|||
 5|160|196|Lucas|John|72|1798|Male|White|Teaming|||Connecticut||||||Yes|Yes||Yes|
 6|160|196|Lucas|Roselle|35|1835|Female|White|Keeping House|||New York||||||||||
 7|160|197|Ayres|Cyrus|53|1817|Male|White|Day Laborer|||Vermont|||||||||Yes|
@@ -1212,11 +1208,11 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 1|179|220|Arno|Sophia|24|1846|Female|White|Keeping House|||Canada|Yes|Yes||||||||
 2|179|220|Arno|John|2|1868|Male|White||||New York||Yes||||||||
-3||221|Drapy|Anthony|28|1842|Male|White|Day Laborer|||Vermont||Yes|||||||Yes|
-4||221|Drapy|Julia|22|1848|Female|White|Keeping House|||New York||Yes||||||||
-5||221|Drapy|Matilda|4|1866|Female|White||||New York||||||||||
-6||221|Drapy|Caroline|2|1868|Female|White||||New York||||||||||
-7||221|Drapy|James F|5/12||Male|White||||New York|||Jan|||||||
+3|179|221|Drapy|Anthony|28|1842|Male|White|Day Laborer|||Vermont||Yes|||||||Yes|
+4|179|221|Drapy|Julia|22|1848|Female|White|Keeping House|||New York||Yes||||||||
+5|179|221|Drapy|Matilda|4|1866|Female|White||||New York||||||||||
+6|179|221|Drapy|Caroline|2|1868|Female|White||||New York||||||||||
+7|179|221|Drapy|James F|5/12||Male|White||||New York|||Jan|||||||
 8|180|222|Drapy|Joseph|25|1845|Male|White|Works In Door Factory|||Vermont||||Nov|||||Yes|
 9|180|222|Drapy|Sophia|21|1849|Female|White|Keeping House|||Vermont||||Nov||Yes|Yes|||
 11|182|223|Foster|Isa C|50|1820|Male|White|Hotel Keeper|20000|5000|Vermont|||||||||Yes|
@@ -1259,11 +1255,11 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 3|183|224|January|Henry|16|1854|Male|White|Works In Door Factory|||Vermont|Yes|||||||||
 4|183|224|January|Charles|14|1856|Male|White|At Home|||Vermont|Yes||||Yes|||||
 5|183|224|January|Coma|6|1864|Female|White||||Vermont|Yes|||||||||
-6||224|Trede|Mary A|36|1834|Female|White|Domestic Servant|||Vermont|Yes|||||||||
-7||224|Trede|Charles|13|1857|Male|White|Works In Nail Factory|||Vermont||Yes|||Yes|||||
-8||224|Trede|Louisa W|8|1862|Female|White||||Vermont||Yes|||Yes|||||
-9||224|Trede|Elzena|3|1867|Female|White||||Vermont||Yes||||||||
-10||224|Trede|Mitcheal|||Male|White||||Vermont||Yes||||||||
+6|183|224|Trede|Mary A|36|1834|Female|White|Domestic Servant|||Vermont|Yes|||||||||
+7|183|224|Trede|Charles|13|1857|Male|White|Works In Nail Factory|||Vermont||Yes|||Yes|||||
+8|183|224|Trede|Louisa W|8|1862|Female|White||||Vermont||Yes|||Yes|||||
+9|183|224|Trede|Elzena|3|1867|Female|White||||Vermont||Yes||||||||
+10|183|224|Trede|Mitcheal|||Male|White||||Vermont||Yes||||||||
 11|184|225|Rivers|Joseph|61|1809|Male|White|Day Laborer|||Canada|Yes|Yes||||Yes|Yes|||
 12|184|225|Rivers|Mary|56|1814|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
 13|185|226|Paice|Charles|21|1849|Male|White|Carpenter & Joiner|||Canada|Yes|Yes||||Yes|Yes|||
@@ -1298,8 +1294,8 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 1|189|232|Thompson|Fredrick H|10|1860|Male|White||||Vermont|||||Yes|||||
-2||232|Wilson|Mary|23|1847|Female|White|Domestic Servant|||England|Yes|Yes||||||||
-3||232|Wilson|Anna|13|1857|Female|White|At Home|||Vermont||Yes|||Yes|||||
+2|189|232|Wilson|Mary|23|1847|Female|White|Domestic Servant|||England|Yes|Yes||||||||
+3|189|232|Wilson|Anna|13|1857|Female|White|At Home|||Vermont||Yes|||Yes|||||
 4|190|233|Strong|Herbert W|21|1849|Male|White|Painter In Hull Factory|||Ohio|||||||||Yes|
 5|190|233|Strong|Ella|||Female|White|Keeping House|||Ohio||||||||||
 6|190|234|Smith|Electa|82|1788|Female|White|Keeping House|2000|150|Vermont||||||||||
@@ -1341,10 +1337,10 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||242|Halsey|Sarah W|81|1789|Female|White||5000|5000|New Jersey||||||||||
-2||242|Bales|Stephen|24|1846|Male|Black|Coachman|||Virginia|||||||||Yes|
-3||242|Gordon|Catherine|25|1845|Female|White|Domestic Servant|||New Jersey||||||||||
-4||242|Price|Margret W|21|1849|Female|White|Domestic Servant|||Vermont||||||||||
+1|198|242|Halsey|Sarah W|81|1789|Female|White||5000|5000|New Jersey||||||||||
+2|198|242|Bales|Stephen|24|1846|Male|Black|Coachman|||Virginia|||||||||Yes|
+3|198|242|Gordon|Catherine|25|1845|Female|White|Domestic Servant|||New Jersey||||||||||
+4|198|242|Price|Margret W|21|1849|Female|White|Domestic Servant|||Vermont||||||||||
 5|199|243|Rogers|William W|45|1825|Male|White|Carpenter|1000|1000|Vermont|||||||||Yes|
 6|199|243|Rogers|Lepha A|30|1840|Female|White|Keeping House|200||Vermont||||||||||
 7|199|243|Rogers|Justin O|||Male|White|Works On Rail Road|||Vermont||||||||||
@@ -1385,12 +1381,12 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||249|Templar|Josph|14|1856|Male|White|At Home|||Vermont|Yes|Yes|||Yes|||||
-2||249|Templar|Ellen|12|1858|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
-3||249|Templar|Susan|7|1863|Female|White||||Vermont|Yes|Yes|||Yes|||||
-4||249|Templar|Sarah J|5|1865|Female|White||||Vermont|Yes|Yes|||Yes|||||
-5||249|Templar|Francis|10/12||Female|White||||Vermont|Yes|Yes|Aug|||||||
-6||249|Texo|Andrew|22|1848|Male|White|Day Laborer|||Vermont|Yes|Yes||||||||
+1|205|249|Templar|Josph|14|1856|Male|White|At Home|||Vermont|Yes|Yes|||Yes|||||
+2|205|249|Templar|Ellen|12|1858|Female|White|At Home|||Vermont|Yes|Yes|||Yes|||||
+3|205|249|Templar|Susan|7|1863|Female|White||||Vermont|Yes|Yes|||Yes|||||
+4|205|249|Templar|Sarah J|5|1865|Female|White||||Vermont|Yes|Yes|||Yes|||||
+5|205|249|Templar|Francis|10/12||Female|White||||Vermont|Yes|Yes|Aug|||||||
+6|205|249|Texo|Andrew|22|1848|Male|White|Day Laborer|||Vermont|Yes|Yes||||||||
 7|206|250|Ragno|Eli|24|1846|Male|White|Works In Cabinet Shop|||Canada|Yes|Yes||||||||
 8|206|250|Ragno|Anistasia|28|1842|Female|White|Keeping House|||Canada|Yes|Yes||||||||
 9|206|250|Ragno|Elodia|5|1865|Female|White||||Canada|Yes|Yes||||||||
@@ -1471,15 +1467,15 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||265|Flanders|Sophrona|40|1830|Female|White|Keeping House|||New Hampshire||||||||||
-2||264|Flanders|Oscar|16|1854|Male|White|Works In Machine Shop|||New Hampshire|||||Yes|||||
-3||264|Flanders|Hattie F|17|Abt 1856|Female|White|At Home|||New Hampshire|||||Yes|||||
-4||264|Flanders|John|12|1858|Male|White|At Home|||Vermont|||||Yes|||||
-5||264|Flanders|Eddie|8|1862|Male|White||||Vermont|||||Yes|||||
-6||264|Flanders|Frank|6|1864|Female|White||||Vermont|||||Yes|||||
-7||264|Flanders|Lillie|3|1867|Female|White||||Vermont||||||||||
-8||264|Flanders|Charles|||Male|White||||Vermont||||||||||
-9||265|Gardy|John|73|1797|Male|White||||New Hampshire|||||||||Yes|
+1|218|265|Flanders|Sophrona|40|1830|Female|White|Keeping House|||New Hampshire||||||||||
+2|218|264|Flanders|Oscar|16|1854|Male|White|Works In Machine Shop|||New Hampshire|||||Yes|||||
+3|218|264|Flanders|Hattie F|17|Abt 1856|Female|White|At Home|||New Hampshire|||||Yes|||||
+4|218|264|Flanders|John|12|1858|Male|White|At Home|||Vermont|||||Yes|||||
+5|218|264|Flanders|Eddie|8|1862|Male|White||||Vermont|||||Yes|||||
+6|218|264|Flanders|Frank|6|1864|Female|White||||Vermont|||||Yes|||||
+7|218|264|Flanders|Lillie|3|1867|Female|White||||Vermont||||||||||
+8|218|264|Flanders|Charles|||Male|White||||Vermont||||||||||
+9|219|265|Gardy|John|73|1797|Male|White||||New Hampshire|||||||||Yes|
 10|220|266|Savede|Charle|40|1830|Male|White|Works In Spoke Shop|||Canada|Yes|Yes||||Yes|Yes|||
 11|220|266|Savede|Brouselle|31|1839|Female|White|Keeping House|||Canada|Yes|Yes||||Yes|Yes|||
 12|220|266|Savede|Selia|19|1851|Female|White|Domestic Servant|||Vermont|Yes|Yes||||Yes|Yes|||
@@ -1507,12 +1503,12 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 
 
 
-1||270|Watters|Ann|60|1810|Female|Black|Domestic Servant||2000|Vermont|||||||Yes|||
-2||270|Martha|Mary|59|1811|Female|White|Domestic Servant||2000|Ireland|Yes|Yes|||||Yes|||
-3||270|Martha|Margaret|35|1835|Female|White|Domestic Servant||100|Ireland|Yes|Yes|||||Yes|||
-4||270|Smith|Isaac H|24|1846|Male|White|Farmer||600|Vermont|||||||||Yes|
-5||270|Hickey|Thomas|18|1852|Male|White|Farm Laborer|||Vermont||||||||||
-6||270|Perciful|Charles|15|1855|Male|White|Farm Laborer|||Vermont|||||Yes|||||
+1|224|270|Watters|Ann|60|1810|Female|Black|Domestic Servant||2000|Vermont|||||||Yes|||
+2|224|270|Martha|Mary|59|1811|Female|White|Domestic Servant||2000|Ireland|Yes|Yes|||||Yes|||
+3|224|270|Martha|Margaret|35|1835|Female|White|Domestic Servant||100|Ireland|Yes|Yes|||||Yes|||
+4|225|270|Smith|Isaac H|24|1846|Male|White|Farmer||600|Vermont|||||||||Yes|
+5|225|270|Hickey|Thomas|18|1852|Male|White|Farm Laborer|||Vermont||||||||||
+6|225|270|Perciful|Charles|15|1855|Male|White|Farm Laborer|||Vermont|||||Yes|||||
 14|226|272|Morvillo|Edward|33|1837|Male|White|Carpenter|700||Canada|Yes|Yes||||||||
 15|226|272|Morvillo|Pheleane|27|1843|Female|White|Keeping House|||Vermont|Yes|Yes||||||||
 16|226|272|Morvillo|Edward J|10|1860|Male|White||||Vermont|Yes|||||||||
@@ -1578,7 +1574,6 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 39|234|285|Bora|Marg E|47|1823|Female|White|Keeping House|||Vermont||||||||||
 40|234|285|Bora|Polly|28|1842|Female|White|At Home|||Vermont||||||||||
 
-
 1|234|285|Bora|Susan|24|1846|Female|White|At Home|||Vermont|Yes|||||||||
 2|234|285|Bora|George|16|1854|Male|White|At Home|||Vermont|Yes||||Yes|||||
 3|234|285|Bora|Esther|13|1857|Female|White|At Home|||Vermont|Yes||||Yes|||||
@@ -1586,7 +1581,7 @@ Line Number|Dwelling Number|Family Number|Surname|Given Name|Age|Birth Year|Gend
 5|234|285|Bora|Willie|8|1862|Male|White|At Home|||Vermont|Yes||||Yes|||||
 6|234|285|Bora|Louis|4|1866|Male|White||||Vermont|Yes||||Yes|||||
 7|234|285|Bora|Charles|2|1868|Male|White||||Vermont|Yes|||||||||
-8||285|Butler|Charlotte|80|1790|Female|White||||Canada|Yes|Yes||||||||
+8|235|285|Butler|Charlotte|80|1790|Female|White||||Canada|Yes|Yes||||||||
 11|235|286|Sedeau|Isabelle|15|1855|Female|White|Domestic Servant|||Vermont|Yes|||||||||
 12|236|287|Moefield|Paschal|56|1814|Male|White|Physician|3000|500|Vermont|||||||||Yes|
 13|236|287|Moefield|Phidia|54|1816|Female|White|Keeping House|||Vermont||||||||||
