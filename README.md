@@ -27,7 +27,7 @@ The `data` directory has delimited-text files with transcribed census records fo
 | --- | --- | --- | --- | --- | --- |
 | 1850 |✅|✅|✅|✅| ✅|
 | 1860 |✓| ✓ ||✓||
-| 1870 |✅| ✅ | ✅ |✅||
+| 1870 |✅| ✅ | ✅ |✅| ✅|
 | 1880 |✅|✅|✅|✅|✅|
 
 Key: 
