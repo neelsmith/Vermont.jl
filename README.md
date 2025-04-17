@@ -12,7 +12,7 @@ The `data` directory has delimited-text files with transcribed census records fo
 ### Coverage
 
 - Blue outline: Addison County
-- Tan outline: towns included in census datasets (Addison, Bridport, Ferrisburg, Panton, Vergennes)
+- Tan outline: towns included in census datasets (from north to south, Ferrisburg, Vergennes, Panton Addison, Bridport)
 
 
 | Inventoried towns in Addison County | Location of Addison County in Vermont |
