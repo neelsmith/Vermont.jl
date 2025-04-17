@@ -1,6 +1,7 @@
 Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|RealEstate|PersonalEstate|BirthPlace|MarriedThisYear|AttendedSchool|Illiterate|Condition
 
-||671|1|Harris|Corydon|47|1813|Male|White|Farmer|10000|3450|Vermont||||
+#
+671|1|Harris|Corydon|47|1813|Male|White|Farmer|10000|3450|Vermont||||
 671|1|Harris|Achsah|31|1829|Female|White||||Vermont||||
 671|1|Harris|Sidney|6|1854|Male|White||||Vermont||Y||
 671|1|Harris|Araminta|7/12|1859|Female|White||||Vermont||||
@@ -41,7 +42,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 677|7|Jackson|Sally|70|1790|Female|White||||New York||||
 677|7|Jackson|Louisa|40|1820|Female|White||||Vermont||||
 
-
+#
 677|7|Lansing|Joseph|33|1827|Male|White|Farm Laborer|||Vermont||||
 678|8|Burch|Edward|47|1813|Male|White|Laborer|||Canada|||Y|
 678|8|Burch|Mary|41|1819|Female|White||||Canada||||
@@ -81,7 +82,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 685|14|Wise|Martha|41|1819|Female|White||||Canada|||Y|
 685|14|Wise|Henry|13|1847|Male|White||||Vermont||||
 685|14|Wise|David|10|1850|Male|White||||Vermont||||
-
+#
 685|14|Wise|Joseph|8|1852|Male|White||||Vermont||Y||
 685|14|Wise|Sarah|6|1854|Female|White||||Vermont||Y||
 685|14|Wise|Charles|4|1856|Male|White||||Vermont||Y||
@@ -122,7 +123,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 693|22|Spaulding|John B|43|1817|Male|White|Farmer|1800|6725|Vermont||||
 693|22|Spaulding|Susan|42|1818|Female|White||||Vermont||||
 693|22|Holcomb|Helen|17|1843|Female|White|Servant|||Vermont||||
-
+#
 693|22|Holcomb|Abner G|83|1777|Male|White|Farmer|2150||Connecticut||||
 694|23|Daniels|Lewis|50|1810|Male|White|Mason||150|Canada|||Y|
 694|23|Daniels|Lewis|23|1837|Male|White||||Vermont|||Y|
@@ -163,7 +164,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 103|32|Converse|Harriet|42|1818|Female|White||||Vermont||||
 103|32|Converse|Blume|19|1841|Male|White||||Vermont||Y||
 103|32|Converse|Roxana|13|1847|Female|White||||Vermont||Y||
-
+#
 704|33|McCormick|James|45|1815|Male|White|Day Laborer|200|30|Ireland||||
 704|33|McCormick|Betsy|50|1810|Female|White||||Ireland||||
 704|33|McCormick|Margarette|13|1847|Female|White||||France||||
@@ -204,7 +205,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 712|41|Tull|William|17|1843|Male|White||||Vermont||Y||
 712|41|Spaulding|Isaac|70|1790|Male|White|Farmer|10000|800|Vermont||||
 712|41|Spaulding|Phebe|65|1795|Female|White||||Vermont||||
-
+#
 712|41|Curtis|Waltha|35|1825|Female|White||||Vermont||||
 712|41|Curtis|Natin|10|1850|Male|White||||Vermont||Y||
 712|41|Curtis|Hila|7|1853|Female|White||||Vermont||Y||
@@ -245,7 +246,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 719|47|Shepard|Elmira|59|1801|Female|White||||Vermont||||
 719|48|Pillsbury|George|25|1835|Male|White|Carpenter|||Massachusetts||||
 719|48|Pillsbury|Emily|23|1837|Female|White|||300|Vermont||||
-
+#
 719|48|Pillsbury|Eddie|2|1858|Male|White||||Vermont||||
 719|48|Pillsbury|Charles|9/12|1859|Male|White||||Vermont||||
 120|49|Spaulding|Hiram|48|1812|Male|White|Farmer|4600|800|Vermont||||
@@ -286,7 +287,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 727|57|Adams|Daniel|47|1813|Male|White|Farmer|13250|1700|Vermont||||
 727|57|Adams|Cyntha H|19|1841|Female|White||||Vermont||||
 727|57|Heath|Polly|||Female|White||||Vermont||||
-
+#
 728|58|Cole|Lorrin|58|1802|Male|White|Mechanic|||Vermont||||
 728|58|Graham|Ellen|35|1825|Female|White||||Ireland||||
 728|58|Harris|Abram C|52|1808|Male|White|Laborer|||New York||||
@@ -327,7 +328,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 736|66|Allen|Melvina|47|1813|Female|White||||Vermont||||
 736|66|Allen|Esther|||Female|White||||Vermont||Y||
 736|66|Allen|Lydia|13|1847|Female|White||||Vermont||Y||
-
+#
 736|66|Allen|Elizabeth|11|1849|Female|White||||Vermont||Y||
 736|66|Allen|Lorette|9|1851|Female|White||||Vermont||Y||
 736|66|Allen|Ada|7|1853|Female|White||||Vermont||Y||
@@ -369,7 +370,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 743|74|Harris|Charlotte|46|1814|Female|White||||Vermont||||
 743|74|Felt|Harriet|26|1834|Female|White||||Vermont||||
 
-
+#
 743|74|Felt|Covill|||Male|White||||Vermont||||
 743|74|Felt|Ada|8/12|1859|Female|White||||New Hampshire||||
 743|74|Harris|Caroline|17|1843|Female|White||||Vermont||Y||
@@ -410,7 +411,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 749|80|Allen|Electa|10|1850|Male|White||||Vermont||Y||
 750|81|Derry|John|45|1815|Male|White|Laborer|||Vermont|||Y|
 750|81|Derry|Mary|52|1808|Female|White||||Canada|||Y|
-
+#
 750|81|Derry|William|10|1850|Male|White||||New York||Y||
 750|81|Derry|Ellen|12|1848|Female|White||||New York||Y||
 750|81|Derry|Leod|||Male|White||||New York||||
@@ -451,7 +452,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 757|88|Ryan|Edward|7|1853|Male|White||||Vermont||Y||
 757|88|Ryan|Julia|5|1855|Female|White||||Vermont||Y||
 757|88|Ryan|Henry|2/12|1859|Male|White||||Vermont||||
-
+#
 758|89|Smith|John D|43|1817|Male|White|Farmer|15200|1800|Vermont||||
 758|89|Smith|Emily|41|1819|Female|White||||Rhode Island||||
 758|89|Smith|William|17|1843|Male|White||||Vermont||Y||
@@ -492,7 +493,7 @@ Page|Line|Structure|Family|Surname|Given|Age|BirthYear|Gender|Race|Occupation|Re
 763|94|Bristol|Carlton|6|1854|Male|White||||Vermont||Y||
 763|94|Bristol|Alice|4|1856|Female|White||||Vermont||||
 763|94|Bristol|Arther|2|1858|Male|White||||Vermont||||
-
+#
 763|94|Bristol|Wallis|6/12|1859|Male|White||||Vermont||||
 763|94|Thompson|Lucretia|20|1840|Female|White|Servant|||Vermont||||
 763|94|Bristol|Anna|65|1795|Female|White||1350|300|New York||||
